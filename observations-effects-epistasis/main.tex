@@ -75,8 +75,12 @@
 \usepackage{graphicx}
 \usepackage{wrapfig}
 \usepackage{chngcntr}
+\usepackage{supertabular}
 \DeclareGraphicsExtensions{.pdf,.png,.jpg}
 \usepackage{caption}
+%mv ~/Downloads/texshade.zip /Library/ \\
+
+%\usepackage{texshade}
 \usepackage{alltt}  % 
 \newenvironment{demo}
   {\begin{alltt}\leftskip3em
@@ -245,7 +249,7 @@ the imagined pine, the imagined jay.
  
 \chapter {Introduction} 
 
-\section{Practical and philosophical approaches to the problem of genetic architecture}
+\section{Practical and philosophical approaches to the genotype-phenotype problem}
 \cite{Wimsatt1980}
 
 \section{Linear models and Fisherian quantitative genetics}
@@ -258,8 +262,11 @@ the imagined pine, the imagined jay.
 
 \subsection{Horizontal acquisition of genetic material}
 
+\section{Evolutionary implications of fast-evolving genome architectures}
 
+\subsection{`Tinkering' and duct tape in evolution}
 
+\subsection{Parallelism and Predictability}
  
 % ========== MAX put in a chapter here
 \chapter{Background-dependent effects of polyglutamine variation in the \emph{Arabidopsis thaliana} gene \emph{ELF3}}
@@ -268,7 +275,7 @@ A version of this chapter was published under the following reference:
 
 Soledad F. Undurraga, Maximilian O. Press, Matthieu Legendre, Nora Bujdoso, Jacob Bale, Hui Wang, Seth J. Davis, Kevin J. Verstrepen, and Christine Queitsch. Background-dependent effects of polyglutamine variation in the \emph{Arabidopsis thaliana} gene \emph{ELF3}. Proceedings of the National Academy of Sciences of the United States of America, 109(47):19363-7, November 2012.
 
-Soledad Undurraga, Jacob Bale, Nora Bujdoso, and Hui Wang generated transgenic lines, performed experiments, and contributed figures. 
+Soledad Undurraga, Jacob Bale, Nora Bujdoso, and Hui Wang contributed transgenic lines, experiments, and  figures. 
 
 Supplementary figures and tables can be found in Appendix A.
 
@@ -279,7 +286,6 @@ Tandem repeats (TRs) have extremely high mutation rates and are often considered
 \section{Introduction}
 In coding regions, tandem repeat (TR) copy number variation can have profound phenotypic effects \cite{Gemayel2010}. For example, TR copy number mutations that expand polyglutamine (polyQ) tracts past a threshold number of glutamines can cause incurable neurodegenerative diseases such as Huntington's disease and Spinocerebellar Ataxias \cite{Gatchel2005, Orr2012}. PolyQ tract length correlates with onset and severity of polyQ expansion disorders, but for intermediate polyQ tracts this correlation is far weaker (4-8), suggesting the existence of genetic and environmental modifiers (9-12). Despite their potential for pathogenicity, variable polyQ tracts occur frequently in eukaryotic proteins, many of them functioning in development and transcription (1, 13-15). Model organism studies have suggested that coding TRs are an important source of quantitative genetic variation that facilitates evolutionary adaptation (1, 16-19). For example, TR copy number variation in the yeast gene FLO1 correlates linearly with flocculation (20), a phenotype that is important for stress survival (17). As polyQ tracts often mediate protein interactions (2, 3, 21), polyQ-encoding TR copy number mutations could produce large and possibly adaptive phenotypic shifts. 
 	To determine the phenotypic impact of naturally occurring polyQ variation (18, 22, 23) in a genetically tractable model, we focused on the gene ELF3, which encodes a polyQ tract that is highly variable across divergent Arabidopsis thaliana strains (accessions) (19, 24). ELF3 is a core component of the circadian clock and a potent repressor of flowering, and is considered a ``hub protein'' for its many interactions with various proteins (24-31). Consequently, elf3 loss-of-function mutants show pleiotropic phenotypes: they flower early, show poor circadian function, and grow long embryonic stems (hypocotyls) in light (25-27, 29, 30, 32). Single nucleotide polymorphisms (SNPs) in ELF3 affect shade avoidance, a fitness-relevant plant trait (24, 33). ELF3 polyQ variation has been suggested to correlate with two parameters of the circadian clock, period and phase (19). The ELF3 polyQ tract may mediate ELF3 membership in protein complexes, though thus far no ELF3-binding protein is known to bind it (26, 28-30). We discovered that altering polyQ tract length has dramatic effects on ELF3-dependent phenotypes and that these effects are dependent on genetic background.
-	
 
 \section{Methods}
 
@@ -304,18 +310,20 @@ Among 181 natural A. thaliana accessions, the \emph{ELF3-TR} encoded between 7 a
 
 \begin{figure}
 \includegraphics[width=4in]{undurraga2012_figures/MainText/Figure1Q.png}
-\caption{}
+\caption[ELF3-TR variation has nonlinear phenotypic effects.]{}
 \end{figure}
 
 \addtocounter{figure}{-1}
+\captionsetup[figure]{list=no}
 \captionof{figure}{ELF3-TR variation has nonlinear phenotypic effects. (A) PCA of developmental traits of all ELF3-TR copy number variants. A. thaliana images illustrate ELF3-TR effects on the traits days to flower and hypocotyl length under SD and LD, petiole-length/leaf-length ratio (PL/LL) under SD only, and rosette leaf number under LD only. The contributions of specific phenotypes to PCs are in Figure A2J. Representative TR copy number alleles are shown from an analysis including all alleles (for all alleles see Figure A2 H and I). (B) Days to flower under SD conditions for selected lines. n = 6 plants per transgenic line. (C) Hypocotyl length at 15 d under SD for selected lines. n = 20-30 seedlings per transgenic line. (D) PL/LL of the fourth leaf for selected lines. Data are from the same plants as in B. (E) Plants carrying the ELF3-20Q allele (Center) are specific hypomorphs under SD with the elongated petioles of the elf3-4 mutant (vector control, VC, Right) and a wild-type flowering phenotype (Ws, Left). ELF3-TR alleles are indicated with the number of Qs encoded, Ws is wild-type, VC is the elf3-4 vector control. Error bars are SEMs. Genotypes labeled with different letters differed significantly in phenotype by Tukey's HSD test. For all Ws-background phenotype data, see Figure A2 AÐG. Data are from multiple independently generated expression-matched (Figure A1C) T3 and T4 lines for each TR copy number allele (Table A2). These experiments were repeated at least once with similar results. The tested ELF3-20Q lines contained unique insertions that did not affect genes with known function (Table A3).}
+\captionsetup[figure]{list=yes}
 
 PC2 separated ELF3-20Q and ELF3-11Q, which behaved as hypomorphs in certain phenotypes but not others (Figure 1a). For example, ELF3-20Q plants had significantly longer hypocotyls than wild-type and its petioles phenocopied the extremely long petioles of the \emph{elf3-4} mutant (Figure 1c-e), but they did not differ from wild-type in flowering time (days to flower, Figure 1b). The existence of both general and specific hypomorphs suggests that polyQ variation affects the multiple ELF3 functions separately.
 As part of a protein complex, ELF3 affects expression of Phytochrome-interacting Factor 5 (PIF5) and Pseudo-response regulator 9 (PRR9) (28, 37, 38). PIF5 and PRR9 expression were strongly affected by ELF3 polyQ variation (Figure A3). ELF3-16Q phenocopied wild-type PRR9 and PIF5 expression, and the hypomorphic ELF3-23Q phenocopied \emph{elf3-4} (28, 37, 38), mirroring their developmental phenotypes. Consistent with their divergence along PC2 (Figure 1a), ELF3-11Q and ELF3-20Q differed in their effect on PRR9 expression, but not on PIF5 expression (Figure A3a, b), demonstrating that ELF3 polyQ variation differentially affects the regulation of downstream genes.
 
 \begin{figure}
 \includegraphics[width=6in]{undurraga2012_figures/MainText/Figure2Q.png}
-\caption{ELF3-TR variation modulates the precision of the circadian clock. (A) RAE of CCR2::LUC circadian oscillation in seedlings with indicated ELF3-TR alleles. Bars represent 99\% confidence intervals. (B) Mean values of circadian period and RAE (points) were measured in seedlings with indicated ELF3-TR alleles. Dotted ellipses represent SEMs for both period and RAE. Note that plants with high RAE have extremely unreliable estimates of circadian period. Biolumines- cence rhythms from the CCR2::LUC reporter in ELF3-TR transgenic lines were used to measure circadian parameters under LL after 5 d of entrainment in 12-h light:12-h dark cycles. n$\geq$100 seedlings for all geno- types. Aggregate data from four independent experi- ments are shown. See Fig. A4 for RAE and period data for all alleles.}
+\caption[ELF3-TR variation modulates the precision of the circadian clock.]{ELF3-TR variation modulates the precision of the circadian clock. (A) RAE of CCR2::LUC circadian oscillation in seedlings with indicated ELF3-TR alleles. Bars represent 99\% confidence intervals. (B) Mean values of circadian period and RAE (points) were measured in seedlings with indicated ELF3-TR alleles. Dotted ellipses represent SEMs for both period and RAE. Note that plants with high RAE have extremely unreliable estimates of circadian period. Bioluminescence rhythms from the CCR2::LUC reporter in ELF3-TR transgenic lines were used to measure circadian parameters under LL after 5 d of entrainment in 12-h light:12-h dark cycles. n$\geq$100 seedlings for all genotypes. Aggregate data from four independent experiments are shown. See Fig. A4 for RAE and period data for all alleles.}
 \end{figure}
 
 \section{\emph{ELF3-TR} variation modulates the precision of the circadian clock}
@@ -328,16 +336,29 @@ Comparing TR allele effects between the two backgrounds revealed striking differ
 
 \begin{figure}
 \includegraphics[width=5in]{undurraga2012_figures/MainText/Figure3Q.png}
-\caption{}
+\caption[The phenotypic effects of ELF3-TR variation are strongly background-dependent. ]{}
 \end{figure}
 \addtocounter{figure}{-1}
+\captionsetup[figure]{list=no}
 \captionof{figure}{The phenotypic effects of ELF3-TR variation are strongly background-dependent. (A) PCA of developmental traits of all ELF3-TR alleles in Ws and Col genetic backgrounds. Shared color indicates a given ELF3-TR allele in both genetic backgrounds. A. thaliana images are as in Fig. 1A. The contributions of phenotypes to principal components are similar to Fig. 1A, except that PC2 is inverted (no effect on interpretation, loadings in Fig. A5C). Representative TR copy number alleles are shown from an analysis including all alleles (for all alleles see Fig. A5; for Col-background specific PCA, see Fig. A6). (B) Days to flower under SD and hypocotyl length under LD differ for particular TR alleles between Ws (Upper) and Col (Lower) backgrounds. ELF3-TR alleles are indicated with the number of Qs encoded, Ws and Col-0 are wild-type, elf3-4 and elf3-200 are respective vector controls (VC). Error bars represent SEM. Genotypes labeled with different letters differed significantly in phenotype by Tukey-HSD test. For all Col-background phenotype data, see Fig. S6 AÐG. Data are from multiple independently generated expression-matched (Fig. A1C and D) T3 and T4 lines for each TR copy number allele (Table A4). These experiments were repeated at least once with similar results.}
+\captionsetup[figure]{list=yes}
+
 
 \section{Col \emph{ELF3} allele is not haploinsufficient in Col x Ws hybrids.}
 To address whether Ws and Col-specific background effects are sufficient for altered hybrid phenotypes, we generated F1 populations between wild-type and elf3 null plants in the Ws and Col backgrounds and measured ELF3 function by assessing hypocotyl length. Ws x Col F1 hybrids resembled their wild-type parents (Figure 4). F1 hybrids containing both loss-of-function alleles had significantly longer hypocotyls than either parent (Figure 4). Both ELF3 alleles were haplosufficient in F1 crosses within their native backgrounds, as expected for recessive mutants (Figure 4). In stark contrast, we observe that ELF3-Col, but not ELF3-Ws, phenocopied the extreme hypocotyl length of the double loss-of-function mutant (Figure 4). Consistent with the results from our transgenic lines, our F1 hybrid data suggest that full ELF3 function depends on a permissive genetic background.
 
 % add section showing follow-up fucked us
 Unfortunately, propagation of these $\mathrm{F_{1}}$ hybrids to the $\mathrm{F_{2}}$ generation and subsequent Col x Ws crosses revealed that the data in Figure 4 do not generalize to other crosses, and probably represent a spontaneous mutation in the Col background leading to ELF3 inactivation. In the face of such equivocal evidence, we suggest that more intensive genetic or biochemical experiments will be necessary to determine the relevant background modifiers of \emph{ELF3-TR} variation. For two such approaches, refer to Chapter 5.
+
+\begin{figure}
+\includegraphics[width=5in]{undurraga2012_figures/MainText/Figure4F1.png}
+\caption[Apparent haploinsufficiency of Col x Ws $\mathrm{F_{1}s.}$ ]{}
+\end{figure}
+\addtocounter{figure}{-1}
+\captionsetup[figure]{list=no}
+\captionof{figure}{ELF3-Col appears haploinsufficient in a hybrid Col ? Ws genetic background. Hypocotyl length under SD was measured in seedlings from pa- rental and F1 lines. elf3-ws is the elf3-4 loss-of-function mutant in the Ws background; elf3-col is the elf3-200 loss-of-function mutant in the Col background. Reciprocal crosses for each F1 showed similar results. n = 15Ð20 for each genotype, except for F1Ws x elf3-ws (n = 5). Error bars are SEM. Genotypes labeled with different letters differed significantly by Tukey-HSD.}
+\captionsetup[figure]{list=yes}
+
 
 \section{Discussion}
 Our results demonstrate that natural ELF3 polyQ variation that is not associated with disease has dramatic phenotypic consequences, and that these consequences depend on genetic background. For ELF3, in at least the Ws background, the relationship between TR copy number and phenotype does not follow a linear or threshold pattern as observed for other coding TR and polyQ disorders (1, 2, 16, 17, 20). Studies correlating TR variation with phenotype often apply linear models, treating TR copy number as a quantitative variable (19, 22, 23). Our data show that this approach is not appropriate for all TRs. 
@@ -354,9 +375,9 @@ A version of this chapter was published under the following reference:
 
 Pauline Rival, Maximilian O. Press, Jacob Bale, Tanya Grancharova, Soledad F. Undurraga, and Christine Queitsch.The Conserved PFT1 Tandem Repeat is Crucial for Proper Flowering in \emph{Arabidopsis thaliana}. \emph{Genetics}, 198(2):747-754, August 2014.
 
-Pauline Rival, Jacob Bale, Tanya Grancharova, and Soledad Undurraga generated transgenic lines and performed experiments.
+Pauline Rival, Jacob Bale, Tanya Grancharova, and Soledad Undurraga contributed transgenic lines and experiments.
 
-Figures and tables prefixed with an `S' can be found in Appendix B.
+Supporting figures and tables can be found in Appendix B.
 
 \section{Summary}
 It is widely appreciated that short tandem repeat (STR) variation underlies substantial phenotypic variation in organisms. Some propose that the high mutation rates of STRs in functional genomic regions facilitate evolutionary adaptation. Despite their high mutation rate, some STRs show little to no variation in populations. One such STR occurs in the Arabidopsis thaliana gene PFT1 (MED25), where it encodes an interrupted polyglutamine tract. Though the PFT1 STR is large (~270 bp), and thus expected to be extremely variable, it shows only minuscule variation across A. thaliana strains. We hypothesized that the PFT1 STR is under selective constraint, due to previously undescribed roles in PFT1 function. We investigated this hypothesis using plants expressing transgenic PFT1 constructs with either an endogenous STR or with synthetic STRs of varying length. Transgenic plants carrying the endogenous PFT1 STR generally performed best in complementing a pft1 null mutant across adult PFT1-dependent traits. In stark contrast, transgenic plants carrying a PFT1 transgene lacking the STR phenocopied a pft1 loss-of-function mutant for flowering time phenotypes, and were generally hypomorphic for other traits, establishing the functional importance of this domain. Transgenic plants carrying various synthetic constructs occupied the phenotypic space between wild-type and pft1-loss-of-function mutants. By varying PFT1 STR length, we discovered that PFT1 can act as either an activator or repressor of flowering in a photoperiod-dependent manner. We conclude that the PFT1 STR is constrained to its approximate wild-type length by its various functional requirements. Our study implies that there is strong selection on STRs not only to generate allelic diversity, but also to maintain certain lengths pursuant to optimal molecular function.
@@ -418,7 +439,7 @@ The overdue promise of short tandem repeat variation for heritability. \emph{Tre
 \item Keisha D. Carlson, Peter H. Sudmant, Maximilian O. Press, Evan E. Eichler, Jay Shendure, and Christine Queitsch. MIPSTR: a method for multiplex genotyping of germline and somatic STR variation across many individuals. \emph{Genome Research}, 25(5):750-761, May 2015.
 \end{itemize}
 
-Figures and tables prefixed with an `S' can be found in Appendix C.
+Supporting figures and tables can be found in Appendix C.
 
 
 % ========== MAX put in a chapter here
@@ -426,14 +447,14 @@ Figures and tables prefixed with an `S' can be found in Appendix C.
 
 %A version of this chapter was published under the following reference:
 
-Figures and tables prefixed with an `S' can be found in Appendix D.
+Supporting figures and tables can be found in Appendix D.
 
 
 % ========== MAX put in a chapter here
 \chapter{ELF3 polyglutamine variation reveals a PIF4-independent role in thermoresponsive flowering}
 
 %A version of this chapter was published under the following reference:
-Figures and tables prefixed with an `S' can be found in Appendix E.
+Supporting figures and tables can be found in Appendix E.
 
 
 % ========== MAX put in a chapter here
@@ -444,14 +465,14 @@ A version of this chapter was published under the following reference:
 Maximilian O. Press, Hui Li, Nicole Creanza, Guenter Kramer, Christine Queitsch, Victor Sourjik, and Elhanan Borenstein. Genome-scale co-evolutionary inference identifies functions and clients of bacterial Hsp90. \emph{PLoS Genetics}, 9(7):e1003631, 2013.
 
 % ========== MAX put in a chapter here
-Figures and tables prefixed with an `S' can be found in Appendix F.
+Supporting figures and tables can be found in Appendix F.
 
 
 \chapter{Evolutionary assembly patterns of prokaryotic genomes}
 
 A version of this chapter is under review for publication, and is available at http://biorxiv.org/content/early/2015/09/27/027649.
 
-Figures and tables prefixed with an `S' can be found in Appendix G.
+Supporting figures and tables can be found in Appendix G.
 
 
 % ========== Chapter 3
@@ -899,45 +920,308 @@ The acknowledgments of this thesis was printed with
 
 \begin{figure}
 \graphicspath{{}}
-\includegraphics[width=7in]{undurraga2012_figures/SupplText/SuppFig1.png}
+\includegraphics[width=6.5in]{undurraga2012_figures/SupplText/SuppFig1.png}
+\caption[The ELF3-TR variation is not correlated with ELF3 expression.]{}
 \end{figure}
-
+\addtocounter{figure}{-1}
+\captionsetup[figure]{list=no}
 \captionof{figure}{The ELF3-TR variation is not correlated with ELF3 expression. (A) Histogram of ELF3-TR copy number across 181 accessions. TR copy number was determined by Sanger sequencing. (B) ELF3 expression levels in selected natural accessions were measured by quantitative RT-PCR. Expression values are given relative to the Col-0 wild-type reference. Three biological replicates with three technical replicates each were used to obtain expression values. Bars indicate $\pm$ SEM. (C and D) ELF3-TR transgenic lines are expression-matched in both genetic backgrounds. (C) elf3-4, Ws; (D) elf3-200, Col. ELF3 mRNA levels were measured by quantitative PCR (for primers see Table S6) in pooled 10-d-old seedlings that were grown under LD and collected at ZT 20 for each independently generated ELF3-TR transgenic line. ELF3 expression levels are shown relative to either Ws (C) or Col-0 (D) wild-types. Because ELF3 expression levels are known to substantially affect ELF3-dependent phenotypes \cite{Kim2005}, ELF3 expression is an important variable to consider in our assessment of polyQ tract-length effects. We made efforts to consider only lines within a certain range of ELF3 expression and to test multiple independent lines per ELF3-TR allele (Tables A2ÐA4), but because of the technical constraints of transgenic plant construction, we cannot entirely exclude the possibility that ELF3 expression partially explains our observations. Although the effects of both ELF3 expression level and ELF3-TR copy number were highly significant, they appear to be largely independent. For example, the ELF3-23Q and ELF3-16Q alleles, which were among the most distinct ELF3-TR alleles in both backgrounds, had very similar ranges of ELF3 expression. In Ws, the alleles ELF3-7Q, ELF3-23Q, and ELF3-10Q phenocopied an elf3 loss-of-function mutant for some phenotypes. Their ELF3 expression levels, however, were very similar to the ELF3-16Q allele, which complemented many ELF3 functions in elf3-4. As observed with individual ELF3-TR alleles, the phenotypic effects of ELF3 expression levels appear to be largely independent of ELF3-TR copy number, which consistently explained a larger portion of phenotypic variation. }
 
+\captionsetup[figure]{list=yes}
 \begin{figure}
 \graphicspath{{}}
-\includegraphics[height=\textheight]{undurraga2012_figures/SupplText/SuppFig2.png}
+\includegraphics[height=8in]{undurraga2012_figures/SupplText/SuppFig2.png}
+\caption[ELF3-TR variation has nonlinear phenotypic effects in the Ws background]{}
 \end{figure}
+\addtocounter{figure}{-1}
+\captionsetup[figure]{list=no}
+\captionof{figure}[]{ELF3-TR variation has nonlinear phenotypic effects in the elf3-4 background (Ws accession). (A) Days to flower (DTF) under SD (n = 6 plants per line). (B) Final number of rosette leaves (FLN) under SD (n = 6 plants per line). (C) DTF under LD (n = 15 plants per line). (D) FLN under LD (n = 15 plants per line). (E) Hypocotyl length under SD (n = 20-30 seedlings per line). (F) Hypocotyl length under LD (n = 20-30 seedlings per line). (G) PL/LL ratio under SD (n = 6 plants per line). Data are from the same plants as in B. ELF3-TR alleles are indicated with the number of Qs encoded, Ws is wild-type, VC is the elf3-4 vector control. Blue and red asterisks indicate alleles that are significantly different from the wild-type and from the VC, respectively, by Tukey-HSD test ($\mathrm{\alpha = 0.05}$). We used this analysis rather than the one presented in Figure 1B to preserve clarity. Bars indicate $\pm$ SEM. These experiments were repeated at least once with similar results. (H and I) PCA of phenotypic data for all ELF3-TR alleles in the elf3-4 background (Ws accession). (H) Biplot of PC1 and PC2, graphically showing the contribution of phenotypes to PCs as red arrows. Note that for the biplot representation, PC1 and PC2 are transformed to the same scale (bottom and left axes), whereas phenotype contributions (in red) are allowed to differ in scale (top and right axes). Phenotypes are hypocotyl length in short and long days (SD hylen and LD hylen), DTF in short and long days (SD DTF and LD DTF), and FLN in long days (LD rosette). Wild-type plants are characterized by late flowering (large SD and LD DTF, many rosette leaves) and short hypocotyls (small SD and LD hylen), relative to elf3 loss-of-function mutants. (I) PC1 and PC2. (J) PCA loadings for Ws background. hylen, hypocotyl length (mm). PCA loadings describe the composition/loading of each principal component . For PC1, flowering-time phenotypes and circadian clock phenotypes have opposite loading signs.}
+\captionsetup[figure]{list=yes}
 
-\captionof{figure}{ELF3-TR variation has nonlinear phenotypic effects in the elf3-4 background (Ws accession). (A) Days to flower (DTF) under SD (n = 6 plants per line). (B) Final number of rosette leaves (FLN) under SD (n = 6 plants per line). (C) DTF under LD (n = 15 plants per line). (D) FLN under LD (n = 15 plants per line). (E) Hypocotyl length under SD (n = 20-30 seedlings per line). (F) Hypocotyl length under LD (n = 20-30 seedlings per line). (G) PL/LL ratio under SD (n = 6 plants per line). Data are from the same plants as in B. ELF3-TR alleles are indicated with the number of Qs encoded, Ws is wild-type, VC is the elf3-4 vector control. Blue and red asterisks indicate alleles that are significantly different from the wild-type and from the VC, respectively, by Tukey-HSD test ($\mathrm{\alpha = 0.05}$). We used this analysis rather than the one presented in Figure 1B to preserve clarity. Bars indicate $\pm$ SEM. These experiments were repeated at least once with similar results. (H and I) PCA of phenotypic data for all ELF3-TR alleles in the elf3-4 background (Ws accession). (H) Biplot of PC1 and PC2, graphically showing the contribution of phenotypes to PCs as red arrows. Note that for the biplot representation, PC1 and PC2 are transformed to the same scale (bottom and left axes), whereas phenotype contributions (in red) are allowed to differ in scale (top and right axes). Phenotypes are hypocotyl length in short and long days (SD hylen and LD hylen), DTF in short and long days (SD DTF and LD DTF), and FLN in long days (LD rosette). Wild-type plants are characterized by late flowering (large SD and LD DTF, many rosette leaves) and short hypocotyls (small SD and LD hylen), relative to elf3 loss-of-function mutants. (I) PC1 and PC2. (J) PCA loadings for Ws background. hylen, hypocotyl length (mm). PCA loadings describe the composition/loading of each principal component . For PC1, flowering-time phenotypes and circadian clock phenotypes have opposite loading signs.}
 
 \begin{figure}
 \graphicspath{{}}
 \includegraphics[width=6in]{undurraga2012_figures/SupplText/S3.png}
+\caption[ELF3-TR modulates expression of PIF5 and PRR9.]{}
 \end{figure}
-
+\addtocounter{figure}{-1}
+\captionsetup[figure]{list=no}
 \captionof{figure}{Expression levels of the ELF3-regulated genes PIF5 (A) and PRR9 (B and C). Plants were grown under LD and RNA was collected at times showing the largest expression difference between wild-type and elf3-4 mutant ZT8 for PIF5 \cite{Nusinow2011} (A) and ZT5 for PRR9 \cite{Kolmos2011, Dixon2011} (B and C). RNA levels were normalized relative to Ws wild-type. (C) Temporal variation in PRR9 expression across ELF3-TR transgenic lines. PRR9 expression levels were measured in 10-d-old plants grown under LD. RNA was collected at times demonstrating the diurnal oscillation of PRR9 expression in wild-type, as determined previously. RNA levels were normalized relative to wild-type (Ws) at ZT8. Gene expression was measured in triplicate for each biological replicate, with multiple independent transgenic lines as biological replicates for each ELF3 allele. Error bars indicate SE of expression across biological replicates. Our expression patterns of PRR9 for wild-type and the elf3-4 mutant are similar to previous observations \cite{Kolmos2011, Dixon2011}. ELF3-TR alleles are indicated with the number of Qs encoded, Ws is wild-type, VC is the elf3-4 vector control. Error bars are SEs of means. Data are from multiple independently generated expression-matched (Figure A1C) T3 and T4 lines for each TR copy number allele (Table A2).}
+\captionsetup[figure]{list=yes}
 
 \begin{figure}
 \graphicspath{{}}
 \includegraphics[width=5.5in]{undurraga2012_figures/SupplText/S4.png}
-\caption{Circadian parameters estimated for different TR alleles in elf3-4 CCR2::Luc reporter lines. (A) Measured circadian period of CCR::LUC expression oscillation for each ELF3-TR allele. Bars correspond to 99\% confidence intervals for this proportion. (B) Measured RAE of CCR::LUC expression oscillation for each ELF3-TR allele. Bars correspond to 99\% confidence intervals for this proportion. Plants with RAE <0.4 are considered to have a robust circadian clock. (C) Estimated RAE and circadian period for each ELF3-TR allele. Points are means, dotted ellipses represent SEMs, and genotype labels indicate ELF3-TR copy number. Bioluminescence of the CCR2::LUC reporter present in ELF3-TR transgenic lines was used to measure circadian parameters (period and RAE). Seedlings were entrained in 12-h light:12-h dark cycles for 5 d and released to LL on the sixth day. Note that plants with high RAE have by definition unreliable estimates of circadian period. Number of seedlings for each genotype: Ws, 274; 0Q, 249; 7Q, 122; 10Q, 222; 11Q, 339; 14Q, 214; 15Q, 284; 16Q, 534; 20Q, 161; 21Q, 243; 22Q, 271; 23Q, 196; 29Q, 257; elf3-4 vector control, 102.}
-
+\caption[Circadian parameters estimated for different TR alleles in elf3-4 CCR2::Luc reporter lines.]{Circadian parameters estimated for different TR alleles in elf3-4 CCR2::Luc reporter lines. (A) Measured circadian period of CCR::LUC expression oscillation for each ELF3-TR allele. Bars correspond to 99\% confidence intervals for this proportion. (B) Measured RAE of CCR::LUC expression oscillation for each ELF3-TR allele. Bars correspond to 99\% confidence intervals for this proportion. Plants with RAE <0.4 are considered to have a robust circadian clock. (C) Estimated RAE and circadian period for each ELF3-TR allele. Points are means, dotted ellipses represent SEMs, and genotype labels indicate ELF3-TR copy number. Bioluminescence of the CCR2::LUC reporter present in ELF3-TR transgenic lines was used to measure circadian parameters (period and RAE). Seedlings were entrained in 12-h light:12-h dark cycles for 5 d and released to LL on the sixth day. Note that plants with high RAE have by definition unreliable estimates of circadian period. Number of seedlings for each genotype: Ws, 274; 0Q, 249; 7Q, 122; 10Q, 222; 11Q, 339; 14Q, 214; 15Q, 284; 16Q, 534; 20Q, 161; 21Q, 243; 22Q, 271; 23Q, 196; 29Q, 257; elf3-4 vector control, 102.}
 \end{figure}
 
 \begin{figure}
 \graphicspath{{}}
 \includegraphics[width=5.5in]{undurraga2012_figures/SupplText/S5.png}
+\caption[ELF3-TR variation has nonlinear phenotypic effects in the elf3-200 background (Col-0 accession).]{}
 \end{figure}
+\addtocounter{figure}{-1}
+\captionsetup[figure]{list=no}
 \captionof{figure}{ELF3-TR variation has nonlinear phenotypic effects in the elf3-200 background (Col-0 accession). (A) DTF under SD (n = 9 plants/line). (B) FLN under SD (n = 9 plants per line). (C) DTF under LD (n = 15 plants per line). (D) FLN under LD (n = 15 plants per line). (E) Hypocotyl length under SD (n = 20Ð30 seedlings per line). (F) Hypocotyl length under LD (n = 20Ð30 seedlings per line). (G) PL/LL ratio under SD (n = 9 plants per line). Data are from the same plants as in B. ELF3-TR alleles are indicated with the number of Qs encoded, Col is wild-type, VC is the elf3-200 vector control (VC). Blue and red asterisks indicate alleles that are significantly different from the wild-type and from the vector control, respectively, by Tukey-HSD test ($\alpha$ = 0.05). Bars indicate $\pm$ SEM. These experiments were repeated at least once with similar results. (H and I) PCA of phenotypic data for all ELF3-TR alleles in the elf3-200 (Col accession) background. (H) Biplot of PC1 and PC2, graphically showing the contribution of phenotypes to PCs as red arrows. Note that for the biplot representation, PC1 and PC2 are transformed to the same scale (bottom and left axes), whereas phenotype contributions (in red) are allowed to differ in scale (top and right axes). Phenotypes are hypocotyl length in short and long days (SD hylen and SD hylen), DTF in short and long days (SD DTF and SD DTF), and FLN in long days (SD FLN). Wild-type type plants are characterized by late flowering (large SD and SD DTF, many rosette leaves) and short hypocotyls (small SD and SD hylen), relative to elf3 loss-of-function mutants. (I) PC1 and PC2. Note that PC1Õs orientation is inverted relative to PCAs including Ws-background plants (A and B: i.e., elf3-200 is to the negative end of the axis, and Col is at the positive end); this does not affect interpretation. In contrast to PCAs including Ws data, PC2 of Col data alone represents the differential response of LD and SD phenotypes to ELF3-polyQ copy number variation. (J) PCA loadings for Col background. hylen = hypocotyl length (mm). }
+\captionsetup[figure]{list=yes}
 
 \begin{figure}
 \graphicspath{{}}
 \includegraphics[width=5.5in]{undurraga2012_figures/SupplText/S6.png}
-\caption{The phenotypic effects of ELF3-TR copy number variation are strongly background-dependent. PCA of phenotypic data from all ELF3-TR alleles in both elf3-4 (Ws accession) and elf3-200 (Col accession) backgrounds. (A) Biplot of PC1 and PC2, graphically showing the contribution of phenotypes to PCs as black arrows. Note that for the biplot representation, PC1 and PC2 are transformed to the same scale (bottom and left axes), whereas phenotype contributions (in red) are allowed to differ in scale (top and right axes). Phenotypes are hypocotyl length in short and long days (SD hylen and LD hylen), DTF in short and long days (SD DTF and LD DTF), and FLN in long days (LD FLN). Wild-type plants are characterized by late flowering (large SD and LD DTF, many rosette leaves) and short hypocotyls (small SD and LD hylen), relative to elf3 loss-of-function mutants. Text in red represents a given allele in the Ws background (transgenics in elf3-4), and text in blue represents alleles in the Col background (transgenics in elf3-200). (B) PC1 and PC2. (C) PCA loadings for both back- grounds. hylen = hypocotyl length (mm).}
+\caption[The phenotypic effects of ELF3-TR copy number variation are strongly background-dependent.]{The phenotypic effects of ELF3-TR copy number variation are strongly background-dependent. PCA of phenotypic data from all ELF3-TR alleles in both elf3-4 (Ws accession) and elf3-200 (Col accession) backgrounds. (A) Biplot of PC1 and PC2, graphically showing the contribution of phenotypes to PCs as black arrows. Note that for the biplot representation, PC1 and PC2 are transformed to the same scale (bottom and left axes), whereas phenotype contributions (in red) are allowed to differ in scale (top and right axes). Phenotypes are hypocotyl length in short and long days (SD hylen and LD hylen), DTF in short and long days (SD DTF and LD DTF), and FLN in long days (LD FLN). Wild-type plants are characterized by late flowering (large SD and LD DTF, many rosette leaves) and short hypocotyls (small SD and LD hylen), relative to elf3 loss-of-function mutants. Text in red represents a given allele in the Ws background (transgenics in elf3-4), and text in blue represents alleles in the Col background (transgenics in elf3-200). (B) PC1 and PC2. (C) PCA loadings for both back- grounds. hylen = hypocotyl length (mm).}
 \end{figure}
 
 %%%% TABLES!!!!
+\begin{table}[htdp]
+\caption{default}
+\begin{center}
+\begin{tabular}{|c|c|}
+fail
+\end{tabular}
+\end{center}
+\label{default}
+\end{table}%
+
+\twocolumn
+\begin{supertabular}{|c|c|}
+\tablefirsthead{
+\hline
+Ecotype  & ELF3 TR copy number \\
+\hline }
+%\topcaption{ELF3 TR variation across A. thaliana ecotypes.}
+
+Ag-0 & 16 \\
+Alc-0 & 17 \\
+Algutsrum & 22 \\
+An-1 & 19 \\
+Ang-0 & 12 \\
+Ba-1-2 & 19 \\
+Ba-3-3 & 13 \\
+Ba-4-1 & 17 \\
+Bay-0 & 22 \\
+Bg-2 & 19 \\
+Bil-5 & 16 \\
+Bil-7 & 16 \\
+Blh-1 & 16 \\
+Boo-2-1 & 14 \\
+Bor-1 & 13 \\
+Bor-4 & 13 \\
+Br-0 & 23 \\
+Bro-1-6 & 9 \\
+Bs-1 & 12 \\
+Bu-0 & 19 \\
+Bur-0 & 23 \\
+C24 & 9 \\
+Can-0 & 20 \\
+Cen-0 & 18 \\
+CIBC-17 & 17 \\
+CIBC-5 & 19 \\
+Co & 13 \\
+Co-1 & 9 \\
+Col-0 & 7 \\
+Cvi-0 & 9 \\
+Dem-4 & 16 \\
+Di-0 & 17 \\
+Dra-3-1 & 16 \\
+Drall-1 & 11 \\
+Dralll-1 & 13 \\
+Eden-1 & 11 \\
+Eden-2 & 11 \\
+Edi-0 & 16 \\
+Eds-1 & 14 \\
+Ei-2 & 15 \\
+En-1 & 11 \\
+Es-0 & 9 \\
+Est-0 & 19 \\
+Est-1 & 19 \\
+Fab-2 & 14 \\
+Fab-4 & 14 \\
+Fei-0 & 19 \\
+Ga-0 & 9 \\
+Gd-1 & 14 \\
+Ge-0 & 18 \\
+GOT-22 & 16 \\
+GOT-7 & 16 \\
+Gr-1 & 21 \\
+Gu-0 (=Gue-0) & 19 \\
+Gul-1-2 & 11 \\
+Gy-0 & 19 \\
+H55 & 7 \\
+Hi-0 & 16 \\
+Hod & 12 \\
+Hov-4-1 & 16 \\
+Hovdala-2 & 16 \\
+HR-10 & 14 \\
+HR-5 & 19 \\
+Hs-0 & 16 \\
+Hsm & 11 \\
+In-0 & 16 \\
+Is-0 & 17 \\
+Jm-0 & 11 \\
+Ka-0 & 19 \\
+Kas-1 & 16 \\
+Kas-2 & 29 \\
+Kavlinge-1 & 9 \\
+Kent & 11 \\
+Kin-0 & 19 \\
+Kni-1 & 19 \\
+Knox-10 & 16 \\
+Knox-18 & 14 \\
+Koln & 12 \\
+Konchezero (N13) & 16 \\
+Kondara & 14 \\
+KZ-1 & 21 \\
+Kz-13 & 14 \\
+Kz-9 & 14 \\
+Lc-0 & 19 \\
+Ler-1 & 17 \\
+Liarum & 16 \\
+Lillo-1 & 21 \\
+Lip-0 & 15 \\
+Lis-1 & 15 \\
+Lis-2 & 13 \\
+LL-0 & 13 \\
+Lm-2 & 19 \\
+Lom-1-1 & 11 \\
+Lov-1 & 16 \\
+Lov-5 & 16 \\
+LP2-2 & 26 \\
+LP2-6 & 21 \\
+Lu-1 & 13 \\
+Lz-0 & 9 \\
+Mr-0 & 24 \\
+Mrk-0 & 13 \\
+MS-0 & 15 \\
+Mt-0 & 21 \\
+Mz-0 & 14 \\
+N6034 & 14 \\
+N6187 & 19 \\
+Na-1 & 22 \\
+NC-6 & 14 \\
+Nd-1 & 16 \\
+NFA-10 & 18 \\
+NFA-8 & 14 \\
+Nok-3 & 16 \\
+Nw-0 & 14 \\
+Nyl-2 & 14 \\
+Omo-2-1 & 22 \\
+Omo-2-3 & 21 \\
+Or-1 & 9 \\
+Ost-0 & 11 \\
+Oy-0 & 16 \\
+Pa-1 & 9 \\
+Per-1 & 11 \\
+Petergof & 14 \\
+Pi-0 & 12 \\
+Pla-0 & 9 \\
+PNA-10 & 16 \\
+Pro-0 & 13 \\
+Pu2-23 & 12 \\
+Pu2-7 & 16 \\
+Pu2-8 & 11 \\
+Ra-0 & 12 \\
+Rd-0 & 19 \\
+REN-1 & 19 \\
+Rev-1 & 19 \\
+RMX-A02 & 16 \\
+RMX-A180 & 18 \\
+RRS-10 & 13 \\
+RRS-7 & 21 \\
+Rsch-4 & 11 \\
+Rubezhnoe-1 & 14 \\
+San-2 & 20 \\
+Sanna-2 & 16 \\
+Santa Clara & 8 \\
+Sap-0 & 16 \\
+Se-0 & 14 \\
+Sf-1 & 9 \\
+Shakdara & 14 \\
+Sorbo & 14 \\
+Spr-1-2 & 16 \\
+Spr-1-6 & 11 \\
+SQ-1 & 14 \\
+SQ-8 & 15 \\
+St-0 & 15 \\
+Stu-1-1 & 16 \\
+Stw-0 & 14 \\
+Ta-0 & 21 \\
+TAMM-2 & 9 \\
+TAMM-27 & 9 \\
+Te-0 & 10 \\
+Tottarp-2 & 16 \\
+Ts-1 & 13 \\
+Ts-5 & 13 \\
+Tsu-0 & 16 \\
+Tsu-1 & 16 \\
+Tu-0 & 16 \\
+Ull-2-3 & 15 \\
+Ull-2-5 & 11 \\
+Uod-1 & 12 \\
+Uod-7 & 21 \\
+Van-0 & 13 \\
+Var-2-1 & 9 \\
+Var-2-6 & 9 \\
+Vimmerby & 16 \\
+Wa-1 & 16 \\
+Wei-0 & 12 \\
+Wil-2 & 14 \\
+Ws-0 & 21 \\
+Ws-2 & 16 \\
+Wt-5 & 14 \\
+Yo-0 & 16 \\
+Zdr-1 & 13 \\
+Zdr-6 & 17 \\
+\end{supertabular}
+
+
+
+\begin{supertabular}{|c|c|clc|}
+\topcaption{Expression of ELF3 in transgenic lines (Ws background)}
+\tablefirsthead{
+TR copy number & Line  & Expression relative to Ws (WT) & CV of expression \\
+\hline}
+Vector only & V1-1 & 0.45 & 0.04 \\
+0 & 0R1-3 & 4.18 & 0.01 \\
+0 & 0R4-3 & 3.08 & 0.02 \\
+0 & 0R5-3 & 1.58 & 0.01 \\
+7 & 7R3-1 & 2.38 & 0.02 \\
+7 & 7R5-2 & 0.86 & 0.01 \\
+10 & 10R1-1 & 2.41 & 0.01 \\
+10 & 10R2-2 & 1.49 & 0.01 \\
+10 & 10R4-2 & 2.13 & 0.01 \\
+11 & 11R1-3 & 2.17 & 0.03 \\
+11 & 11R2-3 & 1.65 & 0.01 \\
+11 & 11R8-1 & 0.81 & 0.02 \\
+11 & 11R9-1 & 2.35 & 0.03 \\
+14 & 14R1-1 & 0.99 & 0.01 \\
+14 & 14R4-2 & 1.81 & 0.01 \\
+15 & 15R1-2 & 2.68 & 0.01 \\
+15 & 15R2-1 & 2.31 & 0.02 \\
+15 & 15R3-1 & 3.40 & 0.01 \\
+16 & 16R1-2 & 1.86 & 0.01 \\
+16 & 16R4-2 & 2.14 & 0.01 \\
+16 & 16R6-2 & 3.82 & 0.02 \\
+16 & 16R7-2 & 2.35 & 0.02 \\
+16 & 16R8-1 & 0.97 & 0.02 \\
+16 & 16R10-3 & 0.89 & 0.01 \\
+20 & 20R1-2 & 1.20 & 0.02 \\
+20 & 20R2-1 & 0.95 & 0.02 \\
+20 & 20R3-2 & 1.28 & 0.02 \\
+21 & 21R2-2 & 0.97 & 0.01 \\
+21 & 21R3-2 & 3.81 & 0.01 \\
+21 & 21R5-3 & 3.69 & 0.01 \\
+22 & 22R3-3 & 4.53 & 0.01 \\
+22 & 22R6-1 & 1.35 & 0.01 \\
+22 & 22R8-1 & 3.29 & 0.01 \\
+23 & 23R2-1 & 3.30 & 0.02 \\
+23 & 23R5-1 & 0.98 & 0.00 \\
+29 & 29R3-2 & 1.29 & 0.00 \\
+29 & 29R4-1 & 2.01 & 0.02 \\
+29 & 29R5-2 & 1.21 & 0.02 \\
+%Three technical replicates were used to obtain expression values. The CV of %expression was calculated as:%$CV = \sqrt{CV(ELF3)^2 + CV(UBC)^2}$
+
+\end{supertabular}
+
 
 \chapter{Supporting Chapter 3}
 

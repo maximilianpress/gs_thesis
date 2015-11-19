@@ -1,11 +1,14 @@
-\contentsline {chapter}{\@textofLoF }{iv}{chapter*.2}
+\contentsline {chapter}{\@textofLoF }{ii}{chapter*.2}
 \contentsline {chapter}{\numberline {\@textofChapter \ 1:}Introduction}{1}{chapter.1}
-\contentsline {section}{\numberline {1.1}Practical and philosophical approaches to the problem of genetic architecture}{1}{section.1.1}
+\contentsline {section}{\numberline {1.1}Practical and philosophical approaches to the genotype-phenotype problem}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}Linear models and Fisherian quantitative genetics}{1}{section.1.2}
 \contentsline {section}{\numberline {1.3}Epistasis}{1}{section.1.3}
 \contentsline {section}{\numberline {1.4}Fast-evolving genetic elements}{1}{section.1.4}
 \contentsline {subsection}{\numberline {1.4.1}Short tandem repeats (STRs)}{1}{subsection.1.4.1}
 \contentsline {subsection}{\numberline {1.4.2}Horizontal acquisition of genetic material}{1}{subsection.1.4.2}
+\contentsline {section}{\numberline {1.5}Evolutionary implications of fast-evolving genome architectures}{1}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}`Tinkering' and duct tape in evolution}{1}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}Parallelism and Predictability}{1}{subsection.1.5.2}
 \contentsline {chapter}{\numberline {\@textofChapter \ 2:}Background-dependent effects of polyglutamine variation in the \emph {Arabidopsis thaliana} gene \emph {ELF3}}{2}{chapter.2}
 \contentsline {section}{\numberline {2.1}Summary}{2}{section.2.1}
 \contentsline {section}{\numberline {2.2}Introduction}{3}{section.2.2}
@@ -22,48 +25,48 @@
 \contentsline {section}{\numberline {2.6}\emph {\emph {ELF3-TR}} variation interacts with genetic background.}{13}{section.2.6}
 \contentsline {section}{\numberline {2.7}Col \emph {ELF3} allele is not haploinsufficient in Col x Ws hybrids.}{17}{section.2.7}
 \contentsline {section}{\numberline {2.8}Discussion}{18}{section.2.8}
-\contentsline {chapter}{\numberline {\@textofChapter \ 3:}The conserved \emph {PFT1} tandem repeat is crucial for proper flowering in \emph {Arabidopsis thaliana}}{20}{chapter.3}
-\contentsline {section}{\numberline {3.1}Summary}{20}{section.3.1}
-\contentsline {section}{\numberline {3.2}Introduction}{21}{section.3.2}
-\contentsline {section}{\numberline {3.3}Methods}{24}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Cloning}{24}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Expression analysis}{24}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Plant Materials and Growth Conditions}{25}{subsection.3.3.3}
-\contentsline {subsection}{\numberline {3.3.4}Statistical analysis}{26}{subsection.3.3.4}
-\contentsline {subsection}{\numberline {3.3.5}Sequence Analysis}{26}{subsection.3.3.5}
-\contentsline {section}{\numberline {3.4}Natural variation of \emph {PFT1} STR}{26}{section.3.4}
-\contentsline {section}{\numberline {3.5}The PFT1 STR length is essential for wild-type flowering and shade avoidance}{27}{section.3.5}
-\contentsline {section}{\numberline {3.6}PFT1 STR alleles fail to rescue early seedling phenotypes}{28}{section.3.6}
-\contentsline {section}{\numberline {3.7}Summarizing PFT1 STR function across all tested phenotypes}{29}{section.3.7}
-\contentsline {section}{\numberline {3.8}Discussion}{30}{section.3.8}
-\contentsline {subsection}{\numberline {3.8.1}The PFT1 STR is required for PFT1 function in adult traits}{31}{subsection.3.8.1}
-\contentsline {subsection}{\numberline {3.8.2}pft1-2 mutants are late-flowering in LD but not SD}{31}{subsection.3.8.2}
-\contentsline {subsection}{\numberline {3.8.3}Incomplete complementation of germination and hypocotyl length by the PFT1 constructs}{32}{subsection.3.8.3}
-\contentsline {subsection}{\numberline {3.8.4}Implications for STR and PFT1 biology}{33}{subsection.3.8.4}
-\contentsline {chapter}{\numberline {\@textofChapter \ 4:}Short tandem repeats and quantitative genetics}{35}{chapter.4}
-\contentsline {chapter}{\numberline {\@textofChapter \ 5:}The variable ELF3 polyglutamine hubs an epistatic network}{36}{chapter.5}
-\contentsline {chapter}{\numberline {\@textofChapter \ 6:}ELF3 polyglutamine variation reveals a PIF4-independent role in thermoresponsive flowering}{37}{chapter.6}
-\contentsline {chapter}{\numberline {\@textofChapter \ 7:}Genome-scale Co-evolutionary Inference Identifies Functions and Clients of Bacterial Hsp90}{38}{chapter.7}
-\contentsline {chapter}{\numberline {\@textofChapter \ 8:}Evolutionary assembly patterns of prokaryotic genomes}{39}{chapter.8}
-\contentsline {chapter}{\numberline {\@textofChapter \ 9:}The Thesis Unformatted}{40}{chapter.9}
-\contentsline {section}{\numberline {9.1}The Control File}{40}{section.9.1}
-\contentsline {section}{\numberline {9.2}The Text Pages}{43}{section.9.2}
-\contentsline {subsection}{\numberline {9.2.1}Chapters, Sections, Subsections, and Appendices}{43}{subsection.9.2.1}
-\contentsline {subsection}{\numberline {9.2.2}Footnotes}{43}{subsection.9.2.2}
-\contentsline {subsection}{\numberline {9.2.3}Figures and Tables}{44}{subsection.9.2.3}
-\contentsline {subsection}{\numberline {9.2.4}Horizontal Figures and Tables}{45}{subsection.9.2.4}
-\contentsline {subsection}{\numberline {9.2.5}Figure and Table Captions}{46}{subsection.9.2.5}
-\contentsline {section}{\numberline {9.3}The Preliminary Pages}{47}{section.9.3}
-\contentsline {subsection}{\numberline {9.3.1}Copyright page}{48}{subsection.9.3.1}
-\contentsline {subsection}{\numberline {9.3.2}Title page}{48}{subsection.9.3.2}
-\contentsline {subsection}{\numberline {9.3.3}Abstract}{49}{subsection.9.3.3}
-\contentsline {subsection}{\numberline {9.3.4}Tables of contents}{49}{subsection.9.3.4}
-\contentsline {subsection}{\numberline {9.3.5}Acknowledgments}{49}{subsection.9.3.5}
-\contentsline {chapter}{\@textofBIB }{50}{chapter*.13}
-\contentsline {chapter}{\numberline {\@textofAppendix \ A:}Supporting Chapter 2}{51}{appendix.A}
-\contentsline {chapter}{\numberline {\@textofAppendix \ B:}Supporting Chapter 3}{62}{appendix.B}
-\contentsline {chapter}{\numberline {\@textofAppendix \ C:}Supporting Chapter 4}{63}{appendix.C}
-\contentsline {chapter}{\numberline {\@textofAppendix \ D:}Supporting Chapter 5}{64}{appendix.D}
-\contentsline {chapter}{\numberline {\@textofAppendix \ E:}Supporting Chapter 6}{65}{appendix.E}
-\contentsline {chapter}{\numberline {\@textofAppendix \ F:}Supporting Chapter 7}{66}{appendix.F}
-\contentsline {chapter}{\numberline {\@textofAppendix \ G:}Where to find the files}{67}{appendix.G}
+\contentsline {chapter}{\numberline {\@textofChapter \ 3:}The conserved \emph {PFT1} tandem repeat is crucial for proper flowering in \emph {Arabidopsis thaliana}}{22}{chapter.3}
+\contentsline {section}{\numberline {3.1}Summary}{22}{section.3.1}
+\contentsline {section}{\numberline {3.2}Introduction}{23}{section.3.2}
+\contentsline {section}{\numberline {3.3}Methods}{26}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Cloning}{26}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Expression analysis}{26}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Plant Materials and Growth Conditions}{27}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Statistical analysis}{28}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}Sequence Analysis}{28}{subsection.3.3.5}
+\contentsline {section}{\numberline {3.4}Natural variation of \emph {PFT1} STR}{28}{section.3.4}
+\contentsline {section}{\numberline {3.5}The PFT1 STR length is essential for wild-type flowering and shade avoidance}{29}{section.3.5}
+\contentsline {section}{\numberline {3.6}PFT1 STR alleles fail to rescue early seedling phenotypes}{30}{section.3.6}
+\contentsline {section}{\numberline {3.7}Summarizing PFT1 STR function across all tested phenotypes}{31}{section.3.7}
+\contentsline {section}{\numberline {3.8}Discussion}{32}{section.3.8}
+\contentsline {subsection}{\numberline {3.8.1}The PFT1 STR is required for PFT1 function in adult traits}{33}{subsection.3.8.1}
+\contentsline {subsection}{\numberline {3.8.2}pft1-2 mutants are late-flowering in LD but not SD}{33}{subsection.3.8.2}
+\contentsline {subsection}{\numberline {3.8.3}Incomplete complementation of germination and hypocotyl length by the PFT1 constructs}{34}{subsection.3.8.3}
+\contentsline {subsection}{\numberline {3.8.4}Implications for STR and PFT1 biology}{35}{subsection.3.8.4}
+\contentsline {chapter}{\numberline {\@textofChapter \ 4:}Short tandem repeats and quantitative genetics}{37}{chapter.4}
+\contentsline {chapter}{\numberline {\@textofChapter \ 5:}The variable ELF3 polyglutamine hubs an epistatic network}{38}{chapter.5}
+\contentsline {chapter}{\numberline {\@textofChapter \ 6:}ELF3 polyglutamine variation reveals a PIF4-independent role in thermoresponsive flowering}{39}{chapter.6}
+\contentsline {chapter}{\numberline {\@textofChapter \ 7:}Genome-scale Co-evolutionary Inference Identifies Functions and Clients of Bacterial Hsp90}{40}{chapter.7}
+\contentsline {chapter}{\numberline {\@textofChapter \ 8:}Evolutionary assembly patterns of prokaryotic genomes}{41}{chapter.8}
+\contentsline {chapter}{\numberline {\@textofChapter \ 9:}The Thesis Unformatted}{42}{chapter.9}
+\contentsline {section}{\numberline {9.1}The Control File}{42}{section.9.1}
+\contentsline {section}{\numberline {9.2}The Text Pages}{45}{section.9.2}
+\contentsline {subsection}{\numberline {9.2.1}Chapters, Sections, Subsections, and Appendices}{45}{subsection.9.2.1}
+\contentsline {subsection}{\numberline {9.2.2}Footnotes}{45}{subsection.9.2.2}
+\contentsline {subsection}{\numberline {9.2.3}Figures and Tables}{46}{subsection.9.2.3}
+\contentsline {subsection}{\numberline {9.2.4}Horizontal Figures and Tables}{47}{subsection.9.2.4}
+\contentsline {subsection}{\numberline {9.2.5}Figure and Table Captions}{48}{subsection.9.2.5}
+\contentsline {section}{\numberline {9.3}The Preliminary Pages}{49}{section.9.3}
+\contentsline {subsection}{\numberline {9.3.1}Copyright page}{50}{subsection.9.3.1}
+\contentsline {subsection}{\numberline {9.3.2}Title page}{50}{subsection.9.3.2}
+\contentsline {subsection}{\numberline {9.3.3}Abstract}{51}{subsection.9.3.3}
+\contentsline {subsection}{\numberline {9.3.4}Tables of contents}{51}{subsection.9.3.4}
+\contentsline {subsection}{\numberline {9.3.5}Acknowledgments}{51}{subsection.9.3.5}
+\contentsline {chapter}{\@textofBIB }{52}{chapter*.14}
+\contentsline {chapter}{\numberline {\@textofAppendix \ A:}Supporting Chapter 2}{53}{appendix.A}
+\contentsline {chapter}{\numberline {\@textofAppendix \ B:}Supporting Chapter 3}{70}{appendix.B}
+\contentsline {chapter}{\numberline {\@textofAppendix \ C:}Supporting Chapter 4}{71}{appendix.C}
+\contentsline {chapter}{\numberline {\@textofAppendix \ D:}Supporting Chapter 5}{72}{appendix.D}
+\contentsline {chapter}{\numberline {\@textofAppendix \ E:}Supporting Chapter 6}{73}{appendix.E}
+\contentsline {chapter}{\numberline {\@textofAppendix \ F:}Supporting Chapter 7}{74}{appendix.F}
+\contentsline {chapter}{\numberline {\@textofAppendix \ G:}Where to find the files}{75}{appendix.G}

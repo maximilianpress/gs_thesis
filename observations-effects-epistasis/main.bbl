@@ -1,5 +1,12 @@
 \begin{thebibliography}{1}
 
+\bibitem{Dixon2011}
+Laura~E Dixon, Kirsten Knox, Laszlo Kozma-Bognar, Megan~M Southern, Alexandra
+  Pokhilko, and Andrew~J Millar.
+\newblock {Temporal repression of core circadian genes is mediated through
+  EARLY FLOWERING 3 in Arabidopsis.}
+\newblock {\em Current biology : CB}, 21(2):120--5, January 2011.
+
 \bibitem{Gatchel2005}
 Jennifer~R Gatchel and Huda~Y Zoghbi.
 \newblock {Diseases of unstable repeat expansion: mechanisms and common
@@ -11,6 +18,27 @@ Rita Gemayel, Marcelo~D Vinces, Matthieu Legendre, and Kevin~J Verstrepen.
 \newblock {Variable tandem repeats accelerate evolution of coding and
   regulatory sequences.}
 \newblock {\em Annual review of genetics}, 44:445--77, January 2010.
+
+\bibitem{Kim2005}
+Woe-Yeon Kim, Karen~A Hicks, and David~E Somers.
+\newblock {Independent roles for EARLY FLOWERING 3 and ZEITLUPE in the control
+  of circadian timing, hypocotyl length, and flowering time.}
+\newblock {\em Plant physiology}, 139(3):1557--69, 2005.
+
+\bibitem{Kolmos2011}
+Elsebeth Kolmos, Eva Herrero, Nora Bujdoso, Andrew~J Millar, R\'{e}ka T\'{o}th,
+  Peter Gyula, Ferenc Nagy, and Seth~J Davis.
+\newblock {A Reduced-Function Allele Reveals That EARLY FLOWERING3 Repressive
+  Action on the Circadian Clock Is Modulated by Phytochrome Signals in
+  Arabidopsis}.
+\newblock {\em The Plant Cell Online}, 23(9):3230--3246, 2011.
+
+\bibitem{Nusinow2011}
+Dmitri~A Nusinow, Anne Helfer, Elizabeth~E Hamilton, Jasmine~J King, Takato
+  Imaizumi, Thomas~F Schultz, Eva~M Farr\'{e}, and Steve~A Kay.
+\newblock {The ELF4-ELF3-LUX complex links the circadian clock to diurnal
+  control of hypocotyl growth.}
+\newblock {\em Nature}, 475(7356):398--402, July 2011.
 
 \bibitem{Orr2012}
 Harry~T. Orr.
