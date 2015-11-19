@@ -1,12 +1,5 @@
 \begin{thebibliography}{1}
 
-\bibitem{Carlson2015}
-Keisha~D. Carlson, Peter~H. Sudmant, Maximilian~O. Press, Evan~E. Eichler, Jay
-  Shendure, and Christine Queitsch.
-\newblock {MIPSTR: a method for multiplex genotyping of germline and somatic
-  STR variation across many individuals}.
-\newblock {\em Genome Research}, 25(5):750--761, May 2015.
-
 \bibitem{Gatchel2005}
 Jennifer~R Gatchel and Huda~Y Zoghbi.
 \newblock {Diseases of unstable repeat expansion: mechanisms and common
@@ -26,33 +19,10 @@ Harry~T. Orr.
 \newblock {\em Current Opinion in Genetics and Development}, 22(3):251--255,
   2012.
 
-\bibitem{Press2014}
-Maximilian~O. Press, Keisha~D. Carlson, and Christine Queitsch.
-\newblock {The overdue promise of short tandem repeat variation for
-  heritability}.
-\newblock {\em Trends in Genetics}, 30(11):504--512, August 2014.
-
-\bibitem{Press2013}
-Maximilian~O Press, Hui Li, Nicole Creanza, G\"{u}nter Kramer, Christine
-  Queitsch, Victor Sourjik, and Elhanan Borenstein.
-\newblock {Genome-scale co-evolutionary inference identifies functions and
-  clients of bacterial Hsp90.}
-\newblock {\em PLoS genetics}, 9(7):e1003631, 2013.
-
-\bibitem{Rival2014}
-P.~Rival, M.~O. Press, J.~Bale, T.~Grancharova, S.~F. Undurraga, and
-  C.~Queitsch.
-\newblock {The Conserved PFT1 Tandem Repeat is Crucial for Proper Flowering in
-  Arabidopsis thaliana}.
-\newblock {\em Genetics}, 198(2):747--754, August 2014.
-
-\bibitem{Undurraga2012}
-Soledad~Francisca Undurraga, Maximilian~Oliver Press, Matthieu Legendre, Nora
-  Bujdoso, Jacob Bale, Hui Wang, Seth~J Davis, Kevin~J Verstrepen, and
-  Christine Queitsch.
-\newblock {Background-dependent effects of polyglutamine variation in the
-  Arabidopsis thaliana gene ELF3.}
-\newblock {\em Proceedings of the National Academy of Sciences of the United
-  States of America}, 109(47):19363--7, November 2012.
+\bibitem{Wimsatt1980}
+William~C Wimsatt.
+\newblock {The Units of Selection and the Structure of the Multi-Level Genome}.
+\newblock {\em PSA: Proceedings of the Biennial Meeting of the Philosophy of
+  Science Association}, 1980:122--183, January 1980.
 
 \end{thebibliography}
