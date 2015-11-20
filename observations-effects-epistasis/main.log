@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2011.7.3)  19 NOV 2015 00:32
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2011.7.3)  19 NOV 2015 17:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -659,178 +659,248 @@ Package: wrapfig 2003/01/31  v 3.6
 (/usr/local/texlive/2011/texmf-dist/tex/latex/chngcntr/chngcntr.sty
 Package: chngcntr 2009/09/02 v1.0a change counter resetting
 )
+(/usr/local/texlive/2011/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip53
+\LTright=\skip54
+\LTpre=\skip55
+\LTpost=\skip56
+\LTchunksize=\count190
+\LTcapwidth=\dimen121
+\LT@head=\box32
+\LT@firsthead=\box33
+\LT@foot=\box34
+\LT@lastfoot=\box35
+\LT@cols=\count191
+\LT@rows=\count192
+\c@LT@tables=\count193
+\c@LT@chunks=\count194
+\LT@p@ftn=\toks43
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2008/12/05 v1.6h multicolumn formatting (FMi)
+\c@tracingmulticols=\count195
+\mult@box=\box36
+\multicol@leftmargin=\dimen122
+\c@unbalance=\count196
+\c@collectmore=\count197
+\doublecol@number=\count198
+\multicoltolerance=\count199
+\multicolpretolerance=\count200
+\full@width=\dimen123
+\page@free=\dimen124
+\premulticols=\dimen125
+\postmulticols=\dimen126
+\multicolsep=\skip57
+\multicolbaselineskip=\skip58
+\partial@page=\box37
+\last@line=\box38
+\mult@rightbox=\box39
+\mult@grightbox=\box40
+\mult@gfirstbox=\box41
+\mult@firstbox=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\c@columnbadness=\count201
+Normal \count register pool exhausted, switching to extended pool.
+\c@finalcolumnbadness=\count277
+\last@try=\dimen127
+\multicolovershoot=\dimen128
+\multicolundershoot=\dimen129
+\mult@nat@firstbox=\box60
+\colbreak@box=\box61
+)
 (/usr/local/texlive/2011/texmf-dist/tex/latex/supertabular/supertabular.sty
 Package: supertabular 2004/02/20 v4.1e the supertabular environment
-\c@tracingst=\count190
-\ST@wd=\dimen121
-\ST@rightskip=\skip53
-\ST@leftskip=\skip54
-\ST@parfillskip=\skip55
-\ST@pageleft=\dimen122
-\ST@headht=\dimen123
-\ST@tailht=\dimen124
-\ST@pagesofar=\dimen125
-\ST@pboxht=\dimen126
-\ST@lineht=\dimen127
-\ST@stretchht=\dimen128
-\ST@prevht=\dimen129
-\ST@toadd=\dimen130
-\ST@dimen=\dimen131
-\ST@pbox=\box32
+\c@tracingst=\count278
+\ST@wd=\dimen130
+\ST@rightskip=\skip59
+\ST@leftskip=\skip60
+\ST@parfillskip=\skip61
+\ST@pageleft=\dimen131
+\ST@headht=\dimen132
+\ST@tailht=\dimen133
+\ST@pagesofar=\dimen134
+\ST@pboxht=\dimen135
+\ST@lineht=\dimen136
+\ST@stretchht=\dimen137
+\ST@prevht=\dimen138
+\ST@toadd=\dimen139
+\ST@dimen=\dimen140
+\ST@pbox=\box62
 )
 (/usr/local/texlive/2011/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2010/01/09 v3.1m Customizing captions (AR)
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2010/01/14 v3.1m caption3 kernel (AR)
-\captionmargin=\dimen132
-\captionmargin@=\dimen133
-\captionwidth=\dimen134
-\caption@indent=\dimen135
-\caption@parindent=\dimen136
-\caption@hangindent=\dimen137
+\captionmargin=\dimen141
+\captionmargin@=\dimen142
+\captionwidth=\dimen143
+\caption@indent=\dimen144
+\caption@parindent=\dimen145
+\caption@hangindent=\dimen146
 )
-\c@ContinuedFloat=\count191
+\c@ContinuedFloat=\count279
 Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2008/03/28 v1.2 longtable captions (AR)
+)
 Package caption Info: supertabular package is loaded.
 Package caption Info: wrapfig package is loaded.
 )
 (/usr/local/texlive/2011/texmf-dist/tex/latex/base/alltt.sty
 Package: alltt 1997/06/16 v2.0g defines alltt environment
-)
-No file main.aux.
+) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
  fontspec info: Adjusting the maths setup (use [no-math] to avoid this).
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 101.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 101.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 101.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 101.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 101.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 101.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 101.
-LaTeX Font Info:    Redeclaring math accent \check on input line 101.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 101.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 101.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 101.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 101.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 101.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 101.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 101.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 101.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 101.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 101.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 101.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 101.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 101.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 101.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 101.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 101.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 101.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 103.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 103.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 103.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 103.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 103.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 103.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 103.
+LaTeX Font Info:    Redeclaring math accent \check on input line 103.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 103.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 103.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 103.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 103.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 103.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 103.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 103.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 103.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 103.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 103.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 103.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 103.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 103.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 103.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 103.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 103.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 103.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 101.
+(Font)              `operators' in the math version `normal' on input line 103.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> EU1/HoeflerText(0)/m/n on input line 10
-1.
+3.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 101.
+(Font)              `operators' in the math version `bold' on input line 103.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> EU1/HoeflerText(0)/m/n on input line 1
-01.
+03.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  EU1/HoeflerText(0)/m/n --> EU1/HoeflerText(0)/m/n on in
-put line 101.
+put line 103.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
 (Font)                  EU1/HoeflerText(0)/m/n --> EU1/HoeflerText(0)/m/n on in
-put line 101.
+put line 103.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> EU1/HoeflerText(0)/m/it on input line 
-101.
+103.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> EU1/HoeflerText(0)/bx/n on input line 
-101.
+103.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> EU1/GillSans(0)/m/n on input line 101.
+(Font)                  OT1/cmss/m/n --> EU1/GillSans(0)/m/n on input line 103.
 
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
 (Font)                  OT1/cmtt/m/n --> EU1/AndaleMono(0)/m/n on input line 10
-1.
+3.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  EU1/HoeflerText(0)/m/n --> EU1/HoeflerText(0)/bx/n on i
-nput line 101.
+nput line 103.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
 (Font)                  EU1/HoeflerText(0)/m/n --> EU1/HoeflerText(0)/bx/n on i
-nput line 101.
+nput line 103.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> EU1/HoeflerText(0)/bx/it on input lin
-e 101.
+e 103.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> EU1/GillSans(0)/bx/n on input line 10
-1.
+3.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> EU1/AndaleMono(0)/bx/n on input line 1
-01.
-LaTeX Info: Redefining \celsius on input line 101.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 101
+03.
+LaTeX Info: Redefining \celsius on input line 103.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 103
 .
+
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 101.
-Package gensymb Info: Using \Omega for \ohm on input line 101.
+LaTeX Info: Redefining \ohm on input line 103.
+Package gensymb Info: Using \Omega for \ohm on input line 103.
 
 Package gensymb Warning: Not defining \micro.
 
-\AtBeginShipoutBox=\box33
-Package hyperref Info: Link coloring OFF on input line 101.
+\AtBeginShipoutBox=\box63
+Package hyperref Info: Link coloring OFF on input line 103.
 (/usr/local/texlive/2011/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 
 (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count192
+\c@section@level=\count280
 )
-LaTeX Info: Redefining \ref on input line 101.
-LaTeX Info: Redefining \pageref on input line 101.
-LaTeX Info: Redefining \nameref on input line 101.
+LaTeX Info: Redefining \ref on input line 103.
+LaTeX Info: Redefining \pageref on input line 103.
+LaTeX Info: Redefining \nameref on input line 103.
+
+(./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
-
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 132.
+(Font)              <12> on input line 134.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 132.
+(Font)              <8> on input line 134.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 132.
+(Font)              <6> on input line 134.
+
 (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2010/03/01 v1.8 stringenc: Printable ASCII characters
 )
@@ -840,25 +910,49 @@ File: se-ascii-print.def 2010/03/01 v1.8 stringenc: Printable ASCII characters
 
 ] [-1] [0
 
-] [1] [2]
-\tf@toc=\write5
-\openout5 = `main.toc'.
+] [1] [2] (./main.toc
+Overfull \hbox (3.69397pt too wide) in paragraph at lines 3--3
+ [][] [][]\EU1/HoeflerText(0)/m/n/12 Practical and philosophical approaches to 
+the genotype-phenotype prob- 
+ []
 
- [1
+[1
 
 
 
 ]
+Overfull \hbox (2.04674pt too wide) in paragraph at lines 49--49
+ [][] [][]\EU1/HoeflerText(0)/m/n/12 Genome-scale Co-evolutionary Inference Ide
+ntifies Functions and 
+ []
+
+)
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+ [2] [3] (./main.lof
+Overfull \hbox (16.65791pt too wide) in paragraph at lines 22--22
+ [][] [][]\EU1/HoeflerText(0)/m/n/12 Circadian parameters estimated for differe
+nt TR alleles in elf3-4 CCR2::Luc 
+ []
+
+
+Overfull \hbox (2.4016pt too wide) in paragraph at lines 23--23
+ [][] [][]\EU1/HoeflerText(0)/m/n/12 ELF3-TR variation has nonlinear phenotypic
+ effects in the elf3-200 back- 
+ []
+
+)
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
- [2
+ [4
 
-] [3
+] [5
 
-] [4] [5
+] [6] [7
 
-] [6
+] [8
 
 
 ]
@@ -866,55 +960,42 @@ File: se-ascii-print.def 2010/03/01 v1.8 stringenc: Printable ASCII characters
 LaTeX Font Info:    Font shape `EU1/HoeflerText(0)/bx/sl' in size <12> not avai
 lable
 (Font)              Font shape `EU1/HoeflerText(0)/bx/it' tried instead on inpu
-t line 252.
-
-LaTeX Warning: Citation `Wimsatt1980' on page 1 undefined on input line 253.
-
+t line 254.
 LaTeX Font Info:    Font shape `EU1/HoeflerText(0)/m/sl' in size <12> not avail
 able
 (Font)              Font shape `EU1/HoeflerText(0)/m/it' tried instead on input
- line 272.
+ line 274.
 [1
 
 ]
 <<2>>
 [2
 
-]
-
-LaTeX Warning: Citation `Gemayel2010' on page 3 undefined on input line 287.
-
-
-LaTeX Warning: Citation `Gatchel2005' on page 3 undefined on input line 287.
-
-
-LaTeX Warning: Citation `Orr2012' on page 3 undefined on input line 287.
-
-[3]
-Overfull \hbox (3.94861pt too wide) in paragraph at lines 293--294
+] [3]
+Overfull \hbox (3.94861pt too wide) in paragraph at lines 295--296
 \EU1/HoeflerText(0)/m/n/12 function EARLY FLOWERING 3 (elf3) mutants are: (i) \
 EU1/HoeflerText(0)/m/it/12 elf3-4\EU1/HoeflerText(0)/m/n/12 , containing a CCR2
 ::LUC
  []
 
 [4] [5] [6]
-Invalid UTF-8 byte or sequence at line 306 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 308 replaced by U+FFFD.
  [7]
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
  [8] [9]
 File: undurraga2012_figures/MainText/Figure1Q.png Graphic file (type QTm)
  <use  "undurraga2012_figures/MainText/Figure1Q.png" >
-Invalid UTF-8 byte or sequence at line 318 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 320 replaced by U+FFFD.
 
 
 Package caption Warning: \captionsetup{type*=...} or \captionof
-(caption)                outside box or environment on input line 318.
+(caption)                outside box or environment on input line 320.
 See the caption package documentation for explanation.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 318.
+(caption)                particular \caption on input line 320.
 See the caption package documentation for explanation.
 
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
@@ -935,11 +1016,11 @@ File: undurraga2012_figures/MainText/Figure2Q.png Graphic file (type QTm)
 File: undurraga2012_figures/MainText/Figure3Q.png Graphic file (type QTm)
 
 <use  "undurraga2012_figures/MainText/Figure3Q.png" >
-Invalid UTF-8 byte or sequence at line 343 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 345 replaced by U+FFFD.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 343.
+(caption)                particular \caption on input line 345.
 See the caption package documentation for explanation.
 
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
@@ -957,11 +1038,11 @@ Underfull \vbox (badness 1460) has occurred while \output is active []
 File: undurraga2012_figures/MainText/Figure4F1.png Graphic file (type QTm)
 
 <use  "undurraga2012_figures/MainText/Figure4F1.png" >
-Invalid UTF-8 byte or sequence at line 359 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 361 replaced by U+FFFD.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 359.
+(caption)                particular \caption on input line 361.
 See the caption package documentation for explanation.
 
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
@@ -977,7 +1058,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [22
 
 ]
-Invalid UTF-8 byte or sequence at line 386 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 388 replaced by U+FFFD.
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
 Missing character: There is no ^^8a in font Hoefler Text/AAT:mapping=tex-text;m
@@ -1003,40 +1084,40 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [25]
-Invalid UTF-8 byte or sequence at line 397 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
 
 [26]
 LaTeX Font Info:    Font shape `EU1/AndaleMono(0)/m/n' will be
-(Font)              scaled to size 10.03711pt on input line 400.
+(Font)              scaled to size 10.03711pt on input line 402.
  [27]
-Invalid UTF-8 byte or sequence at line 405 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 405 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 407 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 407 replaced by U+FFFD.
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
 
-Overfull \hbox (69.31429pt too wide) in paragraph at lines 408--409
+Overfull \hbox (69.31429pt too wide) in paragraph at lines 410--411
 \EU1/HoeflerText(0)/m/n/12 sequencing data are available on the \EU1/HoeflerTex
 t(0)/m/it/12 Genetics \EU1/HoeflerText(0)/m/n/12 website (http://www.genetics.o
 rg/content/198/2/747.long).
  []
 
-Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 413 replaced by U+FFFD.
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
-Invalid UTF-8 byte or sequence at line 412 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 414 replaced by U+FFFD.
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
 [28]
-Overfull \hbox (5.45279pt too wide) in paragraph at lines 414--414
+Overfull \hbox (5.45279pt too wide) in paragraph at lines 416--416
 []\EU1/HoeflerText(0)/bx/it/12 The PFT1 STR length is essential for wild-type f
 lowering and shade avoid-
  []
 
-Invalid UTF-8 byte or sequence at line 416 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 418 replaced by U+FFFD.
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
 Missing character: There is no ^^87 in font Hoefler Text/AAT:mapping=tex-text;m
@@ -1044,30 +1125,30 @@ apping=tex-text;!
 Missing character: There is no ^^87 in font Hoefler Text/AAT:mapping=tex-text;m
 apping=tex-text;!
 [29]
-Overfull \hbox (0.4682pt too wide) in paragraph at lines 421--422
+Overfull \hbox (0.4682pt too wide) in paragraph at lines 423--424
 \EU1/HoeflerText(0)/m/n/12 We next assessed quantitative phenotypes in early se
 edling development, some of which
  []
 
 [30]
-Invalid UTF-8 byte or sequence at line 424 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 424 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 426 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 426 replaced by U+FFFD.
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
 
-Overfull \hbox (3.26361pt too wide) in paragraph at lines 424--426
+Overfull \hbox (3.26361pt too wide) in paragraph at lines 426--428
 \EU1/HoeflerText(0)/m/n/12 Given the complex phenotypic responses to PFT1 STR s
 ubstitutions, results were equiv-
  []
 
 [31]
-Invalid UTF-8 byte or sequence at line 428 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 430 replaced by U+FFFD.
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
-Invalid UTF-8 byte or sequence at line 432 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 432 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 434 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 434 replaced by U+FFFD.
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
@@ -1079,8 +1160,8 @@ Missing character: There is no ^^87 in font Hoefler Text/AAT:mapping=tex-text;m
 apping=tex-text;!
 Missing character: There is no ^^87 in font Hoefler Text/AAT:mapping=tex-text;m
 apping=tex-text;!
-Invalid UTF-8 byte or sequence at line 436 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 436 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 438 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 438 replaced by U+FFFD.
 Missing character: There is no ^^96 in font Hoefler Text/AAT:mapping=tex-text;m
 apping=tex-text;!
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
@@ -1088,7 +1169,7 @@ pping=tex-text;!
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
  [33]
-Invalid UTF-8 byte or sequence at line 443 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 445 replaced by U+FFFD.
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
 
@@ -1117,7 +1198,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 <<8>>
 
-Overfull \hbox (205.79259pt too wide) in paragraph at lines 487--488
+Overfull \hbox (205.79259pt too wide) in paragraph at lines 489--490
 []\EU1/HoeflerText(0)/m/n/12 A version of this chapter is under review for publ
 ication, and is available at http://biorxiv.org/content/early/2015/09/27/027649
 . 
@@ -1128,19 +1209,15 @@ ication, and is available at http://biorxiv.org/content/early/2015/09/27/027649
 ]
 <<9>>
 
-LaTeX Warning: Citation `Lbook' on page 42 undefined on input line 500.
-
-
-LaTeX Warning: Reference `control-file' on page 42 undefined on input line 513.
-
+LaTeX Warning: Citation `Lbook' on page 42 undefined on input line 502.
 
 LaTeX Font Info:    Font shape `EU1/AndaleMono(0)/m/n' will be
-(Font)              scaled to size 8.36426pt on input line 540.
+(Font)              scaled to size 8.36426pt on input line 542.
 
-LaTeX Warning: Citation `Lbook' on page 42 undefined on input line 592.
+LaTeX Warning: Citation `Lbook' on page 42 undefined on input line 594.
 
 
-Overfull \hbox (35.4787pt too wide) in paragraph at lines 591--595
+Overfull \hbox (35.4787pt too wide) in paragraph at lines 593--597
 []\EU1/HoeflerText(0)/m/n/12 Include most additional formatting packages with [
 ]\EU1/AndaleMono(0)/m/n/12 \usepackage\EU1/HoeflerText(0)/m/n/12 , as describe 
 by Lamport[[]].
@@ -1150,75 +1227,56 @@ by Lamport[[]].
 
 ] [43] [44]
 
-LaTeX Warning: Citation `Lbook' on page 45 undefined on input line 597.
+LaTeX Warning: Citation `Lbook' on page 45 undefined on input line 599.
 
 
-Overfull \hbox (1.5098pt too wide) in paragraph at lines 596--598
+Overfull \hbox (1.5098pt too wide) in paragraph at lines 598--600
 []\EU1/HoeflerText(0)/m/n/12 Use the []\EU1/AndaleMono(0)/m/n/12 \includeonly \
 EU1/HoeflerText(0)/m/n/12 command to format only a part of your thesis. See Lam
 port[[],
  []
 
 
-LaTeX Warning: Reference `start-2' on page 45 undefined on input line 609.
+LaTeX Warning: Reference `start-2' on page 45 undefined on input line 611.
 
 
-LaTeX Warning: Citation `Lbook' on page 45 undefined on input line 621.
+LaTeX Warning: Citation `Lbook' on page 45 undefined on input line 623.
 
 
-Overfull \hbox (3.91582pt too wide) in paragraph at lines 636--640
+Overfull \hbox (3.91582pt too wide) in paragraph at lines 638--642
 \EU1/HoeflerText(0)/m/n/12 you must explicitly indicate when to print the notes
  with the command []\EU1/AndaleMono(0)/m/n/12 \printendnotes\EU1/HoeflerText(0)
 /m/n/12 .
  []
 
 
-LaTeX Warning: Citation `Lbook' on page 45 undefined on input line 642.
+LaTeX Warning: Citation `Lbook' on page 45 undefined on input line 644.
 
 [45]
 
-LaTeX Warning: Reference `facing-caption' on page 46 undefined on input line 64
-8.
-
-
-LaTeX Warning: Citation `SP' on page 46 undefined on input line 651.
-
-
-LaTeX Warning: Reference `control-file' on page 46 undefined on input line 668.
-
-
-
-LaTeX Warning: Reference `facing-caption' on page 46 undefined on input line 67
-0.
-
-
-LaTeX Warning: Reference `facing-caption' on page 46 undefined on input line 73
-5.
+LaTeX Warning: Citation `SP' on page 46 undefined on input line 653.
 
 
 Underfull \vbox (badness 2591) has occurred while \output is active []
 
  [46]
 
-LaTeX Warning: Reference `sideways' on page 47 undefined on input line 762.
-
-
-LaTeX Warning: Citation `Lbook' on page 47 undefined on input line 782.
+LaTeX Warning: Citation `Lbook' on page 47 undefined on input line 784.
 
 [47]
 
 LaTeX Font Warning: Font shape `EU1/AndaleMono(0)/m/it' undefined
-(Font)              using `EU1/AndaleMono(0)/m/n' instead on input line 791.
+(Font)              using `EU1/AndaleMono(0)/m/n' instead on input line 793.
 
 LaTeX Font Info:    Font shape `EU1/AndaleMono(0)/m/it' will be
-(Font)              scaled to size 10.03711pt on input line 791.
+(Font)              scaled to size 10.03711pt on input line 793.
 [48] [49]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 850.
+(Font)              <7> on input line 852.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 850.
+(Font)              <5> on input line 852.
  [50]
-Overfull \hbox (5.39642pt too wide) in paragraph at lines 900--900
+Overfull \hbox (5.39642pt too wide) in paragraph at lines 902--902
  []\EU1/AndaleMono(0)/m/it/12 \acknowledgments{The author wishes . . . {\it il 
 miglior fabbro}.\par}}[] 
  []
@@ -1229,24 +1287,18 @@ miglior fabbro}.\par}}[]
 <<A>>
 File: undurraga2012_figures/SupplText/SuppFig1.png Graphic file (type QTm)
 <use  "undurraga2012_figures/SupplText/SuppFig1.png" >
-Overfull \hbox (35.45999pt too wide) in paragraph at lines 937--938
+Overfull \hbox (35.45999pt too wide) in paragraph at lines 939--940
 [][] 
  []
 
-Invalid UTF-8 byte or sequence at line 942 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 944 replaced by U+FFFD.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 942.
+(caption)                particular \caption on input line 944.
 See the caption package documentation for explanation.
-
-
-LaTeX Warning: Citation `Kim2005' on page 53 undefined on input line 942.
 
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
-
-LaTeX Warning: Citation `Kim2005' on page 53 undefined on input line 942.
-
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
 [53
@@ -1255,11 +1307,11 @@ pping=tex-text;!
 File: undurraga2012_figures/SupplText/SuppFig2.png Graphic file (type QTm)
  <use  "undurraga2012_figures/SupplText/SuppFig2.png" >
 
-LaTeX Warning: Float too large for page by 16.93999pt on input line 949.
+LaTeX Warning: Float too large for page by 16.93999pt on input line 951.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 952.
+(caption)                particular \caption on input line 954.
 See the caption package documentation for explanation.
 
 [55] [56]
@@ -1267,60 +1319,25 @@ File: undurraga2012_figures/SupplText/S3.png Graphic file (type QTm)
  <use  "undurraga2012_figures/SupplText/S3.png" >
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 963.
+(caption)                particular \caption on input line 965.
 See the caption package documentation for explanation.
-
-
-LaTeX Warning: Citation `Nusinow2011' on page 57 undefined on input line 963.
-
-
-LaTeX Warning: Citation `Kolmos2011' on page 57 undefined on input line 963.
-
-
-LaTeX Warning: Citation `Dixon2011' on page 57 undefined on input line 963.
-
-
-LaTeX Warning: Citation `Kolmos2011' on page 57 undefined on input line 963.
-
-
-LaTeX Warning: Citation `Dixon2011' on page 57 undefined on input line 963.
-
-
-LaTeX Warning: Citation `Nusinow2011' on page 57 undefined on input line 963.
-
-
-LaTeX Warning: Citation `Kolmos2011' on page 57 undefined on input line 963.
-
-
-LaTeX Warning: Citation `Dixon2011' on page 57 undefined on input line 963.
-
-
-LaTeX Warning: Citation `Kolmos2011' on page 57 undefined on input line 963.
-
-
-LaTeX Warning: Citation `Dixon2011' on page 57 undefined on input line 963.
 
 [57] [58]
 File: undurraga2012_figures/SupplText/S4.png Graphic file (type QTm)
  <use  "undurraga2012_figures/SupplText/S4.png" >
 
-LaTeX Warning: Float too large for page by 14.58469pt on input line 970.
+LaTeX Warning: Float too large for page by 14.58469pt on input line 972.
 
 File: undurraga2012_figures/SupplText/S5.png Graphic file (type QTm)
 <use  "undurraga2012_figures/SupplText/S5.png" >
-Invalid UTF-8 byte or sequence at line 979 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 979 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 979 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 981 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 981 replaced by U+FFFD.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 979.
+(caption)                particular \caption on input line 981.
 See the caption package documentation for explanation.
 
-Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
-pping=tex-text;!
-Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
-pping=tex-text;!
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
@@ -1331,52 +1348,89 @@ Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
 [59] [60] [61]
 File: undurraga2012_figures/SupplText/S6.png Graphic file (type QTm)
- <use  "undurraga2012_figures/SupplText/S6.png" > [62] [63]
-[64] [65
+ <use  "undurraga2012_figures/SupplText/S6.png" >
+File: f2_batches_badvsgood_111915.pdf Graphic file (type QTm)
 
-] [66] [67]
-Overfull \hbox (63.08105pt too wide) in paragraph at lines 1192--1215
-[] 
+<use  "f2_batches_badvsgood_111915.pdf" >
+Overfull \hbox (71.595pt too wide) in paragraph at lines 992--993
+[][] 
  []
 
-[68] [69
+[62] [63] [64]
+
+Package caption Warning: The caption type was already set to `figure'
+(caption)                 on input line 1014.
+See the caption package documentation for explanation.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 1014.
+See the caption package documentation for explanation.
+
+[65
+
+] [66] [67] [68
 
 ]
-<<B>>
-[70
 
+Package caption Warning: The caption type was already set to `figure'
+(caption)                 on input line 1214.
+See the caption package documentation for explanation.
+
+[69
+
+]
+
+Package caption Warning: The caption type was already set to `figure'
+(caption)                 on input line 1260.
+See the caption package documentation for explanation.
+
+[70]
+
+Package caption Warning: The caption type was already set to `figure'
+(caption)                 on input line 1312.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (1.23427pt too wide) in alignment at lines 1311--1335
+ [] [] 
+ []
+
+
+Overfull \hbox (1.23427pt too wide) in alignment at lines 1335--1349
+ [] [] 
+ []
+
+[71] [72]
+<<B>>
+[73
 
 ]
 <<C>>
-[71
-
+[74
 
 ]
 <<D>>
-[72
-
+[75
 
 ]
 <<E>>
-[73
-
+[76
 
 ]
 <<F>>
-[74
-
+[77
 
 ]
 <<G>>
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1267.
-[75
-
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1379.
+[78
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1267.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1379.
  (./main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1267.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1267.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1379.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1379.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1384,18 +1438,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1267.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1379.
  ) 
 Here is how much of TeX's memory you used:
- 17134 strings out of 494150
- 285869 string characters out of 3152950
- 414451 words of memory out of 3000000
- 20163 multiletter control sequences out of 15000+200000
+ 17356 strings out of 494150
+ 288981 string characters out of 3152950
+ 419964 words of memory out of 3000000
+ 20365 multiletter control sequences out of 15000+200000
  6608 words of font info for 52 fonts, out of 3000000 for 9000
  1018 hyphenation exceptions out of 8191
- 53i,8n,92p,3031b,461s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 53i,9n,92p,3031b,472s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on main.pdf (87 pages).
+Output written on main.pdf (92 pages).

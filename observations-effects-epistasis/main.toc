@@ -1,4 +1,4 @@
-\contentsline {chapter}{\@textofLoF }{ii}{chapter*.2}
+\contentsline {chapter}{\@textofLoF }{iv}{chapter*.2}
 \contentsline {chapter}{\numberline {\@textofChapter \ 1:}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Practical and philosophical approaches to the genotype-phenotype problem}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}Linear models and Fisherian quantitative genetics}{1}{section.1.2}
@@ -64,9 +64,9 @@
 \contentsline {subsection}{\numberline {9.3.5}Acknowledgments}{51}{subsection.9.3.5}
 \contentsline {chapter}{\@textofBIB }{52}{chapter*.14}
 \contentsline {chapter}{\numberline {\@textofAppendix \ A:}Supporting Chapter 2}{53}{appendix.A}
-\contentsline {chapter}{\numberline {\@textofAppendix \ B:}Supporting Chapter 3}{70}{appendix.B}
-\contentsline {chapter}{\numberline {\@textofAppendix \ C:}Supporting Chapter 4}{71}{appendix.C}
-\contentsline {chapter}{\numberline {\@textofAppendix \ D:}Supporting Chapter 5}{72}{appendix.D}
-\contentsline {chapter}{\numberline {\@textofAppendix \ E:}Supporting Chapter 6}{73}{appendix.E}
-\contentsline {chapter}{\numberline {\@textofAppendix \ F:}Supporting Chapter 7}{74}{appendix.F}
-\contentsline {chapter}{\numberline {\@textofAppendix \ G:}Where to find the files}{75}{appendix.G}
+\contentsline {chapter}{\numberline {\@textofAppendix \ B:}Supporting Chapter 3}{73}{appendix.B}
+\contentsline {chapter}{\numberline {\@textofAppendix \ C:}Supporting Chapter 4}{74}{appendix.C}
+\contentsline {chapter}{\numberline {\@textofAppendix \ D:}Supporting Chapter 5}{75}{appendix.D}
+\contentsline {chapter}{\numberline {\@textofAppendix \ E:}Supporting Chapter 6}{76}{appendix.E}
+\contentsline {chapter}{\numberline {\@textofAppendix \ F:}Supporting Chapter 7}{77}{appendix.F}
+\contentsline {chapter}{\numberline {\@textofAppendix \ G:}Where to find the files}{78}{appendix.G}
