@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2011.7.3)  19 NOV 2015 17:57
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2011.7.3)  20 NOV 2015 16:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1035,27 +1035,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 1460) has occurred while \output is active []
 
  [17]
-File: undurraga2012_figures/MainText/Figure4F1.png Graphic file (type QTm)
+File: oldbad_vs_newboring_f1data.pdf Graphic file (type QTm)
 
-<use  "undurraga2012_figures/MainText/Figure4F1.png" >
-Invalid UTF-8 byte or sequence at line 361 replaced by U+FFFD.
+<use  "oldbad_vs_newboring_f1data.pdf" >
 
+LaTeX Warning: Float too large for page by 20.98846pt on input line 358.
 
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 361.
-See the caption package documentation for explanation.
-
-Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
-pping=tex-text;!
-Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
-pping=tex-text;!
-[18] [19]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [20]
-[21]
+[18] [19] [20]
 <<3>>
-[22
+[21
 
 ]
 Invalid UTF-8 byte or sequence at line 388 replaced by U+FFFD.
@@ -1077,21 +1065,21 @@ Missing character: There is no ^^96 in font Hoefler Text/AAT:mapping=tex-text;m
 apping=tex-text;!
 Missing character: There is no ^^96 in font Hoefler Text/AAT:mapping=tex-text;m
 apping=tex-text;!
+ [22]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [23]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [24]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [25]
 Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
 
-[26]
+[25]
 LaTeX Font Info:    Font shape `EU1/AndaleMono(0)/m/n' will be
 (Font)              scaled to size 10.03711pt on input line 402.
- [27]
+ [26]
 Invalid UTF-8 byte or sequence at line 407 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 407 replaced by U+FFFD.
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
@@ -1111,7 +1099,7 @@ pping=tex-text;!
 Invalid UTF-8 byte or sequence at line 414 replaced by U+FFFD.
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
-[28]
+[27]
 Overfull \hbox (5.45279pt too wide) in paragraph at lines 416--416
 []\EU1/HoeflerText(0)/bx/it/12 The PFT1 STR length is essential for wild-type f
 lowering and shade avoid-
@@ -1124,13 +1112,13 @@ Missing character: There is no ^^87 in font Hoefler Text/AAT:mapping=tex-text;m
 apping=tex-text;!
 Missing character: There is no ^^87 in font Hoefler Text/AAT:mapping=tex-text;m
 apping=tex-text;!
-[29]
+[28]
 Overfull \hbox (0.4682pt too wide) in paragraph at lines 423--424
 \EU1/HoeflerText(0)/m/n/12 We next assessed quantitative phenotypes in early se
 edling development, some of which
  []
 
-[30]
+[29]
 Invalid UTF-8 byte or sequence at line 426 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 426 replaced by U+FFFD.
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
@@ -1143,7 +1131,7 @@ Overfull \hbox (3.26361pt too wide) in paragraph at lines 426--428
 ubstitutions, results were equiv-
  []
 
-[31]
+[30]
 Invalid UTF-8 byte or sequence at line 430 replaced by U+FFFD.
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
@@ -1153,7 +1141,7 @@ Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
- [32]
+ [31]
 Missing character: There is no ^^87 in font Hoefler Text/AAT:mapping=tex-text;m
 apping=tex-text;!
 Missing character: There is no ^^87 in font Hoefler Text/AAT:mapping=tex-text;m
@@ -1168,32 +1156,32 @@ Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
- [33]
+ [32]
 Invalid UTF-8 byte or sequence at line 445 replaced by U+FFFD.
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [34]
+ [33]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [35]
-[36]
+ [34]
+[35]
 <<4>>
-[37
+[36
 
 ]
 <<5>>
-[38
+[37
 
 ]
 <<6>>
-[39
+[38
 
 ]
 <<7>>
-[40
+[39
 
 ]
 <<8>>
@@ -1204,17 +1192,17 @@ ication, and is available at http://biorxiv.org/content/early/2015/09/27/027649
 . 
  []
 
-[41
+[40
 
 ]
 <<9>>
 
-LaTeX Warning: Citation `Lbook' on page 42 undefined on input line 502.
+LaTeX Warning: Citation `Lbook' on page 41 undefined on input line 502.
 
 LaTeX Font Info:    Font shape `EU1/AndaleMono(0)/m/n' will be
 (Font)              scaled to size 8.36426pt on input line 542.
 
-LaTeX Warning: Citation `Lbook' on page 42 undefined on input line 594.
+LaTeX Warning: Citation `Lbook' on page 41 undefined on input line 594.
 
 
 Overfull \hbox (35.4787pt too wide) in paragraph at lines 593--597
@@ -1223,11 +1211,11 @@ Overfull \hbox (35.4787pt too wide) in paragraph at lines 593--597
 by Lamport[[]].
  []
 
-[42
+[41
 
-] [43] [44]
+] [42] [43]
 
-LaTeX Warning: Citation `Lbook' on page 45 undefined on input line 599.
+LaTeX Warning: Citation `Lbook' on page 44 undefined on input line 599.
 
 
 Overfull \hbox (1.5098pt too wide) in paragraph at lines 598--600
@@ -1237,10 +1225,10 @@ port[[],
  []
 
 
-LaTeX Warning: Reference `start-2' on page 45 undefined on input line 611.
+LaTeX Warning: Reference `start-2' on page 44 undefined on input line 611.
 
 
-LaTeX Warning: Citation `Lbook' on page 45 undefined on input line 623.
+LaTeX Warning: Citation `Lbook' on page 44 undefined on input line 623.
 
 
 Overfull \hbox (3.91582pt too wide) in paragraph at lines 638--642
@@ -1250,38 +1238,38 @@ Overfull \hbox (3.91582pt too wide) in paragraph at lines 638--642
  []
 
 
-LaTeX Warning: Citation `Lbook' on page 45 undefined on input line 644.
+LaTeX Warning: Citation `Lbook' on page 44 undefined on input line 644.
 
-[45]
+[44]
 
-LaTeX Warning: Citation `SP' on page 46 undefined on input line 653.
+LaTeX Warning: Citation `SP' on page 45 undefined on input line 653.
 
 
 Underfull \vbox (badness 2591) has occurred while \output is active []
 
- [46]
+ [45]
 
-LaTeX Warning: Citation `Lbook' on page 47 undefined on input line 784.
+LaTeX Warning: Citation `Lbook' on page 46 undefined on input line 784.
 
-[47]
+[46]
 
 LaTeX Font Warning: Font shape `EU1/AndaleMono(0)/m/it' undefined
 (Font)              using `EU1/AndaleMono(0)/m/n' instead on input line 793.
 
 LaTeX Font Info:    Font shape `EU1/AndaleMono(0)/m/it' will be
 (Font)              scaled to size 10.03711pt on input line 793.
-[48] [49]
+[47] [48]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 852.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 852.
- [50]
+ [49]
 Overfull \hbox (5.39642pt too wide) in paragraph at lines 902--902
  []\EU1/AndaleMono(0)/m/it/12 \acknowledgments{The author wishes . . . {\it il 
 miglior fabbro}.\par}}[] 
  []
 
-(./main.bbl [51]) [52
+(./main.bbl [50]) [51
 
 ]
 <<A>>
@@ -1301,9 +1289,9 @@ Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
-[53
+[52
 
-] [54]
+] [53]
 File: undurraga2012_figures/SupplText/SuppFig2.png Graphic file (type QTm)
  <use  "undurraga2012_figures/SupplText/SuppFig2.png" >
 
@@ -1314,7 +1302,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 954.
 See the caption package documentation for explanation.
 
-[55] [56]
+[54] [55]
 File: undurraga2012_figures/SupplText/S3.png Graphic file (type QTm)
  <use  "undurraga2012_figures/SupplText/S3.png" >
 
@@ -1322,7 +1310,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 965.
 See the caption package documentation for explanation.
 
-[57] [58]
+[56] [57]
 File: undurraga2012_figures/SupplText/S4.png Graphic file (type QTm)
  <use  "undurraga2012_figures/SupplText/S4.png" >
 
@@ -1346,7 +1334,7 @@ Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
-[59] [60] [61]
+[58] [59] [60]
 File: undurraga2012_figures/SupplText/S6.png Graphic file (type QTm)
  <use  "undurraga2012_figures/SupplText/S6.png" >
 File: f2_batches_badvsgood_111915.pdf Graphic file (type QTm)
@@ -1356,7 +1344,7 @@ Overfull \hbox (71.595pt too wide) in paragraph at lines 992--993
 [][] 
  []
 
-[62] [63] [64]
+[61] [62] [63]
 
 Package caption Warning: The caption type was already set to `figure'
 (caption)                 on input line 1014.
@@ -1367,9 +1355,9 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 1014.
 See the caption package documentation for explanation.
 
-[65
+[64
 
-] [66] [67] [68
+] [65] [66] [67
 
 ]
 
@@ -1377,7 +1365,7 @@ Package caption Warning: The caption type was already set to `figure'
 (caption)                 on input line 1214.
 See the caption package documentation for explanation.
 
-[69
+[68
 
 ]
 
@@ -1385,7 +1373,7 @@ Package caption Warning: The caption type was already set to `figure'
 (caption)                 on input line 1260.
 See the caption package documentation for explanation.
 
-[70]
+[69]
 
 Package caption Warning: The caption type was already set to `figure'
 (caption)                 on input line 1312.
@@ -1401,30 +1389,30 @@ Overfull \hbox (1.23427pt too wide) in alignment at lines 1335--1349
  [] [] 
  []
 
-[71] [72]
+[70] [71]
 <<B>>
-[73
+[72
 
 ]
 <<C>>
-[74
+[73
 
 ]
 <<D>>
-[75
+[74
 
 ]
 <<E>>
-[76
+[75
 
 ]
 <<F>>
-[77
+[76
 
 ]
 <<G>>
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1379.
-[78
+[77
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 1379.
@@ -1442,11 +1430,11 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1379.
  ) 
 Here is how much of TeX's memory you used:
  17356 strings out of 494150
- 288981 string characters out of 3152950
+ 288984 string characters out of 3152950
  419964 words of memory out of 3000000
  20365 multiletter control sequences out of 15000+200000
  6608 words of font info for 52 fonts, out of 3000000 for 9000
  1018 hyphenation exceptions out of 8191
  53i,9n,92p,3031b,472s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on main.pdf (92 pages).
+Output written on main.pdf (91 pages).
