@@ -44,29 +44,66 @@
 \contentsline {subsection}{\numberline {3.8.3}Incomplete complementation of germination and hypocotyl length by the PFT1 constructs}{33}{subsection.3.8.3}
 \contentsline {subsection}{\numberline {3.8.4}Implications for STR and PFT1 biology}{34}{subsection.3.8.4}
 \contentsline {chapter}{\numberline {\@textofChapter \ 4:}Short tandem repeats and quantitative genetics}{36}{chapter.4}
-\contentsline {chapter}{\numberline {\@textofChapter \ 5:}The variable ELF3 polyglutamine hubs an epistatic network}{37}{chapter.5}
-\contentsline {chapter}{\numberline {\@textofChapter \ 6:}ELF3 polyglutamine variation reveals a PIF4-independent role in thermoresponsive flowering}{38}{chapter.6}
-\contentsline {chapter}{\numberline {\@textofChapter \ 7:}Genome-scale Co-evolutionary Inference Identifies Functions and Clients of Bacterial Hsp90}{39}{chapter.7}
-\contentsline {chapter}{\numberline {\@textofChapter \ 8:}Evolutionary assembly patterns of prokaryotic genomes}{40}{chapter.8}
-\contentsline {chapter}{\numberline {\@textofChapter \ 9:}The Thesis Unformatted}{41}{chapter.9}
-\contentsline {section}{\numberline {9.1}The Control File}{41}{section.9.1}
-\contentsline {section}{\numberline {9.2}The Text Pages}{44}{section.9.2}
-\contentsline {subsection}{\numberline {9.2.1}Chapters, Sections, Subsections, and Appendices}{44}{subsection.9.2.1}
-\contentsline {subsection}{\numberline {9.2.2}Footnotes}{44}{subsection.9.2.2}
-\contentsline {subsection}{\numberline {9.2.3}Figures and Tables}{45}{subsection.9.2.3}
-\contentsline {subsection}{\numberline {9.2.4}Horizontal Figures and Tables}{46}{subsection.9.2.4}
-\contentsline {subsection}{\numberline {9.2.5}Figure and Table Captions}{47}{subsection.9.2.5}
-\contentsline {section}{\numberline {9.3}The Preliminary Pages}{48}{section.9.3}
-\contentsline {subsection}{\numberline {9.3.1}Copyright page}{49}{subsection.9.3.1}
-\contentsline {subsection}{\numberline {9.3.2}Title page}{49}{subsection.9.3.2}
-\contentsline {subsection}{\numberline {9.3.3}Abstract}{50}{subsection.9.3.3}
-\contentsline {subsection}{\numberline {9.3.4}Tables of contents}{50}{subsection.9.3.4}
-\contentsline {subsection}{\numberline {9.3.5}Acknowledgments}{50}{subsection.9.3.5}
-\contentsline {chapter}{\@textofBIB }{51}{chapter*.14}
-\contentsline {chapter}{\numberline {\@textofAppendix \ A:}Supporting Chapter 2}{52}{appendix.A}
-\contentsline {chapter}{\numberline {\@textofAppendix \ B:}Supporting Chapter 3}{72}{appendix.B}
-\contentsline {chapter}{\numberline {\@textofAppendix \ C:}Supporting Chapter 4}{73}{appendix.C}
-\contentsline {chapter}{\numberline {\@textofAppendix \ D:}Supporting Chapter 5}{74}{appendix.D}
-\contentsline {chapter}{\numberline {\@textofAppendix \ E:}Supporting Chapter 6}{75}{appendix.E}
-\contentsline {chapter}{\numberline {\@textofAppendix \ F:}Supporting Chapter 7}{76}{appendix.F}
-\contentsline {chapter}{\numberline {\@textofAppendix \ G:}Where to find the files}{77}{appendix.G}
+\contentsline {section}{\numberline {4.1}Abstract}{36}{section.4.1}
+\contentsline {section}{\numberline {4.2}The �missing heritability� of complex diseases and STR variation.}{37}{section.4.2}
+\contentsline {section}{\numberline {4.3}STR variation is associated with human genetic diseases}{39}{section.4.3}
+\contentsline {section}{\numberline {4.4}STR variation has dramatic background-dependent effects on phenotype}{40}{section.4.4}
+\contentsline {section}{\numberline {4.5}Lack of statistical models for detecting STR-phenotype associations in GWA.}{43}{section.4.5}
+\contentsline {section}{\numberline {4.6}Modifier mutations leading to epistasis are expected in STRs.}{45}{section.4.6}
+\contentsline {section}{\numberline {4.7}Association of STR variation with phenotypic characters in \emph {A. thaliana}.}{47}{section.4.7}
+\contentsline {section}{\numberline {4.8}Analysis of selection on STR variation in \emph {A. thaliana}.}{47}{section.4.8}
+\contentsline {section}{\numberline {4.9}Concluding remarks}{47}{section.4.9}
+\contentsline {chapter}{\numberline {\@textofChapter \ 5:}The variable ELF3 polyglutamine hubs an epistatic network}{48}{chapter.5}
+\contentsline {chapter}{\numberline {\@textofChapter \ 6:}ELF3 polyglutamine variation reveals a PIF4-independent role in thermoresponsive flowering}{49}{chapter.6}
+\contentsline {chapter}{\numberline {\@textofChapter \ 7:}Genome-scale Co-evolutionary Inference Identifies Functions and Clients of Bacterial Hsp90}{50}{chapter.7}
+\contentsline {section}{\numberline {7.1}Abstract}{50}{section.7.1}
+\contentsline {section}{\numberline {7.2}Introduction}{51}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Results}{53}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}Hsp90 paralogs in bacteria }{53}{subsection.7.2.2}
+\contentsline {subsection}{\numberline {7.2.3}Genome-wide detection of genes co-evolving with hsp90A}{53}{subsection.7.2.3}
+\contentsline {subsection}{\numberline {7.2.4}Characterization of co-evolutionary dynamics }{54}{subsection.7.2.4}
+\contentsline {subsection}{\numberline {7.2.5}Prediction of Hsp90A clients}{56}{subsection.7.2.5}
+\contentsline {subsection}{\numberline {7.2.6}Novel and known functions of putative Hsp90 clients}{57}{subsection.7.2.6}
+\contentsline {subsection}{\numberline {7.2.7}Swimming motility and chemotaxis assays of Hsp90A-defective E. coli}{57}{subsection.7.2.7}
+\contentsline {subsection}{\numberline {7.2.8}FRET observation of HtpG interactions with flagellar motor components}{59}{subsection.7.2.8}
+\contentsline {subsection}{\numberline {7.2.9}FRET observation of HtpG interactions with chemoreceptor components}{60}{subsection.7.2.9}
+\contentsline {subsection}{\numberline {7.2.10}Association of hsp90A with life history traits in Bacteria}{61}{subsection.7.2.10}
+\contentsline {section}{\numberline {7.3}Discussion}{62}{section.7.3}
+\contentsline {section}{\numberline {7.4}Methods}{65}{section.7.4}
+\contentsline {subsection}{\numberline {7.4.1}Prokaryotic Hsp90 paralogs}{65}{subsection.7.4.1}
+\contentsline {subsection}{\numberline {7.4.2}Genome data}{65}{subsection.7.4.2}
+\contentsline {subsection}{\numberline {7.4.3}Phylogenetic trees}{65}{subsection.7.4.3}
+\contentsline {subsection}{\numberline {7.4.4}Organismal trait data}{66}{subsection.7.4.4}
+\contentsline {subsection}{\numberline {7.4.5}Detecting evolutionary associations with BayesTraits}{66}{subsection.7.4.5}
+\contentsline {subsection}{\numberline {7.4.6}Identifying hsp90A-associated genes }{67}{subsection.7.4.6}
+\contentsline {subsection}{\numberline {7.4.7}Reversible-jump Markov chain Monte Carlo analysis}{68}{subsection.7.4.7}
+\contentsline {subsection}{\numberline {7.4.8}Co-evolutionary model selection}{68}{subsection.7.4.8}
+\contentsline {subsection}{\numberline {7.4.9}Prediction of Hsp90A clients in bacteria}{69}{subsection.7.4.9}
+\contentsline {subsection}{\numberline {7.4.10}Functional enrichment analysis}{71}{subsection.7.4.10}
+\contentsline {subsection}{\numberline {7.4.11}E. coli strains and growth assays }{71}{subsection.7.4.11}
+\contentsline {subsection}{\numberline {7.4.12}Fluorescence imaging}{72}{subsection.7.4.12}
+\contentsline {subsection}{\numberline {7.4.13}Acceptor photobleaching FRET measurement}{72}{subsection.7.4.13}
+\contentsline {section}{\numberline {7.5}Acknowledgments}{73}{section.7.5}
+\contentsline {chapter}{\numberline {\@textofChapter \ 8:}Evolutionary assembly patterns of prokaryotic genomes}{74}{chapter.8}
+\contentsline {chapter}{\numberline {\@textofChapter \ 9:}The Thesis Unformatted}{75}{chapter.9}
+\contentsline {section}{\numberline {9.1}The Control File}{75}{section.9.1}
+\contentsline {section}{\numberline {9.2}The Text Pages}{78}{section.9.2}
+\contentsline {subsection}{\numberline {9.2.1}Chapters, Sections, Subsections, and Appendices}{78}{subsection.9.2.1}
+\contentsline {subsection}{\numberline {9.2.2}Footnotes}{78}{subsection.9.2.2}
+\contentsline {subsection}{\numberline {9.2.3}Figures and Tables}{79}{subsection.9.2.3}
+\contentsline {subsection}{\numberline {9.2.4}Horizontal Figures and Tables}{80}{subsection.9.2.4}
+\contentsline {subsection}{\numberline {9.2.5}Figure and Table Captions}{81}{subsection.9.2.5}
+\contentsline {section}{\numberline {9.3}The Preliminary Pages}{82}{section.9.3}
+\contentsline {subsection}{\numberline {9.3.1}Copyright page}{83}{subsection.9.3.1}
+\contentsline {subsection}{\numberline {9.3.2}Title page}{83}{subsection.9.3.2}
+\contentsline {subsection}{\numberline {9.3.3}Abstract}{84}{subsection.9.3.3}
+\contentsline {subsection}{\numberline {9.3.4}Tables of contents}{84}{subsection.9.3.4}
+\contentsline {subsection}{\numberline {9.3.5}Acknowledgments}{84}{subsection.9.3.5}
+\contentsline {chapter}{\@textofBIB }{85}{chapter*.15}
+\contentsline {chapter}{\numberline {\@textofAppendix \ A:}Supporting Chapter 2}{86}{appendix.A}
+\contentsline {chapter}{\numberline {\@textofAppendix \ B:}Supporting Chapter 3}{106}{appendix.B}
+\contentsline {chapter}{\numberline {\@textofAppendix \ C:}Supporting Chapter 4}{107}{appendix.C}
+\contentsline {chapter}{\numberline {\@textofAppendix \ D:}Supporting Chapter 5}{108}{appendix.D}
+\contentsline {chapter}{\numberline {\@textofAppendix \ E:}Supporting Chapter 6}{109}{appendix.E}
+\contentsline {chapter}{\numberline {\@textofAppendix \ F:}Supporting Chapter 7}{110}{appendix.F}
+\contentsline {chapter}{\numberline {\@textofAppendix \ G:}Where to find the files}{111}{appendix.G}

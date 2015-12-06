@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  19 NOV 2015 14:58
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  18 NOV 2015 17:20
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**uwthesis.tex
-(./uwthesis.tex
+**uwthesis.cls
+(./uwthesis.cls
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
 rman-x-2009-06-19, ngerman-x-2009-06-19, afrikaans, ancientgreek, ibycus, arabi
@@ -17,51 +17,41 @@ iya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji,
 ish, portuguese, romanian, russian, sanskrit, serbian, serbianc, slovak, sloven
 ian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded
 .
-(./uwthesis.cls
-Document Class: uwthesis 2012/06/19
-\tf@not=\write3
-(/usr/local/texlive/2011/texmf-dist/tex/latex/base/book.cls
-Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2011/texmf-dist/tex/latex/base/bk11.clo
-File: bk11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
-)
-\c@part=\count79
-\c@chapter=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
-\abovecaptionskip=\skip41
-\belowcaptionskip=\skip42
-\bibindent=\dimen102
-)
-\botmargin=\dimen103
-\@@wholepage=\box26
 
-Formatting for twoside printing.
-\@Chair=\count88
-\@Sign=\count89
-\abs@savebox=\box27
-) (/usr/local/texlive/2011/texmf-dist/tex/latex/supertabular/supertabular.sty
-Package: supertabular 2004/02/20 v4.1e the supertabular environment
-\c@tracingst=\count90
-\ST@wd=\dimen104
-\ST@rightskip=\skip43
-\ST@leftskip=\skip44
-\ST@parfillskip=\skip45
-\ST@pageleft=\dimen105
-\ST@headht=\dimen106
-\ST@tailht=\dimen107
-\ST@pagesofar=\dimen108
-\ST@pboxht=\dimen109
-\ST@lineht=\dimen110
-\ST@stretchht=\dimen111
-\ST@prevht=\dimen112
-\ST@toadd=\dimen113
-\ST@dimen=\dimen114
+LaTeX Warning: You have requested package `',
+               but the package provides `uwthesis'.
+
+Package: uwthesis 2012/06/19
+\tf=\write3
+
+./uwthesis.cls:83: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.83 \newwrite\tf@
+                  not
+? 
+./uwthesis.cls:83: Emergency stop.
+ ...                                              
+                                                  
+l.83 \newwrite\tf@
+                  not
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+ 
+Here is how much of TeX's memory you used:
+ 9 strings out of 493633
+ 274 string characters out of 3143378
+ 49245 words of memory out of 3000000
+ 3407 multiletter control sequences out of 15000+200000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 831 hyphenation exceptions out of 8191
+ 7i,0n,8p,108b,14s stack positions out of 5000i,500n,10000p,200000b,50000s
+./uwthesis.cls:83:  ==> Fatal error occurred, no output PDF file produced!
+
 \ST@pbox=\box28
 )
 (/usr/local/texlive/2011/texmf-dist/tex/latex/caption/caption.sty
