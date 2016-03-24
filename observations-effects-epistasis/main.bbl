@@ -29,6 +29,12 @@ Pablo~D Cerd\'{a}n and Joanne Chory.
 \newblock {Regulation of flowering time by light quality.}
 \newblock {\em Nature}, 423(6942):881--5, June 2003.
 
+\bibitem{Chen2006}
+Bin Chen, Daibin Zhong, and Ant\'{o}nia Monteiro.
+\newblock {Comparative genomics and evolution of the HSP90 family of genes
+  across all kingdoms of organisms.}
+\newblock {\em BMC Genomics}, 7:156, January 2006.
+
 \bibitem{Ciccarelli2006}
 Francesca~D Ciccarelli, Tobias Doerks, Christian von Mering, Christopher~J
   Creevey, Berend Snel, and Peer Bork.
@@ -162,6 +168,12 @@ M.~Pagel.
   the Comparative Analysis of Discrete Characters}.
 \newblock {\em Proceedings of the Royal Society B: Biological Sciences},
   255(1342):37--45, January 1994.
+
+\bibitem{Pagel2006}
+M~Pagel and A~Meade.
+\newblock {Bayesian analysis of correlated evolution of discrete characters by
+  reversible-jump Markov chain Monte Carlo}.
+\newblock {\em The American naturalist}, 167(6):808--825, 2006.
 
 \bibitem{Rambaut2008}
 A~Rambaut and AJ~Drummond.

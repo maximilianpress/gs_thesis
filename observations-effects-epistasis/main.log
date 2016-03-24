@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2011.7.3)  23 MAR 2016 17:29
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2011.7.3)  23 MAR 2016 17:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1004,33 +1004,15 @@ Overfull \hbox (0.25174pt too wide) detected at line 25
  []
 
 
-LaTeX Warning: Citation `Chen2006' on page iv undefined on input line 32.
-
-
-LaTeX Warning: Citation `Munoz2012' on page iv undefined on input line 32.
-
-
-Overfull \hbox (5.25156pt too wide) in paragraph at lines 32--32
- [][] [][]\EU1/HoeflerText(0)/m/n/12 Phylogenetic clustering of bacterial hsp90
- paralogs. (A) Neighbor-joining 
+Overfull \hbox (0.3937pt too wide) in paragraph at lines 28--28
+ [][] [][]\EU1/HoeflerText(0)/m/n/12 Structure of the PFT1 protein. Important f
+eatures and domains are indi- 
  []
 
 
-Overfull \hbox (10.5733pt too wide) in paragraph at lines 32--32
- \EU1/HoeflerText(0)/m/n/12 phylogeny of 897 bacterial Hsp90 amino acid sequenc
-es. Groups Hsp90A, 
- []
-
-
-Overfull \hbox (3.46199pt too wide) in paragraph at lines 32--32
- \EU1/HoeflerText(0)/m/n/12 Consensus neighbor-joining tree for 100 bootstraps 
-with clades collapsed 
- []
-
-
-Overfull \hbox (9.52pt too wide) in paragraph at lines 32--32
- \EU1/HoeflerText(0)/m/n/12 rRNA phylogeny of 797 bacterial species [[]] (see A
-ppendix 7 Text). Branch 
+Overfull \hbox (0.21362pt too wide) in paragraph at lines 28--28
+ \EU1/HoeflerText(0)/m/n/12 cated. vWFA: van Willebrand Factor A domain, FH1: F
+ormin homology 
  []
 
 
@@ -1039,7 +1021,38 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [4
 
 ]
-Overfull \hbox (43.17114pt too wide) in paragraph at lines 37--37
+
+LaTeX Warning: Citation `Chen2006' on page v undefined on input line 33.
+
+
+LaTeX Warning: Citation `Munoz2012' on page v undefined on input line 33.
+
+
+Overfull \hbox (5.25156pt too wide) in paragraph at lines 33--33
+ [][] [][]\EU1/HoeflerText(0)/m/n/12 Phylogenetic clustering of bacterial hsp90
+ paralogs. (A) Neighbor-joining 
+ []
+
+
+Overfull \hbox (10.5733pt too wide) in paragraph at lines 33--33
+ \EU1/HoeflerText(0)/m/n/12 phylogeny of 897 bacterial Hsp90 amino acid sequenc
+es. Groups Hsp90A, 
+ []
+
+
+Overfull \hbox (3.46199pt too wide) in paragraph at lines 33--33
+ \EU1/HoeflerText(0)/m/n/12 Consensus neighbor-joining tree for 100 bootstraps 
+with clades collapsed 
+ []
+
+
+Overfull \hbox (9.52pt too wide) in paragraph at lines 33--33
+ \EU1/HoeflerText(0)/m/n/12 rRNA phylogeny of 797 bacterial species [[]] (see A
+ppendix 7 Text). Branch 
+ []
+
+
+Overfull \hbox (43.17114pt too wide) in paragraph at lines 38--38
  [][] [][]\EU1/HoeflerText(0)/m/n/12 HtpG interactions with FliN and CheA are d
 ependent on the DnaJ/CbpA/DnaK 
  []
@@ -1048,9 +1061,16 @@ ependent on the DnaJ/CbpA/DnaK
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
- [5] [6
 
-] [7] [8
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5]
+[6] [7
+
+] [8] [9
+
+] [10
+
 
 ]
 <<1>>
@@ -1063,8 +1083,6 @@ able
 (Font)              Font shape `EU1/HoeflerText(0)/m/it' tried instead on input
  line 279.
 [1
-
-
 
 ]
 <<2>>
@@ -1616,31 +1634,31 @@ al gene links from
 [86
 
 ]
-Underfull \hbox (badness 1337) in paragraph at lines 69--73
+Underfull \hbox (badness 1337) in paragraph at lines 75--79
 []\EU1/HoeflerText(0)/m/n/12 Ryan J Haasl and Bret A Payseur.  REMARKABLE SELEC
 TIVE CON-
  []
 
 [87]
-Underfull \hbox (badness 1052) in paragraph at lines 127--132
+Underfull \hbox (badness 1052) in paragraph at lines 133--138
 \EU1/HoeflerText(0)/m/n/12 LTPs104 of the All-Species Living Tree.  \EU1/Hoefle
 rText(0)/m/it/12 Systematic and applied microbiology\EU1/HoeflerText(0)/m/n/12 
 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--169
+Underfull \hbox (badness 10000) in paragraph at lines 179--181
 []\EU1/HoeflerText(0)/m/n/12 A Rambaut and AJ Drummond.  Tracer v1.5, Available
  from
  []
 
 [88]
-Underfull \hbox (badness 1024) in paragraph at lines 215--221
+Underfull \hbox (badness 1024) in paragraph at lines 227--233
 []\EU1/HoeflerText(0)/m/n/12 Amanda C Wollenberg, Bárbara Strasser, Pablo D Ce
 rdán, and Richard M
  []
 
-) [89]
+[89]) [90]
 <<A>>
 File: undurraga2012_figures/SupplText/SuppFig1.png Graphic file (type QTm)
 <use  "undurraga2012_figures/SupplText/SuppFig1.png" >
@@ -1658,9 +1676,9 @@ Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
-[90
+[91
 
-] [91]
+] [92]
 File: undurraga2012_figures/SupplText/SuppFig2.png Graphic file (type QTm)
  <use  "undurraga2012_figures/SupplText/SuppFig2.png" >
 
@@ -1671,7 +1689,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 1163.
 See the caption package documentation for explanation.
 
-[92] [93]
+[93] [94]
 File: undurraga2012_figures/SupplText/S3.png Graphic file (type QTm)
  <use  "undurraga2012_figures/SupplText/S3.png" >
 
@@ -1679,7 +1697,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 1174.
 See the caption package documentation for explanation.
 
-[94] [95]
+[95] [96]
 File: undurraga2012_figures/SupplText/S4.png Graphic file (type QTm)
  <use  "undurraga2012_figures/SupplText/S4.png" >
 
@@ -1703,17 +1721,12 @@ Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
-[96] [97] [98]
+[97] [98] [99]
 File: undurraga2012_figures/SupplText/S6.png Graphic file (type QTm)
  <use  "undurraga2012_figures/SupplText/S6.png" >
 File: f2_batches_badvsgood_111915.pdf Graphic file (type QTm)
 
-<use  "f2_batches_badvsgood_111915.pdf" >
-Overfull \hbox (71.595pt too wide) in paragraph at lines 1201--1202
-[][] 
- []
-
-[99] [100] [101]
+<use  "f2_batches_badvsgood_111915.pdf" > [100] [101] [102]
 
 Package caption Warning: The caption type was already set to `figure'
 (caption)                 on input line 1223.
@@ -1724,9 +1737,9 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 1223.
 See the caption package documentation for explanation.
 
-[102
+[103
 
-] [103] [104] [105
+] [104] [105] [106
 
 ]
 
@@ -1734,7 +1747,7 @@ Package caption Warning: The caption type was already set to `figure'
 (caption)                 on input line 1423.
 See the caption package documentation for explanation.
 
-[106
+[107
 
 ]
 
@@ -1742,7 +1755,7 @@ Package caption Warning: The caption type was already set to `figure'
 (caption)                 on input line 1469.
 See the caption package documentation for explanation.
 
-[107]
+[108]
 
 Package caption Warning: The caption type was already set to `figure'
 (caption)                 on input line 1521.
@@ -1758,61 +1771,61 @@ Overfull \hbox (1.23427pt too wide) in alignment at lines 1546--1562
  [] [] 
  []
 
-[108] [109]
+[109] [110]
 <<B>>
-[110
+File: pft1_resubmit_2014/pft1_figs1-01.jpg Graphic file (type QTm)
+<use  "pft1_resubmit_2014/pft1_figs1-01.jpg" >
+Overfull \hbox (15.50996pt too wide) in paragraph at lines 1599--1622
+[][] 
+ []
 
-]
-<<C>>
 [111
+
+] [112] [113] [114] [115]
+<<C>>
+[116
 
 ]
 <<D>>
-[112
+[117
 
 ]
 <<E>>
-[113
+[118
 
 ]
 <<F>>
-Invalid UTF-8 byte or sequence at line 1585 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1585 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1695 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1695 replaced by U+FFFD.
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
-Invalid UTF-8 byte or sequence at line 1586 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1586 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1696 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1696 replaced by U+FFFD.
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
 
-LaTeX Warning: Citation `Pagel2006' on page 114 undefined on input line 1586.
+LaTeX Warning: Citation `Pagel2006' on page 119 undefined on input line 1696.
 
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
-Invalid UTF-8 byte or sequence at line 1591 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1701 replaced by U+FFFD.
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
-[114
+[119
 
-] [115] [116]
+] [120] [121]
 File: htpg/fig_s1_020713.png Graphic file (type QTm)
  <use  "htpg/fig_s1_020713.png" >
 
-LaTeX Warning: Citation `Chen2006' on page 117 undefined on input line 1599.
+LaTeX Warning: Citation `Chen2006' on page 122 undefined on input line 1709.
 
 
-LaTeX Warning: Citation `Munoz2012' on page 117 undefined on input line 1599.
+LaTeX Warning: Citation `Chen2006' on page 122 undefined on input line 1709.
 
 
-LaTeX Warning: Citation `Chen2006' on page 117 undefined on input line 1599.
-
-
-LaTeX Warning: Citation `Munoz2012' on page 117 undefined on input line 1599.
-
-
-Overfull \hbox (1.1205pt too wide) in paragraph at lines 1599--1599
+Overfull \hbox (1.1205pt too wide) in paragraph at lines 1709--1709
 \EU1/HoeflerText(0)/m/n/12 and Hsp90C as defined by Chen et al. [[]] are illust
 rated. (B) Consensus neighbor-joining
  []
@@ -1828,38 +1841,38 @@ File: htpg/fig_s5.png Graphic file (type QTm)
 <use  "htpg/fig_s5.png" >
 File: htpg/fig_s6.png Graphic file (type QTm)
  <use  "htpg/fig_s6.png" >
-Underfull \hbox (badness 4479) in paragraph at lines 1634--1634
+Underfull \hbox (badness 4479) in paragraph at lines 1744--1744
 []\EU1/HoeflerText(0)/m/n/12 Figure F.6: |HtpG interactions with FliN and CheA 
 are dependent on the
  []
 
 
-LaTeX Warning: Float too large for page by 10.26498pt on input line 1636.
+LaTeX Warning: Float too large for page by 10.26498pt on input line 1746.
 
 
-Overfull \hbox (18.23064pt too wide) in paragraph at lines 1640--1660
+Overfull \hbox (18.23064pt too wide) in paragraph at lines 1750--1770
 [][] 
  []
 
 
-Overfull \hbox (19.01103pt too wide) in paragraph at lines 1731--1749
+Overfull \hbox (19.01103pt too wide) in paragraph at lines 1841--1859
 [][] 
  []
 
-[117] [118] [119] [120] [121] [122] [123] [124] [125] [126] [127]
+[122] [123] [124] [125] [126] [127] [128] [129] [130] [131] [132]
 <<G>>
-[128
+[133
 
 ]
 <<H>>
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1779.
-[129
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1889.
+[134
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1779.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1889.
  (./main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1779.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1779.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1889.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1889.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1870,15 +1883,15 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1779.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1889.
  ) 
 Here is how much of TeX's memory you used:
- 17997 strings out of 494150
- 296384 string characters out of 3152950
- 445174 words of memory out of 3000000
- 20979 multiletter control sequences out of 15000+200000
+ 18009 strings out of 494150
+ 296582 string characters out of 3152950
+ 446965 words of memory out of 3000000
+ 20989 multiletter control sequences out of 15000+200000
  7736 words of font info for 57 fonts, out of 3000000 for 9000
  1018 hyphenation exceptions out of 8191
  53i,9n,92p,3106b,477s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on main.pdf (143 pages).
+Output written on main.pdf (150 pages).

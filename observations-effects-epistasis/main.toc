@@ -100,12 +100,12 @@
 \contentsline {subsection}{\numberline {9.3.4}Tables of contents}{85}{subsection.9.3.4}
 \contentsline {subsection}{\numberline {9.3.5}Acknowledgments}{85}{subsection.9.3.5}
 \contentsline {chapter}{\@textofBIB }{86}{chapter*.15}
-\contentsline {chapter}{\numberline {\@textofAppendix \ A:}Supporting Chapter 2}{90}{appendix.A}
-\contentsline {chapter}{\numberline {\@textofAppendix \ B:}Supporting Chapter 3}{110}{appendix.B}
-\contentsline {chapter}{\numberline {\@textofAppendix \ C:}Supporting Chapter 4}{111}{appendix.C}
-\contentsline {chapter}{\numberline {\@textofAppendix \ D:}Supporting Chapter 5}{112}{appendix.D}
-\contentsline {chapter}{\numberline {\@textofAppendix \ E:}Supporting Chapter 6}{113}{appendix.E}
-\contentsline {chapter}{\numberline {\@textofAppendix \ F:}Supporting Chapter 7}{114}{appendix.F}
-\contentsline {section}{\numberline {F.1}Supporting Text}{114}{section.F.1}
-\contentsline {chapter}{\numberline {\@textofAppendix \ G:}Supporting Chapter 8}{128}{appendix.G}
-\contentsline {chapter}{\numberline {\@textofAppendix \ H:}Where to find the files}{129}{appendix.H}
+\contentsline {chapter}{\numberline {\@textofAppendix \ A:}Supporting Chapter 2}{91}{appendix.A}
+\contentsline {chapter}{\numberline {\@textofAppendix \ B:}Supporting Chapter 3}{111}{appendix.B}
+\contentsline {chapter}{\numberline {\@textofAppendix \ C:}Supporting Chapter 4}{116}{appendix.C}
+\contentsline {chapter}{\numberline {\@textofAppendix \ D:}Supporting Chapter 5}{117}{appendix.D}
+\contentsline {chapter}{\numberline {\@textofAppendix \ E:}Supporting Chapter 6}{118}{appendix.E}
+\contentsline {chapter}{\numberline {\@textofAppendix \ F:}Supporting Chapter 7}{119}{appendix.F}
+\contentsline {section}{\numberline {F.1}Supporting Text}{119}{section.F.1}
+\contentsline {chapter}{\numberline {\@textofAppendix \ G:}Supporting Chapter 8}{133}{appendix.G}
+\contentsline {chapter}{\numberline {\@textofAppendix \ H:}Where to find the files}{134}{appendix.H}
