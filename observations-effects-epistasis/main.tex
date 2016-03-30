@@ -130,13 +130,13 @@
 % unusual footnote not found in a real thesis
 % You just use the \titlepage as commented out above
 
-{$\degree$text{A dissertation %
+%{$\degree$text{A dissertation %
 %  \footnote[2]{an egocentric imitation, actually}\\
-  submitted in partial fulfillment of the\\ requirements for the degree of}
- \def\thefootnote{\fnsymbol{footnote}}
- \let\footnoterule\relax
+%  submitted in partial fulfillment of the\\ requirements for the degree of}
+ %\def\thefootnote{\fnsymbol{footnote}}
+ %\let\footnoterule\relax
  \titlepage
- }
+% }
 \setcounter{footnote}{0}
 
 % --- end-of-sample-stuff ---
@@ -175,9 +175,11 @@ The informational content of genomes is usually interpreted as a sum of one-to-o
   % {\narrower\noindent
 I would like to thank my advisors, Christine Queitsch and Elhanan Borenstein, for letting me ride my ideas as far as I did (and equally, for curtailing those ideas when they got ridiculous). I would also like to thank Bob Kaplan, Katie Peichel, and Sue Biggins for saving Elhanan and Christine some trouble in mentoring me before I started my doctoral work. 
 
-I would like to thank my thesis committee: Joe Felsenstein, Willie Swanson, and Evgeni Sokurenko. Joe in particular was generous with his time early on, in helping me to understand phylogenies and discrete character evolution.
+I would like to thank my thesis committee: Joe Felsenstein, Willie Swanson, and Evgeni Sokurenko. Joe in particular was generous with his time throughout my studies, in discussing both technical points of character evolution and the history of genetics.
 
 I would like to thank my co-belligerents in the Queitsch and the Borenstein labs, for what was surely a miracle of patience.
+
+I would like to thank other trainees at the University of Washington for lots of discussions and lessons that have helped me in developing my ideas,  in particular Matthew Snyder. 
 
 I would like to thank my parents for everything. 
 
@@ -248,35 +250,49 @@ the imagined pine, the imagined jay.
 % ========== Chapter 1
  
 \chapter {Introduction} 
+\section{Historical notes on heredity and phenotypes}
+The first decades of the 20th century was an exciting time for genetics. Mendel's work had been rediscovered, Galton's had never been forgot, and the debate between Darwinists and Lamarckists was waged with increasingly precise experimental tests. The crucial question under study was the mechanism of heredity; that is, how are observable differences in character among organisms propagated across generations \cite{Johannsen1911}? For example, Galton chose to investigate the relative roles of `nature' and `nurture' by studying the characteristics of twins \cite{Galton1875}, and Johannsen self-fertilized crop plants to obtain genetically identical `pure lines' where the same qualities could be studied more exactly \cite{Johannsen1909}. These investigations almost unconsciously led to a further question: how does the ontogeny of an organism give rise to a character? Specifically, immediately following Johannsen, Woltereck used `pure lines' of Daphnia to show that specific morphological changes could be reproducibly achieved by either manipulating growth conditions or substituting different types of Daphnia  \cite{Woltereck1909}. 
 
-\section{Practical and conceptual approaches to the genotype-phenotype problem}
-The first decades of the 20th century was an eventful time for genetics. Mendel's work had been rediscovered, Galton's had never been forgot, and the debate between Darwinists and Lamarckists was waged with increasingly precise experimental tests. The crucial question under study was the mechanism of heredity; that is, how are observable differences in character among organisms propagated across generations \cite{Johannsen1911}? For example, Galton chose to investigate the relative roles of `nature' and `nurture' by studying the characteristics of twins \cite{Galton1875}, and Johannsen self-fertilized crop plants to obtain genetically identical `pure lines' where the same qualities could be studied more exactly \cite{Johannsen1909}. These investigations almost unconsciously led to a further question: how does the ontogeny of an organism give rise to a character? Specifically, immediately following Johannsen, Woltereck used `clean lines' of Daphnia to show that specific morphological changes could be reproducibly achieved by either manipulating growth conditions or substituting different Daphnia cultures \cite{Woltereck1909}. 
+The first question, of heredity, is by far the easier, having been answered in formal terms by the succeeding century of research into chromosome theory, genetic mapping, and a litany of other inheritance mechanisms. The second question, being much more open-ended, must be answered anew in each case. For instance, Woltereck's observation that the head-height of \emph{Hyalodaphnia cucullata} may be increased by a combination of heat and rich food is unlikely to generalize to the articulation of finger bones in humans, though in both cases heritable variation in these traits may be attributed to definite loci on inherited chromosomes in the respective organisms. However, I would argue that the examination of causes in the first question (heredity) requires a reasonably good answer to the second (physiological mechanism).
 
-The first question, of heredity, is by far the easier, having been answered in at least formal terms by the succeeding century of research into chromosome theory, genetic mapping, and a litany of other inheritance mechanisms. The second question, being much more open-ended, must be answered anew in each case. For instance, Woltereck's conclusion that the head-height of \emph{Hyalodaphnia cucullata} may be increased by a combination of heat and rich food is unlikely to generalize to the articulation of finger bones in humans. However, I would argue that the examination of causes in the first question (heredity) requires a reasonably good answer to the second (mechanism). 
+However, for many years our ability to ascertain such mechanism was essentially nil with respect to the molecular activity of the heritable material itself. It was generally agreed that some chemical activity probably distinguished genes, but the majority of important work was determined by studying segregation ratios from crosses. Nonetheless, the ideas of `genes' and of `genotypes' provided rich material for early geneticists, assisting the resolution of quite complicated segregation patterns. Specifically, understanding the gene as a discrete locus with influence upon a character (or `phenotype') allowed the development of Mendelian thought. The biometricians (such as Galton) were, in contrast, interested in exploring the phenomena underlying continuous variation in characters. This view of hereditary variation was apparently in conflict with the Mendelian model of a few discrete packets of  genetic information. Out of this debate, from the Mendelian side, came the now-familiar idea of the `gene' (a discrete genetic determinant of a character), the `genotype' (a fixed complement of genes in a given organism), and the `phenotype' (the directly observable character which can be measured upon a given organism) \cite{Johannsen1911}. 
 
-
-
-
-\cite{Wimsatt1980}
+Fisher put an end to this dispute with a magisterial mathematical framework \cite{Fisher1918} showing that Mendelian segregation of genes could in principle lead to continuous variation in phenotypes. This framework assumed the activity of many genes with small, independent contributions to phenotype, and a fixed population under study. 
 
 
-\section{Linear models, Fisher, and statistical estimation of genotype-phenotype maps}
-%\cite{Lewontin1974,Lewontin2006}
+\subsection{Fisher's innovations.}
+
+
+\subsection{Wright's apostasies.}
+
+
+
+\section{The many names of epistasis.}
+
+
+\subsection{The uses of additivity.}
+
+
+\subsection{Statistical, physiological, and molecular epistases.}
+
+
+
+\section{Epistasis and the evolutionary process}
 
  
-\section{Epistasis}
- 
-\section{Fast-evolving genetic elements}
- 
-\subsection{Short tandem repeats (STRs)}
+\subsection{Fast-evolving genetic elements}
 
-\subsection{Horizontal acquisition of genetic material}
 
-\section{Evolutionary implications of fast-evolving genome architectures}
+\subsubsection{Short tandem repeats (STRs)}
 
-\subsection{Tinkering and kludging in evolution}
+\subsubsection{Horizontal acquisition of genetic material}
 
-\subsection{Parallelism and Predictability}
+
+\subsection{Evolutionary implications of fast-evolving genome architectures}
+
+\subsubsection{Tinkering and kludging in evolution}
+
+\subsubsection{Parallelism and Predictability}
 
 
  
@@ -703,6 +719,16 @@ A version of this chapter is under review for publication, and is available at:
 http://biorxiv.org/content/early/2015/09/27/027649.
 
 Supporting figures and tables can be found in Appendix G.
+
+
+%%%%% CONCLUSIONS IS ITS OWN CHAPTER RIGHT?????
+\chapter{Conclusions}
+
+
+
+
+
+
 
 
 % ========== Chapter 3
@@ -1576,7 +1602,7 @@ PFT1
 \begin{figure}
 \graphicspath{{}}
 \includegraphics[width=5.5in]{pft1_resubmit_2014/pft1_figs1-01.jpg}
-\caption{Structure of the PFT1 protein. Important features and domains are indicated. vWFA: van Willebrand Factor A domain, FH1: Formin homology 1 domain, VP16: VP16-like interaction domain, POLYQ: glutamine-rich domain including the polyglutamine encoded by the PFT1 STR. Also indicated is the difference between the two splice forms of PFT1 (minor splice form, PFT1.2, lacks a small exon), and the site of the T-DNA insertion in the pft1-2 mutant.}
+\caption[Structure of the PFT1 protein. ]{Structure of the PFT1 protein. Important features and domains are indicated. vWFA: van Willebrand Factor A domain, FH1: Formin homology 1 domain, VP16: VP16-like interaction domain, POLYQ: glutamine-rich domain including the polyglutamine encoded by the PFT1 STR. Also indicated is the difference between the two splice forms of PFT1 (minor splice form, PFT1.2, lacks a small exon), and the site of the T-DNA insertion in the pft1-2 mutant.}
 \label{fig:app2fig1}
 \end{figure}
 
@@ -1698,42 +1724,42 @@ elf3 temp sensing
 \begin{figure}
 \graphicspath{{}}
 \includegraphics[width=5.5in]{htpg/fig_s1_020713.png}
-\caption{Phylogenetic clustering of bacterial hsp90 paralogs. (A) Neighbor-joining phylogeny of 897 bacterial Hsp90 amino acid sequences. Groups Hsp90A, Hsp90B, and Hsp90C as defined by Chen et al. \cite{Chen2006} are illustrated. (B) Consensus neighbor-joining tree for 100 bootstraps with clades collapsed to highlight deep branch structure. Bootstrap support for each branch is displayed and is also reflected by the branch lengths. One species (ZIN, representing Hsp90 from the organism Candidatus Zinderia insecticola CARI), never grouped within the other divisions shown, and was excluded from our analysis. The branch separating Hsp90B and Hsp90C from the Hsp90A clades is present in 99/100 bootstrap trees. (C) Hsp90A, B, and C presence/absence patterns mapped onto a 16S/23S rRNA phylogeny of 797 bacterial species \cite{Munoz2011} (see Appendix 7 Text). Branch lengths are ignored for ease of display.}
+\caption[Phylogenetic clustering of bacterial hsp90 paralogs.]{Phylogenetic clustering of bacterial hsp90 paralogs. (A) Neighbor-joining phylogeny of 897 bacterial Hsp90 amino acid sequences. Groups Hsp90A, Hsp90B, and Hsp90C as defined by Chen et al. \cite{Chen2006} are illustrated. (B) Consensus neighbor-joining tree for 100 bootstraps with clades collapsed to highlight deep branch structure. Bootstrap support for each branch is displayed and is also reflected by the branch lengths. One species (ZIN, representing Hsp90 from the organism Candidatus Zinderia insecticola CARI), never grouped within the other divisions shown, and was excluded from our analysis. The branch separating Hsp90B and Hsp90C from the Hsp90A clades is present in 99/100 bootstrap trees. (C) Hsp90A, B, and C presence/absence patterns mapped onto a 16S/23S rRNA phylogeny of 797 bacterial species \cite{Munoz2011} (see Appendix 7 Text). Branch lengths are ignored for ease of display.}
 \label{fig:app7fig1}
 \end{figure}
 
 \begin{figure}
 \graphicspath{{}}
 \includegraphics[width=5.5in]{htpg/fig_s2.jpg}
-\caption{Co-evolutionary gain and loss rates of all hsp90A- associated flagellar genes. The layout of each diagram is similar to that used in Figure 2.}	% need a ref
+\caption[Co-evolutionary gain and loss rates of all hsp90A- associated flagellar genes.]{Co-evolutionary gain and loss rates of all hsp90A- associated flagellar genes. The layout of each diagram is similar to that used in Figure 2.}	% need a ref
 \label{fig:app7fig2}
 \end{figure}
 
 \begin{figure}
 \graphicspath{{}}
 \includegraphics[width=5.5in]{htpg/fig_s3.png}
-\caption{Co-evolutionary gain and loss rates of all hsp90A- associated secretion genes. The layout of each diagram is similar to that used in Figure 2.}	% need a ref
+\caption[Co-evolutionary gain and loss rates of all hsp90A- associated secretion genes.]{Co-evolutionary gain and loss rates of all hsp90A- associated secretion genes. The layout of each diagram is similar to that used in Figure 2.}	% need a ref
 \label{fig:app7fig3}
 \end{figure}
 
 \begin{figure}
 \graphicspath{{}}
 \includegraphics[width=5.5in]{htpg/fig_s4.png}
-\caption{Box plots of the rates of gain and loss of all hsp90A- associated secretion genes (n = 16). See also Figure 2D.}	% need a ref
+\caption[Box plots of the rates of gain and loss of all hsp90A- associated secretion genes.]{Box plots of the rates of gain and loss of all hsp90A- associated secretion genes (n = 16). See also Figure 2D.}	% need a ref
 \label{fig:app7fig4}
 \end{figure}
 
 \begin{figure}
 \graphicspath{{}}
 \includegraphics[width=5.5in]{htpg/fig_s5.png}
-\caption{The htpG(E34A) mutant strain shows decreased motility/chemotaxis. (A) Plates were inoculated with the same amount of wild-type MG1655 (top), the $\Delta$ htpG mutant (bottom left) and the htpG(E34A) mutant (bottom right) cells and incubated at indicated temperatures for 6 hr. (B) Relative motility of $\Delta$ htpG and htpG(E34A) mutants, compared to wild type, at indicated temperatures, quantified by the diameter of the outer rings of spreading colonies. Error bars indicate standard errors from two replicates.}	% need a ref
+\caption[The htpG(E34A) mutant strain shows decreased motility/chemotaxis. ]{The htpG(E34A) mutant strain shows decreased motility/chemotaxis. (A) Plates were inoculated with the same amount of wild-type MG1655 (top), the $\Delta$ htpG mutant (bottom left) and the htpG(E34A) mutant (bottom right) cells and incubated at indicated temperatures for 6 hr. (B) Relative motility of $\Delta$ htpG and htpG(E34A) mutants, compared to wild type, at indicated temperatures, quantified by the diameter of the outer rings of spreading colonies. Error bars indicate standard errors from two replicates.}	% need a ref
 \label{fig:app7fig5}
 \end{figure}
 
 \begin{figure}
 \graphicspath{{}}
 \includegraphics[height=5.5in]{htpg/fig_s6.png}
-\caption{HtpG interactions with FliN and CheA are dependent on the DnaJ/CbpA/DnaK chaperone system. Acceptor photobleaching FRET was measured between HtpG and FliN (A) or CheA (B). In each panel, HtpG(E34A) (top row) and wild- type HtpG (bottom row) were assayed, and experiments were performed in both WT (left column) and DdnaJDcbpA (right column) backgrounds. Y-axes are normalized in each case to the mean CFP signal before bleaching (first 45 s). Photobleaching begins at ,50 s and lasts for 20 s (indicated by black bar). FRET interaction is indicated by a post-photobleaching increase in CFP signal above pre-photobleaching CFP signal (as observed in all experiments in the WT background).}	% need a ref
+\caption[HtpG interactions with FliN and CheA are dependent on the DnaJ/CbpA/DnaK chaperone system.]{HtpG interactions with FliN and CheA are dependent on the DnaJ/CbpA/DnaK chaperone system. Acceptor photobleaching FRET was measured between HtpG and FliN (A) or CheA (B). In each panel, HtpG(E34A) (top row) and wild- type HtpG (bottom row) were assayed, and experiments were performed in both WT (left column) and DdnaJDcbpA (right column) backgrounds. Y-axes are normalized in each case to the mean CFP signal before bleaching (first 45 s). Photobleaching begins at ,50 s and lasts for 20 s (indicated by black bar). FRET interaction is indicated by a post-photobleaching increase in CFP signal above pre-photobleaching CFP signal (as observed in all experiments in the WT background).}	% need a ref
 \label{fig:app7fig6}
 \end{figure}
 
