@@ -85,6 +85,13 @@ Sabrina I\~{n}igo, Mariano~J Alvarez, B\'{a}rbara Strasser, Andrea Califano,
   Arabidopsis.}
 \newblock {\em The Plant Journal}, 69(4):601--12, February 2012.
 
+\bibitem{Jeong2015}
+Hyeonsoo Jeong, Samsun Sung, Taehyung Kwon, Minseok Seo, Kelsey
+  Caetano-Anoll\'{e}s, Sang~Ho Choi, Seoae Cho, Arshan Nasir, and Heebal Kim.
+\newblock {HGTree: database of horizontally transferred genes determined by
+  tree reconciliation.}
+\newblock {\em Nucleic acids research}, 44(D1):D610--619, November 2015.
+
 \bibitem{Johannsen1911}
 W~Johannsen.
 \newblock {The Genotype Conception of Heredity}.
@@ -146,6 +153,12 @@ Ra\'{u}l Munoz, Pablo Yarza, Wolfgang Ludwig, Jean Euz\'{e}by, Rudolf Amann,
 \newblock {Release LTPs104 of the All-Species Living Tree.}
 \newblock {\em Systematic and applied microbiology}, 34(3):169--70, May 2011.
 
+\bibitem{Nowell2014}
+Reuben~W Nowell, Sarah Green, Bridget~E Laue, and Paul~M Sharp.
+\newblock {The extent of genome flux and its role in the differentiation of
+  bacterial lineages.}
+\newblock {\em Genome biology and evolution}, 6(6):1514--29, January 2014.
+
 \bibitem{Nusinow2011}
 Dmitri~A Nusinow, Anne Helfer, Elizabeth~E Hamilton, Jasmine~J King, Takato
   Imaizumi, Thomas~F Schultz, Eva~M Farr\'{e}, and Steve~A Kay.
@@ -184,6 +197,13 @@ M~Pagel and A~Meade.
 \newblock {Bayesian analysis of correlated evolution of discrete characters by
   reversible-jump Markov chain Monte Carlo}.
 \newblock {\em The American naturalist}, 167(6):808--825, 2006.
+
+\bibitem{Puigbo2014}
+Pere Puigb\`{o}, Alexander~E Lobkovsky, David~M Kristensen, Yuri~I Wolf, and
+  Eugene~V Koonin.
+\newblock {Genomes in turmoil: Quantification of genome dynamics in prokaryote
+  supergenomes.}
+\newblock {\em BMC biology}, 12(1):66, August 2014.
 
 \bibitem{Rambaut2008}
 A~Rambaut and AJ~Drummond.
@@ -226,12 +246,6 @@ Soledad~Francisca Undurraga, Maximilian~Oliver Press, Matthieu Legendre, Nora
 Kevin~J Verstrepen, An~Jansen, Fran Lewitter, and Gerald~R Fink.
 \newblock {Intragenic tandem repeats generate functional variability.}
 \newblock {\em Nature genetics}, 37(9):986--90, September 2005.
-
-\bibitem{Wimsatt1980}
-William~C Wimsatt.
-\newblock {The Units of Selection and the Structure of the Multi-Level Genome}.
-\newblock {\em PSA: Proceedings of the Biennial Meeting of the Philosophy of
-  Science Association}, 1980:122--183, January 1980.
 
 \bibitem{Wollenberg2008}
 Amanda~C Wollenberg, B\'{a}rbara Strasser, Pablo~D Cerd\'{a}n, and Richard~M
