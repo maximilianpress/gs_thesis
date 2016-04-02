@@ -5,6 +5,11 @@ Hirotugu A~I Akaike.
 \newblock {A New Look at the Statistical Model Identification}.
 \newblock {\em IEEE Transactions on Automatic Control}, 19(6):716--723, 1974.
 
+\bibitem{Alberch1991}
+P.~Alberch.
+\newblock {From genes to phenotype: dynamical systems and evolvability}.
+\newblock {\em Genetica}, 84(1):5--11, May 1991.
+
 \bibitem{Barker2007}
 Daniel Barker, Andrew Meade, and Mark Pagel.
 \newblock {Constrained models of evolution lead to improved prediction of
@@ -53,6 +58,23 @@ D.~Escher, M.~Bodmer-Glavas, A.~Barberis, and W.~Schaffner.
 \newblock {Conservation of Glutamine-Rich Transactivation Function between
   Yeast and Humans}.
 \newblock {\em Molecular and Cellular Biology}, 20(8):2774--2782, April 2000.
+
+\bibitem{Felsenstein2013}
+Joseph Felsenstein.
+\newblock {\em {Theoretical Evolutionary Genetics}}.
+\newblock http://evolution.gs.washington.edu/pgbook/pgbook.pdf, Seattle, WA,
+  USA, 2013.
+
+\bibitem{Fisher1930}
+R.~A. Fisher.
+\newblock {\em {The Genetical Theory Of Natural Selection}}.
+\newblock Oxford University Press, 1930.
+
+\bibitem{Galton1875}
+Francis Galton.
+\newblock {The history of twins, as a criterion of the relative powers of
+  nature and nurture}.
+\newblock {\em Fraser's Magazine}, 12:566--576, 1875.
 
 \bibitem{Gatchel2005}
 Jennifer~R Gatchel and Huda~Y Zoghbi.
@@ -135,6 +157,11 @@ Noam Leviatan, Noam Alkan, Dena Leshkowitz, and Robert Fluhr.
   Arabidopsis thaliana with tiling microarray.}
 \newblock {\em PloS one}, 8(6):e66511, January 2013.
 
+\bibitem{Lewontin1974}
+R~C Lewontin.
+\newblock {Annotation: the analysis of variance and the analysis of causes.}
+\newblock {\em American journal of human genetics}, 26(3):400--11, May 1974.
+
 \bibitem{Ludwig2004}
 Wolfgang Ludwig, Oliver Strunk, Ralf Westram, Lothar Richter, Harald Meier,
   Yadhukumar, Arno Buchner, Tina Lai, Susanne Steppi, Gangolf Jobb, Wolfram
@@ -198,13 +225,6 @@ M~Pagel and A~Meade.
   reversible-jump Markov chain Monte Carlo}.
 \newblock {\em The American naturalist}, 167(6):808--825, 2006.
 
-\bibitem{Puigbo2014}
-Pere Puigb\`{o}, Alexander~E Lobkovsky, David~M Kristensen, Yuri~I Wolf, and
-  Eugene~V Koonin.
-\newblock {Genomes in turmoil: Quantification of genome dynamics in prokaryote
-  supergenomes.}
-\newblock {\em BMC biology}, 12(1):66, August 2014.
-
 \bibitem{Rambaut2008}
 A~Rambaut and AJ~Drummond.
 \newblock {Tracer v1.5, Available from http://beast.bio.ed.ac.uk/Tracer}, 2008.
@@ -246,6 +266,12 @@ Soledad~Francisca Undurraga, Maximilian~Oliver Press, Matthieu Legendre, Nora
 Kevin~J Verstrepen, An~Jansen, Fran Lewitter, and Gerald~R Fink.
 \newblock {Intragenic tandem repeats generate functional variability.}
 \newblock {\em Nature genetics}, 37(9):986--90, September 2005.
+
+\bibitem{Wimsatt1980}
+William~C Wimsatt.
+\newblock {The Units of Selection and the Structure of the Multi-Level Genome}.
+\newblock {\em PSA: Proceedings of the Biennial Meeting of the Philosophy of
+  Science Association}, 1980:122--183, January 1980.
 
 \bibitem{Wollenberg2008}
 Amanda~C Wollenberg, B\'{a}rbara Strasser, Pablo~D Cerd\'{a}n, and Richard~M
