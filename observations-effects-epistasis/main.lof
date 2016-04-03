@@ -42,5 +42,8 @@
 \contentsline {figure}{\numberline {G.2}{\ignorespaces Comparison of evolution of real genes with genes with simulated evolution under various models. }}{170}{figure.caption.53}
 \contentsline {figure}{\numberline {G.3}{\ignorespaces Some regions of the parameter space are underpowered to detect PGCEs.}}{172}{figure.caption.54}
 \contentsline {figure}{\numberline {G.4}{\ignorespaces A global network of directional dependencies between prokaryotic genes (PGCEs)}}{173}{figure.caption.55}
-\contentsline {figure}{\numberline {G.5}{\ignorespaces Topological characteristics of the PGCE network.}}{175}{figure.caption.56}
+\contentsline {figure}{\numberline {G.5}{\ignorespaces Topological characteristics of the PGCE network.}}{174}{figure.caption.56}
+\contentsline {figure}{\numberline {G.6}{\ignorespaces A network of evolutionary dependencies between functional pathways.}}{175}{figure.caption.57}
+\contentsline {figure}{\numberline {G.7}{\ignorespaces Differences in gain counts do not explain differential sorting of genes in different functional groups.}}{178}{figure.caption.58}
+\contentsline {figure}{\numberline {G.8}{\ignorespaces Phylogenetic depth of gene gains in bacteria decreases with rank in the topological sort.}}{179}{figure.caption.59}
 \addvspace {5\p@ }
