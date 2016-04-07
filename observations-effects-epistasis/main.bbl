@@ -85,6 +85,12 @@ Minh~Duc Cao, Sureshkumar Balasubramanian, and Mikael Bod\'{e}n.
   detection.}
 \newblock {\em Briefings in bioinformatics}, pages bbu001--, February 2014.
 
+\bibitem{Carlborg2006}
+Orjan Carlborg, Lina Jacobsson, Per Ahgren, Paul Siegel, and Leif Andersson.
+\newblock {Epistasis and the release of genetic variation during long-term
+  selection.}
+\newblock {\em Nature genetics}, 38(4):418--20, April 2006.
+
 \bibitem{Carlson2015}
 Keisha~D. Carlson, Peter~H. Sudmant, Maximilian~O. Press, Evan~E. Eichler, Jay
   Shendure, and Christine Queitsch.
@@ -104,6 +110,12 @@ Avshalom Caspi, Karen Sugden, Terrie~E Moffitt, Alan Taylor, Ian~W Craig,
 Pablo~D Cerd\'{a}n and Joanne Chory.
 \newblock {Regulation of flowering time by light quality.}
 \newblock {\em Nature}, 423(6942):881--5, June 2003.
+
+\bibitem{Chen2006}
+Bin Chen, Daibin Zhong, and Ant\'{o}nia Monteiro.
+\newblock {Comparative genomics and evolution of the HSP90 family of genes
+  across all kingdoms of organisms.}
+\newblock {\em BMC Genomics}, 7:156, January 2006.
 
 \bibitem{Cheverud1995}
 J~M Cheverud and E~J Routman.
@@ -379,6 +391,13 @@ Ahmet Inanir, Sengul Tural, Serbulent Yigit, Goknur Kalkan, Gunseli~Sefika
   Beh\c{c}et’s disease and its effect on ocular involvement}.
 \newblock {\em Molecular Vision}, 19:675--683, March 2013.
 
+\bibitem{Jeong2015}
+Hyeonsoo Jeong, Samsun Sung, Taehyung Kwon, Minseok Seo, Kelsey
+  Caetano-Anoll\'{e}s, Sang~Ho Choi, Seoae Cho, Arshan Nasir, and Heebal Kim.
+\newblock {HGTree: database of horizontally transferred genes determined by
+  tree reconciliation.}
+\newblock {\em Nucleic acids research}, 44(D1):D610--619, November 2015.
+
 \bibitem{Johannsen1911}
 W~Johannsen.
 \newblock {The Genotype Conception of Heredity}.
@@ -456,6 +475,12 @@ Nevan~J Krogan, Gerard Cagney, Haiyuan Yu, Gouqing Zhong, Xinghua Guo, Alexandr
 \newblock {Global landscape of protein complexes in the yeast Saccharomyces
   cerevisiae.}
 \newblock {\em Nature}, 440(7084):637--43, March 2006.
+
+\bibitem{Lachowiec2015}
+Jennifer Lachowiec, Xia Shen, Christine Queitsch, and \"{O}rjan Carlborg.
+\newblock {A Genome-Wide Association Analysis Reveals Epistatic Cancellation of
+  Additive Genetic Variance for Root Length in Arabidopsis thaliana.}
+\newblock {\em PLoS genetics}, 11(9):e1005541, September 2015.
 
 \bibitem{Laidlaw2007}
 J.~Laidlaw, Y.~Gelfand, K.-W. Ng, H.~R. Garner, R.~Ranganathan, G.~Benson, and
@@ -575,6 +600,12 @@ David Mittelman, Kristen Sykoudis, Megan Hersh, Yunfu Lin, and John~H Wilson.
 \newblock {Hsp90 modulates CAG repeat instability in human cells.}
 \newblock {\em Cell stress \& chaperones}, 15(5):753--9, September 2010.
 
+\bibitem{Monnahan2015}
+Patrick~J. Monnahan and John~K. Kelly.
+\newblock {Epistasis Is a Major Determinant of the Additive Genetic Variance in
+  Mimulus guttatus}.
+\newblock {\em PLOS Genetics}, 11(5):e1005201, May 2015.
+
 \bibitem{Morrison2012}
 Nigel~A Morrison, Alexandre~A Stephens, Motomi Osato, Patsie Polly, Timothy~C
   Tan, Namiko Yamashita, James~D Doecke, Julie Pasco, Nicolette Fozzard, Graeme
@@ -692,6 +723,12 @@ M.~Pagel.
 \newblock {\em Proceedings of the Royal Society B: Biological Sciences},
   255(1342):37--45, January 1994.
 
+\bibitem{Pagel2006}
+M~Pagel and A~Meade.
+\newblock {Bayesian analysis of correlated evolution of discrete characters by
+  reversible-jump Markov chain Monte Carlo}.
+\newblock {\em The American naturalist}, 167(6):808--825, 2006.
+
 \bibitem{Paradis2004}
 E.~Paradis, J.~Claude, and K.~Strimmer.
 \newblock {APE: Analyses of Phylogenetics and Evolution in R language}.
@@ -749,6 +786,13 @@ Maximilian~O. Press, Keisha~D. Carlson, and Christine Queitsch.
   heritability}.
 \newblock {\em Trends in Genetics}, 30(11):504--512, August 2014.
 
+\bibitem{Puigbo2014}
+Pere Puigb\`{o}, Alexander~E Lobkovsky, David~M Kristensen, Yuri~I Wolf, and
+  Eugene~V Koonin.
+\newblock {Genomes in turmoil: Quantification of genome dynamics in prokaryote
+  supergenomes.}
+\newblock {\em BMC biology}, 12(1):66, August 2014.
+
 \bibitem{Queitsch2012}
 Christine Queitsch, Keisha~D Carlson, and Santhosh Girirajan.
 \newblock {Lessons from model organisms: phenotypic robustness and missing
@@ -804,6 +848,11 @@ Elke Schaper, Olivier Gascuel, and Maria Anisimova.
   Eukaryotes.}
 \newblock {\em Molecular biology and evolution}, 31(5):1132--1148, March 2014.
 
+\bibitem{Skipper2002}
+Robert~A. Skipper.
+\newblock {The persistence of the R.A. Fisher-Sewall Wright controversy}.
+\newblock {\em Biology and Philosophy}, 17(3):341--367.
+
 \bibitem{Sohm2011}
 Jill~A Sohm, Eric~A Webb, and Douglas~G Capone.
 \newblock {Emerging patterns of marine nitrogen fixation.}
@@ -821,6 +870,12 @@ Dorothee Staiger and John W~S Brown.
 \newblock {Alternative splicing at the intersection of biological timing,
   development, and stress responses.}
 \newblock {\em The Plant cell}, 25(10):3640--56, October 2013.
+
+\bibitem{Sturtevant1920}
+A.~H. Sturtevant.
+\newblock {GENETIC STUDIES ON DROSOPHILA SIMULANS. I. INTRODUCTION. HYBRIDS
+  WITH DROSOPHILA MELANOGASTER}.
+\newblock {\em Genetics}, 5(5):488--500, September 1920.
 
 \bibitem{Subramanian2003}
 S~Subramanian, RK~Mishra, and L~Singh.
@@ -886,10 +941,20 @@ Michael~J Wade.
   Evolutionary Biology VI}, pages 35--62. Oxford University Press, New York,
   1992.
 
+\bibitem{Wagner1998}
+G\"{u}nter~P. Wagner, Manfred~D. Laubichler, and Homayoun Bagheri-Chaichian.
+\newblock {Genetic measurement theory of epistatic effects}.
+\newblock {\em Genetica}, 102-103:569--580.
+
 \bibitem{Willems2014}
 T.~F. Willems, M.~Gymrek, G.~Highnam, D.~Mittelman, and Y.~Erlich.
 \newblock {The landscape of human STR variation}.
 \newblock {\em Genome Research}, pages gr.177774.114--, August 2014.
+
+\bibitem{Williams1966}
+GC~Williams.
+\newblock {\em {Adaptation and natural selection}}.
+\newblock Princeton University Press, New Jersey, 1966.
 
 \bibitem{Wimsatt1980}
 William~C Wimsatt.
@@ -917,6 +982,19 @@ Sewall Wright.
 \newblock {EVOLUTION IN MENDELIAN POPULATIONS}.
 \newblock {\em Genetics}, 16(2):97--159, March 1931.
 
+\bibitem{Wright1932}
+Sewall Wright.
+\newblock {THE ROLES OF MUTATION, INBREEDING, CROSSBREEDING AND SELECTION IN
+  EVOLUTION}.
+\newblock {\em Proceedings of the sixth international congress of genetics},
+  1:356--366, 1932.
+
+\bibitem{Xu2007}
+Shizhong Xu and Zhenyu Jia.
+\newblock {Genomewide analysis of epistatic effects for quantitative traits in
+  barley.}
+\newblock {\em Genetics}, 175(4):1955--63, April 2007.
+
 \bibitem{Yan2012}
 Kang Yan, Peng Liu, Chang-Ai Wu, Guo-Dong Yang, Rui Xu, Qian-Huan Guo,
   Jin-Guang Huang, and Cheng-Chao Zheng.
@@ -932,6 +1010,12 @@ Pablo Yarza, Michael Richter, J\"{o}rg Peplies, Jean Euzeby, Rudolf Amann,
   tree of all sequenced type strains.}
 \newblock {\em Systematic and applied microbiology}, 31(4):241--50, September
   2008.
+
+\bibitem{Yates1935}
+F~Yates and J~Neyman.
+\newblock {Complex Experiments (with Discussion by J. Neyman)}.
+\newblock {\em Supplement to the Journal of the Royal Statistical Society},
+  2(2):181--247, 1935.
 
 \bibitem{Yu2005}
 Fuli Yu, Pardis~C Sabeti, Paul Hardenbol, Qing Fu, Ben Fry, Xiuhua Lu,
