@@ -41,6 +41,11 @@ Daniel Barker and Mark Pagel.
   analyses of whole genomes.}
 \newblock {\em PLoS Computational Biology}, 1(1):e3, June 2005.
 
+\bibitem{Beerenwinkel2007}
+Niko Beerenwinkel, Lior Pachter, and Bernd Sturmfels.
+\newblock {EPISTASIS AND SHAPES OF FITNESS LANDSCAPES}.
+\newblock {\em Statistica Sinica}, 17(4):1317--1342, 2007.
+
 \bibitem{Benjamini1995}
 Yoav Benjamini and Yosef Hochberg.
 \newblock {Controlling the false discovery rate: a practical and powerful
@@ -140,6 +145,12 @@ Ofir Cohen and Tal Pupko.
   families using stochastic mapping.}
 \newblock {\em Molecular Biology and Evolution}, 27(3):703--13, March 2010.
 
+\bibitem{Corbett-Detig2013}
+Russell~B Corbett-Detig, Jun Zhou, Andrew~G Clark, Daniel~L Hartl, and Julien~F
+  Ayroles.
+\newblock {Genetic incompatibilities are widespread within species.}
+\newblock {\em Nature}, 504(7478):135--7, December 2013.
+
 \bibitem{Costanzo2010}
 Michael Costanzo, Anastasia Baryshnikova, Jeremy Bellay, Yungil Kim, Eric~D
   Spear, Carolyn~S Sevier, Huiming Ding, Judice L~Y Koh, Kiana Toufighi, Sara
@@ -160,6 +171,13 @@ Michael Costanzo, Anastasia Baryshnikova, Jeremy Bellay, Yungil Kim, Eric~D
 Gabor Csardi and Tamas Nepusz.
 \newblock {The igraph Software Package for Complex Network Research}.
 \newblock {\em InterJournal}, Complex Sy, 2006.
+
+\bibitem{Davis2009}
+B.~H. Davis, A.~F.Y. Poon, and M.~C. Whitlock.
+\newblock {Compensatory mutations are repeatable and clustered within
+  proteins}.
+\newblock {\em Proceedings of the Royal Society B: Biological Sciences},
+  276(1663):1823--1827, February 2009.
 
 \bibitem{Dehal2010}
 Paramvir~S Dehal, Marcin~P Joachimiak, Morgan~N Price, John~T Bates, Jason~K
@@ -288,6 +306,12 @@ Tali Gidalevitz, Ning Wang, Tanuja Deravaj, Jasmine Alexander-Floyd, and
   or toxicity in a C. elegans model for polyglutamine disease.}
 \newblock {\em BMC biology}, 11(1):100, January 2013.
 
+\bibitem{Gong2013}
+Lizhi~Ian Gong, Marc~A Suchard, and Jesse~D Bloom.
+\newblock {Stability-mediated epistasis constrains the evolution of an
+  influenza protein.}
+\newblock {\em eLife}, 2:e00631, January 2013.
+
 \bibitem{Gordon1927}
 Myron Gordon.
 \newblock {THE GENETICS OF A VIVIPAROUS TOP-MINNOW PLATYPOECILUS; THE
@@ -300,6 +324,12 @@ Audrey Guilmatre, Gareth Highnam, Christelle Borel, David Mittelman, and
 \newblock {Rapid multiplexed genotyping of simple tandem repeats using capture
   and high-throughput sequencing.}
 \newblock {\em Human mutation}, 34(9):1304--11, September 2013.
+
+\bibitem{Gupta2016}
+Aditi Gupta and Christoph Adami.
+\newblock {Strong Selection Significantly Increases Epistatic Interactions in
+  the Long-Term Evolution of a Protein}.
+\newblock {\em PLOS Genet}, 12(3):e1005960, March 2016.
 
 \bibitem{Gymrek2012}
 Melissa Gymrek, David Golan, Saharon Rosset, and Yaniv Erlich.
@@ -328,6 +358,12 @@ Anthony~J Hannan.
 \newblock {Tandem repeat polymorphisms: modulators of disease susceptibility
   and candidates for 'missing heritability'.}
 \newblock {\em Trends in genetics}, 26(2):59--65, March 2010.
+
+\bibitem{Harms2014}
+Michael~J Harms and Joseph~W Thornton.
+\newblock {Historical contingency and its biophysical basis in glucocorticoid
+  receptor evolution.}
+\newblock {\em Nature}, 512(7513):203--7, August 2014.
 
 \bibitem{Hayes2013}
 Ben Hayes.
@@ -595,6 +631,13 @@ Alex Mira, Howard Ochman, and Nancy~A. Moran.
 \newblock {Deletional bias and the evolution of bacterial genomes}.
 \newblock {\em Trends in Genetics}, 17(10):589--596, October 2001.
 
+\bibitem{Miton2016}
+Charlotte~M Miton and Nobuhiko Tokuriki.
+\newblock {How mutational epistasis impairs predictability in protein evolution
+  and design.}
+\newblock {\em Protein science : a publication of the Protein Society}, January
+  2016.
+
 \bibitem{Mittelman2010}
 David Mittelman, Kristen Sykoudis, Megan Hersh, Yunfu Lin, and John~H Wilson.
 \newblock {Hsp90 modulates CAG repeat instability in human cells.}
@@ -653,6 +696,13 @@ Ronald~M Nelson, Mats~E Pettersson, and \"{O}rjan Carlborg.
 \newblock {A century after Fisher: time for a new paradigm in quantitative
   genetics.}
 \newblock {\em Trends in genetics : TIG}, 29(12):669--76, December 2013.
+
+\bibitem{Nijbroek1995}
+G.~Nijbroek, S.~Sood, I.~McIntosh, C.~A. Francomano, E.~Bull, L.~Pereira,
+  F.~Ramirez, R.~E. Pyeritz, and H.~C. Dietz.
+\newblock {Fifteen novel FBN1 mutations causing Marfan syndrome detected by
+  heteroduplex analysis of genomic amplicons}.
+\newblock {\em American Journal of Human Genetics}, 57(1):8--21, 1995.
 
 \bibitem{Nordborg2005}
 Magnus Nordborg, Tina~T Hu, Yoko Ishino, Jinal Jhaveri, Christopher Toomajian,
@@ -768,7 +818,7 @@ Patrick~C Phillips.
 \bibitem{Poelwijk2015}
 Frank~J. Poelwijk, Vinod Krishna, and Rama Ranganathan.
 \newblock {The context-dependence of mutations: a linkage of formalisms}.
-\newblock page~6, February 2015.
+\newblock {\em ArXiv}, page~6, February 2015.
 
 \bibitem{Poeta2013}
 Loredana Poeta, Francesca Fusco, Denise Drongitis, Cheryl Shoubridge, Genesia
@@ -807,6 +857,12 @@ A~Rambaut and AJ~Drummond.
 Matthew~R Robinson, Naomi~R Wray, and Peter~M Visscher.
 \newblock {Explaining additional genetic variation in complex traits.}
 \newblock {\em Trends in genetics : TIG}, 30(4):124--132, April 2014.
+
+\bibitem{Rohlfs2010}
+Rori~V Rohlfs, Willie~J Swanson, and Bruce~S Weir.
+\newblock {Detecting coevolution through allelic association between physically
+  unlinked loci.}
+\newblock {\em American journal of human genetics}, 86(5):674--85, May 2010.
 
 \bibitem{Rosas2014}
 Ulises Rosas, Yu~Mei, Qiguang Xie, Joshua~A Banta, Royce~W Zhou, Gabriela
@@ -847,6 +903,12 @@ Elke Schaper, Olivier Gascuel, and Maria Anisimova.
 \newblock {Deep Conservation of Human Protein Tandem Repeats within the
   Eukaryotes.}
 \newblock {\em Molecular biology and evolution}, 31(5):1132--1148, March 2014.
+
+\bibitem{Schlosser2008}
+Gerhard Schlosser and G\"{u}nter~P Wagner.
+\newblock {A simple model of co-evolutionary dynamics caused by epistatic
+  selection.}
+\newblock {\em Journal of theoretical biology}, 250(1):48--65, January 2008.
 
 \bibitem{Skipper2002}
 Robert~A. Skipper.
@@ -929,10 +991,10 @@ Marcelo~D Vinces, Matthieu Legendre, Marina Caldara, Masaki Hagihara, and
   evolvability.}
 \newblock {\em Science}, 324(5931):1213--6, May 2009.
 
-\bibitem{Visscher2008}
-Peter~M Visscher, William~G Hill, and Naomi~R Wray.
-\newblock {Heritability in the genomics era--concepts and misconceptions.}
-\newblock {\em Nature reviews. Genetics}, 9(4):255--66, April 2008.
+\bibitem{Wade1991}
+M.~Wade and C.~Goodnight.
+\newblock {Wright's shifting balance theory: an experimental study}.
+\newblock {\em Science}, 253(5023):1015--1018, August 1991.
 
 \bibitem{Wade1992}
 Michael~J Wade.
@@ -944,7 +1006,19 @@ Michael~J Wade.
 \bibitem{Wagner1998}
 G\"{u}nter~P. Wagner, Manfred~D. Laubichler, and Homayoun Bagheri-Chaichian.
 \newblock {Genetic measurement theory of epistatic effects}.
-\newblock {\em Genetica}, 102-103:569--580.
+\newblock {\em Genetica}, 102-103:569--580, 1998.
+
+\bibitem{Weinreich2006}
+Daniel~M Weinreich, Nigel~F Delaney, Mark~A Depristo, and Daniel~L Hartl.
+\newblock {Darwinian evolution can follow only very few mutational paths to
+  fitter proteins.}
+\newblock {\em Science (New York, N.Y.)}, 312(5770):111--4, April 2006.
+
+\bibitem{Weinreich2013}
+Daniel~M Weinreich, Yinghong Lan, C~Scott Wylie, and Robert~B Heckendorn.
+\newblock {Should evolutionary geneticists worry about higher-order epistasis?}
+\newblock {\em Current opinion in genetics \& development}, 23(6):700--7,
+  December 2013.
 
 \bibitem{Willems2014}
 T.~F. Willems, M.~Gymrek, G.~Highnam, D.~Mittelman, and Y.~Erlich.
