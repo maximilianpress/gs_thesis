@@ -16,6 +16,13 @@ Inger Andersson and Anders Backlund.
 \newblock {\em Plant physiology and biochemistry : PPB / Soci\'{e}t\'{e}
   fran\c{c}aise de physiologie v\'{e}g\'{e}tale}, 46(3):275--91, March 2008.
 
+\bibitem{Andrew1993}
+S~E Andrew, Y~P Goldberg, B~Kremer, H~Telenius, J~Theilmann, S~Adam, E~Starr,
+  F~Squitieri, B~Lin, and M~A Kalchman.
+\newblock {The relationship between trinucleotide (CAG) repeat length and
+  clinical features of Huntington's disease.}
+\newblock {\em Nature genetics}, 4(4):398--403, August 1993.
+
 \bibitem{Atwell2010}
 Susanna Atwell, Yu~S Huang, Bjarni~J Vilhj\'{a}lmsson, Glenda Willems, Matthew
   Horton, Yan Li, Dazhe Meng, Alexander Platt, Aaron~M Tarone, Tina~T Hu, Rong
@@ -133,6 +140,12 @@ Francesca~D Ciccarelli, Tobias Doerks, Christian von Mering, Christopher~J
 \newblock {Toward automatic reconstruction of a highly resolved tree of life.}
 \newblock {\em Science (New York, N.Y.)}, 311(5765):1283--7, March 2006.
 
+\bibitem{Clough1998}
+S~J Clough and A~F Bent.
+\newblock {Floral dip: a simplified method for Agrobacterium-mediated
+  transformation of Arabidopsis thaliana.}
+\newblock {\em The Plant Journal}, 16(6):735--43, December 1998.
+
 \bibitem{Cohen2012}
 Ofir Cohen, Haim Ashkenazy, David Burstein, and Tal Pupko.
 \newblock {Uncovering the co-evolutionary network among prokaryotic genes.}
@@ -167,6 +180,11 @@ Michael Costanzo, Anastasia Baryshnikova, Jeremy Bellay, Yungil Kim, Eric~D
 \newblock {The genetic landscape of a cell.}
 \newblock {\em Science (New York, N.Y.)}, 327(5964):425--31, January 2010.
 
+\bibitem{Covington2001}
+M~F Covington, S~Panda, X~L Liu, C~A Strayer, D~R Wagner, and S~A Kay.
+\newblock {ELF3 modulates resetting of the circadian clock in Arabidopsis.}
+\newblock {\em The Plant cell}, 13(6):1305--15, June 2001.
+
 \bibitem{Csardi2006}
 Gabor Csardi and Tamas Nepusz.
 \newblock {The igraph Software Package for Complex Network Research}.
@@ -178,6 +196,11 @@ B.~H. Davis, A.~F.Y. Poon, and M.~C. Whitlock.
   proteins}.
 \newblock {\em Proceedings of the Royal Society B: Biological Sciences},
   276(1663):1823--1827, February 2009.
+
+\bibitem{DeVisser2014}
+J~Arjan G~M de~Visser and Joachim Krug.
+\newblock {Empirical fitness landscapes and the predictability of evolution.}
+\newblock {\em Nature reviews. Genetics}, 15(7):480--490, June 2014.
 
 \bibitem{Dehal2010}
 Paramvir~S Dehal, Marcin~P Joachimiak, Morgan~N Price, John~T Bates, Jason~K
@@ -200,6 +223,13 @@ Laura~E Dixon, Kirsten Knox, Laszlo Kozma-Bognar, Megan~M Southern, Alexandra
 \newblock {Temporal repression of core circadian genes is mediated through
   EARLY FLOWERING 3 in Arabidopsis.}
 \newblock {\em Current biology : CB}, 21(2):120--5, January 2011.
+
+\bibitem{Doyle2002}
+Mark~R Doyle, Seth~J Davis, Ruth~M Bastow, Harriet~G McWatters, L\'{a}szl\'{o}
+  Kozma-Bogn\'{a}r, Ferenc Nagy, Andrew~J Millar, and Richard~M Amasino.
+\newblock {The ELF4 gene controls circadian rhythms and flowering time in
+  Arabidopsis thaliana.}
+\newblock {\em Nature}, 419(6902):74--7, September 2002.
 
 \bibitem{Duitama2014}
 J.~Duitama, A.~Zablotskaya, R.~Gemayel, A.~Jansen, S.~Belet, J.~R. Vermeesch,
@@ -317,6 +347,13 @@ Myron Gordon.
 \newblock {THE GENETICS OF A VIVIPAROUS TOP-MINNOW PLATYPOECILUS; THE
   INHERITANCE OF TWO KINDS OF MELANOPHORES}.
 \newblock {\em Genetics}, 12:253--283, 1927.
+
+\bibitem{Gould1979}
+S.~J. Gould and R.~C. Lewontin.
+\newblock {The Spandrels of San Marco and the Panglossian Paradigm : A Critique
+  of the Adaptationist Programme}.
+\newblock {\em Proceedings of the Royal Society B: Biological Sciences},
+  205(1161):581--598, 1979.
 
 \bibitem{Guilmatre2013}
 Audrey Guilmatre, Gareth Highnam, Christelle Borel, David Mittelman, and
@@ -456,6 +493,11 @@ Minoru Kanehisa, Susumu Goto, Yoko Sato, Miho Furumichi, and Mao Tanabe.
 \newblock {\em Nucleic acids research}, 40(Database issue):D109--14, January
   2012.
 
+\bibitem{Karimi2002}
+Mansour Karimi, Dirk Inz\'{e}, and Ann Depicker.
+\newblock {GATEWAY vectors for Agrobacterium-mediated plant transformation.}
+\newblock {\em Trends in plant science}, 7(5):193--5, May 2002.
+
 \bibitem{kashi1997}
 Yechezkel Kashi, David King, and Morris Soller.
 \newblock {Simple sequence repeats as a source of quantitative genetic
@@ -554,6 +596,12 @@ Hongwei Li, Jing Liu, Keliang Wu, and Yuan Chen.
   tracts in humans.}
 \newblock {\em PloS one}, 7(7):e41167, January 2012.
 
+\bibitem{Liu2001}
+X~L Liu, M~F Covington, C~Fankhauser, J~Chory, and D~R Wagner.
+\newblock {ELF3 encodes a circadian clock-regulated nuclear protein that
+  functions in an Arabidopsis PHYB signal transduction pathway.}
+\newblock {\em The Plant cell}, 13(6):1293--304, June 2001.
+
 \bibitem{Ludwig2004}
 Wolfgang Ludwig, Oliver Strunk, Ralf Westram, Lothar Richter, Harald Meier,
   Yadhukumar, Arno Buchner, Tina Lai, Susanne Steppi, Gangolf Jobb, Wolfram
@@ -604,6 +652,17 @@ Teri~A Manolio, Francis~S Collins, Nancy~J Cox, David~B Goldstein, Lucia~A
   Visscher.
 \newblock {Finding the missing heritability of complex diseases.}
 \newblock {\em Nature}, 461(7265):747--53, October 2009.
+
+\bibitem{MAYNARDSMITH1970}
+JOHN {MAYNARD SMITH}.
+\newblock {Natural Selection and the Concept of a Protein Space}.
+\newblock {\em Nature}, 225(5232):563--564, February 1970.
+
+\bibitem{McWatters2000}
+H~G McWatters, R~M Bastow, A~Hall, and A~J Millar.
+\newblock {The ELF3 zeitnehmer regulates light signalling to the circadian
+  clock.}
+\newblock {\em Nature}, 408(6813):716--20, December 2000.
 
 \bibitem{Meierjohann2006}
 Svenja Meierjohann and Manfred Schartl.
@@ -873,6 +932,14 @@ Ulises Rosas, Yu~Mei, Qiguang Xie, Joshua~A Banta, Royce~W Zhou, Gabriela
   cis-regulatory variation in CONSTANS.}
 \newblock {\em Nature communications}, 5:3651, January 2014.
 
+\bibitem{Sangster2008}
+Todd~a Sangster, Neeraj Salathia, Hana~N Lee, Etsuko Watanabe, Kurt
+  Schellenberg, Keith Morneau, Hui Wang, Soledad Undurraga, Christine Queitsch,
+  and Susan Lindquist.
+\newblock {HSP90-buffered genetic variation is common in Arabidopsis thaliana.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 105(8):2969--74, February 2008.
+
 \bibitem{Sawaya2013}
 Sterling Sawaya, Andrew Bagshaw, Emmanuel Buschiazzo, Pankaj Kumar, Shantanu
   Chowdhury, Michael~A Black, and Neil Gemmell.
@@ -910,10 +977,25 @@ Gerhard Schlosser and G\"{u}nter~P Wagner.
   selection.}
 \newblock {\em Journal of theoretical biology}, 250(1):48--65, January 2008.
 
+\bibitem{Schols2004}
+Ludger Sch\"{o}ls, Peter Bauer, Thorsten Schmidt, Thorsten Schulte, and Olaf
+  Riess.
+\newblock {Autosomal dominant cerebellar ataxias: clinical features, genetics,
+  and pathogenesis.}
+\newblock {\em Lancet neurology}, 3(5):291--304, May 2004.
+
 \bibitem{Skipper2002}
 Robert~A. Skipper.
 \newblock {The persistence of the R.A. Fisher-Sewall Wright controversy}.
 \newblock {\em Biology and Philosophy}, 17(3):341--367.
+
+\bibitem{Smukalla2008}
+Scott Smukalla, Marina Caldara, Nathalie Pochet, Anne Beauvais, Stephanie
+  Guadagnini, Chen Yan, Marcelo~D Vinces, An~Jansen, Marie~Christine Prevost,
+  Jean-Paul Latg\'{e}, Gerald~R Fink, Kevin~R Foster, and Kevin~J Verstrepen.
+\newblock {FLO1 is a variable green beard gene that drives biofilm-like
+  cooperation in budding yeast.}
+\newblock {\em Cell}, 135(4):726--37, November 2008.
 
 \bibitem{Sohm2011}
 Jill~A Sohm, Eric~A Webb, and Douglas~G Capone.
@@ -959,6 +1041,13 @@ G.R. Sutherland, E.~Kremer, M.~Lynch, M.~Pritchard, S.~Yu, R.I. Richards, and
   questions?}
 \newblock {\em The Lancet}, 338(8762):289--292, August 1991.
 
+\bibitem{Tajima2007}
+Takeomi Tajima, Atsushi Oda, Mayu Nakagawa, Hiroshi Kamada, and Tsuyoshi
+  Mizoguchi.
+\newblock {Natural variation of polyglutamine repeats of a circadian clock gene
+  <i>ELF3</i> in <i>Arabidopsis</i>}.
+\newblock {\em Plant Biotechnology}, 24(2):237--240, 2007.
+
 \bibitem{Tanabe2012}
 Mao Tanabe and Minoru Kanehisa.
 \newblock {Using the KEGG database resource.}
@@ -973,6 +1062,14 @@ Soledad~Francisca Undurraga, Maximilian~Oliver Press, Matthieu Legendre, Nora
   Arabidopsis thaliana gene ELF3.}
 \newblock {\em Proceedings of the National Academy of Sciences of the United
   States of America}, 109(47):19363--7, November 2012.
+
+\bibitem{VandeWarrenburg2002}
+B.P.C. van~de Warrenburg, R.J. Sinke, C.C. Verschuuren-Bemelmans, H.~Scheffer,
+  E.R. Brunt, P.F. Ippel, J.A. Maat-Kievit, D.~Dooijes, N.C. Notermans,
+  D.~Lindhout, N.V.A.M. Knoers, and H.P.H. Kremer.
+\newblock {Spinocerebellar ataxias in the Netherlands: Prevalence and age at
+  onset variance analysis}.
+\newblock {\em Neurology}, 58(5):702--708, March 2002.
 
 \bibitem{Venables2002}
 W.~N. Venables and B.~D. Ripley.
@@ -1091,6 +1188,14 @@ F~Yates and J~Neyman.
 \newblock {\em Supplement to the Journal of the Royal Statistical Society},
   2(2):181--247, 1935.
 
+\bibitem{Yoshida2009}
+Riichiro Yoshida, Rym Fekih, Sumire Fujiwara, Atsushi Oda, Kana Miyata, Yusuke
+  Tomozoe, Mayu Nakagawa, Kanae Niinuma, Kounosuke Hayashi, Hiroshi Ezura,
+  George Coupland, and Tsuyoshi Mizoguchi.
+\newblock {Possible role of early flowering 3 (ELF3) in clock-dependent floral
+  regulation by short vegetative phase (SVP) in Arabidopsis thaliana.}
+\newblock {\em The New phytologist}, 182(4):838--50, June 2009.
+
 \bibitem{Yu2005}
 Fuli Yu, Pardis~C Sabeti, Paul Hardenbol, Qing Fu, Ben Fry, Xiuhua Lu,
   Sy~Ghose, Richard Vega, Ag~Perez, Shiran Pasternak, Suzanne~M Leal, Thomas~D
@@ -1106,6 +1211,13 @@ Jae-Woong Yu, Vicente Rubio, Na-Yeoun Lee, Sulan Bai, Sun-Young Lee, Sang-Sook
 \newblock {COP1 and ELF3 control circadian function and photoperiodic flowering
   by regulating GI stability.}
 \newblock {\em Molecular cell}, 32(5):617--30, December 2008.
+
+\bibitem{Zagotta1996}
+Michelle~T. Zagotta, Karen~A. Hicks, Carolyn~I. Jacobs, Jeff~C. Young, Roger~P.
+  Hangarter, and D.~Ry Meeks-Wagner.
+\newblock {The Arabidopsis ELF3 gene regulates vegetative photomorphogenesis
+  and the photoperiodic induction of flowering}.
+\newblock {\em The Plant Journal}, 10(4):691--702, October 1996.
 
 \bibitem{Zhang2012}
 Ying Zhang, Changming Liu, Huiping Peng, Jianzhi Zhang, and Quanlin Feng.
