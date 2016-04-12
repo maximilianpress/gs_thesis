@@ -76,6 +76,12 @@ C.~Richard Boland, Stephen~N. Thibodeau, Stanley~R. Hamilton, David Sidransky,
   Colorectal Cancer}.
 \newblock {\em Cancer Res.}, 58(22):5248--5257, November 1998.
 
+\bibitem{Borenstein2008}
+Elhanan Borenstein and David~C Krakauer.
+\newblock {An end to endless forms: epistasis, phenotype distribution bias, and
+  nonuniform evolution.}
+\newblock {\em PLoS computational biology}, 4(10):e1000202, October 2008.
+
 \bibitem{Bourgon2010}
 Richard Bourgon, Robert Gentleman, and Wolfgang Huber.
 \newblock {Independent filtering increases detection power for high-throughput
@@ -157,6 +163,13 @@ Ofir Cohen and Tal Pupko.
 \newblock {Inference and characterization of horizontally transferred gene
   families using stochastic mapping.}
 \newblock {\em Molecular Biology and Evolution}, 27(3):703--13, March 2010.
+
+\bibitem{Coluccio2011}
+M~Paula Coluccio, Sabrina~E Sanchez, Luciana Kasulin, Marcelo~J Yanovsky, and
+  Javier~F Botto.
+\newblock {Genetic mapping of natural variation in a shade avoidance response:
+  ELF3 is the candidate gene for a QTL in hypocotyl growth regulation.}
+\newblock {\em Journal of experimental botany}, 62(1):167--76, January 2011.
 
 \bibitem{Corbett-Detig2013}
 Russell~B Corbett-Detig, Jun Zhou, Andrew~G Clark, Daniel~L Hartl, and Julien~F
@@ -270,6 +283,13 @@ D.~Escher, M.~Bodmer-Glavas, A.~Barberis, and W.~Schaffner.
   Yeast and Humans}.
 \newblock {\em Molecular and Cellular Biology}, 20(8):2774--2782, April 2000.
 
+\bibitem{Faux2005}
+Noel~G Faux, Stephen~P Bottomley, Arthur~M Lesk, James~A Irving, John~R
+  Morrison, Maria~Garcia de~la Banda, and James~C Whisstock.
+\newblock {Functional insights from the distribution and role of homopeptide
+  repeat-containing proteins.}
+\newblock {\em Genome research}, 15(4):537--51, April 2005.
+
 \bibitem{Felsenstein2013}
 Joseph Felsenstein.
 \newblock {\em {Theoretical Evolutionary Genetics}}.
@@ -300,6 +320,14 @@ John~W Fondon, Elizabeth A~D Hammock, Anthony~J Hannan, and David~G King.
   behavior.}
 \newblock {\em Trends in neurosciences}, 31(7):328--34, July 2008.
 
+\bibitem{Fryer2011}
+John~D Fryer, Peng Yu, Hyojin Kang, Caleigh Mandel-Brehm, Angela~N Carter, Juan
+  Crespo-Barreto, Yan Gao, Adriano Flora, Chad Shaw, Harry~T Orr, and Huda~Y
+  Zoghbi.
+\newblock {Exercise and genetic rescue of SCA1 via the transcriptional
+  repressor Capicua.}
+\newblock {\em Science (New York, N.Y.)}, 334(6056):690--3, November 2011.
+
 \bibitem{Galton1875}
 Francis Galton.
 \newblock {The history of twins, as a criterion of the relative powers of
@@ -311,6 +339,13 @@ Jennifer~R Gatchel and Huda~Y Zoghbi.
 \newblock {Diseases of unstable repeat expansion: mechanisms and common
   principles.}
 \newblock {\em Nature reviews. Genetics}, 6(10):743--55, October 2005.
+
+\bibitem{Gehrking2011}
+Kristin~M Gehrking, J~Michael Andresen, Lisa Duvick, John Lough, Huda~Y Zoghbi,
+  and Harry~T Orr.
+\newblock {Partial loss of Tip60 slows mid-stage neurodegeneration in a
+  spinocerebellar ataxia type 1 (SCA1) mouse model.}
+\newblock {\em Human molecular genetics}, 20(11):2204--12, June 2011.
 
 \bibitem{Gemayel2012}
 Rita Gemayel, Janice Cho, Steven Boeynaems, and Kevin~J Verstrepen.
@@ -464,12 +499,17 @@ Ahmet Inanir, Sengul Tural, Serbulent Yigit, Goknur Kalkan, Gunseli~Sefika
   Beh\c{c}et’s disease and its effect on ocular involvement}.
 \newblock {\em Molecular Vision}, 19:675--683, March 2013.
 
-\bibitem{Jeong2015}
-Hyeonsoo Jeong, Samsun Sung, Taehyung Kwon, Minseok Seo, Kelsey
-  Caetano-Anoll\'{e}s, Sang~Ho Choi, Seoae Cho, Arshan Nasir, and Heebal Kim.
-\newblock {HGTree: database of horizontally transferred genes determined by
-  tree reconciliation.}
-\newblock {\em Nucleic acids research}, 44(D1):D610--619, November 2015.
+\bibitem{Izumo2006}
+Mariko Izumo, Takashi~R Sato, Martin Straume, and Carl~Hirschie Johnson.
+\newblock {Quantitative analyses of circadian gene expression in mammalian cell
+  cultures.}
+\newblock {\em PLoS computational biology}, 2(10):e136, October 2006.
+
+\bibitem{Jimenez-Gomez2010}
+Jos\'{e}~M Jim\'{e}nez-G\'{o}mez, Andreah~D Wallace, and Julin~N Maloof.
+\newblock {Network analysis identifies ELF3 as a QTL for the shade avoidance
+  response in Arabidopsis.}
+\newblock {\em PLoS Genetics}, 6(9), September 2010.
 
 \bibitem{Johannsen1911}
 W~Johannsen.
@@ -497,6 +537,13 @@ Minoru Kanehisa, Susumu Goto, Yoko Sato, Miho Furumichi, and Mao Tanabe.
 Mansour Karimi, Dirk Inz\'{e}, and Ann Depicker.
 \newblock {GATEWAY vectors for Agrobacterium-mediated plant transformation.}
 \newblock {\em Trends in plant science}, 7(5):193--5, May 2002.
+
+\bibitem{Karlin2002}
+Samuel Karlin, Luciano Brocchieri, Aviv Bergman, Jan Mrazek, and Andrew~J
+  Gentles.
+\newblock {Amino acid runs in eukaryotic proteomes and disease associations.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 99(1):333--8, January 2002.
 
 \bibitem{kashi1997}
 Yechezkel Kashi, David King, and Morris Soller.
@@ -596,11 +643,29 @@ Hongwei Li, Jing Liu, Keliang Wu, and Yuan Chen.
   tracts in humans.}
 \newblock {\em PloS one}, 7(7):e41167, January 2012.
 
+\bibitem{Lindqvist2007}
+Charlotte Lindqvist, Liisa Laakkonen, and Victor~A Albert.
+\newblock {Polyglutamine variation in a flowering time protein correlates with
+  island age in a Hawaiian plant radiation.}
+\newblock {\em BMC evolutionary biology}, 7(1):105, January 2007.
+
 \bibitem{Liu2001}
 X~L Liu, M~F Covington, C~Fankhauser, J~Chory, and D~R Wagner.
 \newblock {ELF3 encodes a circadian clock-regulated nuclear protein that
   functions in an Arabidopsis PHYB signal transduction pathway.}
 \newblock {\em The Plant cell}, 13(6):1293--304, June 2001.
+
+\bibitem{Liu2007}
+Yao-Guang Liu and Yuanling Chen.
+\newblock {High-efficiency thermal asymmetric interlaced PCR for amplification
+  of unknown flanking sequences}.
+\newblock {\em BioTechniques}, 43(5):649--656, 2007.
+
+\bibitem{Livak2001}
+K~J Livak and T~D Schmittgen.
+\newblock {Analysis of relative gene expression data using real-time
+  quantitative PCR and the 2(-Delta Delta C(T)) Method.}
+\newblock {\em Methods (San Diego, Calif.)}, 25(4):402--8, December 2001.
 
 \bibitem{Ludwig2004}
 Wolfgang Ludwig, Oliver Strunk, Ralf Westram, Lothar Richter, Harald Meier,
@@ -641,6 +706,12 @@ Wayne~P Maddison.
   Characters: Are Gains or Losses Concentrated on Certain Branches of a
   Phylogenetic Tree?}
 \newblock {\em Evolution}, 44(3):539--557, 1990.
+
+\bibitem{Maloof2001}
+J~N Maloof, J~O Borevitz, T~Dabi, J~Lutes, R~B Nehring, J~L Redfern, G~T
+  Trainer, J~M Wilson, T~Asami, C~C Berry, D~Weigel, and J~Chory.
+\newblock {Natural variation in light sensitivity of Arabidopsis.}
+\newblock {\em Nature genetics}, 29(4):441--6, December 2001.
 
 \bibitem{Manolio2009}
 Teri~A Manolio, Francis~S Collins, Nancy~J Cox, David~B Goldstein, Lucia~A
@@ -701,6 +772,13 @@ Charlotte~M Miton and Nobuhiko Tokuriki.
 David Mittelman, Kristen Sykoudis, Megan Hersh, Yunfu Lin, and John~H Wilson.
 \newblock {Hsp90 modulates CAG repeat instability in human cells.}
 \newblock {\em Cell stress \& chaperones}, 15(5):753--9, September 2010.
+
+\bibitem{Molla2009}
+Michael Molla, Arthur Delcher, Shamil Sunyaev, Charles Cantor, and Simon Kasif.
+\newblock {Triplet repeat length bias and variation in the human
+  transcriptome.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 106(40):17095--100, October 2009.
 
 \bibitem{Monnahan2015}
 Patrick~J. Monnahan and John~K. Kelly.
@@ -805,6 +883,13 @@ A.~Oka, H.~Hayashi, M.~Tomizawa, K.~Okamoto, L.~Suyun, J.~Hui, J.K. Kulski,
   microsatellite markers}.
 \newblock {\em Tissue Antigens}, 61(3):203--210, March 2003.
 
+\bibitem{OMalley2010}
+Kathleen~G O'Malley, Michael~J Ford, and Jeffrey~J Hard.
+\newblock {Clock polymorphism in Pacific salmon: evidence for variable
+  selection along a latitudinal gradient.}
+\newblock {\em Proceedings. Biological sciences / The Royal Society},
+  277(1701):3703--14, December 2010.
+
 \bibitem{Orr1995}
 H.~A. Orr.
 \newblock {The Population Genetics of Speciation: The Evolution of Hybrid
@@ -874,6 +959,13 @@ Patrick~C Phillips.
   and evolution of genetic systems.}
 \newblock {\em Nature reviews. Genetics}, 9(11):855--67, November 2008.
 
+\bibitem{Plautz1997}
+J.~D. Plautz, M.~Straume, R.~Stanewsky, C.~F. Jamison, C.~Brandes, H.~B. Dowse,
+  J.~C. Hall, and S.~A. Kay.
+\newblock {Quantitative Analysis of Drosophila period Gene Transcription in
+  Living Animals}.
+\newblock {\em Journal of Biological Rhythms}, 12(3):204--217, June 1997.
+
 \bibitem{Poelwijk2015}
 Frank~J. Poelwijk, Vinod Krishna, and Rama Ranganathan.
 \newblock {The context-dependence of mutations: a linkage of formalisms}.
@@ -932,6 +1024,13 @@ Ulises Rosas, Yu~Mei, Qiguang Xie, Joshua~A Banta, Royce~W Zhou, Gabriela
   cis-regulatory variation in CONSTANS.}
 \newblock {\em Nature communications}, 5:3651, January 2014.
 
+\bibitem{Rosso2003}
+Mario~G Rosso, Yong Li, Nicolai Strizhov, Bernd Reiss, Koen Dekker, and Bernd
+  Weisshaar.
+\newblock {An Arabidopsis thaliana T-DNA mutagenized population (GABI-Kat) for
+  flanking sequence tag-based reverse genetics.}
+\newblock {\em Plant molecular biology}, 53(1-2):247--59, September 2003.
+
 \bibitem{Sangster2008}
 Todd~a Sangster, Neeraj Salathia, Hana~N Lee, Etsuko Watanabe, Kurt
   Schellenberg, Keith Morneau, Hui Wang, Soledad Undurraga, Christine Queitsch,
@@ -977,6 +1076,12 @@ Gerhard Schlosser and G\"{u}nter~P Wagner.
   selection.}
 \newblock {\em Journal of theoretical biology}, 250(1):48--65, January 2008.
 
+\bibitem{Schmidt2002}
+B.~J. Schmidt, C.~R. Greenberg, D.~J. Allingham-Hawkins, and E.~L. Spriggs.
+\newblock {Expression of X-linked bulbospinal muscular atrophy (Kennedy
+  disease) in two homozygous women}.
+\newblock {\em Neurology}, 59(5):770--772, September 2002.
+
 \bibitem{Schols2004}
 Ludger Sch\"{o}ls, Peter Bauer, Thorsten Schmidt, Thorsten Schulte, and Olaf
   Riess.
@@ -984,10 +1089,33 @@ Ludger Sch\"{o}ls, Peter Bauer, Thorsten Schmidt, Thorsten Schulte, and Olaf
   and pathogenesis.}
 \newblock {\em Lancet neurology}, 3(5):291--304, May 2004.
 
+\bibitem{Seki1998}
+Motoaki Seki, Piero Carninci, Yoko Nishiyama, Yoshihide Hayashizaki, and Kazuo
+  Shinozaki.
+\newblock {High-efficiency cloning of Arabidopsis full-length cDNA by
+  biotinylated CAP trapper}.
+\newblock {\em The Plant Journal}, 15(5):707--720, September 1998.
+
+\bibitem{Seki2002}
+Motoaki Seki, Mari Narusaka, Asako Kamiya, Junko Ishida, Masakazu Satou,
+  Tetsuya Sakurai, Maiko Nakajima, Akiko Enju, Kenji Akiyama, Youko Oono,
+  Masami Muramatsu, Yoshihide Hayashizaki, Jun Kawai, Piero Carninci, Masayoshi
+  Itoh, Yoshiyuki Ishii, Takahiro Arakawa, Kazuhiro Shibata, Akira Shinagawa,
+  and Kazuo Shinozaki.
+\newblock {Functional annotation of a full-length Arabidopsis cDNA collection.}
+\newblock {\em Science (New York, N.Y.)}, 296(5565):141--5, April 2002.
+
+\bibitem{Shindo2005}
+Chikako Shindo, Maria~Jose Aranzana, Clare Lister, Catherine Baxter, Colin
+  Nicholls, Magnus Nordborg, and Caroline Dean.
+\newblock {Role of FRIGIDA and FLOWERING LOCUS C in determining variation in
+  flowering time of Arabidopsis.}
+\newblock {\em Plant physiology}, 138(2):1163--73, June 2005.
+
 \bibitem{Skipper2002}
 Robert~A. Skipper.
 \newblock {The persistence of the R.A. Fisher-Sewall Wright controversy}.
-\newblock {\em Biology and Philosophy}, 17(3):341--367.
+\newblock {\em Biology and Philosophy}, 17(3):341--367, 2002.
 
 \bibitem{Smukalla2008}
 Scott Smukalla, Marina Caldara, Nathalie Pochet, Anne Beauvais, Stephanie
@@ -1002,6 +1130,11 @@ Jill~A Sohm, Eric~A Webb, and Douglas~G Capone.
 \newblock {Emerging patterns of marine nitrogen fixation.}
 \newblock {\em Nature reviews. Microbiology}, 9(7):499--508, July 2011.
 
+\bibitem{Southern2005}
+Megan~M Southern and Andrew~J Millar.
+\newblock {Circadian genetics in the model higher plant, Arabidopsis thaliana.}
+\newblock {\em Methods in enzymology}, 393:23--35, January 2005.
+
 \bibitem{Specchia2010}
 Valeria Specchia, Lucia Piacentini, Patrizia Tritto, Laura Fanti, Rosalba
   D'Alessandro, Gioacchino Palumbo, Sergio Pimpinelli, and Maria~P Bozzetti.
@@ -1014,6 +1147,13 @@ Dorothee Staiger and John W~S Brown.
 \newblock {Alternative splicing at the intersection of biological timing,
   development, and stress responses.}
 \newblock {\em The Plant cell}, 25(10):3640--56, October 2013.
+
+\bibitem{Stott1995}
+K~Stott, J~M Blackburn, P~J Butler, and M~Perutz.
+\newblock {Incorporation of glutamine repeats makes protein oligomerize:
+  implications for neurodegenerative diseases.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 92(14):6509--13, July 1995.
 
 \bibitem{Sturtevant1920}
 A.~H. Sturtevant.
@@ -1219,6 +1359,11 @@ Michelle~T. Zagotta, Karen~A. Hicks, Carolyn~I. Jacobs, Jeff~C. Young, Roger~P.
   and the photoperiodic induction of flowering}.
 \newblock {\em The Plant Journal}, 10(4):691--702, October 1996.
 
+\bibitem{Zagotta1992}
+M.T. Zagotta, S.~Shannon, C.~Jacobs, and D.R. Meeks-Wagner.
+\newblock {Early-flowering mutants of Arabidopsis thaliana}.
+\newblock {\em Australian journal of plant physiology}, 1992.
+
 \bibitem{Zhang2012}
 Ying Zhang, Changming Liu, Huiping Peng, Jianzhi Zhang, and Quanlin Feng.
 \newblock {IL1 receptor antagonist gene IL1-RN variable number of tandem
@@ -1230,6 +1375,13 @@ Zhixin Zhao, Cheng Guo, Sreeskandarajan Sutharzan, Pei Li, Craig~S Echt, Jie
   Zhang, and Chun Liang.
 \newblock {Genome-wide analysis of tandem repeats in plants and green algae.}
 \newblock {\em G3}, 4(1):67--78, January 2014.
+
+\bibitem{Zijlstra2010}
+M~P Zijlstra, M~A Rujano, M~A {Van Waarde}, E~Vis, E~R Brunt, and H~H Kampinga.
+\newblock {Levels of DNAJB family members (HSP40) correlate with disease onset
+  in patients with spinocerebellar ataxia type 3.}
+\newblock {\em The European journal of neuroscience}, 32(5):760--70, September
+  2010.
 
 \bibitem{Zuhlke2005}
 Christine Z\"{u}hlke, Andreas Dalski, Eberhard Schwinger, and Ulrich Finckh.

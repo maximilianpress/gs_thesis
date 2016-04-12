@@ -1,5 +1,5 @@
-\contentsline {chapter}{\@textofLoF }{ii}{chapter*.2}
-\contentsline {chapter}{\@textofLoT }{iii}{chapter*.3}
+\contentsline {chapter}{\@textofLoF }{v}{chapter*.2}
+\contentsline {chapter}{\@textofLoT }{vii}{chapter*.3}
 \contentsline {chapter}{\numberline {\@textofChapter \ 1:}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Historical notes on heredity, genotypes, and phenotypes}{1}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}Fisher's innovations.}{3}{subsection.1.1.1}
@@ -9,170 +9,170 @@
 \contentsline {section}{\numberline {1.2}The many names of epistasis.}{9}{section.1.2}
 \contentsline {subsection}{\numberline {1.2.1}The uses of additivity.}{10}{subsection.1.2.1}
 \contentsline {subsection}{\numberline {1.2.2}Statistical, physiological, and molecular epistases.}{13}{subsection.1.2.2}
-\contentsline {subsection}{\numberline {1.2.3}Is there direct evidence for large epistatic contributions to heritable variation?}{14}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.3}Is there direct evidence for large epistatic contributions to heritable variation?}{15}{subsection.1.2.3}
 \contentsline {section}{\numberline {1.3}Epistasis in the evolutionary process}{15}{section.1.3}
 \contentsline {subsection}{\numberline {1.3.1}Fast-evolving genetic elements}{16}{subsection.1.3.1}
-\contentsline {subsubsection}{Short tandem repeats (STRs)}{16}{section*.8}
-\contentsline {subsubsection}{Horizontal acquisition of genetic material}{16}{section*.9}
-\contentsline {subsection}{\numberline {1.3.2}Evolutionary implications of fast-evolving genome architectures}{16}{subsection.1.3.2}
-\contentsline {subsubsection}{Parallelism and Predictability}{16}{section*.10}
-\contentsline {chapter}{\numberline {\@textofChapter \ 2:}Background-dependent effects of polyglutamine variation in the \emph {Arabidopsis thaliana} gene \emph {ELF3}}{17}{chapter.2}
-\contentsline {section}{\numberline {2.1}Summary}{17}{section.2.1}
-\contentsline {section}{\numberline {2.2}Introduction}{18}{section.2.2}
-\contentsline {section}{\numberline {2.3}Methods}{19}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Plant Materials and Growth Conditions.}{19}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Generation of ELF3 Transgenic Plants.}{20}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}RNA Extractions and Real-Time PCR.}{21}{subsection.2.3.3}
-\contentsline {subsection}{\numberline {2.3.4}Thermal Asymmetric Interlaced PCR.}{21}{subsection.2.3.4}
-\contentsline {subsection}{\numberline {2.3.5}Developmental Phenotype Assays.}{22}{subsection.2.3.5}
-\contentsline {subsection}{\numberline {2.3.6}Luciferase Imaging and Period Analysis.}{22}{subsection.2.3.6}
-\contentsline {subsection}{\numberline {2.3.7}Principal Component Analysis.}{23}{subsection.2.3.7}
-\contentsline {section}{\numberline {2.4}\emph {\emph {ELF3-TR}} variation affects ELF3-dependent phenotypes. }{24}{section.2.4}
-\contentsline {section}{\numberline {2.5}\emph {ELF3-TR} variation modulates the precision of the circadian clock}{28}{section.2.5}
-\contentsline {section}{\numberline {2.6}\emph {\emph {ELF3-TR}} variation interacts with genetic background.}{28}{section.2.6}
-\contentsline {section}{\numberline {2.7}Col \emph {ELF3} allele is not haploinsufficient in Col x Ws hybrids.}{32}{section.2.7}
-\contentsline {section}{\numberline {2.8}Discussion}{33}{section.2.8}
-\contentsline {chapter}{\numberline {\@textofChapter \ 3:}The conserved \emph {PFT1} tandem repeat is crucial for proper flowering in \emph {Arabidopsis thaliana}}{36}{chapter.3}
-\contentsline {section}{\numberline {3.1}Summary}{36}{section.3.1}
-\contentsline {section}{\numberline {3.2}Introduction}{37}{section.3.2}
-\contentsline {section}{\numberline {3.3}Methods}{40}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Cloning}{40}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Expression analysis}{40}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Plant Materials and Growth Conditions}{41}{subsection.3.3.3}
-\contentsline {subsection}{\numberline {3.3.4}Statistical analysis}{42}{subsection.3.3.4}
-\contentsline {subsection}{\numberline {3.3.5}Sequence Analysis}{42}{subsection.3.3.5}
-\contentsline {section}{\numberline {3.4}Natural variation of \emph {PFT1} STR}{42}{section.3.4}
-\contentsline {section}{\numberline {3.5}The \emph {PFT1} STR length is essential for wild-type flowering and shade avoidance}{43}{section.3.5}
-\contentsline {section}{\numberline {3.6}\emph {PFT1} STR alleles fail to rescue early seedling phenotypes}{44}{section.3.6}
-\contentsline {section}{\numberline {3.7}Summarizing \emph {PFT1} STR function across all tested phenotypes}{45}{section.3.7}
-\contentsline {section}{\numberline {3.8}Discussion}{46}{section.3.8}
-\contentsline {subsection}{\numberline {3.8.1}The \emph {PFT1} STR is required for PFT1 function in adult traits}{47}{subsection.3.8.1}
-\contentsline {subsection}{\numberline {3.8.2}pft1-2 mutants are late-flowering in LD but not SD}{47}{subsection.3.8.2}
-\contentsline {subsection}{\numberline {3.8.3}Incomplete complementation of germination and hypocotyl length by the PFT1 constructs}{48}{subsection.3.8.3}
-\contentsline {subsection}{\numberline {3.8.4}Implications for STR and PFT1 biology}{48}{subsection.3.8.4}
-\contentsline {chapter}{\numberline {\@textofChapter \ 4:}Short tandem repeats and quantitative genetics}{50}{chapter.4}
-\contentsline {section}{\numberline {4.1}Abstract}{50}{section.4.1}
-\contentsline {section}{\numberline {4.2}The �missing heritability� of complex diseases and STR variation.}{51}{section.4.2}
-\contentsline {section}{\numberline {4.3}STR variation is associated with human genetic diseases}{53}{section.4.3}
-\contentsline {section}{\numberline {4.4}STR variation has dramatic background-dependent effects on phenotype}{54}{section.4.4}
-\contentsline {section}{\numberline {4.5}Lack of statistical models for detecting STR-phenotype associations in GWA.}{57}{section.4.5}
-\contentsline {section}{\numberline {4.6}Modifier mutations leading to epistasis are expected in STRs.}{59}{section.4.6}
-\contentsline {section}{\numberline {4.7}Analysis of selection on STR variation in \emph {A. thaliana}.}{61}{section.4.7}
-\contentsline {section}{\numberline {4.8}Association of STR variation with phenotypic characters in \emph {A. thaliana}.}{62}{section.4.8}
-\contentsline {section}{\numberline {4.9}Concluding remarks}{65}{section.4.9}
-\contentsline {chapter}{\numberline {\@textofChapter \ 5:}The variable ELF3 polyglutamine hubs an epistatic network}{66}{chapter.5}
-\contentsline {chapter}{\numberline {\@textofChapter \ 6:}ELF3 polyglutamine variation reveals a PIF4-independent role in thermoresponsive flowering}{67}{chapter.6}
-\contentsline {chapter}{\numberline {\@textofChapter \ 7:}Genome-scale Co-evolutionary Inference Identifies Functions and Clients of Bacterial Hsp90}{68}{chapter.7}
-\contentsline {section}{\numberline {7.1}Abstract}{68}{section.7.1}
-\contentsline {section}{\numberline {7.2}Introduction}{69}{section.7.2}
-\contentsline {section}{\numberline {7.3}Methods}{71}{section.7.3}
-\contentsline {subsection}{\numberline {7.3.1}Prokaryotic Hsp90 paralogs}{71}{subsection.7.3.1}
-\contentsline {subsection}{\numberline {7.3.2}Genome data}{71}{subsection.7.3.2}
-\contentsline {subsection}{\numberline {7.3.3}Phylogenetic trees}{71}{subsection.7.3.3}
-\contentsline {subsection}{\numberline {7.3.4}Organismal trait data}{72}{subsection.7.3.4}
-\contentsline {subsection}{\numberline {7.3.5}Detecting evolutionary associations with BayesTraits}{72}{subsection.7.3.5}
-\contentsline {subsection}{\numberline {7.3.6}Identifying hsp90A-associated genes }{73}{subsection.7.3.6}
-\contentsline {subsection}{\numberline {7.3.7}Reversible-jump Markov chain Monte Carlo analysis}{74}{subsection.7.3.7}
-\contentsline {subsection}{\numberline {7.3.8}Co-evolutionary model selection}{74}{subsection.7.3.8}
-\contentsline {subsection}{\numberline {7.3.9}Prediction of Hsp90A clients in bacteria}{75}{subsection.7.3.9}
-\contentsline {subsection}{\numberline {7.3.10}Functional enrichment analysis}{76}{subsection.7.3.10}
-\contentsline {subsection}{\numberline {7.3.11}E. coli strains and growth assays }{77}{subsection.7.3.11}
-\contentsline {subsection}{\numberline {7.3.12}Fluorescence imaging}{78}{subsection.7.3.12}
-\contentsline {subsection}{\numberline {7.3.13}Acceptor photobleaching FRET measurement}{78}{subsection.7.3.13}
-\contentsline {section}{\numberline {7.4}Results}{79}{section.7.4}
-\contentsline {subsection}{\numberline {7.4.1}Hsp90 paralogs in bacteria }{79}{subsection.7.4.1}
-\contentsline {subsection}{\numberline {7.4.2}Genome-wide detection of genes co-evolving with hsp90A}{80}{subsection.7.4.2}
-\contentsline {subsection}{\numberline {7.4.3}Characterization of co-evolutionary dynamics }{81}{subsection.7.4.3}
-\contentsline {subsection}{\numberline {7.4.4}Prediction of Hsp90A clients}{82}{subsection.7.4.4}
-\contentsline {subsection}{\numberline {7.4.5}Novel and known functions of putative Hsp90 clients}{83}{subsection.7.4.5}
-\contentsline {subsection}{\numberline {7.4.6}Swimming motility and chemotaxis assays of Hsp90A-defective E. coli}{84}{subsection.7.4.6}
-\contentsline {subsection}{\numberline {7.4.7}FRET observation of HtpG interactions with flagellar motor components}{85}{subsection.7.4.7}
-\contentsline {subsection}{\numberline {7.4.8}FRET observation of HtpG interactions with chemoreceptor components}{86}{subsection.7.4.8}
-\contentsline {subsection}{\numberline {7.4.9}Association of hsp90A with life history traits in Bacteria}{87}{subsection.7.4.9}
-\contentsline {section}{\numberline {7.5}Discussion}{88}{section.7.5}
-\contentsline {section}{\numberline {7.6}Acknowledgments}{91}{section.7.6}
-\contentsline {chapter}{\numberline {\@textofChapter \ 8:}Evolutionary assembly patterns of prokaryotic genomes}{92}{chapter.8}
-\contentsline {section}{\numberline {8.1}Abstract}{92}{section.8.1}
-\contentsline {section}{\numberline {8.2}Introduction}{93}{section.8.2}
-\contentsline {section}{\numberline {8.3}Methods}{95}{section.8.3}
-\contentsline {subsection}{\numberline {8.3.1}Phylogenies}{95}{subsection.8.3.1}
-\contentsline {subsection}{\numberline {8.3.2}Inferring phylogenetic histories for genes}{95}{subsection.8.3.2}
-\contentsline {subsection}{\numberline {8.3.3}Inferring gains and presence of genes on branches.}{96}{subsection.8.3.3}
-\contentsline {subsection}{\numberline {8.3.4}Robustness analysis of reconstruction method}{97}{subsection.8.3.4}
-\contentsline {subsection}{\numberline {8.3.5}Comparison of analyzed gains to reconciliation-based HGT inference.}{97}{subsection.8.3.5}
-\contentsline {subsection}{\numberline {8.3.6}Quantifying PGCEs}{98}{subsection.8.3.6}
-\contentsline {subsection}{\numberline {8.3.7}Null distribution for PGCEs}{98}{subsection.8.3.7}
-\contentsline {subsection}{\numberline {8.3.8}Constructing a PGCE network.}{100}{subsection.8.3.8}
-\contentsline {subsection}{\numberline {8.3.9}Mapping biological information to the network.}{100}{subsection.8.3.9}
-\contentsline {subsection}{\numberline {8.3.10}Topological sorting of PGCE networks}{101}{subsection.8.3.10}
-\contentsline {subsection}{\numberline {8.3.11}Prediction of HGT events on branches.}{101}{subsection.8.3.11}
-\contentsline {subsection}{\numberline {8.3.12}Data Access}{102}{subsection.8.3.12}
-\contentsline {section}{\numberline {8.4}Results}{102}{section.8.4}
-\contentsline {subsection}{\numberline {8.4.1}PGCE Inference}{102}{subsection.8.4.1}
-\contentsline {subsection}{\numberline {8.4.2}PGCEs represent biologically relevant dependencies}{103}{subsection.8.4.2}
-\contentsline {subsection}{\numberline {8.4.3}PGCE network analyses reveal evolutionary assembly patterns}{104}{subsection.8.4.3}
-\contentsline {subsection}{\numberline {8.4.4}Evolution by HGT is predictable}{106}{subsection.8.4.4}
-\contentsline {section}{\numberline {8.5}Discussion}{107}{section.8.5}
-\contentsline {section}{\numberline {8.6}Acknowledgements}{109}{section.8.6}
-\contentsline {chapter}{\numberline {\@textofChapter \ 9:}Conclusions and future work}{111}{chapter.9}
-\contentsline {section}{\numberline {9.1}Epistasis, STRs, and the shifting-balance theory}{111}{section.9.1}
-\contentsline {subsection}{\numberline {9.1.1}Mutation rate heterogeneity}{111}{subsection.9.1.1}
-\contentsline {subsubsection}{HGTs as mutations}{111}{section*.18}
-\contentsline {section}{\numberline {9.2}Predictability of whole-genome evolutionary trajectories}{111}{section.9.2}
-\contentsline {subsection}{\numberline {9.2.1}Intramolecular epistasis, interlocus epistasis, and parallel evolution}{111}{subsection.9.2.1}
-\contentsline {subsection}{\numberline {9.2.2}Assembly patterns vs. trajectories}{111}{subsection.9.2.2}
-\contentsline {section}{\numberline {9.3}Some final observations}{111}{section.9.3}
-\contentsline {section}{\numberline {9.4}Next steps}{111}{section.9.4}
-\contentsline {subsection}{\numberline {9.4.1}STR genotype data collection}{111}{subsection.9.4.1}
-\contentsline {subsection}{\numberline {9.4.2}Towards better evolutionary predictions.}{111}{subsection.9.4.2}
-\contentsline {chapter}{\numberline {\@textofChapter \ 10:}The Thesis Unformatted}{112}{chapter.10}
-\contentsline {section}{\numberline {10.1}The Control File}{112}{section.10.1}
-\contentsline {section}{\numberline {10.2}The Text Pages}{115}{section.10.2}
-\contentsline {subsection}{\numberline {10.2.1}Chapters, Sections, Subsections, and Appendices}{115}{subsection.10.2.1}
-\contentsline {subsection}{\numberline {10.2.2}Footnotes}{115}{subsection.10.2.2}
-\contentsline {subsection}{\numberline {10.2.3}Figures and Tables}{116}{subsection.10.2.3}
-\contentsline {subsection}{\numberline {10.2.4}Horizontal Figures and Tables}{117}{subsection.10.2.4}
-\contentsline {subsection}{\numberline {10.2.5}Figure and Table Captions}{118}{subsection.10.2.5}
-\contentsline {section}{\numberline {10.3}The Preliminary Pages}{119}{section.10.3}
-\contentsline {subsection}{\numberline {10.3.1}Copyright page}{120}{subsection.10.3.1}
-\contentsline {subsection}{\numberline {10.3.2}Title page}{120}{subsection.10.3.2}
-\contentsline {subsection}{\numberline {10.3.3}Abstract}{121}{subsection.10.3.3}
-\contentsline {subsection}{\numberline {10.3.4}Tables of contents}{121}{subsection.10.3.4}
-\contentsline {subsection}{\numberline {10.3.5}Acknowledgments}{121}{subsection.10.3.5}
-\contentsline {chapter}{\@textofBIB }{122}{chapter*.24}
-\contentsline {chapter}{\numberline {\@textofAppendix \ A:}Supporting Chapter 2}{141}{appendix.A}
-\contentsline {section}{\numberline {A.1}Supporting Figures}{141}{section.A.1}
-\contentsline {section}{\numberline {A.2}Supporting Tables}{150}{section.A.2}
-\contentsline {chapter}{\numberline {\@textofAppendix \ B:}Supporting Chapter 3}{161}{appendix.B}
-\contentsline {chapter}{\numberline {\@textofAppendix \ C:}Supporting Chapter 4}{166}{appendix.C}
-\contentsline {chapter}{\numberline {\@textofAppendix \ D:}Supporting Chapter 5}{167}{appendix.D}
-\contentsline {section}{\numberline {D.1}Supporting Text}{167}{section.D.1}
-\contentsline {section}{\numberline {D.2}Supporting Figures}{167}{section.D.2}
-\contentsline {section}{\numberline {D.3}Supporting Tables}{167}{section.D.3}
-\contentsline {chapter}{\numberline {\@textofAppendix \ E:}Supporting Chapter 6}{168}{appendix.E}
-\contentsline {section}{\numberline {E.1}Supporting Figures}{168}{section.E.1}
-\contentsline {section}{\numberline {E.2}Supporting Tables}{168}{section.E.2}
-\contentsline {chapter}{\numberline {\@textofAppendix \ F:}Supporting Chapter 7}{169}{appendix.F}
-\contentsline {section}{\numberline {F.1}Supporting Text}{169}{section.F.1}
-\contentsline {subsection}{\numberline {F.1.1}Hsp90 paralog distribution}{169}{subsection.F.1.1}
-\contentsline {subsection}{\numberline {F.1.2}Consistency of BayesTraits runs }{169}{subsection.F.1.2}
-\contentsline {subsection}{\numberline {F.1.3}Robustness of co-evolutionary associations to choice of phylogeny}{171}{subsection.F.1.3}
-\contentsline {subsection}{\numberline {F.1.4}Effect of alternate hsp90 paralogs on co-evolution}{172}{subsection.F.1.4}
-\contentsline {section}{\numberline {F.2}Supporting Figures}{174}{section.F.2}
-\contentsline {section}{\numberline {F.3}Supporting Tables}{180}{section.F.3}
-\contentsline {chapter}{\numberline {\@textofAppendix \ G:}Supporting Chapter 8}{184}{appendix.G}
-\contentsline {section}{\numberline {G.1}Supporting Text}{184}{section.G.1}
-\contentsline {subsection}{\numberline {G.1.1}Inference of gains and presence of genes on branches of the tree.}{184}{subsection.G.1.1}
-\contentsline {subsection}{\numberline {G.1.2}Gain/loss ratio analysis.}{185}{subsection.G.1.2}
-\contentsline {subsection}{\numberline {G.1.3}Simulation of gene gain/loss evolution.}{186}{subsection.G.1.3}
-\contentsline {subsection}{\numberline {G.1.4}Robustness of gain events inference to analytic method.}{187}{subsection.G.1.4}
-\contentsline {subsection}{\numberline {G.1.5}Power of the PGCE detection method.}{189}{subsection.G.1.5}
-\contentsline {subsection}{\numberline {G.1.6}Processing and analysis of the PGCE network.}{190}{subsection.G.1.6}
-\contentsline {subsection}{\numberline {G.1.7}Dependencies among pathways.}{191}{subsection.G.1.7}
-\contentsline {subsection}{\numberline {G.1.8}Algorithms.}{191}{subsection.G.1.8}
-\contentsline {paragraph}{Feedback arc set (FAS) identification algorithm}{191}{section*.49}
-\contentsline {paragraph}{Transitive reduction of a DAG algorithm (Hsu 1975).}{192}{section*.50}
-\contentsline {paragraph}{Topological sort with grouping algorithm}{192}{section*.51}
-\contentsline {subsection}{\numberline {G.1.9}gainLoss program parameters}{193}{subsection.G.1.9}
-\contentsline {section}{\numberline {G.2}Supporting Figures}{194}{section.G.2}
-\contentsline {section}{\numberline {G.3}Supporting Tables}{204}{section.G.3}
+\contentsline {subsubsection}{Short tandem repeats (STRs)}{17}{section*.8}
+\contentsline {subsubsection}{Horizontal acquisition of genetic material}{17}{section*.9}
+\contentsline {subsection}{\numberline {1.3.2}Evolutionary implications of fast-evolving genome architectures}{17}{subsection.1.3.2}
+\contentsline {subsubsection}{Parallelism and Predictability}{17}{section*.10}
+\contentsline {chapter}{\numberline {\@textofChapter \ 2:}Background-dependent effects of polyglutamine variation in the \emph {Arabidopsis thaliana} gene \emph {ELF3}}{18}{chapter.2}
+\contentsline {section}{\numberline {2.1}Summary}{18}{section.2.1}
+\contentsline {section}{\numberline {2.2}Introduction}{19}{section.2.2}
+\contentsline {section}{\numberline {2.3}Methods}{20}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Plant Materials and Growth Conditions.}{20}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Generation of ELF3 Transgenic Plants.}{21}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}RNA Extractions and Real-Time PCR.}{22}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Thermal Asymmetric Interlaced PCR.}{22}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}Developmental Phenotype Assays.}{23}{subsection.2.3.5}
+\contentsline {subsection}{\numberline {2.3.6}Luciferase Imaging and Period Analysis.}{23}{subsection.2.3.6}
+\contentsline {subsection}{\numberline {2.3.7}Principal Component Analysis.}{24}{subsection.2.3.7}
+\contentsline {section}{\numberline {2.4}\emph {ELF3-TR} variation affects ELF3-dependent phenotypes. }{25}{section.2.4}
+\contentsline {section}{\numberline {2.5}\emph {ELF3-TR} variation modulates the precision of the circadian clock}{29}{section.2.5}
+\contentsline {section}{\numberline {2.6}\emph {ELF3-TR} variation interacts with genetic background.}{29}{section.2.6}
+\contentsline {section}{\numberline {2.7}Col \emph {ELF3} allele is not haploinsufficient in Col x Ws hybrids.}{33}{section.2.7}
+\contentsline {section}{\numberline {2.8}Discussion}{34}{section.2.8}
+\contentsline {chapter}{\numberline {\@textofChapter \ 3:}The conserved \emph {PFT1} tandem repeat is crucial for proper flowering in \emph {Arabidopsis thaliana}}{37}{chapter.3}
+\contentsline {section}{\numberline {3.1}Summary}{37}{section.3.1}
+\contentsline {section}{\numberline {3.2}Introduction}{38}{section.3.2}
+\contentsline {section}{\numberline {3.3}Methods}{41}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Cloning}{41}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Expression analysis}{41}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Plant Materials and Growth Conditions}{42}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Statistical analysis}{43}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}Sequence Analysis}{43}{subsection.3.3.5}
+\contentsline {section}{\numberline {3.4}Natural variation of \emph {PFT1} STR}{43}{section.3.4}
+\contentsline {section}{\numberline {3.5}The \emph {PFT1} STR length is essential for wild-type flowering and shade avoidance}{44}{section.3.5}
+\contentsline {section}{\numberline {3.6}\emph {PFT1} STR alleles fail to rescue early seedling phenotypes}{45}{section.3.6}
+\contentsline {section}{\numberline {3.7}Summarizing \emph {PFT1} STR function across all tested phenotypes}{46}{section.3.7}
+\contentsline {section}{\numberline {3.8}Discussion}{47}{section.3.8}
+\contentsline {subsection}{\numberline {3.8.1}The \emph {PFT1} STR is required for PFT1 function in adult traits}{48}{subsection.3.8.1}
+\contentsline {subsection}{\numberline {3.8.2}pft1-2 mutants are late-flowering in LD but not SD}{48}{subsection.3.8.2}
+\contentsline {subsection}{\numberline {3.8.3}Incomplete complementation of germination and hypocotyl length by the PFT1 constructs}{49}{subsection.3.8.3}
+\contentsline {subsection}{\numberline {3.8.4}Implications for STR and PFT1 biology}{49}{subsection.3.8.4}
+\contentsline {chapter}{\numberline {\@textofChapter \ 4:}Short tandem repeats and quantitative genetics}{51}{chapter.4}
+\contentsline {section}{\numberline {4.1}Abstract}{51}{section.4.1}
+\contentsline {section}{\numberline {4.2}The �missing heritability� of complex diseases and STR variation.}{52}{section.4.2}
+\contentsline {section}{\numberline {4.3}STR variation is associated with human genetic diseases}{54}{section.4.3}
+\contentsline {section}{\numberline {4.4}STR variation has dramatic background-dependent effects on phenotype}{55}{section.4.4}
+\contentsline {section}{\numberline {4.5}Lack of statistical models for detecting STR-phenotype associations in GWA.}{58}{section.4.5}
+\contentsline {section}{\numberline {4.6}Modifier mutations leading to epistasis are expected in STRs.}{60}{section.4.6}
+\contentsline {section}{\numberline {4.7}Analysis of selection on STR variation in \emph {A. thaliana}.}{62}{section.4.7}
+\contentsline {section}{\numberline {4.8}Association of STR variation with phenotypic characters in \emph {A. thaliana}.}{63}{section.4.8}
+\contentsline {section}{\numberline {4.9}Concluding remarks}{66}{section.4.9}
+\contentsline {chapter}{\numberline {\@textofChapter \ 5:}The variable ELF3 polyglutamine hubs an epistatic network}{67}{chapter.5}
+\contentsline {chapter}{\numberline {\@textofChapter \ 6:}ELF3 polyglutamine variation reveals a PIF4-independent role in thermoresponsive flowering}{68}{chapter.6}
+\contentsline {chapter}{\numberline {\@textofChapter \ 7:}Genome-scale Co-evolutionary Inference Identifies Functions and Clients of Bacterial Hsp90}{69}{chapter.7}
+\contentsline {section}{\numberline {7.1}Abstract}{69}{section.7.1}
+\contentsline {section}{\numberline {7.2}Introduction}{70}{section.7.2}
+\contentsline {section}{\numberline {7.3}Methods}{72}{section.7.3}
+\contentsline {subsection}{\numberline {7.3.1}Prokaryotic Hsp90 paralogs}{72}{subsection.7.3.1}
+\contentsline {subsection}{\numberline {7.3.2}Genome data}{72}{subsection.7.3.2}
+\contentsline {subsection}{\numberline {7.3.3}Phylogenetic trees}{72}{subsection.7.3.3}
+\contentsline {subsection}{\numberline {7.3.4}Organismal trait data}{73}{subsection.7.3.4}
+\contentsline {subsection}{\numberline {7.3.5}Detecting evolutionary associations with BayesTraits}{73}{subsection.7.3.5}
+\contentsline {subsection}{\numberline {7.3.6}Identifying hsp90A-associated genes }{74}{subsection.7.3.6}
+\contentsline {subsection}{\numberline {7.3.7}Reversible-jump Markov chain Monte Carlo analysis}{75}{subsection.7.3.7}
+\contentsline {subsection}{\numberline {7.3.8}Co-evolutionary model selection}{75}{subsection.7.3.8}
+\contentsline {subsection}{\numberline {7.3.9}Prediction of Hsp90A clients in bacteria}{76}{subsection.7.3.9}
+\contentsline {subsection}{\numberline {7.3.10}Functional enrichment analysis}{77}{subsection.7.3.10}
+\contentsline {subsection}{\numberline {7.3.11}E. coli strains and growth assays }{78}{subsection.7.3.11}
+\contentsline {subsection}{\numberline {7.3.12}Fluorescence imaging}{79}{subsection.7.3.12}
+\contentsline {subsection}{\numberline {7.3.13}Acceptor photobleaching FRET measurement}{79}{subsection.7.3.13}
+\contentsline {section}{\numberline {7.4}Results}{80}{section.7.4}
+\contentsline {subsection}{\numberline {7.4.1}Hsp90 paralogs in bacteria }{80}{subsection.7.4.1}
+\contentsline {subsection}{\numberline {7.4.2}Genome-wide detection of genes co-evolving with hsp90A}{81}{subsection.7.4.2}
+\contentsline {subsection}{\numberline {7.4.3}Characterization of co-evolutionary dynamics }{82}{subsection.7.4.3}
+\contentsline {subsection}{\numberline {7.4.4}Prediction of Hsp90A clients}{83}{subsection.7.4.4}
+\contentsline {subsection}{\numberline {7.4.5}Novel and known functions of putative Hsp90 clients}{84}{subsection.7.4.5}
+\contentsline {subsection}{\numberline {7.4.6}Swimming motility and chemotaxis assays of Hsp90A-defective E. coli}{85}{subsection.7.4.6}
+\contentsline {subsection}{\numberline {7.4.7}FRET observation of HtpG interactions with flagellar motor components}{86}{subsection.7.4.7}
+\contentsline {subsection}{\numberline {7.4.8}FRET observation of HtpG interactions with chemoreceptor components}{87}{subsection.7.4.8}
+\contentsline {subsection}{\numberline {7.4.9}Association of hsp90A with life history traits in Bacteria}{88}{subsection.7.4.9}
+\contentsline {section}{\numberline {7.5}Discussion}{89}{section.7.5}
+\contentsline {section}{\numberline {7.6}Acknowledgments}{92}{section.7.6}
+\contentsline {chapter}{\numberline {\@textofChapter \ 8:}Evolutionary assembly patterns of prokaryotic genomes}{93}{chapter.8}
+\contentsline {section}{\numberline {8.1}Abstract}{93}{section.8.1}
+\contentsline {section}{\numberline {8.2}Introduction}{94}{section.8.2}
+\contentsline {section}{\numberline {8.3}Methods}{96}{section.8.3}
+\contentsline {subsection}{\numberline {8.3.1}Phylogenies}{96}{subsection.8.3.1}
+\contentsline {subsection}{\numberline {8.3.2}Inferring phylogenetic histories for genes}{96}{subsection.8.3.2}
+\contentsline {subsection}{\numberline {8.3.3}Inferring gains and presence of genes on branches.}{97}{subsection.8.3.3}
+\contentsline {subsection}{\numberline {8.3.4}Robustness analysis of reconstruction method}{98}{subsection.8.3.4}
+\contentsline {subsection}{\numberline {8.3.5}Comparison of analyzed gains to reconciliation-based HGT inference.}{98}{subsection.8.3.5}
+\contentsline {subsection}{\numberline {8.3.6}Quantifying PGCEs}{99}{subsection.8.3.6}
+\contentsline {subsection}{\numberline {8.3.7}Null distribution for PGCEs}{99}{subsection.8.3.7}
+\contentsline {subsection}{\numberline {8.3.8}Constructing a PGCE network.}{101}{subsection.8.3.8}
+\contentsline {subsection}{\numberline {8.3.9}Mapping biological information to the network.}{101}{subsection.8.3.9}
+\contentsline {subsection}{\numberline {8.3.10}Topological sorting of PGCE networks}{102}{subsection.8.3.10}
+\contentsline {subsection}{\numberline {8.3.11}Prediction of HGT events on branches.}{102}{subsection.8.3.11}
+\contentsline {subsection}{\numberline {8.3.12}Data Access}{103}{subsection.8.3.12}
+\contentsline {section}{\numberline {8.4}Results}{103}{section.8.4}
+\contentsline {subsection}{\numberline {8.4.1}PGCE Inference}{103}{subsection.8.4.1}
+\contentsline {subsection}{\numberline {8.4.2}PGCEs represent biologically relevant dependencies}{104}{subsection.8.4.2}
+\contentsline {subsection}{\numberline {8.4.3}PGCE network analyses reveal evolutionary assembly patterns}{105}{subsection.8.4.3}
+\contentsline {subsection}{\numberline {8.4.4}Evolution by HGT is predictable}{107}{subsection.8.4.4}
+\contentsline {section}{\numberline {8.5}Discussion}{108}{section.8.5}
+\contentsline {section}{\numberline {8.6}Acknowledgements}{110}{section.8.6}
+\contentsline {chapter}{\numberline {\@textofChapter \ 9:}Conclusions and future work}{112}{chapter.9}
+\contentsline {section}{\numberline {9.1}Epistasis, STRs, and the shifting-balance theory}{112}{section.9.1}
+\contentsline {subsection}{\numberline {9.1.1}Mutation rate heterogeneity}{112}{subsection.9.1.1}
+\contentsline {subsubsection}{HGTs as mutations}{112}{section*.18}
+\contentsline {section}{\numberline {9.2}Predictability of whole-genome evolutionary trajectories}{112}{section.9.2}
+\contentsline {subsection}{\numberline {9.2.1}Intramolecular epistasis, interlocus epistasis, and parallel evolution}{112}{subsection.9.2.1}
+\contentsline {subsection}{\numberline {9.2.2}Assembly patterns vs. trajectories}{112}{subsection.9.2.2}
+\contentsline {section}{\numberline {9.3}Some final observations}{112}{section.9.3}
+\contentsline {section}{\numberline {9.4}Next steps}{112}{section.9.4}
+\contentsline {subsection}{\numberline {9.4.1}STR genotype data collection}{112}{subsection.9.4.1}
+\contentsline {subsection}{\numberline {9.4.2}Towards better evolutionary predictions.}{112}{subsection.9.4.2}
+\contentsline {chapter}{\numberline {\@textofChapter \ 10:}The Thesis Unformatted}{113}{chapter.10}
+\contentsline {section}{\numberline {10.1}The Control File}{113}{section.10.1}
+\contentsline {section}{\numberline {10.2}The Text Pages}{116}{section.10.2}
+\contentsline {subsection}{\numberline {10.2.1}Chapters, Sections, Subsections, and Appendices}{116}{subsection.10.2.1}
+\contentsline {subsection}{\numberline {10.2.2}Footnotes}{116}{subsection.10.2.2}
+\contentsline {subsection}{\numberline {10.2.3}Figures and Tables}{117}{subsection.10.2.3}
+\contentsline {subsection}{\numberline {10.2.4}Horizontal Figures and Tables}{118}{subsection.10.2.4}
+\contentsline {subsection}{\numberline {10.2.5}Figure and Table Captions}{119}{subsection.10.2.5}
+\contentsline {section}{\numberline {10.3}The Preliminary Pages}{120}{section.10.3}
+\contentsline {subsection}{\numberline {10.3.1}Copyright page}{121}{subsection.10.3.1}
+\contentsline {subsection}{\numberline {10.3.2}Title page}{121}{subsection.10.3.2}
+\contentsline {subsection}{\numberline {10.3.3}Abstract}{122}{subsection.10.3.3}
+\contentsline {subsection}{\numberline {10.3.4}Tables of contents}{122}{subsection.10.3.4}
+\contentsline {subsection}{\numberline {10.3.5}Acknowledgments}{122}{subsection.10.3.5}
+\contentsline {chapter}{\@textofBIB }{123}{chapter*.24}
+\contentsline {chapter}{\numberline {\@textofAppendix \ A:}Supporting Chapter 2}{146}{appendix.A}
+\contentsline {section}{\numberline {A.1}Supporting Figures}{146}{section.A.1}
+\contentsline {section}{\numberline {A.2}Supporting Tables}{155}{section.A.2}
+\contentsline {chapter}{\numberline {\@textofAppendix \ B:}Supporting Chapter 3}{166}{appendix.B}
+\contentsline {chapter}{\numberline {\@textofAppendix \ C:}Supporting Chapter 4}{171}{appendix.C}
+\contentsline {chapter}{\numberline {\@textofAppendix \ D:}Supporting Chapter 5}{172}{appendix.D}
+\contentsline {section}{\numberline {D.1}Supporting Text}{172}{section.D.1}
+\contentsline {section}{\numberline {D.2}Supporting Figures}{172}{section.D.2}
+\contentsline {section}{\numberline {D.3}Supporting Tables}{172}{section.D.3}
+\contentsline {chapter}{\numberline {\@textofAppendix \ E:}Supporting Chapter 6}{173}{appendix.E}
+\contentsline {section}{\numberline {E.1}Supporting Figures}{173}{section.E.1}
+\contentsline {section}{\numberline {E.2}Supporting Tables}{173}{section.E.2}
+\contentsline {chapter}{\numberline {\@textofAppendix \ F:}Supporting Chapter 7}{174}{appendix.F}
+\contentsline {section}{\numberline {F.1}Supporting Text}{174}{section.F.1}
+\contentsline {subsection}{\numberline {F.1.1}Hsp90 paralog distribution}{174}{subsection.F.1.1}
+\contentsline {subsection}{\numberline {F.1.2}Consistency of BayesTraits runs }{174}{subsection.F.1.2}
+\contentsline {subsection}{\numberline {F.1.3}Robustness of co-evolutionary associations to choice of phylogeny}{176}{subsection.F.1.3}
+\contentsline {subsection}{\numberline {F.1.4}Effect of alternate hsp90 paralogs on co-evolution}{177}{subsection.F.1.4}
+\contentsline {section}{\numberline {F.2}Supporting Figures}{179}{section.F.2}
+\contentsline {section}{\numberline {F.3}Supporting Tables}{185}{section.F.3}
+\contentsline {chapter}{\numberline {\@textofAppendix \ G:}Supporting Chapter 8}{189}{appendix.G}
+\contentsline {section}{\numberline {G.1}Supporting Text}{189}{section.G.1}
+\contentsline {subsection}{\numberline {G.1.1}Inference of gains and presence of genes on branches of the tree.}{189}{subsection.G.1.1}
+\contentsline {subsection}{\numberline {G.1.2}Gain/loss ratio analysis.}{190}{subsection.G.1.2}
+\contentsline {subsection}{\numberline {G.1.3}Simulation of gene gain/loss evolution.}{191}{subsection.G.1.3}
+\contentsline {subsection}{\numberline {G.1.4}Robustness of gain events inference to analytic method.}{192}{subsection.G.1.4}
+\contentsline {subsection}{\numberline {G.1.5}Power of the PGCE detection method.}{194}{subsection.G.1.5}
+\contentsline {subsection}{\numberline {G.1.6}Processing and analysis of the PGCE network.}{195}{subsection.G.1.6}
+\contentsline {subsection}{\numberline {G.1.7}Dependencies among pathways.}{196}{subsection.G.1.7}
+\contentsline {subsection}{\numberline {G.1.8}Algorithms.}{196}{subsection.G.1.8}
+\contentsline {paragraph}{Feedback arc set (FAS) identification algorithm}{196}{section*.49}
+\contentsline {paragraph}{Transitive reduction of a DAG algorithm (Hsu 1975).}{197}{section*.50}
+\contentsline {paragraph}{Topological sort with grouping algorithm}{197}{section*.51}
+\contentsline {subsection}{\numberline {G.1.9}gainLoss program parameters}{198}{subsection.G.1.9}
+\contentsline {section}{\numberline {G.2}Supporting Figures}{199}{section.G.2}
+\contentsline {section}{\numberline {G.3}Supporting Tables}{209}{section.G.3}
