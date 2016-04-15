@@ -36,6 +36,18 @@ Susanna Atwell, Yu~S Huang, Bjarni~J Vilhj\'{a}lmsson, Glenda Willems, Matthew
   thaliana inbred lines.}
 \newblock {\em Nature}, 465(7298):627--31, June 2010.
 
+\bibitem{Backstrom2007}
+Stefan B\"{a}ckstr\"{o}m, Nils Elfving, Robert Nilsson, Gunnar Wingsle, and
+  Stefan Bj\"{o}rklund.
+\newblock {Purification of a plant mediator from Arabidopsis thaliana
+  identifies PFT1 as the Med25 subunit.}
+\newblock {\em Molecular cell}, 26(5):717--29, June 2007.
+
+\bibitem{Baltrus2013}
+David~A Baltrus.
+\newblock {Exploring the costs of horizontal gene transfer.}
+\newblock {\em Trends in ecology \& evolution}, 28(8):489--95, August 2013.
+
 \bibitem{Barker2007}
 Daniel Barker, Andrew Meade, and Mark Pagel.
 \newblock {Constrained models of evolution lead to improved prediction of
@@ -59,6 +71,13 @@ Yoav Benjamini and Yosef Hochberg.
   approach to multiple testing}.
 \newblock {\em Journal of the Royal Statistical Society B}, 57(1):289--300,
   1995.
+
+\bibitem{Bershtein2015}
+Shimon Bershtein, Adrian W.~R. Serohijos, Sanchari Bhattacharyya, Michael
+  Manhart, Jeong-Mo Choi, Wanmeng Mu, Jingwen Zhou, and Eugene~I. Shakhnovich.
+\newblock {Protein Homeostasis Imposes a Barrier on Functional Integration of
+  Horizontally Transferred Genes in Bacteria}.
+\newblock {\em PLOS Genet}, 11(10):e1005612, October 2015.
 
 \bibitem{Bloom2013}
 Joshua~S Bloom, Ian~M Ehrenreich, Wesley~T Loo, Th\'{u}y-Lan V\~{o} Lite, and
@@ -124,6 +143,14 @@ Avshalom Caspi, Karen Sugden, Terrie~E Moffitt, Alan Taylor, Ian~W Craig,
   in the 5-HTT gene.}
 \newblock {\em Science (New York, N.Y.)}, 301(5631):386--9, July 2003.
 
+\bibitem{Cevik2012}
+Volkan \c{C}evik, Brendan~N Kidd, Peijun Zhang, Claire Hill, Steve Kiddle,
+  Katherine~J Denby, Eric~B Holub, David~M Cahill, John~M Manners, Peer~M
+  Schenk, Jim Beynon, and Kemal Kazan.
+\newblock {MEDIATOR25 acts as an integrative hub for the regulation of
+  jasmonate-responsive gene expression in Arabidopsis.}
+\newblock {\em Plant physiology}, 160(1):541--55, September 2012.
+
 \bibitem{Cerdan2003}
 Pablo~D Cerd\'{a}n and Joanne Chory.
 \newblock {Regulation of flowering time by light quality.}
@@ -134,6 +161,14 @@ Bin Chen, Daibin Zhong, and Ant\'{o}nia Monteiro.
 \newblock {Comparative genomics and evolution of the HSP90 family of genes
   across all kingdoms of organisms.}
 \newblock {\em BMC Genomics}, 7:156, January 2006.
+
+\bibitem{Chen2012}
+Rong Chen, Hongling Jiang, Lin Li, Qingzhe Zhai, Linlin Qi, Wenkun Zhou,
+  Xiaoqiang Liu, Hongmei Li, Wenguang Zheng, Jiaqiang Sun, and Chuanyou Li.
+\newblock {The Arabidopsis mediator subunit MED25 differentially regulates
+  jasmonate and abscisic acid signaling through interacting with the MYC2 and
+  ABI5 transcription factors.}
+\newblock {\em The Plant cell}, 24(7):2898--916, July 2012.
 
 \bibitem{Cheverud1995}
 J~M Cheverud and E~J Routman.
@@ -170,6 +205,12 @@ M~Paula Coluccio, Sabrina~E Sanchez, Luciana Kasulin, Marcelo~J Yanovsky, and
 \newblock {Genetic mapping of natural variation in a shade avoidance response:
   ELF3 is the candidate gene for a QTL in hypocotyl growth regulation.}
 \newblock {\em Journal of experimental botany}, 62(1):167--76, January 2011.
+
+\bibitem{Conaway2011}
+Ronald~C Conaway and Joan~Weliky Conaway.
+\newblock {Function and regulation of the Mediator complex.}
+\newblock {\em Current opinion in genetics \& development}, 21(2):225--30,
+  April 2011.
 
 \bibitem{Corbett-Detig2013}
 Russell~B Corbett-Detig, Jun Zhou, Andrew~G Clark, Daniel~L Hartl, and Julien~F
@@ -270,6 +311,15 @@ Christoph Eisenegger, Andreas Pedroni, J\"{o}rg Rieskamp, Christian Zehnder,
 \newblock {DAT1 polymorphism determines L-DOPA effects on learning about
   others' prosociality.}
 \newblock {\em PloS one}, 8(7):e67820, January 2013.
+
+\bibitem{Elfving2011}
+Nils Elfving, C\'{e}line Davoine, Reyes Benlloch, Jeanette Blomberg, Kristoffer
+  Br\"{a}nnstr\"{o}m, D\"{o}rte M\"{u}ller, Anders Nilsson, Mikael Ulfstedt,
+  Hans Ronne, Gunnar Wingsle, Ove Nilsson, and Stefan Bj\"{o}rklund.
+\newblock {The Arabidopsis thaliana Med25 mediator subunit integrates
+  environmental cues to control plant development.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 108(20):8245--50, May 2011.
 
 \bibitem{Eppley1979}
 Richard~W. Eppley and Bruce~J. Peterson.
@@ -492,6 +542,12 @@ Sabrina I\~{n}igo, Mariano~J Alvarez, B\'{a}rbara Strasser, Andrea Califano,
   Arabidopsis.}
 \newblock {\em The Plant Journal}, 69(4):601--12, February 2012.
 
+\bibitem{Inigo2012a}
+Sabrina I\~{n}igo, Adri\'{a}n~N Giraldez, Joanne Chory, and Pablo~D Cerd\'{a}n.
+\newblock {Proteasome-mediated turnover of Arabidopsis MED25 is coupled to the
+  activation of FLOWERING LOCUS T transcription.}
+\newblock {\em Plant Physiology}, 160(3):1662--73, November 2012.
+
 \bibitem{Inanir2013}
 Ahmet Inanir, Sengul Tural, Serbulent Yigit, Goknur Kalkan, Gunseli~Sefika
   Pancar, Helin~Deniz Demir, and Omer Ates.
@@ -499,11 +555,30 @@ Ahmet Inanir, Sengul Tural, Serbulent Yigit, Goknur Kalkan, Gunseli~Sefika
   Beh\c{c}et’s disease and its effect on ocular involvement}.
 \newblock {\em Molecular Vision}, 19:675--683, March 2013.
 
+\bibitem{Iwasaki2009}
+Wataru Iwasaki and Toshihisa Takagi.
+\newblock {Rapid pathway evolution facilitated by horizontal gene transfers
+  across prokaryotic lineages.}
+\newblock {\em PLoS genetics}, 5(3):e1000402, March 2009.
+
 \bibitem{Izumo2006}
 Mariko Izumo, Takashi~R Sato, Martin Straume, and Carl~Hirschie Johnson.
 \newblock {Quantitative analyses of circadian gene expression in mammalian cell
   cultures.}
 \newblock {\em PLoS computational biology}, 2(10):e136, October 2006.
+
+\bibitem{Jain1999}
+R~Jain, M~C Rivera, and J~a Lake.
+\newblock {Horizontal gene transfer among genomes: the complexity hypothesis.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 96(7):3801--6, March 1999.
+
+\bibitem{Jeong2015}
+Hyeonsoo Jeong, Samsun Sung, Taehyung Kwon, Minseok Seo, Kelsey
+  Caetano-Anoll\'{e}s, Sang~Ho Choi, Seoae Cho, Arshan Nasir, and Heebal Kim.
+\newblock {HGTree: database of horizontally transferred genes determined by
+  tree reconciliation.}
+\newblock {\em Nucleic acids research}, 44(D1):D610--619, November 2015.
 
 \bibitem{Jimenez-Gomez2010}
 Jos\'{e}~M Jim\'{e}nez-G\'{o}mez, Andreah~D Wallace, and Julin~N Maloof.
@@ -545,11 +620,19 @@ Samuel Karlin, Luciano Brocchieri, Aviv Bergman, Jan Mrazek, and Andrew~J
 \newblock {\em Proceedings of the National Academy of Sciences of the United
   States of America}, 99(1):333--8, January 2002.
 
-\bibitem{kashi1997}
+\bibitem{Kashi1997}
 Yechezkel Kashi, David King, and Morris Soller.
 \newblock {Simple sequence repeats as a source of quantitative genetic
   variation}.
 \newblock {\em Trends in Genetics}, 13(2):74--78, February 1997.
+
+\bibitem{Keith2016}
+Nathan Keith, Abraham~E Tucker, Craig~E Jackson, Way Sung, Jos\'{e}~Ignacio
+  {Lucas Lled\'{o}}, Daniel~R Schrider, Sarah Schaack, Jeffry~L Dudycha,
+  Matthew Ackerman, Andrew~J Younge, Joseph~R Shaw, and Michael Lynch.
+\newblock {High mutational rates of large-scale duplication and deletion in
+  Daphnia pulex.}
+\newblock {\em Genome research}, 26(1):60--9, January 2016.
 
 \bibitem{Kidd2009}
 Brendan~N Kidd, Cameron~I Edgar, Krish~K Kumar, Elizabeth~A Aitken, Peer~M
@@ -564,6 +647,13 @@ Woe-Yeon Kim, Karen~A Hicks, and David~E Somers.
   of circadian timing, hypocotyl length, and flowering time.}
 \newblock {\em Plant physiology}, 139(3):1557--69, 2005.
 
+\bibitem{Klose2012}
+Cornelia Klose, Claudia B\"{u}che, Aurora Pi\~{n}as Fernandez, Eberhard
+  Sch\"{a}fer, Eva Zwick, and Thomas Kretsch.
+\newblock {The mediator complex subunit PFT1 interferes with COP1 and HY5 in
+  the regulation of Arabidopsis light signaling.}
+\newblock {\em Plant physiology}, 160(1):289--307, September 2012.
+
 \bibitem{Kolmos2011}
 Elsebeth Kolmos, Eva Herrero, Nora Bujdoso, Andrew~J Millar, R\'{e}ka T\'{o}th,
   Peter Gyula, Ferenc Nagy, and Seth~J Davis.
@@ -571,6 +661,12 @@ Elsebeth Kolmos, Eva Herrero, Nora Bujdoso, Andrew~J Millar, R\'{e}ka T\'{o}th,
   Action on the Circadian Clock Is Modulated by Phytochrome Signals in
   Arabidopsis}.
 \newblock {\em The Plant Cell Online}, 23(9):3230--3246, 2011.
+
+\bibitem{Koonin2015}
+Eugene~V Koonin.
+\newblock {Why the Central Dogma: on the nature of the great biological
+  exclusion principle.}
+\newblock {\em Biology direct}, 10(1):52, January 2015.
 
 \bibitem{Kosswig1928}
 C.~Kosswig.
@@ -601,6 +697,16 @@ Nevan~J Krogan, Gerard Cagney, Haiyuan Yu, Gouqing Zhong, Xinghua Guo, Alexandr
   cerevisiae.}
 \newblock {\em Nature}, 440(7084):637--43, March 2006.
 
+\bibitem{Kuo2009}
+Chih-Horng Kuo and Howard Ochman.
+\newblock {Deletional bias across the three domains of life.}
+\newblock {\em Genome biology and evolution}, 1:145--52, January 2009.
+
+\bibitem{Lachowiec2015b}
+Jennifer Lachowiec, Tzitziki Lemus, Elhanan Borenstein, and Christine Queitsch.
+\newblock {Hsp90 promotes kinase evolution.}
+\newblock {\em Molecular biology and evolution}, 32(1):91--9, January 2015.
+
 \bibitem{Lachowiec2015}
 Jennifer Lachowiec, Xia Shen, Christine Queitsch, and \"{O}rjan Carlborg.
 \newblock {A Genome-Wide Association Analysis Reveals Epistatic Cancellation of
@@ -612,6 +718,12 @@ J.~Laidlaw, Y.~Gelfand, K.-W. Ng, H.~R. Garner, R.~Ranganathan, G.~Benson, and
   J.~W. Fondon.
 \newblock {Elevated Basal Slippage Mutation Rates among the Canidae}.
 \newblock {\em Journal of Heredity}, 98(5):452--460, July 2007.
+
+\bibitem{Lang2008}
+Gregory~I Lang and Andrew~W Murray.
+\newblock {Estimating the per-base-pair mutation rate in the yeast
+  Saccharomyces cerevisiae.}
+\newblock {\em Genetics}, 178(1):67--82, January 2008.
 
 \bibitem{Legendre2007}
 Matthieu Legendre, Nathalie Pochet, Theodore Pak, and Kevin~J Verstrepen.
@@ -707,6 +819,12 @@ Wayne~P Maddison.
   Phylogenetic Tree?}
 \newblock {\em Evolution}, 44(3):539--557, 1990.
 
+\bibitem{Majewski2000}
+J.~Majewski, P.~Zawadzki, P.~Pickerill, F.~M. Cohan, and C.~G. Dowson.
+\newblock {Barriers to Genetic Exchange between Bacterial Species:
+  Streptococcus pneumoniae Transformation}.
+\newblock {\em Journal of Bacteriology}, 182(4):1016--1023, February 2000.
+
 \bibitem{Maloof2001}
 J~N Maloof, J~O Borevitz, T~Dabi, J~Lutes, R~B Nehring, J~L Redfern, G~T
   Trainer, J~M Wilson, T~Asami, C~C Berry, D~Weigel, and J~Chory.
@@ -786,6 +904,12 @@ Patrick~J. Monnahan and John~K. Kelly.
   Mimulus guttatus}.
 \newblock {\em PLOS Genetics}, 11(5):e1005201, May 2015.
 
+\bibitem{Moore2000}
+F~B Moore, D~E Rozen, and R~E Lenski.
+\newblock {Pervasive compensatory adaptation in Escherichia coli.}
+\newblock {\em Proceedings. Biological sciences / The Royal Society},
+  267(1442):515--22, March 2000.
+
 \bibitem{Morrison2012}
 Nigel~A Morrison, Alexandre~A Stephens, Motomi Osato, Patsie Polly, Timothy~C
   Tan, Namiko Yamashita, James~D Doecke, Julie Pasco, Nicolette Fozzard, Graeme
@@ -802,6 +926,11 @@ Nigel~A Morrison, Alexandre~S Stephens, Motomi Osato, Julie~A Pasco, Nicolette
 \newblock {Polyalanine repeat polymorphism in RUNX2 is associated with
   site-specific fracture in post-menopausal females.}
 \newblock {\em PloS one}, 8(9):e72740, January 2013.
+
+\bibitem{Moxon1994}
+E.Richard Moxon, Paul~B. Rainey, Martin~A. Nowak, and Richard~E. Lenski.
+\newblock {Adaptive evolution of highly mutable loci in pathogenic bacteria}.
+\newblock {\em Current Biology}, 4(1):24--33, January 1994.
 
 \bibitem{Mularoni2006}
 Loris Mularoni, Roderic Guig\'{o}, and M~Mar Alb\`{a}.
@@ -903,6 +1032,14 @@ Harry~T. Orr.
 \newblock {\em Current Opinion in Genetics and Development}, 22(3):251--255,
   2012.
 
+\bibitem{Ossowski2010}
+Stephan Ossowski, Korbinian Schneeberger, Jos\'{e}~Ignacio Lucas-Lled\'{o},
+  Norman Warthmann, Richard~M Clark, Ruth~G Shaw, Detlef Weigel, and Michael
+  Lynch.
+\newblock {The rate and molecular spectrum of spontaneous mutations in
+  Arabidopsis thaliana.}
+\newblock {\em Science (New York, N.Y.)}, 327(5961):92--4, January 2010.
+
 \bibitem{Ou2011}
 Bin Ou, Kang-Quan Yin, Sai-Nan Liu, Yan Yang, Tren Gu, Jennifer~Man {Wing Hui},
   Li~Zhang, Jin Miao, Youichi Kondou, Minami Matsui, Hong-Ya Gu, and Li-Jia Qu.
@@ -923,6 +1060,11 @@ M~Pagel and A~Meade.
   reversible-jump Markov chain Monte Carlo}.
 \newblock {\em The American naturalist}, 167(6):808--825, 2006.
 
+\bibitem{Pal2005}
+C.~Pal, B.~Papp, and M.~J. Lercher.
+\newblock {Horizontal gene transfer depends on gene content of the host}.
+\newblock {\em Bioinformatics}, 21(Suppl 2):ii222--ii223, October 2005.
+
 \bibitem{Paradis2004}
 E.~Paradis, J.~Claude, and K.~Strimmer.
 \newblock {APE: Analyses of Phylogenetics and Evolution in R language}.
@@ -940,6 +1082,12 @@ AA~Peixoto, S~Campesan, R~Costa, and CP~Kyriacou.
 \newblock {Molecular evolution of a repetitive region within the per gene of
   Drosophila}.
 \newblock {\em Mol. Biol. Evol.}, 10(1):127--139, January 1993.
+
+\bibitem{Perez-Perez2002}
+Jose~Manuel Perez-Perez, Jose Serrano-Cartagena, and Jose~Luis Micol.
+\newblock {Genetic Analysis of Natural Variations in the Architecture of
+  Arabidopsis thaliana Vegetative Leaves}.
+\newblock {\em Genetics}, 162(2):893--915, October 2002.
 
 \bibitem{Persi2013}
 Erez Persi and David Horn.
@@ -980,6 +1128,16 @@ Loredana Poeta, Francesca Fusco, Denise Drongitis, Cheryl Shoubridge, Genesia
   and epilepsy links KDM5C to the polyalanine expansions in ARX.}
 \newblock {\em American journal of human genetics}, 92(1):114--25, January
   2013.
+
+\bibitem{Poon2005}
+Art Poon and Lin Chao.
+\newblock {The rate of compensatory mutation in the DNA bacteriophage phiX174.}
+\newblock {\em Genetics}, 170(3):989--99, July 2005.
+
+\bibitem{Popa2011}
+Ovidiu Popa and Tal Dagan.
+\newblock {Trends and barriers to lateral gene transfer in prokaryotes.}
+\newblock {\em Current opinion in microbiology}, 14(5):615--23, October 2011.
 
 \bibitem{Press2014}
 Maximilian~O. Press, Keisha~D. Carlson, and Christine Queitsch.
@@ -1089,6 +1247,13 @@ Ludger Sch\"{o}ls, Peter Bauer, Thorsten Schmidt, Thorsten Schulte, and Olaf
   and pathogenesis.}
 \newblock {\em Lancet neurology}, 3(5):291--304, May 2004.
 
+\bibitem{SchulzzurWiesch2010}
+Pia {Schulz zur Wiesch}, Jan Engelst\"{a}dter, and Sebastian Bonhoeffer.
+\newblock {Compensation of fitness costs and reversibility of antibiotic
+  resistance mutations.}
+\newblock {\em Antimicrobial agents and chemotherapy}, 54(5):2085--95, May
+  2010.
+
 \bibitem{Seki1998}
 Motoaki Seki, Piero Carninci, Yoko Nishiyama, Yoshihide Hayashizaki, and Kazuo
   Shinozaki.
@@ -1111,6 +1276,14 @@ Chikako Shindo, Maria~Jose Aranzana, Clare Lister, Catherine Baxter, Colin
 \newblock {Role of FRIGIDA and FLOWERING LOCUS C in determining variation in
   flowering time of Arabidopsis.}
 \newblock {\em Plant physiology}, 138(2):1163--73, June 2005.
+
+\bibitem{Sievers2011}
+Fabian Sievers, Andreas Wilm, David Dineen, Toby~J Gibson, Kevin Karplus,
+  Weizhong Li, Rodrigo Lopez, Hamish McWilliam, Michael Remmert, Johannes
+  S\"{o}ding, Julie~D Thompson, and Desmond~G Higgins.
+\newblock {Fast, scalable generation of high-quality protein multiple sequence
+  alignments using Clustal Omega.}
+\newblock {\em Molecular systems biology}, 7:539, January 2011.
 
 \bibitem{Skipper2002}
 Robert~A. Skipper.
@@ -1148,6 +1321,11 @@ Dorothee Staiger and John W~S Brown.
   development, and stress responses.}
 \newblock {\em The Plant cell}, 25(10):3640--56, October 2013.
 
+\bibitem{Stephan1996}
+W.~Stephan.
+\newblock {The Rate of Compensatory Evolution}.
+\newblock {\em Genetics}, 144(1):419--426, September 1996.
+
 \bibitem{Stott1995}
 K~Stott, J~M Blackburn, P~J Butler, and M~Perutz.
 \newblock {Incorporation of glutamine repeats makes protein oligomerize:
@@ -1167,6 +1345,14 @@ S~Subramanian, RK~Mishra, and L~Singh.
   abundance and density in specific genomic regions.}
 \newblock {\em Genome Biology}, 4(2):R13, January 2003.
 
+\bibitem{Sundaravelpandian2013}
+Kalaipandian Sundaravelpandian, Nulu Naga~Prafulla Chandrika, and Wolfgang
+  Schmidt.
+\newblock {PFT1, a transcriptional Mediator complex subunit, controls root hair
+  differentiation through reactive oxygen species (ROS) distribution in
+  Arabidopsis.}
+\newblock {\em The New phytologist}, 197(1):151--61, January 2013.
+
 \bibitem{Sureshkumar2009}
 Sridevi Sureshkumar, Marco Todesco, Korbinian Schneeberger, Ramya Harilal,
   Sureshkumar Balasubramanian, and Detlef Weigel.
@@ -1181,6 +1367,21 @@ G.R. Sutherland, E.~Kremer, M.~Lynch, M.~Pritchard, S.~Yu, R.I. Richards, and
   questions?}
 \newblock {\em The Lancet}, 338(8762):289--292, August 1991.
 
+\bibitem{Szamecz2014}
+B\'{e}la Szamecz, G\'{a}bor Boross, Dorottya Kalapis, K\'{a}roly Kov\'{a}cs,
+  Gergely Fekete, Zolt\'{a}n Farkas, Vikt\'{o}ria L\'{a}z\'{a}r, M\'{o}nika
+  Hrtyan, Patrick Kemmeren, Marian J~A {Groot Koerkamp}, Edit Rutkai, Frank C~P
+  Holstege, Bal\'{a}zs Papp, and Csaba P\'{a}l.
+\newblock {The Genomic Landscape of Compensatory Evolution.}
+\newblock {\em PLoS biology}, 12(8):e1001935, August 2014.
+
+\bibitem{Taipale2010}
+Mikko Taipale, Daniel~F Jarosz, and Susan Lindquist.
+\newblock {HSP90 at the hub of protein homeostasis: emerging mechanistic
+  insights.}
+\newblock {\em Nature reviews. Molecular cell biology}, 11(7):515--28, July
+  2010.
+
 \bibitem{Tajima2007}
 Takeomi Tajima, Atsushi Oda, Mayu Nakagawa, Hiroshi Kamada, and Tsuyoshi
   Mizoguchi.
@@ -1193,6 +1394,12 @@ Mao Tanabe and Minoru Kanehisa.
 \newblock {Using the KEGG database resource.}
 \newblock {\em Current protocols in bioinformatics / editoral board, Andreas D.
   Baxevanis ... [et al.]}, Chapter 1:Unit1.12, July 2012.
+
+\bibitem{Treangen2011}
+Todd~J Treangen and Eduardo P~C Rocha.
+\newblock {Horizontal transfer, not duplication, drives the expansion of
+  protein families in prokaryotes.}
+\newblock {\em PLoS Genetics}, 7(1):e1001284, January 2011.
 
 \bibitem{Undurraga2012}
 Soledad~Francisca Undurraga, Maximilian~Oliver Press, Matthieu Legendre, Nora
@@ -1299,6 +1506,13 @@ Sewall Wright.
   EVOLUTION}.
 \newblock {\em Proceedings of the sixth international congress of genetics},
   1:356--366, 1932.
+
+\bibitem{Xu2011}
+Ran Xu and Yunhai Li.
+\newblock {Control of final organ size by Mediator complex subunit 25 in
+  Arabidopsis thaliana.}
+\newblock {\em Development (Cambridge, England)}, 138(20):4545--54, October
+  2011.
 
 \bibitem{Xu2007}
 Shizhong Xu and Zhenyu Jia.
