@@ -5,12 +5,28 @@
 \addvspace {5\p@ }
 \addvspace {5\p@ }
 \addvspace {5\p@ }
+\contentsline {table}{\numberline {7.1}{\ignorespaces Putative Hsp90A clients among 327 hsp90A-associated genes.}}{128}{table.caption.26}
+\contentsline {table}{\numberline {7.2}{\ignorespaces Functional enrichments in the classes of hsp90A-associated genes.}}{129}{table.caption.27}
+\addvspace {5\p@ }
+\addvspace {5\p@ }
+\addvspace {5\p@ }
+\contentsline {table}{\numberline {A.1}{\ignorespaces ELF3-TR variation in diverse A. thaliana strains (ecotypes)\relax }}{205}{table.A.1}
+\addvspace {5\p@ }
+\contentsline {table}{\numberline {B.1}{\ignorespaces Number of repeat units in two polyglutamine regions encoded by trinucleotide repeats across eight \emph {A. thaliana} strains.\relax }}{214}{table.caption.41}
+\contentsline {table}{\numberline {B.2}{\ignorespaces Encoded amino acid sequence of the repeat regions across PFT1 constructs used in this study, named for their approximate proportion of the length of the endogenous repeat. 1R is the endogenous sequence.\relax }}{215}{table.caption.42}
+\contentsline {table}{\numberline {B.3}{\ignorespaces Transgenic T\textsubscript {3} and T\textsubscript {4} A. thaliana lines used in this study. 3 biological replicates used to estimate expression.\relax }}{216}{table.caption.43}
+\contentsline {table}{\numberline {B.4}{\ignorespaces Primers used in this study.\relax }}{217}{table.caption.44}
 \addvspace {5\p@ }
 \addvspace {5\p@ }
 \addvspace {5\p@ }
 \addvspace {5\p@ }
+\contentsline {table}{\numberline {F.1}{\ignorespaces Comparable results in Ciccarelli and Yarza trees across FDR thresholds.}}{245}{table.caption.62}
+\contentsline {table}{\numberline {F.2}{\ignorespaces \emph {E. coli} strains and plasmids used in this study.}}{245}{table.caption.63}
+\contentsline {table}{\numberline {F.3}{\ignorespaces Swarming assay results at 34\ensuremath {^\circ }C and 42\ensuremath {^\circ }C.}}{247}{table.caption.65}
+\contentsline {table}{\numberline {F.4}{\ignorespaces Acceptor photobleaching FRET interactions of chemotaxis components with HtpG(E34A). ++: strong interaction, +:weak interaction, -:no interaction, ND:not done..\relax }}{247}{table.caption.66}
+\contentsline {table}{\numberline {F.5}{\ignorespaces hsp90A presence and absence is associated with organismal traits in bacteria.\relax }}{248}{table.caption.67}
 \addvspace {5\p@ }
-\addvspace {5\p@ }
-\addvspace {5\p@ }
-\addvspace {5\p@ }
-\addvspace {5\p@ }
+\contentsline {table}{\numberline {G.1}{\ignorespaces Reconciliation analysis supports gene acquisitions inferred by stochastic mapping.}}{269}{table.caption.81}
+\contentsline {table}{\numberline {G.3}{\ignorespaces Enrichment analysis of genes influencing the gain of rbsS.}}{276}{table.caption.82}
+\contentsline {table}{\numberline {G.4}{\ignorespaces Summary of nodes (genes) ranked by their order in a topological sort.}}{276}{table.caption.83}
+\contentsline {table}{\numberline {G.5}{\ignorespaces Characteristics of PGCE network models inferred from data subsets.}}{277}{table.caption.84}

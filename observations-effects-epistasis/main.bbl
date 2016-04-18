@@ -108,6 +108,13 @@ Richard Bourgon, Robert Gentleman, and Wolfgang Huber.
 \newblock {\em Proceedings of the National Academy of Sciences of the United
   States of America}, 107(21):9546--51, May 2010.
 
+\bibitem{Box2014}
+Mathew~S. Box, B.~Emma Huang, Mirela Domijan, Katja~E. Jaeger, Asif~Khan
+  Khattak, Seong~Jeon Yoo, Emma~L. Sedivy, D.~Marc Jones, Timothy~J. Hearn,
+  Alex~A.R. Webb, Alastair Grant, James~C.W. Locke, and Philip~A. Wigge.
+\newblock {ELF3 Controls Thermoresponsive Growth in Arabidopsis}.
+\newblock {\em Current Biology}, 25(2):194--199, December 2014.
+
 \bibitem{Butler2007}
 Andrew~P Butler, David Trono, Luis~Della Coletta, Rebecca Beard, Rachel Fraijo,
   Steven Kazianis, and Rodney~S Nairn.
@@ -186,6 +193,12 @@ S~J Clough and A~F Bent.
 \newblock {Floral dip: a simplified method for Agrobacterium-mediated
   transformation of Arabidopsis thaliana.}
 \newblock {\em The Plant Journal}, 16(6):735--43, December 1998.
+
+\bibitem{Cockerham1954}
+C~C Cockerham.
+\newblock {An Extension of the Concept of Partitioning Hereditary Variance for
+  Analysis of Covariances among Relatives When Epistasis Is Present.}
+\newblock {\em Genetics}, 39(6):859--82, November 1954.
 
 \bibitem{Cohen2012}
 Ofir Cohen, Haim Ashkenazy, David Burstein, and Tal Pupko.
@@ -790,6 +803,11 @@ Wolfgang Ludwig, Oliver Strunk, Ralf Westram, Lothar Richter, Harald Meier,
 \newblock {ARB: a software environment for sequence data.}
 \newblock {\em Nucleic acids research}, 32(4):1363--71, January 2004.
 
+\bibitem{Lynch2010}
+Michael Lynch.
+\newblock {Evolution of the mutation rate.}
+\newblock {\em Trends in genetics : TIG}, 26(8):345--52, August 2010.
+
 \bibitem{Mackay2014}
 Trudy F~C Mackay.
 \newblock {Epistasis and quantitative traits: using model organisms to study
@@ -890,6 +908,15 @@ Charlotte~M Miton and Nobuhiko Tokuriki.
 David Mittelman, Kristen Sykoudis, Megan Hersh, Yunfu Lin, and John~H Wilson.
 \newblock {Hsp90 modulates CAG repeat instability in human cells.}
 \newblock {\em Cell stress \& chaperones}, 15(5):753--9, September 2010.
+
+\bibitem{Mizuno2014}
+Takeshi Mizuno, Miki Kitayama, Haruka Oka, Mayuka Tsubouchi, Chieko Takayama,
+  Yuji Nomoto, and Takafumi Yamashino.
+\newblock {The EC night-time repressor plays a crucial role in modulating
+  circadian clock transcriptional circuitry by conservatively double-checking
+  both warm-night and night-time-light signals in a synergistic manner in
+  Arabidopsis thaliana.}
+\newblock {\em Plant \& cell physiology}, 55(12):2139--51, December 2014.
 
 \bibitem{Molla2009}
 Michael Molla, Arthur Delcher, Shamil Sunyaev, Charles Cantor, and Simon Kasif.
@@ -1158,9 +1185,23 @@ Christine Queitsch, Keisha~D Carlson, and Santhosh Girirajan.
   heritability in complex disease.}
 \newblock {\em PLoS Genetics}, 8(11):e1003041, January 2012.
 
+\bibitem{Queitsch2002}
+Christine Queitsch, Todd~a Sangster, and Susan Lindquist.
+\newblock {Hsp90 as a capacitor of phenotypic variation.}
+\newblock {\em Nature}, 417(6889):618--24, June 2002.
+
 \bibitem{Rambaut2008}
 A~Rambaut and AJ~Drummond.
 \newblock {Tracer v1.5, Available from http://beast.bio.ed.ac.uk/Tracer}, 2008.
+
+\bibitem{Raschke2015}
+Anja Raschke, Carla Iba\~{n}ez, Kristian~Karsten Ullrich, Muhammad~Usman Anwer,
+  Sebastian Becker, Annemarie Gl\"{o}ckner, Jana Trenner, Kathrin Denk,
+  Bernhard Saal, Xiaodong Sun, Min Ni, Seth~Jon Davis, Carolin Delker, and
+  Marcel Quint.
+\newblock {Natural variants of ELF3 affect thermomorphogenesis by
+  transcriptionally modulating PIF4-dependent auxin response genes.}
+\newblock {\em BMC plant biology}, 15(1):197, January 2015.
 
 \bibitem{Robinson2014}
 Matthew~R Robinson, Naomi~R Wray, and Peter~M Visscher.
@@ -1188,6 +1229,21 @@ Mario~G Rosso, Yong Li, Nicolai Strizhov, Bernd Reiss, Koen Dekker, and Bernd
 \newblock {An Arabidopsis thaliana T-DNA mutagenized population (GABI-Kat) for
   flanking sequence tag-based reverse genetics.}
 \newblock {\em Plant molecular biology}, 53(1-2):247--59, September 2003.
+
+\bibitem{Sangster2007}
+Todd~a Sangster, Adam Bahrami, Amity Wilczek, Etsuko Watanabe, Kurt
+  Schellenberg, Catherine McLellan, Alicia Kelley, Sek~Won Kong, Christine
+  Queitsch, and Susan Lindquist.
+\newblock {Phenotypic diversity and altered environmental plasticity in
+  Arabidopsis thaliana with reduced Hsp90 levels.}
+\newblock {\em PloS one}, 2(7):e648, January 2007.
+
+\bibitem{Sangster2004}
+Todd~a Sangster, Susan Lindquist, and Christine Queitsch.
+\newblock {Under cover: causes, effects and implications of Hsp90-mediated
+  genetic capacitance.}
+\newblock {\em BioEssays : news and reviews in molecular, cellular and
+  developmental biology}, 26(4):348--62, April 2004.
 
 \bibitem{Sangster2008}
 Todd~a Sangster, Neeraj Salathia, Hana~N Lee, Etsuko Watanabe, Kurt
@@ -1434,6 +1490,11 @@ Marcelo~D Vinces, Matthieu Legendre, Marina Caldara, Masaki Hagihara, and
 \newblock {Unstable tandem repeats in promoters confer transcriptional
   evolvability.}
 \newblock {\em Science}, 324(5931):1213--6, May 2009.
+
+\bibitem{Waddington1953}
+C~H Waddington.
+\newblock {Genetic Assimilation of an Acquired Character}.
+\newblock {\em Evolution}, 7(2):118--126, 1953.
 
 \bibitem{Wade1991}
 M.~Wade and C.~Goodnight.
