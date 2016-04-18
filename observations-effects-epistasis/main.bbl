@@ -10,6 +10,14 @@ P.~Alberch.
 \newblock {From genes to phenotype: dynamical systems and evolvability}.
 \newblock {\em Genetica}, 84(1):5--11, May 1991.
 
+\bibitem{Ananda2014}
+Guruprasad Ananda, Suzanne~E Hile, Amanda Breski, Yanli Wang, Yogeshwar Kelkar,
+  Kateryna~D Makova, and Kristin~A Eckert.
+\newblock {Microsatellite interruptions stabilize primate genomes and exist as
+  population-specific single nucleotide polymorphisms within individual human
+  genomes.}
+\newblock {\em PLoS genetics}, 10(7):e1004498, July 2014.
+
 \bibitem{Andersson2008}
 Inger Andersson and Anders Backlund.
 \newblock {Structure and function of Rubisco.}
@@ -169,6 +177,12 @@ Bin Chen, Daibin Zhong, and Ant\'{o}nia Monteiro.
   across all kingdoms of organisms.}
 \newblock {\em BMC Genomics}, 7:156, January 2006.
 
+\bibitem{Chen2011}
+H~Deborah Chen, Mollie~W Jewett, and Eduardo~a Groisman.
+\newblock {Ancestral genes can control the ability of horizontally acquired
+  loci to confer new traits.}
+\newblock {\em PLoS Genetics}, 7(7):e1002184, July 2011.
+
 \bibitem{Chen2012}
 Rong Chen, Hongling Jiang, Lin Li, Qingzhe Zhai, Linlin Qi, Wenkun Zhou,
   Xiaoqiang Liu, Hongmei Li, Wenguang Zheng, Jiaqiang Sun, and Chuanyou Li.
@@ -181,6 +195,13 @@ Rong Chen, Hongling Jiang, Lin Li, Qingzhe Zhai, Linlin Qi, Wenkun Zhou,
 J~M Cheverud and E~J Routman.
 \newblock {Epistasis and its contribution to genetic variance components.}
 \newblock {\em Genetics}, 139(3):1455--1461, March 1995.
+
+\bibitem{Christin2015}
+Pascal-Antoine Christin, M\'{o}nica Arakaki, Colin~P Osborne, and Erika~J
+  Edwards.
+\newblock {Genetic enablers underlying the clustered evolutionary origins of C4
+  photosynthesis in angiosperms.}
+\newblock {\em Molecular biology and evolution}, 32(4):846--58, April 2015.
 
 \bibitem{Ciccarelli2006}
 Francesca~D Ciccarelli, Tobias Doerks, Christian von Mering, Christopher~J
@@ -206,6 +227,12 @@ Ofir Cohen, Haim Ashkenazy, David Burstein, and Tal Pupko.
 \newblock {\em Bioinformatics (Oxford, England)}, 28(18):i389--i394, September
   2012.
 
+\bibitem{Cohen2011}
+Ofir Cohen, Uri Gophna, and Tal Pupko.
+\newblock {The complexity hypothesis revisited: connectivity rather than
+  function constitutes a barrier to horizontal gene transfer.}
+\newblock {\em Molecular biology and evolution}, 28(4):1481--9, April 2011.
+
 \bibitem{Cohen2010}
 Ofir Cohen and Tal Pupko.
 \newblock {Inference and characterization of horizontally transferred gene
@@ -224,6 +251,13 @@ Ronald~C Conaway and Joan~Weliky Conaway.
 \newblock {Function and regulation of the Mediator complex.}
 \newblock {\em Current opinion in genetics \& development}, 21(2):225--30,
   April 2011.
+
+\bibitem{Conte2012}
+Gina~L Conte, Matthew~E Arnegard, Catherine~L Peichel, and Dolph Schluter.
+\newblock {The probability of genetic parallelism and convergence in natural
+  populations.}
+\newblock {\em Proceedings of the Royal Society B: Biological Sciences},
+  279(1749):5039--47, December 2012.
 
 \bibitem{Corbett-Detig2013}
 Russell~B Corbett-Detig, Jun Zhou, Andrew~G Clark, Daniel~L Hartl, and Julien~F
@@ -434,6 +468,12 @@ Tali Gidalevitz, Ning Wang, Tanuja Deravaj, Jasmine Alexander-Floyd, and
   or toxicity in a C. elegans model for polyglutamine disease.}
 \newblock {\em BMC biology}, 11(1):100, January 2013.
 
+\bibitem{Gogarten2002}
+J~Peter Gogarten, W~Ford Doolittle, and Jeffrey~G Lawrence.
+\newblock {Prokaryotic evolution in light of gene transfer.}
+\newblock {\em Molecular biology and evolution}, 19(12):2226--38, December
+  2002.
+
 \bibitem{Gong2013}
 Lizhi~Ian Gong, Marc~A Suchard, and Jesse~D Bloom.
 \newblock {Stability-mediated epistasis constrains the evolution of an
@@ -481,6 +521,11 @@ Ryan~J Haasl and Bret~A Payseur.
 \newblock {REMARKABLE SELECTIVE CONSTRAINTS ON EXONIC DINUCLEOTIDE REPEATS.}
 \newblock {\em Evolution; international journal of organic evolution}, June
   2014.
+
+\bibitem{Hagberg2013}
+Aric Hagberg, Dan Schult, and Pieter Swart.
+\newblock {NetworkX. High productivity software for complex networks.
+  https://networkx.lanl.gov/}, 2013.
 
 \bibitem{Hammock2005}
 Elizabeth A~D Hammock and Larry~J Young.
@@ -586,6 +631,13 @@ R~Jain, M~C Rivera, and J~a Lake.
 \newblock {\em Proceedings of the National Academy of Sciences of the United
   States of America}, 96(7):3801--6, March 1999.
 
+\bibitem{Jain2003}
+Ravi Jain, Maria~C Rivera, Jonathan~E Moore, and James~A Lake.
+\newblock {Horizontal gene transfer accelerates genome innovation and
+  evolution.}
+\newblock {\em Molecular biology and evolution}, 20(10):1598--602, October
+  2003.
+
 \bibitem{Jeong2015}
 Hyeonsoo Jeong, Samsun Sung, Taehyung Kwon, Minseok Seo, Kelsey
   Caetano-Anoll\'{e}s, Sang~Ho Choi, Seoae Cho, Arshan Nasir, and Heebal Kim.
@@ -608,6 +660,12 @@ W~Johannsen.
 Wilhelm Johannsen.
 \newblock {\em {Elemente der exakten Erblichkeitslehre}}.
 \newblock G. Fisher, Jena, 1909.
+
+\bibitem{Johnson2014}
+Christopher~M Johnson and Alan~D Grossman.
+\newblock {Identification of host genes that affect acquisition of an
+  integrative and conjugative element in Bacillus subtilis.}
+\newblock {\em Molecular microbiology}, July 2014.
 
 \bibitem{Kahn1962}
 A~B Kahn.
@@ -743,6 +801,18 @@ Matthieu Legendre, Nathalie Pochet, Theodore Pak, and Kevin~J Verstrepen.
 \newblock {Sequence-based estimation of minisatellite and microsatellite repeat
   variability.}
 \newblock {\em Genome Research}, 17(12):1787--96, December 2007.
+
+\bibitem{Lerat2005}
+Emmanuelle Lerat, Vincent Daubin, Howard Ochman, and Nancy~A Moran.
+\newblock {Evolutionary origins of genomic repertoires in bacteria.}
+\newblock {\em PLoS biology}, 3(5):e130, May 2005.
+
+\bibitem{Letunic2011}
+Ivica Letunic and Peer Bork.
+\newblock {Interactive Tree Of Life v2: online annotation and display of
+  phylogenetic trees made easy.}
+\newblock {\em Nucleic acids research}, 39(Web Server issue):W475--8, July
+  2011.
 
 \bibitem{Leviatan2013}
 Noam Leviatan, Noam Alkan, Dena Leshkowitz, and Robert Fluhr.
@@ -1046,11 +1116,22 @@ Kathleen~G O'Malley, Michael~J Ford, and Jeffrey~J Hard.
 \newblock {\em Proceedings. Biological sciences / The Royal Society},
   277(1701):3703--14, December 2010.
 
+\bibitem{Ord2015}
+Terry~J Ord and Thomas~C Summers.
+\newblock {Repeated evolution and the impact of evolutionary history on
+  adaptation.}
+\newblock {\em BMC evolutionary biology}, 15(1):137, January 2015.
+
 \bibitem{Orr1995}
 H.~A. Orr.
 \newblock {The Population Genetics of Speciation: The Evolution of Hybrid
   Incompatibilities}.
 \newblock {\em Genetics}, 139(4):1805--1813, April 1995.
+
+\bibitem{Orr2005}
+H.~Allen Orr.
+\newblock {The Probability of Parallel Evolution}.
+\newblock {\em Evolution}, 59(1):216--220, 2005.
 
 \bibitem{Orr2012}
 Harry~T. Orr.
@@ -1172,6 +1253,13 @@ Maximilian~O. Press, Keisha~D. Carlson, and Christine Queitsch.
   heritability}.
 \newblock {\em Trends in Genetics}, 30(11):504--512, August 2014.
 
+\bibitem{Press2013}
+Maximilian~O Press, Hui Li, Nicole Creanza, G\"{u}nter Kramer, Christine
+  Queitsch, Victor Sourjik, and Elhanan Borenstein.
+\newblock {Genome-scale co-evolutionary inference identifies functions and
+  clients of bacterial Hsp90.}
+\newblock {\em PLoS genetics}, 9(7):e1003631, 2013.
+
 \bibitem{Puigbo2014}
 Pere Puigb\`{o}, Alexander~E Lobkovsky, David~M Kristensen, Yuri~I Wolf, and
   Eugene~V Koonin.
@@ -1189,6 +1277,11 @@ Christine Queitsch, Keisha~D Carlson, and Santhosh Girirajan.
 Christine Queitsch, Todd~a Sangster, and Susan Lindquist.
 \newblock {Hsp90 as a capacitor of phenotypic variation.}
 \newblock {\em Nature}, 417(6889):618--24, June 2002.
+
+\bibitem{RCoreTeam2016}
+{R Core Team}.
+\newblock {\em {R: A Language and Environment for Statistical Computing}}.
+\newblock R Foundation for Statistical Computing, Vienna, Austria, 2016.
 
 \bibitem{Rambaut2008}
 A~Rambaut and AJ~Drummond.
@@ -1326,6 +1419,13 @@ Motoaki Seki, Mari Narusaka, Asako Kamiya, Junko Ishida, Masakazu Satou,
 \newblock {Functional annotation of a full-length Arabidopsis cDNA collection.}
 \newblock {\em Science (New York, N.Y.)}, 296(5565):141--5, April 2002.
 
+\bibitem{Shannon2003}
+Paul Shannon, Andrew Markiel, Owen Ozier, Nitin~S Baliga, Jonathan~T Wang,
+  Daniel Ramage, Nada Amin, Benno Schwikowski, and Trey Ideker.
+\newblock {Cytoscape: a software environment for integrated models of
+  biomolecular interaction networks.}
+\newblock {\em Genome research}, 13(11):2498--504, November 2003.
+
 \bibitem{Shindo2005}
 Chikako Shindo, Maria~Jose Aranzana, Clare Lister, Catherine Baxter, Colin
   Nicholls, Magnus Nordborg, and Caroline Dean.
@@ -1346,6 +1446,13 @@ Robert~A. Skipper.
 \newblock {The persistence of the R.A. Fisher-Sewall Wright controversy}.
 \newblock {\em Biology and Philosophy}, 17(3):341--367, 2002.
 
+\bibitem{Smillie2011}
+Chris~S Smillie, Mark~B Smith, Jonathan Friedman, Otto~X Cordero, Lawrence~a
+  David, and Eric~J Alm.
+\newblock {Ecology drives a global network of gene exchange connecting the
+  human microbiome.}
+\newblock {\em Nature}, 480(7376):241--4, December 2011.
+
 \bibitem{Smukalla2008}
 Scott Smukalla, Marina Caldara, Nathalie Pochet, Anne Beauvais, Stephanie
   Guadagnini, Chen Yan, Marcelo~D Vinces, An~Jansen, Marie~Christine Prevost,
@@ -1358,6 +1465,18 @@ Scott Smukalla, Marina Caldara, Nathalie Pochet, Anne Beauvais, Stephanie
 Jill~A Sohm, Eric~A Webb, and Douglas~G Capone.
 \newblock {Emerging patterns of marine nitrogen fixation.}
 \newblock {\em Nature reviews. Microbiology}, 9(7):499--508, July 2011.
+
+\bibitem{Sorek2007}
+Rotem Sorek, Yiwen Zhu, Christopher~J Creevey, M~Pilar Francino, Peer Bork, and
+  Edward~M Rubin.
+\newblock {Genome-wide experimental determination of barriers to horizontal
+  gene transfer.}
+\newblock {\em Science (New York, N.Y.)}, 318(5855):1449--52, November 2007.
+
+\bibitem{Soucy2015}
+Shannon~M. Soucy, Jinling Huang, and Johann~Peter Gogarten.
+\newblock {Horizontal gene transfer: building the web of life}.
+\newblock {\em Nature Reviews Genetics}, 16(8):472--482, July 2015.
 
 \bibitem{Southern2005}
 Megan~M Southern and Andrew~J Millar.
@@ -1473,6 +1592,12 @@ B.P.C. van~de Warrenburg, R.J. Sinke, C.C. Verschuuren-Bemelmans, H.~Scheffer,
 \newblock {Spinocerebellar ataxias in the Netherlands: Prevalence and age at
   onset variance analysis}.
 \newblock {\em Neurology}, 58(5):702--708, March 2002.
+
+\bibitem{VanPassel2008}
+Mark W~J van Passel, Pradeep~Reddy Marri, and Howard Ochman.
+\newblock {The emergence and fate of horizontally acquired genes in Escherichia
+  coli.}
+\newblock {\em PLoS computational biology}, 4(4):e1000059, April 2008.
 
 \bibitem{Venables2002}
 W.~N. Venables and B.~D. Ripley.

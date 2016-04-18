@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2011.7.3)  17 APR 2016 18:57
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2011.7.3)  17 APR 2016 23:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -985,14 +985,19 @@ Overfull \hbox (2.04674pt too wide) in paragraph at lines 104--104
 ntifies Functions and 
  []
 
-[2] [3])
+[2]
+Overfull \hbox (0.34769pt too wide) detected at line 163
+ \EU1/HoeflerText(0)/m/n/12 204
+ []
+
+[3])
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
  [4] (./main.lof [5
 
 ]
-Overfull \hbox (1.06764pt too wide) detected at line 32
+Overfull \hbox (1.06764pt too wide) detected at line 31
  \EU1/HoeflerText(0)/m/n/12 200
  []
 
@@ -1009,24 +1014,14 @@ Overfull \hbox (2.4016pt too wide) in paragraph at lines 33--33
  []
 
 
-Overfull \hbox (0.34769pt too wide) detected at line 35
- \EU1/HoeflerText(0)/m/n/12 204
- []
-
-
-Overfull \hbox (0.34769pt too wide) detected at line 54
- \EU1/HoeflerText(0)/m/n/12 240
+Overfull \hbox (0.22757pt too wide) detected at line 35
+ \EU1/HoeflerText(0)/m/n/12 206
  []
 
 [6]
 Overfull \hbox (43.17114pt too wide) in paragraph at lines 58--58
  [][] [][]\EU1/HoeflerText(0)/m/n/12 HtpG interactions with FliN and CheA are d
 ependent on the DnaJ/CbpA/DnaK 
- []
-
-
-Overfull \hbox (0.22757pt too wide) detected at line 61
- \EU1/HoeflerText(0)/m/n/12 260
  []
 
 
@@ -1263,33 +1258,20 @@ LaTeX Warning: Citation `Kratter2010' on page 36 undefined on input line 440.
 ]
 Missing character: There is no ^^96 in font Hoefler Text/AAT:mapping=tex-text;m
 apping=tex-text;!
-
-Overfull \hbox (1.11646pt too wide) in paragraph at lines 460--465
-\EU1/HoeflerText(0)/m/n/12 notypic variation, and may also underlie some geneti
-c incompatibilities. The A. thaliana
- []
-
-
-Overfull \hbox (6.68771pt too wide) in paragraph at lines 460--465
-\EU1/HoeflerText(0)/m/n/12 zoan MED25 (File S1 at \EU1/HoeflerText(0)/m/it/12 G
-enetics \EU1/HoeflerText(0)/m/n/12 website, http://www.genetics.org/content/198
-/2/747.long).
- []
-
-
-Overfull \hbox (37.99887pt too wide) in paragraph at lines 460--465
-\EU1/HoeflerText(0)/m/n/12 tions from genes containing non-conserved tandem rep
-eats [[]]. Consequently, PFT1/MED25
- []
-
-[40]
+ [40]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [41]
 [42]
 LaTeX Font Info:    Font shape `EU1/AndaleMono(0)/m/n' will be
 (Font)              scaled to size 10.03711pt on input line 474.
- [43] [44]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [43]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [44]
 Overfull \hbox (69.31429pt too wide) in paragraph at lines 482--483
 \EU1/HoeflerText(0)/m/n/12 sequencing data are available on the \EU1/HoeflerTex
 t(0)/m/it/12 Genetics \EU1/HoeflerText(0)/m/n/12 website (http://www.genetics.o
@@ -1324,11 +1306,11 @@ File: pft1_resubmit_2014/pft1_fig4_052814-01.pdf Graphic file (type QTm)
 Invalid UTF-8 byte or sequence at line 527 replaced by U+FFFD.
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
- [50] [51] [52]
-Underfull \vbox (badness 2269) has occurred while \output is active []
+ [50] [51] [52] [53]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [53]
-[54] [55] [56]
+ [54]
+[55] [56]
 <<4>>
 Invalid UTF-8 byte or sequence at line 550 replaced by U+FFFD.
 Missing character: There is no � in font Hoefler Text Black Italic/AAT:mappin
@@ -1342,22 +1324,12 @@ pping=tex-text;!
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [58]
-Overfull \hbox (1.61232pt too wide) in paragraph at lines 559--561
-\EU1/HoeflerText(0)/m/n/12 disease-associated STR expansions behave as dominant
- gain-of-function mutations [[]].
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [59]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [60]
-Invalid UTF-8 byte or sequence at line 566 replaced by U+FFFD.
-Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
-pping=tex-text;!
-
 
 LaTeX Warning: Citation `Rubinstein1997' on page 61 undefined on input line 570
 .
@@ -1369,18 +1341,16 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: 060414_tig_fig1_marked-01.png Graphic file (type QTm)
 
 <use  "060414_tig_fig1_marked-01.png" >
-Invalid UTF-8 byte or sequence at line 575 replaced by U+FFFD.
-Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
-pping=tex-text;!
-Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
-pping=tex-text;!
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [63]
-[64] [65]
+[64]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [65]
 File: tig_figs/repeatmumodel_051214.pdf Graphic file (type QTm)
- <use  "tig_figs/repeatmumodel_051214.pdf" >
+
+<use  "tig_figs/repeatmumodel_051214.pdf" >
 Invalid UTF-8 byte or sequence at line 600 replaced by U+FFFD.
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
@@ -1405,18 +1375,8 @@ apping=tex-text;!
 
 LaTeX Warning: Citation `Kim2007' on page 70 undefined on input line 619.
 
-[70]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [71]
-[72]
+[70] [71] [72]
 <<5>>
-Invalid UTF-8 byte or sequence at line 636 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 636 replaced by U+FFFD.
-Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
-pping=tex-text;!
-Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
-pping=tex-text;!
 [73
 
 ]
@@ -1514,24 +1474,15 @@ LaTeX Warning: Float too large for page by 4.9582pt on input line 705.
 [84] [85]
 File: elf3_epi/figure_y2helf4phyb_fig4_030316-01.pdf Graphic file (type QTm)
  <use  "elf3_epi/figure_y2helf4phyb_fig4_030316-01.pdf" >
-
-LaTeX Warning: Float too large for page by 43.50209pt on input line 713.
-
 File: elf3_epi/elf3_fig5_y2hscreen-01.pdf Graphic file (type QTm)
+
 <use  "elf3_epi/elf3_fig5_y2hscreen-01.pdf" > [86] [87]
 Overfull \hbox (36.23744pt too wide) in paragraph at lines 726--728
 \EU1/HoeflerText(0)/m/n/12 LUL4, AtGLDP1, and PLAC8-domain-containing protein A
 T4G23470 (Figure 5). AT4G23470
  []
 
-[88] [89] [90] [91]
-Invalid UTF-8 byte or sequence at line 744 replaced by U+FFFD.
-Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
-pping=tex-text;!
-Invalid UTF-8 byte or sequence at line 745 replaced by U+FFFD.
-Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
-pping=tex-text;!
- [92] [93] [94] [95]
+[88] [89] [90] [91] [92] [93] [94] [95]
 <<6>>
 [96
 
@@ -1551,9 +1502,6 @@ Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
-Invalid UTF-8 byte or sequence at line 774 replaced by U+FFFD.
-Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
-pping=tex-text;!
 Invalid UTF-8 byte or sequence at line 775 replaced by U+FFFD.
 Missing character: There is no ¼ in font Hoefler Text/AAT:mapping=tex-text;map
 ping=tex-text;!
@@ -1564,9 +1512,6 @@ pping=tex-text;!
 Missing character: There is no ¼ in font Hoefler Text/AAT:mapping=tex-text;map
 ping=tex-text;!
 Invalid UTF-8 byte or sequence at line 776 replaced by U+FFFD.
-Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
-pping=tex-text;!
-Invalid UTF-8 byte or sequence at line 777 replaced by U+FFFD.
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
  [97]
@@ -1671,9 +1616,6 @@ ping=tex-text;!
  [105]
 Missing character: There is no ¼ in font Hoefler Text/AAT:mapping=tex-text;map
 ping=tex-text;!
-Invalid UTF-8 byte or sequence at line 821 replaced by U+FFFD.
-Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
-pping=tex-text;!
 Missing character: There is no ¼ in font Hoefler Text/AAT:mapping=tex-text;map
 ping=tex-text;!
 Missing character: There is no ¼ in font Hoefler Text/AAT:mapping=tex-text;map
@@ -1861,88 +1803,15 @@ Overfull \hbox (0.28954pt too wide) in paragraph at lines 1060--1061
 [140
 
 ]
-
-LaTeX Warning: Citation `Ord2015' on page 141 undefined on input line 1063.
-
-
-LaTeX Warning: Citation `Christin2015' on page 141 undefined on input line 1063
-.
-
-
-LaTeX Warning: Citation `Conte2012' on page 141 undefined on input line 1063.
-
-
-LaTeX Warning: Citation `Orr2005' on page 141 undefined on input line 1063.
-
-
-LaTeX Warning: Citation `Gogarten2002' on page 141 undefined on input line 1065
-.
-
-
-LaTeX Warning: Citation `Jain2003' on page 141 undefined on input line 1065.
-
-
-LaTeX Warning: Citation `Lerat2005' on page 141 undefined on input line 1065.
-
-
-LaTeX Warning: Citation `VanPassel2008' on page 141 undefined on input line 106
-5.
-
-
-LaTeX Warning: Citation `Soucy2015' on page 141 undefined on input line 1065.
-
-
-LaTeX Warning: Citation `Sorek2007' on page 141 undefined on input line 1065.
-
-
-LaTeX Warning: Citation `Cohen2011' on page 141 undefined on input line 1065.
-
-
-LaTeX Warning: Citation `Smillie2011' on page 141 undefined on input line 1065.
-
-
-
-LaTeX Warning: Citation `Soucy2015' on page 141 undefined on input line 1065.
-
-
-LaTeX Warning: Citation `Smillie2011' on page 141 undefined on input line 1065.
-
-
-
-LaTeX Warning: Citation `Cohen2011' on page 141 undefined on input line 1065.
-
-
-LaTeX Warning: Citation `Chen2011' on page 141 undefined on input line 1065.
-
-
-LaTeX Warning: Citation `Press2013' on page 141 undefined on input line 1065.
-
-
-LaTeX Warning: Citation `Sorek2007' on page 141 undefined on input line 1065.
-
-
-LaTeX Warning: Citation `Johnson2014' on page 141 undefined on input line 1065.
-
-
-
-LaTeX Warning: Citation `Chen2011' on page 141 undefined on input line 1065.
+Overfull \hbox (0.55984pt too wide) in paragraph at lines 1063--1066
+\EU1/HoeflerText(0)/m/n/12 tion. That is, a given adaptation is more likely to 
+repeat in closely related organisms than
+ []
 
 [141]
 
-LaTeX Warning: Citation `RCoreTeam2015' on page 142 undefined on input line 106
+LaTeX Warning: Citation `RCoreTeam2016' on page 142 undefined on input line 106
 8.
-
-
-LaTeX Warning: Citation `Hagberg2013' on page 142 undefined on input line 1068.
-
-
-
-LaTeX Warning: Citation `Shannon2003' on page 142 undefined on input line 1068.
-
-
-
-LaTeX Warning: Citation `Letunic2011' on page 142 undefined on input line 1071.
-
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1957,12 +1826,6 @@ branch (regardless of branch length).
 Invalid UTF-8 byte or sequence at line 1092 replaced by U+FFFD.
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
-Invalid UTF-8 byte or sequence at line 1095 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1095 replaced by U+FFFD.
-Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
-pping=tex-text;!
-Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
-pping=tex-text;!
  [145]
 
 LaTeX Warning: Command \nobreakspace invalid in math mode on input line 1105.
@@ -1974,23 +1837,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [148]
-Invalid UTF-8 byte or sequence at line 1121 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1121 replaced by U+FFFD.
-Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
-pping=tex-text;!
-Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
-pping=tex-text;!
-
 [149]
-Invalid UTF-8 byte or sequence at line 1130 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 1130 replaced by U+FFFD.
 
 
 LaTeX Warning: Reference `fig:hgtfig1' on page 150 undefined on input line 1130
 .
 
-Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
-pping=tex-text;!
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
 [150]
@@ -2033,10 +1886,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [154]
-Invalid UTF-8 byte or sequence at line 1148 replaced by U+FFFD.
-Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
-pping=tex-text;!
-
 [155]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -2075,12 +1924,6 @@ LaTeX Warning: Citation `Waddington1942' on page 161 undefined on input line 11
 81.
 
 
-LaTeX Warning: Citation `Ananda2014' on page 161 undefined on input line 1181.
-
-
-LaTeX Warning: Citation `Schaper204' on page 161 undefined on input line 1181.
-
-
 Overfull \hbox (1.33775pt too wide) in paragraph at lines 1183--1184
 []\EU1/HoeflerText(0)/m/n/12 The principal question, following this extensive a
 nalysis of the \EU1/HoeflerText(0)/m/it/12 ELF3 \EU1/HoeflerText(0)/m/n/12 STR,
@@ -2088,192 +1931,210 @@ nalysis of the \EU1/HoeflerText(0)/m/it/12 ELF3 \EU1/HoeflerText(0)/m/n/12 STR,
  []
 
 [161] [162]
-Underfull \vbox (badness 1348) has occurred while \output is active []
 
- [163]
-(./main.bbl [164]
-Underfull \hbox (badness 2698) in paragraph at lines 58--62
+LaTeX Warning: Citation `Storz2016' on page 163 undefined on input line 1191.
+
+
+LaTeX Warning: Citation `Zhang1997' on page 163 undefined on input line 1191.
+
+[163] [164]
+
+LaTeX Warning: Citation `Nielsen2013' on page 165 undefined on input line 1201.
+
+
+
+LaTeX Warning: Citation `Cirulli2010' on page 165 undefined on input line 1201.
+
+
+(./main.bbl [165] [166
+
+]
+Underfull \hbox (badness 2698) in paragraph at lines 66--70
 []\EU1/HoeflerText(0)/m/n/12 Daniel Barker and Mark Pagel.  Predicting function
 al gene links from
  []
 
-[165
 
-]
-Underfull \hbox (badness 2012) in paragraph at lines 76--81
+Underfull \hbox (badness 2012) in paragraph at lines 84--89
 \EU1/HoeflerText(0)/m/n/12 Manhart, Jeong-Mo Choi, Wanmeng Mu, Jingwen Zhou, an
 d Eugene I.
  []
 
-[166] [167]
-Underfull \hbox (badness 5345) in paragraph at lines 192--196
+[167] [168]
+Underfull \hbox (badness 5345) in paragraph at lines 213--217
 \EU1/HoeflerText(0)/m/n/12 mediated transformation of Arabidopsis thaliana.  \E
 U1/HoeflerText(0)/m/it/12 The Plant Journal\EU1/HoeflerText(0)/m/n/12 ,
  []
 
-[168] [169]
-Underfull \hbox (badness 10000) in paragraph at lines 357--361
+[169] [170] [171]
+Underfull \hbox (badness 10000) in paragraph at lines 391--395
 []\EU1/HoeflerText(0)/m/n/12 Joseph Felsenstein.  \EU1/HoeflerText(0)/m/it/12 T
 heoretical Evolutionary Genetics\EU1/HoeflerText(0)/m/n/12 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 357--361
+Underfull \hbox (badness 10000) in paragraph at lines 391--395
 \EU1/HoeflerText(0)/m/n/12 http://evolution.gs.washington.edu/pgbook/pgbook.pdf
 , Seattle, WA, USA,
  []
 
-[170]
-Underfull \hbox (badness 1577) in paragraph at lines 363--368
+
+Underfull \hbox (badness 1577) in paragraph at lines 397--402
 []\EU1/HoeflerText(0)/m/n/12 R. A. Fisher.  XV.—The Correlation between Relat
 ives on the Supposi-
  []
 
-[171]
-Underfull \hbox (badness 10000) in paragraph at lines 444--448
+[172]
+Underfull \hbox (badness 10000) in paragraph at lines 484--488
 \EU1/HoeflerText(0)/m/n/12 PLATYPOECILUS; THE INHERITANCE OF TWO KINDS OF
  []
 
-
-Underfull \hbox (badness 1735) in paragraph at lines 470--473
+[173]
+Underfull \hbox (badness 1735) in paragraph at lines 510--513
 \EU1/HoeflerText(0)/m/n/12 A short tandem repeat profiler for personal genomes.
   \EU1/HoeflerText(0)/m/it/12 Genome research\EU1/HoeflerText(0)/m/n/12 ,
  []
 
 
-Underfull \hbox (badness 1755) in paragraph at lines 492--496
+Underfull \hbox (badness 1755) in paragraph at lines 537--541
 \EU1/HoeflerText(0)/m/n/12 susceptibility and candidates for ’missing heritab
 ility’.  \EU1/HoeflerText(0)/m/it/12 Trends in genetics\EU1/HoeflerText(0)/m/
 n/12 ,
  []
 
-[172]
-Underfull \hbox (badness 1184) in paragraph at lines 551--557
+[174]
+Underfull \hbox (badness 1184) in paragraph at lines 596--602
 []\EU1/HoeflerText(0)/m/n/12 Sabrina Iñigo, Mariano J Alvarez, Bárbara Strass
 er, Andrea Califano, and
  []
 
-[173]
-Underfull \hbox (badness 2302) in paragraph at lines 559--563
+
+Underfull \hbox (badness 2302) in paragraph at lines 604--608
 []\EU1/HoeflerText(0)/m/n/12 Sabrina Iñigo, Adrián N Giraldez, Joanne Chory, 
 and Pablo D Cerdán.
  []
 
-
-Underfull \hbox (badness 2837) in paragraph at lines 572--576
+[175]
+Underfull \hbox (badness 2837) in paragraph at lines 617--621
 \EU1/HoeflerText(0)/m/n/12 by horizontal gene transfers across prokaryotic line
 ages.  \EU1/HoeflerText(0)/m/it/12 PLoS genetics\EU1/HoeflerText(0)/m/n/12 ,
  []
 
-[174]
-Underfull \hbox (badness 3343) in paragraph at lines 625--628
+[176]
+Underfull \hbox (badness 3343) in paragraph at lines 683--686
 []\EU1/HoeflerText(0)/m/n/12 Mansour Karimi, Dirk Inzé, and Ann Depicker.  GAT
 EWAY vectors
  []
 
-[175]
-Underfull \hbox (badness 2980) in paragraph at lines 691--695
+[177]
+Underfull \hbox (badness 2980) in paragraph at lines 749--753
 []\EU1/HoeflerText(0)/m/n/12 Igor Kovalchuk, Olga Kovalchuk, Véronique Kalck, 
 Vitaly Boyko, Jody
  []
 
 
-Underfull \hbox (badness 4096) in paragraph at lines 719--722
+Underfull \hbox (badness 4096) in paragraph at lines 777--780
 []\EU1/HoeflerText(0)/m/n/12 Jennifer Lachowiec, Tzitziki Lemus, Elhanan Borens
 tein, and Christine
  []
 
-[176] [177] [178] [179] [180] [181] [182]
-Underfull \hbox (badness 2698) in paragraph at lines 1150--1158
+[178] [179] [180] [181] [182] [183] [184]
+Underfull \hbox (badness 2698) in paragraph at lines 1231--1239
 \EU1/HoeflerText(0)/m/n/12 Collombat, Maria Brigida Lioi, Jozef Gecz, Matilde V
 aleria Ursini, and
  []
 
-[183]
-Underfull \hbox (badness 10000) in paragraph at lines 1194--1196
+[185]
+Underfull \hbox (badness 1924) in paragraph at lines 1257--1262
+[]\EU1/HoeflerText(0)/m/n/12 Maximilian O Press, Hui Li, Nicole Creanza, Günte
+r Kramer, Christine
+ []
+
+
+Underfull \hbox (badness 4084) in paragraph at lines 1257--1262
+\EU1/HoeflerText(0)/m/n/12 Queitsch, Victor Sourjik, and Elhanan Borenstein.  G
+enome-scale co-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1287--1289
 []\EU1/HoeflerText(0)/m/n/12 A Rambaut and AJ Drummond.  Tracer v1.5, Available
  from
  []
 
-[184] [185]
-Underfull \hbox (badness 3635) in paragraph at lines 1321--1328
+[186] [187]
+Underfull \hbox (badness 3635) in paragraph at lines 1414--1421
 \EU1/HoeflerText(0)/m/n/12 Masami Muramatsu, Yoshihide Hayashizaki, Jun Kawai, 
 Piero Carninci,
  []
 
-[186]
-Underfull \hbox (badness 3460) in paragraph at lines 1368--1373
+[188] [189]
+Underfull \hbox (badness 3460) in paragraph at lines 1487--1492
 []\EU1/HoeflerText(0)/m/n/12 Valeria Specchia, Lucia Piacentini, Patrizia Tritt
 o, Laura Fanti, Rosalba
  []
 
 
-Overfull \hbox (1.0838pt too wide) in paragraph at lines 1393--1397
+Overfull \hbox (1.0838pt too wide) in paragraph at lines 1512--1516
 \EU1/HoeflerText(0)/m/n/12 INTRODUCTION. HYBRIDS WITH DROSOPHILA MELANOGASTER.
  []
 
-[187] [188]
-Overfull \hbox (0.52277pt too wide) in paragraph at lines 1488--1493
+[190] [191]
+Overfull \hbox (0.52277pt too wide) in paragraph at lines 1613--1618
 \EU1/HoeflerText(0)/m/n/12 Kevin J Verstrepen.  Unstable tandem repeats in prom
 oters confer transcriptional
  []
 
-[189] [190] [191]) [192]
+[192] [193] [194]) [195]
 <<A>>
 File: undurraga2012_figures/SupplText/SuppFig1.png Graphic file (type QTm)
 <use  "undurraga2012_figures/SupplText/SuppFig1.png" >
-Invalid UTF-8 byte or sequence at line 1230 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1231 replaced by U+FFFD.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 1230.
+(caption)                particular \caption on input line 1231.
 See the caption package documentation for explanation.
 
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
-[193
+[196
 
-] [194]
+] [197]
 File: undurraga2012_figures/SupplText/SuppFig2.png Graphic file (type QTm)
  <use  "undurraga2012_figures/SupplText/SuppFig2.png" >
 
-LaTeX Warning: Float too large for page by 16.93999pt on input line 1237.
+LaTeX Warning: Float too large for page by 16.93999pt on input line 1238.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 1240.
+(caption)                particular \caption on input line 1241.
 See the caption package documentation for explanation.
 
-[195] [196]
+[198] [199]
 File: undurraga2012_figures/SupplText/S3.png Graphic file (type QTm)
  <use  "undurraga2012_figures/SupplText/S3.png" >
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 1251.
+(caption)                particular \caption on input line 1252.
 See the caption package documentation for explanation.
 
-
-Overfull \hbox (0.567pt too wide) in paragraph at lines 1251--1251
-\EU1/HoeflerText(0)/m/n/12 multiple independent transgenic lines as biological 
-replicates for each ELF3 allele. Error
- []
-
-[197] [198]
+[200] [201]
 File: undurraga2012_figures/SupplText/S4.png Graphic file (type QTm)
  <use  "undurraga2012_figures/SupplText/S4.png" >
 
-LaTeX Warning: Float too large for page by 14.58469pt on input line 1258.
+LaTeX Warning: Float too large for page by 14.58469pt on input line 1259.
 
 File: undurraga2012_figures/SupplText/S5.png Graphic file (type QTm)
 <use  "undurraga2012_figures/SupplText/S5.png" >
-Invalid UTF-8 byte or sequence at line 1267 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1267 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1268 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1268 replaced by U+FFFD.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 1267.
+(caption)                particular \caption on input line 1268.
 See the caption package documentation for explanation.
 
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
@@ -2284,293 +2145,270 @@ Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
-[199] [200] [201]
+[202] [203] [204]
 File: undurraga2012_figures/SupplText/S6.png Graphic file (type QTm)
  <use  "undurraga2012_figures/SupplText/S6.png" >
 File: f2_batches_badvsgood_111915.pdf Graphic file (type QTm)
 
 <use  "f2_batches_badvsgood_111915.pdf" >
-Underfull \hbox (badness 10000) in paragraph at lines 1278--1279
+Underfull \hbox (badness 10000) in paragraph at lines 1279--1280
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1278--1279
+Underfull \hbox (badness 10000) in paragraph at lines 1279--1280
 
  []
 
-[202] [203] [204]
+[205] [206] [207]
 
 Package caption Warning: The caption type was already set to `figure'
-(caption)                 on input line 1302.
+(caption)                 on input line 1303.
 See the caption package documentation for explanation.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 1302.
+(caption)                particular \caption on input line 1303.
 See the caption package documentation for explanation.
 
-[205
+[208
 
-] [206] [207] [208
+] [209] [210] [211
 
 ]
 
 Package caption Warning: The caption type was already set to `figure'
-(caption)                 on input line 1503.
+(caption)                 on input line 1504.
 See the caption package documentation for explanation.
 
-[209
+[212
 
 ]
 
 Package caption Warning: The caption type was already set to `figure'
-(caption)                 on input line 1551.
+(caption)                 on input line 1552.
 See the caption package documentation for explanation.
 
-[210]
+[213]
 
 Package caption Warning: The caption type was already set to `figure'
-(caption)                 on input line 1603.
+(caption)                 on input line 1604.
 See the caption package documentation for explanation.
 
 
-Overfull \hbox (1.23427pt too wide) in alignment at lines 1602--1628
+Overfull \hbox (1.23427pt too wide) in alignment at lines 1603--1629
  [] [] 
  []
 
 
-Overfull \hbox (1.23427pt too wide) in alignment at lines 1628--1644
+Overfull \hbox (1.23427pt too wide) in alignment at lines 1629--1645
  [] [] 
  []
 
-[211] [212]
+[214] [215]
 <<B>>
 File: pft1_resubmit_2014/pft1_figs1-01.jpg Graphic file (type QTm)
 <use  "pft1_resubmit_2014/pft1_figs1-01.jpg" >
-Overfull \hbox (15.50996pt too wide) in paragraph at lines 1677--1700
+Overfull \hbox (15.50996pt too wide) in paragraph at lines 1678--1701
 [][] 
  []
 
-[213
+[216
 
-] [214] [215] [216] [217]
+] [217] [218] [219] [220]
 <<C>>
-[218
+[221
 
 ]
 <<D>>
 
-Underfull \hbox (badness 1565) in paragraph at lines 1765--1766
+Underfull \hbox (badness 1565) in paragraph at lines 1766--1767
 \EU1/HoeflerText(0)/m/n/12 the University of Idaho ([]$[][][][][] [] [] [] [][]
 [][][][] [] [][][] [] [][][][][] [] [][][] [] [][][][][][][] [] [][][][] [] [][
 ][][][][] []
  []
 
-Invalid UTF-8 byte or sequence at line 1775 replaced by U+FFFD.
-Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
-pping=tex-text;!
-[219
+[222
 
 ]
-Invalid UTF-8 byte or sequence at line 1777 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 1777 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1778 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1778 replaced by U+FFFD.
 Missing character: There is no ¼ in font Hoefler Text/AAT:mapping=tex-text;map
 ping=tex-text;!
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
- [220]
+ [223]
 File: elf3_epi/colwsf2_intercross_schematic_022416-01.pdf Graphic file (type QT
 m)
  <use  "elf3_epi/colwsf2_intercross_schematic_022416-01.pdf" >
-[221]
+[224]
 File: elf3_epi/ws_strains_venndiag_010714-01.pdf Graphic file (type QTm)
- <use  "elf3_epi/ws_strains_venndiag_010714-01.pdf" > [222]
+ <use  "elf3_epi/ws_strains_venndiag_010714-01.pdf" > [225]
 File: elf3_epi/elf3_figs3_genoimage.pdf Graphic file (type QTm)
 
-<use  "elf3_epi/elf3_figs3_genoimage.pdf" > [223]
+<use  "elf3_epi/elf3_figs3_genoimage.pdf" > [226]
 File: elf3_epi/stwo_qtl_022815.pdf Graphic file (type QTm)
 
-<use  "elf3_epi/stwo_qtl_022815.pdf" > [224]
+<use  "elf3_epi/stwo_qtl_022815.pdf" > [227]
 File: elf3_epi/elf3_interactionplots_031715.pdf Graphic file (type QTm)
 
-<use  "elf3_epi/elf3_interactionplots_031715.pdf" > [225]
+<use  "elf3_epi/elf3_interactionplots_031715.pdf" > [228]
 File: elf3_epi/elf3_figs6_candidates-01.pdf Graphic file (type QTm)
 
-<use  "elf3_epi/elf3_figs6_candidates-01.pdf" > [226]
+<use  "elf3_epi/elf3_figs6_candidates-01.pdf" > [229]
 File: elf3_epi/elf3_figsA_121515-01.pdf Graphic file (type QTm)
 
-<use  "elf3_epi/elf3_figsA_121515-01.pdf" > [227]
+<use  "elf3_epi/elf3_figsA_121515-01.pdf" > [230]
 File: elf3_epi/elf3_figself3expr_lsh9_022516-01.pdf Graphic file (type QTm)
 
-<use  "elf3_epi/elf3_figself3expr_lsh9_022516-01.pdf" > [228]
+<use  "elf3_epi/elf3_figself3expr_lsh9_022516-01.pdf" > [231]
 File: elf3_epi/elf3_supp_emptyy2h_121015-01.pdf Graphic file (type QTm)
 
-<use  "elf3_epi/elf3_supp_emptyy2h_121015-01.pdf" > [229]
+<use  "elf3_epi/elf3_supp_emptyy2h_121015-01.pdf" > [232]
 File: elf3_epi/elf3_figsZZZ_pif4fail_121415-01.pdf Graphic file (type QTm)
 
-<use  "elf3_epi/elf3_figsZZZ_pif4fail_121415-01.pdf" > [230]
+<use  "elf3_epi/elf3_figsZZZ_pif4fail_121415-01.pdf" > [233]
 File: elf3_epi/lacz_assay_results_22hr_012216.pdf Graphic file (type QTm)
 
-<use  "elf3_epi/lacz_assay_results_22hr_012216.pdf" > [231] [232]
+<use  "elf3_epi/lacz_assay_results_22hr_012216.pdf" > [234] [235]
 <<E>>
-[233
+[236
 
 ]
 <<F>>
-Invalid UTF-8 byte or sequence at line 1865 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1866 replaced by U+FFFD.
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
-[234
+[237
 
-] [235] [236]
+] [238] [239]
 File: htpg/fig_s1_020713.png Graphic file (type QTm)
- <use  "htpg/fig_s1_020713.png" > [237] [238]
+ <use  "htpg/fig_s1_020713.png" > [240] [241]
 Overfull \vbox (39.65276pt too high) has occurred while \output is active []
 
 
-[239]
+[242]
 File: htpg/fig_s2.jpg Graphic file (type QTm)
  <use  "htpg/fig_s2.jpg" >
 File: htpg/fig_s3.png Graphic file (type QTm)
- <use  "htpg/fig_s3.png" > [240]
+ <use  "htpg/fig_s3.png" > [243]
 File: htpg/fig_s4.png Graphic file (type QTm)
 
-<use  "htpg/fig_s4.png" > [241]
+<use  "htpg/fig_s4.png" > [244]
 File: htpg/fig_s5.png Graphic file (type QTm)
- <use  "htpg/fig_s5.png" > [242]
+ <use  "htpg/fig_s5.png" > [245]
 File: htpg/fig_s6.png Graphic file (type QTm)
 
 <use  "htpg/fig_s6.png" >
-Underfull \hbox (badness 4479) in paragraph at lines 1917--1917
+Underfull \hbox (badness 4479) in paragraph at lines 1918--1918
 []\EU1/HoeflerText(0)/m/n/12 Figure F.6: |HtpG interactions with FliN and CheA 
 are dependent on the
  []
 
-[243]
+[246]
 Overfull \vbox (10.26498pt too high) has occurred while \output is active []
 
 
-[244]
-Overfull \hbox (18.23064pt too wide) in paragraph at lines 1926--1946
+[247]
+Overfull \hbox (18.23064pt too wide) in paragraph at lines 1927--1947
 [][] 
  []
 
-[245] [246]
-Overfull \hbox (19.01103pt too wide) in paragraph at lines 2016--2034
+[248] [249]
+Overfull \hbox (19.01103pt too wide) in paragraph at lines 2017--2035
 [][] 
  []
 
-[247] [248]
+[250] [251]
 <<G>>
 
-LaTeX Warning: Reference `fig:hgtfig2' on page 249 undefined on input line 2057
+LaTeX Warning: Reference `fig:hgtfig2' on page 252 undefined on input line 2058
 .
 
 
-LaTeX Warning: Reference `fig:hgtfig5,fig:app8fig9' on page 249 undefined on in
-put line 2057.
+LaTeX Warning: Reference `fig:hgtfig5,fig:app8fig9' on page 252 undefined on in
+put line 2058.
 
-[249
+[252
 
-] [250] [251] [252] [253]
-Invalid UTF-8 byte or sequence at line 2075 replaced by U+FFFD.
-Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
-pping=tex-text;!
- [254] [255]
+] [253] [254] [255] [256] [257] [258]
 
-LaTeX Warning: Reference `fig:hgtfig3' on page 256 undefined on input line 2078
+LaTeX Warning: Reference `fig:hgtfig3' on page 259 undefined on input line 2079
 .
 
-[256] [257] [258]
+[259] [260] [261]
 File: HGT_REVISION_2016/figures/gainvsloss_022016_figs1.png Graphic file (type 
 QTm)
 
 <use  "HGT_REVISION_2016/figures/gainvsloss_022016_figs1.png" >
-Invalid UTF-8 byte or sequence at line 2143 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 2143 replaced by U+FFFD.
-Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
-pping=tex-text;!
-Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
-pping=tex-text;!
-Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
-pping=tex-text;!
-Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
-pping=tex-text;!
 File: HGT_REVISION_2016/figures/hgt_figs2_022016.pdf Graphic file (type QTm)
 
-<use  "HGT_REVISION_2016/figures/hgt_figs2_022016.pdf" > [259]
+<use  "HGT_REVISION_2016/figures/hgt_figs2_022016.pdf" > [262]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 2157.
+(caption)                particular \caption on input line 2158.
 See the caption package documentation for explanation.
 
-[260] [261]
+[263] [264]
 File: HGT_REVISION_2016/figures/figure_s3_092215-01.pdf Graphic file (type QTm)
 
  <use  "HGT_REVISION_2016/figures/figure_s3_092215-01.pdf" >
-[262]
+[265]
 File: HGT_REVISION_2016/figures/figs4_092215-01.pdf Graphic file (type QTm)
- <use  "HGT_REVISION_2016/figures/figs4_092215-01.pdf" > [263]
+ <use  "HGT_REVISION_2016/figures/figs4_092215-01.pdf" > [266]
 File: HGT_REVISION_2016/figures/figs5_040116.pdf Graphic file (type QTm)
 
-<use  "HGT_REVISION_2016/figures/figs5_040116.pdf" > [264]
+<use  "HGT_REVISION_2016/figures/figs5_040116.pdf" > [267]
 File: HGT_REVISION_2016/figures/figs6_092315.pdf Graphic file (type QTm)
 
-<use  "HGT_REVISION_2016/figures/figs6_092315.pdf" > [265]
+<use  "HGT_REVISION_2016/figures/figs6_092315.pdf" > [268]
 File: HGT_REVISION_2016/figures/figs7_020916.pdf Graphic file (type QTm)
 
 <use  "HGT_REVISION_2016/figures/figs7_020916.pdf" >
-Invalid UTF-8 byte or sequence at line 2196 replaced by U+FFFD.
-Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
-pping=tex-text;!
-Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
-pping=tex-text;!
-
 Overfull \vbox (10.54935pt too high) has occurred while \output is active []
 
 
-[266]
+[269]
 File: HGT_REVISION_2016/figures/figs8_092215.pdf Graphic file (type QTm)
  <use  "HGT_REVISION_2016/figures/figs8_092215.pdf" >
 File: HGT_REVISION_2016/figures/figs9_013016.pdf Graphic file (type QTm)
 
-<use  "HGT_REVISION_2016/figures/figs9_013016.pdf" > [267]
+<use  "HGT_REVISION_2016/figures/figs9_013016.pdf" > [270]
 Overfull \vbox (5.68918pt too high) has occurred while \output is active []
 
 
-[268]
-Underfull \hbox (badness 10000) in paragraph at lines 2223--2252
+[271]
+Underfull \hbox (badness 10000) in paragraph at lines 2224--2253
 [][]
  []
 
-[269]
+[272]
 
 Package caption Warning: The caption type was already set to `figure'
-(caption)                 on input line 2271.
+(caption)                 on input line 2272.
 See the caption package documentation for explanation.
 
-[270] [271] [272] [273] [274]
-Overfull \hbox (13.91214pt too wide) in paragraph at lines 2435--2446
+[273] [274] [275] [276] [277]
+Overfull \hbox (13.91214pt too wide) in paragraph at lines 2436--2447
 [][] 
  []
 
-[275] [276] [277] [278
+[278] [279] [280] [281
 
 ] (./main.lot)
 \tf@lot=\write8
 \openout8 = `main.lot'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2497.
- [279
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2498.
+ [282
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 2497.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2498.
  (./main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 2497.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 2497.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 2498.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 2498.
 
 
 LaTeX Warning: There were undefined references.
@@ -2578,15 +2416,15 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2497.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2498.
  ) 
 Here is how much of TeX's memory you used:
- 18445 strings out of 494150
- 303675 string characters out of 3152950
- 468487 words of memory out of 3000000
- 21378 multiletter control sequences out of 15000+200000
- 8892 words of font info for 63 fonts, out of 3000000 for 9000
+ 18450 strings out of 494150
+ 303794 string characters out of 3152950
+ 469473 words of memory out of 3000000
+ 21382 multiletter control sequences out of 15000+200000
+ 8900 words of font info for 64 fonts, out of 3000000 for 9000
  1018 hyphenation exceptions out of 8191
  53i,15n,92p,3216b,533s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on main.pdf (297 pages).
+Output written on main.pdf (300 pages).
