@@ -21,48 +21,61 @@
 \contentsline {figure}{\numberline {5.5}{\ignorespaces Y2H screen identifies new interactors of ELF3.}}{89}{figure.caption.25}
 \addvspace {5\p@ }
 \addvspace {5\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces The distribution of \emph {hsp90A} across a bacterial phylogeny.}}{127}{figure.caption.26}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Flagellar genes and secretion system genes show distinct signatures of co-evolution with \emph {hsp90A}.}}{130}{figure.caption.28}
+\contentsline {figure}{\numberline {7.3}{\ignorespaces The distribution of the Putative Client Index, PCI, among \emph {hsp90A}-associated genes.}}{134}{figure.caption.30}
+\contentsline {figure}{\numberline {7.4}{\ignorespaces $\Delta htpG$ \emph {E. coli} cells spread less efficiently on soft-agar plates.}}{137}{figure.caption.31}
+\contentsline {figure}{\numberline {7.5}{\ignorespaces Growth-stage-dependent interaction of HtpG with FliN and CheA.}}{139}{figure.caption.32}
+\addvspace {5\p@ }
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Workflow for deriving the PGCE network.}}{157}{figure.caption.33}
+\contentsline {figure}{\numberline {8.2}{\ignorespaces PGCEs are enriched for biologically meaningful interactions.}}{158}{figure.caption.34}
+\contentsline {figure}{\numberline {8.3}{\ignorespaces The phylogenetic history of \emph {rbsL, urtA} and \emph {rbsS}.}}{160}{figure.caption.35}
+\contentsline {figure}{\numberline {8.4}{\ignorespaces Topological sorting of the PGCE dependency network reveals assembly patterns that govern the evolutionary process. }}{164}{figure.caption.37}
+\contentsline {figure}{\numberline {8.5}{\ignorespaces PGCE dependencies lead to taxonomically robust predictability of gene acquisition.}}{166}{figure.caption.38}
+\addvspace {5\p@ }
+\contentsline {figure}{\numberline {9.1}{\ignorespaces Effects of mutation rate variation on simple evolutionary dynamics.}}{172}{figure.caption.39}
+\contentsline {figure}{\numberline {9.2}{\ignorespaces \emph {elf3} null mutation is epistatic to Hsp90 inhibition phenotypes.}}{174}{figure.caption.40}
+\contentsline {figure}{\numberline {9.3}{\ignorespaces Prevalence of recently horizontally acquired genes is weakly positively correlated with genome size in bacteria.}}{178}{figure.caption.42}
+\addvspace {5\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces The ELF3-TR variation is not correlated with ELF3 expression.}}{217}{figure.caption.45}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces ELF3-TR variation has nonlinear phenotypic effects in the Ws background}}{219}{figure.caption.46}
+\contentsline {figure}{\numberline {A.3}{\ignorespaces ELF3-TR modulates expression of PIF5 and PRR9.}}{221}{figure.caption.47}
+\contentsline {figure}{\numberline {A.4}{\ignorespaces Circadian parameters estimated for different TR alleles in elf3-4 CCR2::Luc reporter lines.}}{223}{figure.caption.48}
+\contentsline {figure}{\numberline {A.5}{\ignorespaces ELF3-TR variation has nonlinear phenotypic effects in the elf3-200 background (Col-0 accession).}}{224}{figure.caption.49}
+\contentsline {figure}{\numberline {A.6}{\ignorespaces The phenotypic effects of ELF3-TR copy number variation are strongly background-dependent.}}{226}{figure.caption.50}
+\contentsline {figure}{\numberline {A.7}{\ignorespaces elf3 mutants are not haploinsufficient between the Ws and Col backgrounds.}}{227}{figure.caption.51}
+\addvspace {5\p@ }
+\contentsline {figure}{\numberline {B.1}{\ignorespaces Structure of the PFT1 protein. }}{237}{figure.caption.52}
 \addvspace {5\p@ }
 \addvspace {5\p@ }
-\contentsline {figure}{\numberline {9.1}{\ignorespaces Effects of mutation rate variation on simple evolutionary dynamics.}}{160}{figure.caption.28}
-\contentsline {figure}{\numberline {9.2}{\ignorespaces \emph {elf3} null mutation is epistatic to Hsp90 inhibition phenotypes.}}{162}{figure.caption.29}
+\contentsline {figure}{\numberline {D.1}{\ignorespaces Workflow for genetic analysis of the Col x Ws $F_2$s.}}{253}{figure.caption.64}
+\contentsline {figure}{\numberline {D.2}{\ignorespaces Overlap of high-confidence (Q>=40) single nucleotide variants (SNVs) observed in the Ws strain with two related strains.}}{254}{figure.caption.65}
+\contentsline {figure}{\numberline {D.3}{\ignorespaces Genotypes of the 96 extreme $F_2$s used for sequencing.}}{255}{figure.caption.66}
+\contentsline {figure}{\numberline {D.4}{\ignorespaces 2-locus QTL scan indicates potential genetic interactions between ELF3 and other loci.}}{256}{figure.caption.67}
+\contentsline {figure}{\numberline {D.5}{\ignorespaces Effect on hypocotyl length of various QTLs interacting with the ELF3 locus. }}{257}{figure.caption.68}
+\contentsline {figure}{\numberline {D.6}{\ignorespaces Analysis of 15d hypocotyl length under SD of candidate gene mutants.}}{258}{figure.caption.69}
+\contentsline {figure}{\numberline {D.7}{\ignorespaces GAL4 DBD-ELF3 fusions do not lead to Y2H activation in combination with GAL4 AD-LSH9 vectors carrying either the Col or Ws variant of \emph {LSH9}.}}{259}{figure.caption.70}
+\contentsline {figure}{\numberline {D.8}{\ignorespaces \emph {ELF3} expression is not substantially affected by \emph {lsh9} T-DNA insertion.}}{260}{figure.caption.71}
+\contentsline {figure}{\numberline {D.9}{\ignorespaces The GAL4 DBD-ELF3 fusion does not autoactivate in combination with a GAL4 AD-empty vector (pGADT7).}}{261}{figure.caption.72}
+\contentsline {figure}{\numberline {D.10}{\ignorespaces ELF3-PIF4 interaction not detectable in our assay.}}{262}{figure.caption.73}
+\contentsline {figure}{\numberline {D.11}{\ignorespaces X-gal cleavage assay confirms modest differences in affinity between ELF3-polyQ variants for various proteins in Y2H.}}{263}{figure.caption.74}
 \addvspace {5\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces The ELF3-TR variation is not correlated with ELF3 expression.}}{197}{figure.caption.33}
-\contentsline {figure}{\numberline {A.2}{\ignorespaces ELF3-TR variation has nonlinear phenotypic effects in the Ws background}}{199}{figure.caption.34}
-\contentsline {figure}{\numberline {A.3}{\ignorespaces ELF3-TR modulates expression of PIF5 and PRR9.}}{201}{figure.caption.35}
-\contentsline {figure}{\numberline {A.4}{\ignorespaces Circadian parameters estimated for different TR alleles in elf3-4 CCR2::Luc reporter lines.}}{203}{figure.caption.36}
-\contentsline {figure}{\numberline {A.5}{\ignorespaces ELF3-TR variation has nonlinear phenotypic effects in the elf3-200 background (Col-0 accession).}}{204}{figure.caption.37}
-\contentsline {figure}{\numberline {A.6}{\ignorespaces The phenotypic effects of ELF3-TR copy number variation are strongly background-dependent.}}{206}{figure.caption.38}
-\contentsline {figure}{\numberline {A.7}{\ignorespaces elf3 mutants are not haploinsufficient between the Ws and Col backgrounds.}}{207}{figure.caption.39}
+\contentsline {figure}{\numberline {E.1}{\ignorespaces Expression analysis of \emph {PIF4} and \emph {AtHB2} depends on temperature, genetic background, and ELF3 functionality.}}{264}{figure.caption.75}
+\contentsline {figure}{\numberline {E.2}{\ignorespaces Regulation of adult thermoresponsive traits by ELF3 and FCA is independent of PIF4 and modulated by genetic background.}}{265}{figure.caption.76}
 \addvspace {5\p@ }
-\contentsline {figure}{\numberline {B.1}{\ignorespaces Structure of the PFT1 protein. }}{217}{figure.caption.40}
+\contentsline {figure}{\numberline {F.1}{\ignorespaces Phylogenetic clustering of bacterial hsp90 paralogs.}}{286}{figure.caption.93}
+\contentsline {figure}{\numberline {F.2}{\ignorespaces Co-evolutionary gain and loss rates of all \emph {hsp90A}- associated flagellar genes.}}{287}{figure.caption.94}
+\contentsline {figure}{\numberline {F.3}{\ignorespaces Co-evolutionary gain and loss rates of all \emph {hsp90A}- associated secretion genes.}}{288}{figure.caption.95}
+\contentsline {figure}{\numberline {F.4}{\ignorespaces Box plots of the rates of gain and loss of all \emph {hsp90A}- associated secretion genes.}}{289}{figure.caption.96}
+\contentsline {figure}{\numberline {F.5}{\ignorespaces The htpG(E34A) mutant strain shows decreased motility/chemotaxis. }}{290}{figure.caption.97}
+\contentsline {figure}{\numberline {F.6}{\ignorespaces HtpG interactions with FliN and CheA are dependent on the DnaJ/CbpA/DnaK chaperone system.}}{291}{figure.caption.98}
 \addvspace {5\p@ }
-\addvspace {5\p@ }
-\contentsline {figure}{\numberline {D.1}{\ignorespaces Workflow for genetic analysis of the Col x Ws $F_2$s.}}{225}{figure.caption.45}
-\contentsline {figure}{\numberline {D.2}{\ignorespaces Overlap of high-confidence (Q>=40) single nucleotide variants (SNVs) observed in the Ws strain with two related strains.}}{226}{figure.caption.46}
-\contentsline {figure}{\numberline {D.3}{\ignorespaces Genotypes of the 96 extreme $F_2$s used for sequencing.}}{227}{figure.caption.47}
-\contentsline {figure}{\numberline {D.4}{\ignorespaces 2-locus QTL scan indicates potential genetic interactions between ELF3 and other loci.}}{228}{figure.caption.48}
-\contentsline {figure}{\numberline {D.5}{\ignorespaces Effect on hypocotyl length of various QTLs interacting with the ELF3 locus. }}{229}{figure.caption.49}
-\contentsline {figure}{\numberline {D.6}{\ignorespaces Analysis of 15d hypocotyl length under SD of candidate gene mutants.}}{230}{figure.caption.50}
-\contentsline {figure}{\numberline {D.7}{\ignorespaces GAL4 DBD-ELF3 fusions do not lead to Y2H activation in combination with GAL4 AD-LSH9 vectors carrying either the Col or Ws variant of \emph {LSH9}.}}{231}{figure.caption.51}
-\contentsline {figure}{\numberline {D.8}{\ignorespaces \emph {ELF3} expression is not substantially affected by \emph {lsh9} T-DNA insertion.}}{232}{figure.caption.52}
-\contentsline {figure}{\numberline {D.9}{\ignorespaces The GAL4 DBD-ELF3 fusion does not autoactivate in combination with a GAL4 AD-empty vector (pGADT7).}}{233}{figure.caption.53}
-\contentsline {figure}{\numberline {D.10}{\ignorespaces ELF3-PIF4 interaction not detectable in our assay.}}{234}{figure.caption.54}
-\contentsline {figure}{\numberline {D.11}{\ignorespaces X-gal cleavage assay confirms modest differences in affinity between ELF3-polyQ variants for various proteins in Y2H.}}{235}{figure.caption.55}
-\addvspace {5\p@ }
-\addvspace {5\p@ }
-\contentsline {figure}{\numberline {F.1}{\ignorespaces Phylogenetic clustering of bacterial hsp90 paralogs.}}{242}{figure.caption.56}
-\contentsline {figure}{\numberline {F.2}{\ignorespaces Co-evolutionary gain and loss rates of all hsp90A- associated flagellar genes.}}{243}{figure.caption.57}
-\contentsline {figure}{\numberline {F.3}{\ignorespaces Co-evolutionary gain and loss rates of all hsp90A- associated secretion genes.}}{244}{figure.caption.58}
-\contentsline {figure}{\numberline {F.4}{\ignorespaces Box plots of the rates of gain and loss of all hsp90A- associated secretion genes.}}{245}{figure.caption.59}
-\contentsline {figure}{\numberline {F.5}{\ignorespaces The htpG(E34A) mutant strain shows decreased motility/chemotaxis. }}{246}{figure.caption.60}
-\contentsline {figure}{\numberline {F.6}{\ignorespaces HtpG interactions with FliN and CheA are dependent on the DnaJ/CbpA/DnaK chaperone system.}}{247}{figure.caption.61}
-\addvspace {5\p@ }
-\contentsline {figure}{\numberline {G.1}{\ignorespaces Gene losses outnumber gene gains.}}{262}{figure.caption.72}
-\contentsline {figure}{\numberline {G.2}{\ignorespaces Comparison of evolution of real genes with genes with simulated evolution under various models. }}{263}{figure.caption.73}
-\contentsline {figure}{\numberline {G.3}{\ignorespaces Some regions of the parameter space are underpowered to detect PGCEs.}}{265}{figure.caption.74}
-\contentsline {figure}{\numberline {G.4}{\ignorespaces A global network of directional dependencies between prokaryotic genes (PGCEs)}}{266}{figure.caption.75}
-\contentsline {figure}{\numberline {G.5}{\ignorespaces Topological characteristics of the PGCE network.}}{267}{figure.caption.76}
-\contentsline {figure}{\numberline {G.6}{\ignorespaces A network of evolutionary dependencies between functional pathways.}}{268}{figure.caption.77}
-\contentsline {figure}{\numberline {G.7}{\ignorespaces Differences in gain counts do not explain differential sorting of genes in different functional groups.}}{269}{figure.caption.78}
-\contentsline {figure}{\numberline {G.8}{\ignorespaces Phylogenetic depth of gene gains in bacteria decreases with rank in the topological sort.}}{270}{figure.caption.79}
-\contentsline {figure}{\numberline {G.9}{\ignorespaces Performance of models predicting the acquisition of genes between clades.}}{271}{figure.caption.80}
+\contentsline {figure}{\numberline {G.1}{\ignorespaces Gene losses outnumber gene gains.}}{306}{figure.caption.109}
+\contentsline {figure}{\numberline {G.2}{\ignorespaces Comparison of evolution of real genes with genes with simulated evolution under various models. }}{307}{figure.caption.110}
+\contentsline {figure}{\numberline {G.3}{\ignorespaces Some regions of the parameter space are underpowered to detect PGCEs.}}{309}{figure.caption.111}
+\contentsline {figure}{\numberline {G.4}{\ignorespaces A global network of directional dependencies between prokaryotic genes (PGCEs)}}{310}{figure.caption.112}
+\contentsline {figure}{\numberline {G.5}{\ignorespaces Topological characteristics of the PGCE network.}}{311}{figure.caption.113}
+\contentsline {figure}{\numberline {G.6}{\ignorespaces A network of evolutionary dependencies between functional pathways.}}{312}{figure.caption.114}
+\contentsline {figure}{\numberline {G.7}{\ignorespaces Differences in gain counts do not explain differential sorting of genes in different functional groups.}}{313}{figure.caption.115}
+\contentsline {figure}{\numberline {G.8}{\ignorespaces Phylogenetic depth of gene gains in bacteria decreases with rank in the topological sort.}}{314}{figure.caption.116}
+\contentsline {figure}{\numberline {G.9}{\ignorespaces Performance of models predicting the acquisition of genes between clades.}}{315}{figure.caption.117}

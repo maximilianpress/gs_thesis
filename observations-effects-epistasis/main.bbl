@@ -1,5 +1,9 @@
 \begin{thebibliography}{100}
 
+\bibitem{}
+{Cells, Embryos, and Evolution.}
+\newblock (1999):2008, 2008.
+
 \bibitem{Akaike1974}
 Hirotugu A~I Akaike.
 \newblock {A New Look at the Statistical Model Identification}.
@@ -17,6 +21,11 @@ Guruprasad Ananda, Suzanne~E Hile, Amanda Breski, Yanli Wang, Yogeshwar Kelkar,
   population-specific single nucleotide polymorphisms within individual human
   genomes.}
 \newblock {\em PLoS genetics}, 10(7):e1004498, July 2014.
+
+\bibitem{Andam2011}
+Cheryl~P Andam and J~Peter Gogarten.
+\newblock {Biased gene transfer in microbial evolution.}
+\newblock {\em Nature reviews. Microbiology}, 9(7):543--55, July 2011.
 
 \bibitem{Andersson2008}
 Inger Andersson and Anders Backlund.
@@ -55,6 +64,18 @@ Stefan B\"{a}ckstr\"{o}m, Nils Elfving, Robert Nilsson, Gunnar Wingsle, and
 David~A Baltrus.
 \newblock {Exploring the costs of horizontal gene transfer.}
 \newblock {\em Trends in ecology \& evolution}, 28(8):489--95, August 2013.
+
+\bibitem{Bardwell1987}
+J~C Bardwell and E~a Craig.
+\newblock {Eukaryotic Mr 83,000 heat shock protein has a homologue in
+  Escherichia coli.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 84(15):5177--81, August 1987.
+
+\bibitem{Bardwell1988}
+J~C Bardwell and E~a Craig.
+\newblock {Ancient heat shock gene is dispensable.}
+\newblock {\em Journal of bacteriology}, 170(7):2977--83, July 1988.
 
 \bibitem{Barker2007}
 Daniel Barker, Andrew Meade, and Mark Pagel.
@@ -209,6 +230,12 @@ Francesca~D Ciccarelli, Tobias Doerks, Christian von Mering, Christopher~J
 \newblock {Toward automatic reconstruction of a highly resolved tree of life.}
 \newblock {\em Science (New York, N.Y.)}, 311(5765):1283--7, March 2006.
 
+\bibitem{Cirulli2010}
+Elizabeth~T Cirulli and David~B Goldstein.
+\newblock {Uncovering the roles of rare variants in common disease through
+  whole-genome sequencing.}
+\newblock {\em Nature reviews. Genetics}, 11(6):415--25, June 2010.
+
 \bibitem{Clough1998}
 S~J Clough and A~F Bent.
 \newblock {Floral dip: a simplified method for Agrobacterium-mediated
@@ -265,6 +292,13 @@ Russell~B Corbett-Detig, Jun Zhou, Andrew~G Clark, Daniel~L Hartl, and Julien~F
 \newblock {Genetic incompatibilities are widespread within species.}
 \newblock {\em Nature}, 504(7478):135--7, December 2013.
 
+\bibitem{Cordero2009}
+Otto~X Cordero and Paulien Hogeweg.
+\newblock {The impact of long-distance horizontal gene transfer on prokaryotic
+  genome size.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 106(51):21748--53, December 2009.
+
 \bibitem{Costanzo2010}
 Michael Costanzo, Anastasia Baryshnikova, Jeremy Bellay, Yungil Kim, Eric~D
   Spear, Carolyn~S Sevier, Huiming Ding, Judice L~Y Koh, Kiana Toufighi, Sara
@@ -285,6 +319,12 @@ Michael Costanzo, Anastasia Baryshnikova, Jeremy Bellay, Yungil Kim, Eric~D
 M~F Covington, S~Panda, X~L Liu, C~A Strayer, D~R Wagner, and S~A Kay.
 \newblock {ELF3 modulates resetting of the circadian clock in Arabidopsis.}
 \newblock {\em The Plant cell}, 13(6):1305--15, June 2001.
+
+\bibitem{Cowen2005}
+Leah~E Cowen and Susan Lindquist.
+\newblock {Hsp90 potentiates the rapid evolution of new traits: drug resistance
+  in diverse fungi.}
+\newblock {\em Science (New York, N.Y.)}, 309(5744):2185--9, September 2005.
 
 \bibitem{Csardi2006}
 Gabor Csardi and Tamas Nepusz.
@@ -387,6 +427,16 @@ Noel~G Faux, Stephen~P Bottomley, Arthur~M Lesk, James~A Irving, John~R
   repeat-containing proteins.}
 \newblock {\em Genome research}, 15(4):537--51, April 2005.
 
+\bibitem{Felsenstein1989}
+J~Felsenstein.
+\newblock {PHYLIP - Phylogeny inference package (Version 3.2)}.
+\newblock {\em Cladistics}, 5:164--166, 1989.
+
+\bibitem{Felsenstein1985}
+Joseph Felsenstein.
+\newblock {Phylogenies and the Comparative Method}.
+\newblock {\em American Naturalist}, 125(1):1--15, 1985.
+
 \bibitem{Felsenstein2013}
 Joseph Felsenstein.
 \newblock {\em {Theoretical Evolutionary Genetics}}.
@@ -456,6 +506,21 @@ Rita Gemayel, Marcelo~D Vinces, Matthieu Legendre, and Kevin~J Verstrepen.
   regulatory sequences.}
 \newblock {\em Annual review of genetics}, 44:445--77, January 2010.
 
+\bibitem{Genest2011}
+Olivier Genest, Joel~R Hoskins, Jodi~L Camberg, Shannon~M Doyle, and Sue
+  Wickner.
+\newblock {Heat shock protein 90 from Escherichia coli collaborates with the
+  DnaK chaperone system in client protein remodeling}.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  108(20):8206--8211, 2011.
+
+\bibitem{Genest2013}
+Olivier Genest, Michael Reidy, Timothy~O Street, Joel~R Hoskins, Jodi~L
+  Camberg, David~A Agard, Daniel~C Masison, and Sue Wickner.
+\newblock {Uncovering a region of heat shock protein 90 important for client
+  binding in E. coli and chaperone function in yeast.}
+\newblock {\em Molecular cell}, 49(3):464--73, February 2013.
+
 \bibitem{Gibson2011}
 Greg Gibson.
 \newblock {Rare and common variants: twenty arguments.}
@@ -480,6 +545,13 @@ Lizhi~Ian Gong, Marc~A Suchard, and Jesse~D Bloom.
   influenza protein.}
 \newblock {\em eLife}, 2:e00631, January 2013.
 
+\bibitem{Gophna2011}
+Uri Gophna and Yanay Ofran.
+\newblock {Lateral acquisition of genes is affected by the friendliness of
+  their products.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 108(1):343--8, January 2011.
+
 \bibitem{Gordon1927}
 Myron Gordon.
 \newblock {THE GENETICS OF A VIVIPAROUS TOP-MINNOW PLATYPOECILUS; THE
@@ -492,6 +564,11 @@ S.~J. Gould and R.~C. Lewontin.
   of the Adaptationist Programme}.
 \newblock {\em Proceedings of the Royal Society B: Biological Sciences},
   205(1161):581--598, 1979.
+
+\bibitem{Gould2002}
+Stephen~J. Gould.
+\newblock {\em {The Structure of Evolutionary Theory}}.
+\newblock Belknap of Harvard UP, Cambridge, MA, 2002.
 
 \bibitem{Guilmatre2013}
 Audrey Guilmatre, Gareth Highnam, Christelle Borel, David Mittelman, and
@@ -592,6 +669,12 @@ John~P. Huelsenbeck, Rasmus Nielsen, and Jonathan~P. Bollback.
 \newblock {Stochastic Mapping of Morphological Characters}.
 \newblock {\em Systematic Biology}, 52(2):131--158, April 2003.
 
+\bibitem{Hwang2011}
+Sohyun Hwang, Seung~Y Rhee, Edward~M Marcotte, and Insuk Lee.
+\newblock {Systematic prediction of gene function in Arabidopsis thaliana using
+  a probabilistic functional gene network.}
+\newblock {\em Nature protocols}, 6(9):1429--42, September 2011.
+
 \bibitem{Inigo2012}
 Sabrina I\~{n}igo, Mariano~J Alvarez, B\'{a}rbara Strasser, Andrea Califano,
   and Pablo~D Cerd\'{a}n.
@@ -612,6 +695,13 @@ Ahmet Inanir, Sengul Tural, Serbulent Yigit, Goknur Kalkan, Gunseli~Sefika
 \newblock {Association of IL-4 gene VNTR variant with deep venous thrombosis in
   Beh\c{c}et’s disease and its effect on ocular involvement}.
 \newblock {\em Molecular Vision}, 19:675--683, March 2013.
+
+\bibitem{Inoue2007}
+Tetsuyoshi Inoue, Ryuji Shingaki, Shotaro Hirose, Kaori Waki, Hirotada Mori,
+  and Kazuhiro Fukui.
+\newblock {Genome-wide screening of genes required for swarming motility in
+  Escherichia coli K-12.}
+\newblock {\em Journal of bacteriology}, 189(3):950--7, March 2007.
 
 \bibitem{Iwasaki2009}
 Wataru Iwasaki and Toshihisa Takagi.
@@ -751,6 +841,19 @@ Igor Kovalchuk, Olga Kovalchuk, V\'{e}ronique Kalck, Vitaly Boyko, Jody
 \newblock {Pathogen-induced systemic plant signal triggers DNA rearrangements.}
 \newblock {\em Nature}, 423(6941):760--2, June 2003.
 
+\bibitem{Kratter2010}
+Ian~H Kratter and Steven Finkbeiner.
+\newblock {PolyQ disease: too many Qs, too much function?}
+\newblock {\em Neuron}, 67(6):897--9, September 2010.
+
+\bibitem{KrishnaKumar2015}
+Siddharth {Krishna Kumar}, Marcus~W Feldman, David~H Rehkopf, and Shripad
+  Tuljapurkar.
+\newblock {Limitations of GCTA as a solution to the missing heritability
+  problem.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 113(1):E61--70, December 2015.
+
 \bibitem{Krogan2006}
 Nevan~J Krogan, Gerard Cagney, Haiyuan Yu, Gouqing Zhong, Xinghua Guo, Alexandr
   Ignatchenko, Joyce Li, Shuye Pu, Nira Datta, Aaron~P Tikuisis, Thanuja Punna,
@@ -767,6 +870,17 @@ Nevan~J Krogan, Gerard Cagney, Haiyuan Yu, Gouqing Zhong, Xinghua Guo, Alexandr
 \newblock {Global landscape of protein complexes in the yeast Saccharomyces
   cerevisiae.}
 \newblock {\em Nature}, 440(7084):637--43, March 2006.
+
+\bibitem{Kruijer2016}
+Willem Kruijer.
+\newblock {Misspecification in Mixed-Model-Based Association Analysis.}
+\newblock {\em Genetics}, 202(1):363--6, January 2016.
+
+\bibitem{Kumar2012}
+Mohit Kumar and Victor Sourjik.
+\newblock {Physical map and dynamics of the chaperone network in Escherichia
+  coli.}
+\newblock {\em Molecular microbiology}, 84(4):736--47, May 2012.
 
 \bibitem{Kuo2009}
 Chih-Horng Kuo and Howard Ochman.
@@ -837,6 +951,11 @@ Hongwei Li, Jing Liu, Keliang Wu, and Yuan Chen.
 \newblock {Insight into role of selection in the evolution of polyglutamine
   tracts in humans.}
 \newblock {\em PloS one}, 7(7):e41167, January 2012.
+
+\bibitem{Li2011}
+Hui Li and Victor Sourjik.
+\newblock {Assembly and stability of flagellar motor in Escherichia coli.}
+\newblock {\em Molecular Microbiology}, 80(4):886--899, 2011.
 
 \bibitem{Lindqvist2007}
 Charlotte Lindqvist, Liisa Laakkonen, and Victor~A Albert.
@@ -912,6 +1031,11 @@ J.~Majewski, P.~Zawadzki, P.~Pickerill, F.~M. Cohan, and C.~G. Dowson.
 \newblock {Barriers to Genetic Exchange between Bacterial Species:
   Streptococcus pneumoniae Transformation}.
 \newblock {\em Journal of Bacteriology}, 182(4):1016--1023, February 2000.
+
+\bibitem{Makhnevych2012}
+Taras Makhnevych and Walid~A Houry.
+\newblock {The role of Hsp90 in protein complex assembly.}
+\newblock {\em Biochimica et biophysica acta}, 1823(3):674--82, March 2012.
 
 \bibitem{Maloof2001}
 J~N Maloof, J~O Borevitz, T~Dabi, J~Lutes, R~B Nehring, J~L Redfern, G~T
@@ -1023,6 +1147,13 @@ Nigel~A Morrison, Alexandre~S Stephens, Motomi Osato, Julie~A Pasco, Nicolette
 \newblock {Polyalanine repeat polymorphism in RUNX2 is associated with
   site-specific fracture in post-menopausal females.}
 \newblock {\em PloS one}, 8(9):e72740, January 2013.
+
+\bibitem{Motojima-Miyazaki2010}
+Yuko Motojima-Miyazaki, Masasuke Yoshida, and Fumihiro Motojima.
+\newblock {Ribosomal protein L2 associates with E. coli HtpG and activates its
+  ATPase activity.}
+\newblock {\em Biochemical and biophysical research communications},
+  400(2):241--5, October 2010.
 
 \bibitem{Moxon1994}
 E.Richard Moxon, Paul~B. Rainey, Martin~A. Nowak, and Richard~E. Lenski.
@@ -1178,6 +1309,11 @@ E.~Paradis, J.~Claude, and K.~Strimmer.
 \newblock {APE: Analyses of Phylogenetics and Evolution in R language}.
 \newblock {\em Bioinformatics}, 20(2):289--290, January 2004.
 
+\bibitem{Partridge2013}
+Jonathan~D Partridge and Rasika~M Harshey.
+\newblock {Swarming: flexible roaming plans.}
+\newblock {\em Journal of bacteriology}, 195(5):909--18, March 2013.
+
 \bibitem{Peixoto1998}
 a~a Peixoto, J~M Hennessy, I~Townson, G~Hasan, M~Rosbash, R~Costa, and C~P
   Kyriacou.
@@ -1190,6 +1326,12 @@ AA~Peixoto, S~Campesan, R~Costa, and CP~Kyriacou.
 \newblock {Molecular evolution of a repetitive region within the per gene of
   Drosophila}.
 \newblock {\em Mol. Biol. Evol.}, 10(1):127--139, January 1993.
+
+\bibitem{Peregrin-Alvarez2009}
+Jos\'{e}~M Peregr\'{\i}n-Alvarez, Xuejian Xiong, Chong Su, and John Parkinson.
+\newblock {The Modular Organization of Protein Interactions in Escherichia
+  coli.}
+\newblock {\em PLoS computational biology}, 5(10):e1000523, October 2009.
 
 \bibitem{Perez-Perez2002}
 Jose~Manuel Perez-Perez, Jose Serrano-Cartagena, and Jose~Luis Micol.
@@ -1214,6 +1356,12 @@ Patrick~C Phillips.
 \newblock {Epistasis--the essential role of gene interactions in the structure
   and evolution of genetic systems.}
 \newblock {\em Nature reviews. Genetics}, 9(11):855--67, November 2008.
+
+\bibitem{Picard2002}
+D.~Picard.
+\newblock {Heat-shock protein 90, a chaperone for folding and regulation}.
+\newblock {\em Cellular and Molecular Life Sciences}, 59(10):1640--1648,
+  October 2002.
 
 \bibitem{Plautz1997}
 J.~D. Plautz, M.~Straume, R.~Stanewsky, C.~F. Jamison, C.~Brandes, H.~B. Dowse,
@@ -1247,6 +1395,12 @@ Ovidiu Popa and Tal Dagan.
 \newblock {Trends and barriers to lateral gene transfer in prokaryotes.}
 \newblock {\em Current opinion in microbiology}, 14(5):615--23, October 2011.
 
+\bibitem{Popa2011a}
+Ovidiu Popa, Einat Hazkani-Covo, Giddy Landan, William Martin, and Tal Dagan.
+\newblock {Directed networks reveal genomic barriers and DNA repair bypasses to
+  lateral gene transfer among prokaryotes.}
+\newblock {\em Genome Research}, 21(4):599--609, April 2011.
+
 \bibitem{Press2014}
 Maximilian~O. Press, Keisha~D. Carlson, and Christine Queitsch.
 \newblock {The overdue promise of short tandem repeat variation for
@@ -1259,6 +1413,11 @@ Maximilian~O Press, Hui Li, Nicole Creanza, G\"{u}nter Kramer, Christine
 \newblock {Genome-scale co-evolutionary inference identifies functions and
   clients of bacterial Hsp90.}
 \newblock {\em PLoS genetics}, 9(7):e1003631, 2013.
+
+\bibitem{Pritchard2000}
+J~K Pritchard, M~Stephens, and P~Donnelly.
+\newblock {Inference of population structure using multilocus genotype data.}
+\newblock {\em Genetics}, 155(2):945--59, June 2000.
 
 \bibitem{Puigbo2014}
 Pere Puigb\`{o}, Alexander~E Lobkovsky, David~M Kristensen, Yuri~I Wolf, and
@@ -1323,6 +1482,16 @@ Mario~G Rosso, Yong Li, Nicolai Strizhov, Bernd Reiss, Koen Dekker, and Bernd
   flanking sequence tag-based reverse genetics.}
 \newblock {\em Plant molecular biology}, 53(1-2):247--59, September 2003.
 
+\bibitem{Rutherford1998}
+S~L Rutherford and S~Lindquist.
+\newblock {Hsp90 as a capacitor for morphological evolution.}
+\newblock {\em Nature}, 396(6709):336--42, November 1998.
+
+\bibitem{Rutherford1994}
+Suzanne~L Rutherford and Charles~S Zuker.
+\newblock {Protein Folding and the Regulation of Signaling Pathways}.
+\newblock {\em Cell}, 79:1129--1132, 1994.
+
 \bibitem{Sangster2007}
 Todd~a Sangster, Adam Bahrami, Amity Wilczek, Etsuko Watanabe, Kurt
   Schellenberg, Catherine McLellan, Alicia Kelley, Sek~Won Kong, Christine
@@ -1345,6 +1514,12 @@ Todd~a Sangster, Neeraj Salathia, Hana~N Lee, Etsuko Watanabe, Kurt
 \newblock {HSP90-buffered genetic variation is common in Arabidopsis thaliana.}
 \newblock {\em Proceedings of the National Academy of Sciences of the United
   States of America}, 105(8):2969--74, February 2008.
+
+\bibitem{Sato2010}
+Takeshi Sato, Shun Minagawa, Erika Kojima, Naoki Okamoto, and Hitoshi Nakamoto.
+\newblock {HtpG, the prokaryotic homologue of Hsp90, stabilizes a phycobilisome
+  protein in the cyanobacterium Synechococcus elongatus PCC 7942.}
+\newblock {\em Molecular microbiology}, 76(3):576--89, May 2010.
 
 \bibitem{Sawaya2013}
 Sterling Sawaya, Andrew Bagshaw, Emmanuel Buschiazzo, Pankaj Kumar, Shantanu
@@ -1433,6 +1608,11 @@ Chikako Shindo, Maria~Jose Aranzana, Clare Lister, Catherine Baxter, Colin
   flowering time of Arabidopsis.}
 \newblock {\em Plant physiology}, 138(2):1163--73, June 2005.
 
+\bibitem{Shultz2011}
+Susanne Shultz, Christopher Opie, and Quentin~D Atkinson.
+\newblock {Stepwise evolution of stable sociality in primates.}
+\newblock {\em Nature}, 479(7372):219--22, November 2011.
+
 \bibitem{Sievers2011}
 Fabian Sievers, Andreas Wilm, David Dineen, Toby~J Gibson, Kevin Karplus,
   Weizhong Li, Rodrigo Lopez, Hamish McWilliam, Michael Remmert, Johannes
@@ -1496,10 +1676,22 @@ Dorothee Staiger and John W~S Brown.
   development, and stress responses.}
 \newblock {\em The Plant cell}, 25(10):3640--56, October 2013.
 
+\bibitem{Stechmann2004}
+A~Stechmann and T~Cavalier-Smith.
+\newblock {Evolutionary origins of Hsp90 chaperones and a deep paralogy in
+  their bacterial ancestors.}
+\newblock {\em J Eukaryot Microbiol.}, 51(3):364--373, 2004.
+
 \bibitem{Stephan1996}
 W.~Stephan.
 \newblock {The Rate of Compensatory Evolution}.
 \newblock {\em Genetics}, 144(1):419--426, September 1996.
+
+\bibitem{Storz2016}
+Jay~F Storz.
+\newblock {Causes of molecular convergence and parallelism in protein
+  evolution.}
+\newblock {\em Nature reviews. Genetics}, 17(4):239--250, March 2016.
 
 \bibitem{Stott1995}
 K~Stott, J~M Blackburn, P~J Butler, and M~Perutz.
@@ -1616,6 +1808,17 @@ Marcelo~D Vinces, Matthieu Legendre, Marina Caldara, Masaki Hagihara, and
   evolvability.}
 \newblock {\em Science}, 324(5931):1213--6, May 2009.
 
+\bibitem{Visscher2016}
+P.~M. Visscher.
+\newblock {Human Complex Trait Genetics in the 21st Century}.
+\newblock {\em Genetics}, 202(2):377--379, February 2016.
+
+\bibitem{Waddington1942}
+C~H Waddington.
+\newblock {CANALIZATION OF DEVELOPMENT AND THE INHERITANCE OF ACQUIRED
+  CHARACTERS : Abstract : Nature}.
+\newblock {\em Nature}, 150:563--565, 1942.
+
 \bibitem{Waddington1953}
 C~H Waddington.
 \newblock {Genetic Assimilation of an Acquired Character}.
@@ -1637,6 +1840,13 @@ Michael~J Wade.
 G\"{u}nter~P. Wagner, Manfred~D. Laubichler, and Homayoun Bagheri-Chaichian.
 \newblock {Genetic measurement theory of epistatic effects}.
 \newblock {\em Genetica}, 102-103:569--580, 1998.
+
+\bibitem{Wang2012}
+Peggy~I Wang, Sohyun Hwang, Rodney~P Kincaid, Christopher~S Sullivan, Insuk
+  Lee, and Edward~M Marcotte.
+\newblock {RIDDLE: Reflective diffusion and local extension reveal functional
+  associations for unannotated gene sets via proximity in a gene network}.
+\newblock {\em Genome Biology}, 13(12):R125, 2012.
 
 \bibitem{Weinreich2006}
 Daniel~M Weinreich, Nigel~F Delaney, Mark~A Depristo, and Daniel~L Hartl.
@@ -1713,6 +1923,29 @@ Kang Yan, Peng Liu, Chang-Ai Wu, Guo-Dong Yang, Rui Xu, Qian-Huan Guo,
   regulation of microRNA processing in Arabidopsis thaliana.}
 \newblock {\em Molecular cell}, 48(4):521--31, November 2012.
 
+\bibitem{Yang2015}
+Jian Yang, Andrew Bakshi, Zhihong Zhu, Gibran Hemani, Anna A~E Vinkhuyzen,
+  Sang~Hong Lee, Matthew~R Robinson, John R~B Perry, Ilja~M Nolte, Jana~V van
+  Vliet-Ostaptchouk, Harold Snieder, Tonu Esko, Lili Milani, Reedik M\"{a}gi,
+  Andres Metspalu, Anders Hamsten, Patrik K~E Magnusson, Nancy~L Pedersen, Erik
+  Ingelsson, Nicole Soranzo, Matthew~C Keller, Naomi~R Wray, Michael~E Goddard,
+  and Peter~M Visscher.
+\newblock {Genetic variance estimation with imputed variants finds negligible
+  missing heritability for human height and body mass index}.
+\newblock {\em Nature Genetics}, 47(10):1114--1120, August 2015.
+
+\bibitem{Yang2011}
+Jian Yang, S~Hong Lee, Michael~E Goddard, and Peter~M Visscher.
+\newblock {GCTA: a tool for genome-wide complex trait analysis.}
+\newblock {\em American journal of human genetics}, 88(1):76--82, January 2011.
+
+\bibitem{Yang2016}
+Jian Yang, Sang~Hong Lee, Naomi~R. Wray, Michael~E. Goddard, and Peter~M
+  Visscher.
+\newblock {Commentary on "Limitations of GCTA as a solution to the missing
+  heritability problem"}.
+\newblock Technical report, January 2016.
+
 \bibitem{Yarza2008}
 Pablo Yarza, Michael Richter, J\"{o}rg Peplies, Jean Euzeby, Rudolf Amann,
   Karl-Heinz Schleifer, Wolfgang Ludwig, Frank~Oliver Gl\"{o}ckner, and Ramon
@@ -1728,6 +1961,19 @@ F~Yates and J~Neyman.
 \newblock {\em Supplement to the Journal of the Royal Statistical Society},
   2(2):181--247, 1935.
 
+\bibitem{Yeyati2007}
+Patricia~L Yeyati, Ruth~M Bancewicz, John Maule, and Veronica van Heyningen.
+\newblock {Hsp90 selectively modulates phenotype in vertebrate development.}
+\newblock {\em PLoS Genetics}, 3(3):e43, March 2007.
+
+\bibitem{Yosef2011}
+Ido Yosef, Moran~G Goren, Ruth Kiro, Rotem Edgar, and Udi Qimron.
+\newblock {High-temperature protein G is essential for activity of the
+  Escherichia coli clustered regularly interspaced short palindromic repeats
+  (CRISPR)/Cas system.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 108(50):20136--41, December 2011.
+
 \bibitem{Yoshida2009}
 Riichiro Yoshida, Rym Fekih, Sumire Fujiwara, Atsushi Oda, Kana Miyata, Yusuke
   Tomozoe, Mayu Nakagawa, Kanae Niinuma, Kounosuke Hayashi, Hiroshi Ezura,
@@ -1735,6 +1981,11 @@ Riichiro Yoshida, Rym Fekih, Sumire Fujiwara, Atsushi Oda, Kana Miyata, Yusuke
 \newblock {Possible role of early flowering 3 (ELF3) in clock-dependent floral
   regulation by short vegetative phase (SVP) in Arabidopsis thaliana.}
 \newblock {\em The New phytologist}, 182(4):838--50, June 2009.
+
+\bibitem{Young2001}
+J.~C. Young.
+\newblock {Hsp90: a specialized but essential protein-folding tool}.
+\newblock {\em The Journal of Cell Biology}, 154(2):267--274, July 2001.
 
 \bibitem{Yu2005}
 Fuli Yu, Pardis~C Sabeti, Paul Hardenbol, Qing Fu, Ben Fry, Xiuhua Lu,
@@ -1764,11 +2015,25 @@ M.T. Zagotta, S.~Shannon, C.~Jacobs, and D.R. Meeks-Wagner.
 \newblock {Early-flowering mutants of Arabidopsis thaliana}.
 \newblock {\em Australian journal of plant physiology}, 1992.
 
+\bibitem{Zhang1997}
+J.~Zhang and S.~Kumar.
+\newblock {Detection of convergent and parallel evolution at the amino acid
+  sequence level}.
+\newblock {\em Molecular Biology and Evolution}, 14(5):527--536, May 1997.
+
 \bibitem{Zhang2012}
 Ying Zhang, Changming Liu, Huiping Peng, Jianzhi Zhang, and Quanlin Feng.
 \newblock {IL1 receptor antagonist gene IL1-RN variable number of tandem
   repeats polymorphism and cancer risk: a literature review and meta-analysis.}
 \newblock {\em PloS one}, 7(9):e46017, January 2012.
+
+\bibitem{Zhao2005}
+Rongmin Zhao, Mike Davey, Ya-Chieh Hsu, Pia Kaplanek, Amy Tong, Ainslie~B
+  Parsons, Nevan Krogan, Gerard Cagney, Duy Mai, Jack Greenblatt, Charles
+  Boone, Andrew Emili, and Walid~A Houry.
+\newblock {Navigating the chaperone network: an integrative map of physical and
+  genetic interactions mediated by the hsp90 chaperone.}
+\newblock {\em Cell}, 120(5):715--27, March 2005.
 
 \bibitem{Zhao2014}
 Zhixin Zhao, Cheng Guo, Sreeskandarajan Sutharzan, Pei Li, Craig~S Echt, Jie
