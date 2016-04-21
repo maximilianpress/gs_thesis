@@ -1,8 +1,10 @@
 \begin{thebibliography}{100}
 
-\bibitem{}
-{Cells, Embryos, and Evolution.}
-\newblock (1999):2008, 2008.
+\bibitem{Abby2012}
+Sophie~S Abby and Eduardo P~C Rocha.
+\newblock {The Non-Flagellar Type III Secretion System Evolved from the
+  Bacterial Flagellum and Diversified into Host-Cell Adapted Systems.}
+\newblock {\em PLoS Genetics}, 8(9):e1002983, September 2012.
 
 \bibitem{Akaike1974}
 Hirotugu A~I Akaike.
@@ -13,6 +15,24 @@ Hirotugu A~I Akaike.
 P.~Alberch.
 \newblock {From genes to phenotype: dynamical systems and evolvability}.
 \newblock {\em Genetica}, 84(1):5--11, May 1991.
+
+\bibitem{Alon2003}
+U~Alon.
+\newblock {Biological networks: the tinkerer as an engineer.}
+\newblock {\em Science (New York, N.Y.)}, 301(5641):1866--7, September 2003.
+
+\bibitem{Alonso2003}
+Jos\'{e}~M Alonso, Anna~N Stepanova, Thomas~J Leisse, Christopher~J Kim,
+  Huaming Chen, Paul Shinn, Denise~K Stevenson, Justin Zimmerman, Pascual
+  Barajas, Rosa Cheuk, Carmelita Gadrinab, Collen Heller, Albert Jeske, Eric
+  Koesema, Cristina~C Meyers, Holly Parker, Lance Prednis, Yasser Ansari,
+  Nathan Choy, Hashim Deen, Michael Geralt, Nisha Hazari, Emily Hom, Meagan
+  Karnes, Celene Mulholland, Ral Ndubaku, Ian Schmidt, Plinio Guzman, Laura
+  Aguilar-Henonin, Markus Schmid, Detlef Weigel, David~E Carter, Trudy
+  Marchand, Eddy Risseeuw, Debra Brogden, Albana Zeko, William~L Crosby,
+  Charles~C Berry, and Joseph~R Ecker.
+\newblock {Genome-wide insertional mutagenesis of Arabidopsis thaliana.}
+\newblock {\em Science (New York, N.Y.)}, 301(5633):653--7, August 2003.
 
 \bibitem{Ananda2014}
 Guruprasad Ananda, Suzanne~E Hile, Amanda Breski, Yanli Wang, Yogeshwar Kelkar,
@@ -60,6 +80,20 @@ Stefan B\"{a}ckstr\"{o}m, Nils Elfving, Robert Nilsson, Gunnar Wingsle, and
   identifies PFT1 as the Med25 subunit.}
 \newblock {\em Molecular cell}, 26(5):717--29, June 2007.
 
+\bibitem{Bai2012}
+Ming-Yi Bai, Jian-Xiu Shang, Eunkyoo Oh, Min Fan, Yang Bai, Rodolfo Zentella,
+  Tai-Ping Sun, and Zhi-Yong Wang.
+\newblock {Brassinosteroid, gibberellin and phytochrome impinge on a common
+  transcription module in Arabidopsis.}
+\newblock {\em Nature cell biology}, 14(8):810--7, August 2012.
+
+\bibitem{Balasubramanian2006}
+Sureshkumar Balasubramanian, Sridevi Sureshkumar, Janne Lempe, and Detlef
+  Weigel.
+\newblock {Potent induction of Arabidopsis thaliana flowering by elevated
+  growth temperature.}
+\newblock {\em PLoS genetics}, 2(7):e106, July 2006.
+
 \bibitem{Baltrus2013}
 David~A Baltrus.
 \newblock {Exploring the costs of horizontal gene transfer.}
@@ -89,6 +123,12 @@ Daniel Barker and Mark Pagel.
   analyses of whole genomes.}
 \newblock {\em PLoS Computational Biology}, 1(1):e3, June 2005.
 
+\bibitem{Battisti2009}
+David~S Battisti and Rosamond~L Naylor.
+\newblock {Historical warnings of future food insecurity with unprecedented
+  seasonal heat.}
+\newblock {\em Science (New York, N.Y.)}, 323(5911):240--4, January 2009.
+
 \bibitem{Beerenwinkel2007}
 Niko Beerenwinkel, Lior Pachter, and Bernd Sturmfels.
 \newblock {EPISTASIS AND SHAPES OF FITNESS LANDSCAPES}.
@@ -101,12 +141,25 @@ Yoav Benjamini and Yosef Hochberg.
 \newblock {\em Journal of the Royal Statistical Society B}, 57(1):289--300,
   1995.
 
+\bibitem{Bergland2014}
+Alan~O Bergland, Emily~L Behrman, Katherine~R O'Brien, Paul~S Schmidt, and
+  Dmitri~A Petrov.
+\newblock {Genomic evidence of rapid and stable adaptive oscillations over
+  seasonal time scales in Drosophila.}
+\newblock {\em PLoS genetics}, 10(11):e1004775, November 2014.
+
 \bibitem{Bershtein2015}
 Shimon Bershtein, Adrian W.~R. Serohijos, Sanchari Bhattacharyya, Michael
   Manhart, Jeong-Mo Choi, Wanmeng Mu, Jingwen Zhou, and Eugene~I. Shakhnovich.
 \newblock {Protein Homeostasis Imposes a Barrier on Functional Integration of
   Horizontally Transferred Genes in Bacteria}.
 \newblock {\em PLOS Genet}, 11(10):e1005612, October 2015.
+
+\bibitem{Blazquez2003}
+Miguel~A Bl\'{a}zquez, Ji~Hoon Ahn, and Detlef Weigel.
+\newblock {A thermosensory pathway controlling flowering time in Arabidopsis
+  thaliana.}
+\newblock {\em Nature genetics}, 33(2):168--71, February 2003.
 
 \bibitem{Bloom2013}
 Joshua~S Bloom, Ian~M Ehrenreich, Wesley~T Loo, Th\'{u}y-Lan V\~{o} Lite, and
@@ -144,6 +197,21 @@ Mathew~S. Box, B.~Emma Huang, Mirela Domijan, Katja~E. Jaeger, Asif~Khan
 \newblock {ELF3 Controls Thermoresponsive Growth in Arabidopsis}.
 \newblock {\em Current Biology}, 25(2):194--199, December 2014.
 
+\bibitem{Brocchieri2005}
+Luciano Brocchieri and Samuel Karlin.
+\newblock {Protein length in eukaryotic and prokaryotic proteomes.}
+\newblock {\em Nucleic acids research}, 33(10):3390--400, January 2005.
+
+\bibitem{Broman2003}
+K.~W. Broman, H.~Wu, S.~Sen, and G.~A. Churchill.
+\newblock {R/qtl: QTL mapping in experimental crosses}.
+\newblock {\em Bioinformatics}, 19(7):889--890, May 2003.
+
+\bibitem{Buchner2010}
+Johannes Buchner.
+\newblock {Bacterial Hsp90--desperately seeking clients.}
+\newblock {\em Molecular microbiology}, 76(3):540--4, May 2010.
+
 \bibitem{Butler2007}
 Andrew~P Butler, David Trono, Luis~Della Coletta, Rebecca Beard, Rachel Fraijo,
   Steven Kazianis, and Rodney~S Nairn.
@@ -163,6 +231,17 @@ Orjan Carlborg, Lina Jacobsson, Per Ahgren, Paul Siegel, and Leif Andersson.
 \newblock {Epistasis and the release of genetic variation during long-term
   selection.}
 \newblock {\em Nature genetics}, 38(4):418--20, April 2006.
+
+\bibitem{Carlson2013}
+Christopher~S Carlson, Tara~C Matise, Kari~E North, Christopher~A Haiman,
+  Megan~D Fesinmeyer, Steven Buyske, Fredrick~R Schumacher, Ulrike Peters, Nora
+  Franceschini, Marylyn~D Ritchie, David~J Duggan, Kylee~L Spencer, Logan
+  Dumitrescu, Charles~B Eaton, Fridtjof Thomas, Alicia Young, Cara Carty,
+  Gerardo Heiss, Loic {Le Marchand}, Dana~C Crawford, Lucia~A Hindorff, and
+  Charles~L Kooperberg.
+\newblock {Generalization and dilution of association results from European
+  GWAS in populations of non-European ancestry: the PAGE study.}
+\newblock {\em PLoS biology}, 11(9):e1001661, September 2013.
 
 \bibitem{Carlson2015}
 Keisha~D. Carlson, Peter~H. Sudmant, Maximilian~O. Press, Evan~E. Eichler, Jay
@@ -212,10 +291,32 @@ Rong Chen, Hongling Jiang, Lin Li, Qingzhe Zhai, Linlin Qi, Wenkun Zhou,
   ABI5 transcription factors.}
 \newblock {\em The Plant cell}, 24(7):2898--916, July 2012.
 
+\bibitem{Chen2016}
+Rong Chen, Lisong Shi, J\"{o}rg Hakenberg, Brian Naughton, Pamela Sklar,
+  Jianguo Zhang, Hanlin Zhou, Lifeng Tian, Om~Prakash, Mathieu Lemire, Patrick
+  Sleiman, Wei-yi Cheng, Wanting Chen, Hardik Shah, Yulan Shen, Menachem
+  Fromer, Larsson Omberg, Matthew~A Deardorff, Elaine Zackai, Jason~R Bobe,
+  Elissa Levin, Thomas~J Hudson, Leif Groop, Jun Wang, Hakon Hakonarson, Anne
+  Wojcicki, George~A Diaz, Lisa Edelmann, Eric~E Schadt, and Stephen~H Friend.
+\newblock {Analysis of 589,306 genomes identifies individuals resilient to
+  severe Mendelian childhood diseases}.
+\newblock {\em Nature Biotechnology}, advance on, April 2016.
+
+\bibitem{Chevance2008}
+Fabienne F~V Chevance and Kelly~T Hughes.
+\newblock {Coordinating assembly of a bacterial macromolecular machine.}
+\newblock {\em Nature reviews. Microbiology}, 6(6):455--65, June 2008.
+
 \bibitem{Cheverud1995}
 J~M Cheverud and E~J Routman.
 \newblock {Epistasis and its contribution to genetic variance components.}
 \newblock {\em Genetics}, 139(3):1455--1461, March 1995.
+
+\bibitem{Chow2012}
+Brenda~Y Chow, Anne Helfer, Dmitri~A Nusinow, and Steve~A Kay.
+\newblock {ELF3 recruitment to the PRR9 promoter requires other Evening Complex
+  members in the Arabidopsis circadian clock.}
+\newblock {\em Plant signaling \& behavior}, 7(2):170--3, February 2012.
 
 \bibitem{Christin2015}
 Pascal-Antoine Christin, M\'{o}nica Arakaki, Colin~P Osborne, and Erika~J
@@ -358,6 +459,11 @@ C.~F. Delwiche and J.~D. Palmer.
   eubacteria and plastids}.
 \newblock {\em Molecular Biology and Evolution}, 13(6):873--882, July 1996.
 
+\bibitem{Desvaux2006}
+Micka\"{e}l Desvaux, Michel H\'{e}braud, Ian~R Henderson, and Mark~J Pallen.
+\newblock {Type III secretion: what's in a name?}
+\newblock {\em Trends in microbiology}, 14(4):157--60, April 2006.
+
 \bibitem{Dixon2011}
 Laura~E Dixon, Kirsten Knox, Laszlo Kozma-Bognar, Megan~M Southern, Alexandra
   Pokhilko, and Andrew~J Millar.
@@ -372,6 +478,12 @@ Mark~R Doyle, Seth~J Davis, Ruth~M Bastow, Harriet~G McWatters, L\'{a}szl\'{o}
   Arabidopsis thaliana.}
 \newblock {\em Nature}, 419(6902):74--7, September 2002.
 
+\bibitem{Duek2005}
+Paula~D Duek and Christian Fankhauser.
+\newblock {bHLH class transcription factors take centre stage in phytochrome
+  signalling.}
+\newblock {\em Trends in plant science}, 10(2):51--4, February 2005.
+
 \bibitem{Duitama2014}
 J.~Duitama, A.~Zablotskaya, R.~Gemayel, A.~Jansen, S.~Belet, J.~R. Vermeesch,
   K.~J. Verstrepen, and G.~Froyen.
@@ -384,6 +496,27 @@ Kristin~A Eckert and Suzanne~E Hile.
 \newblock {Every microsatellite is different: Intrinsic DNA features dictate
   mutagenesis of common microsatellites present in the human genome.}
 \newblock {\em Molecular carcinogenesis}, 48(4):379--88, April 2009.
+
+\bibitem{Edwards2006}
+Kieron~D Edwards, Paul~E Anderson, Anthony Hall, Neeraj~S Salathia, James C~W
+  Locke, James~R Lynn, Martin Straume, James~Q Smith, and Andrew~J Millar.
+\newblock {FLOWERING LOCUS C mediates natural variation in the high-temperature
+  response of the Arabidopsis circadian clock.}
+\newblock {\em The Plant cell}, 18(3):639--50, March 2006.
+
+\bibitem{Edwards2015}
+Kieron~D Edwards, Francois Guerineau, Paul~F Devlin, and Andrew~J Millar.
+\newblock {Low-temperature-specific effects of PHYTOCHROME C on the circadian
+  clock in Arabidopsis suggest that PHYC underlies natural variation in
+  biological timing}.
+\newblock {\em bioRxiv}, page 030577, November 2015.
+
+\bibitem{Edwards2005}
+Kieron~D Edwards, James~R Lynn, P\'{e}ter Gyula, Ferenc Nagy, and Andrew~J
+  Millar.
+\newblock {Natural allelic variation in the temperature-compensation mechanisms
+  of the Arabidopsis thaliana circadian clock.}
+\newblock {\em Genetics}, 170(1):387--400, May 2005.
 
 \bibitem{Eichler2010}
 Evan~E Eichler, Jonathan Flint, Greg Gibson, Augustine Kong, Suzanne~M Leal,
@@ -443,6 +576,17 @@ Joseph Felsenstein.
 \newblock http://evolution.gs.washington.edu/pgbook/pgbook.pdf, Seattle, WA,
   USA, 2013.
 
+\bibitem{Fernandez2011}
+Ariel Fern\'{a}ndez and Michael Lynch.
+\newblock {Non-adaptive origins of interactome complexity.}
+\newblock {\em Nature}, 474(7352):502--5, June 2011.
+
+\bibitem{Filo2015}
+Julie Filo, Austin Wu, Erica Eliason, Timothy Richardson, Bryan~C Thines, and
+  Frank~G Harmon.
+\newblock {Gibberellin driven growth in elf3 mutants requires PIF4 and PIF5.}
+\newblock {\em Plant signaling \& behavior}, March 2015.
+
 \bibitem{Fisher1918}
 R.~A. Fisher.
 \newblock {XV.—The Correlation between Relatives on the Supposition of
@@ -467,6 +611,11 @@ John~W Fondon, Elizabeth A~D Hammock, Anthony~J Hannan, and David~G King.
   behavior.}
 \newblock {\em Trends in neurosciences}, 31(7):328--34, July 2008.
 
+\bibitem{Fraser1999}
+G~M Fraser and C~Hughes.
+\newblock {Swarming motility.}
+\newblock {\em Current opinion in microbiology}, 2(6):630--5, December 1999.
+
 \bibitem{Fryer2011}
 John~D Fryer, Peng Yu, Hyojin Kang, Caleigh Mandel-Brehm, Angela~N Carter, Juan
   Crespo-Barreto, Yan Gao, Adriano Flora, Chad Shaw, Harry~T Orr, and Huda~Y
@@ -481,6 +630,24 @@ Francis Galton.
   nature and nurture}.
 \newblock {\em Fraser's Magazine}, 12:566--576, 1875.
 
+\bibitem{Galvao2015}
+Vinicius~Costa Galv\~{a}o, Silvio Collani, Daniel Horrer, and Markus Schmid.
+\newblock {Gibberellic acid signaling is required for ambient
+  temperature-mediated induction of flowering in Arabidopsis thaliana.}
+\newblock {\em The Plant journal : for cell and molecular biology},
+  84(5):949--62, October 2015.
+
+\bibitem{Gan2011}
+Xiangchao Gan, Oliver Stegle, Jonas Behr, Joshua~G Steffen, Philipp Drewe,
+  Katie~L Hildebrand, Rune Lyngsoe, Sebastian~J Schultheiss, Edward~J Osborne,
+  Vipin~T Sreedharan, Andr\'{e} Kahles, Regina Bohnert, G\'{e}raldine Jean,
+  Paul Derwent, Paul Kersey, Eric~J Belfield, Nicholas~P Harberd, Eric Kemen,
+  Christopher Toomajian, Paula~X Kover, Richard~M Clark, Gunnar R\"{a}tsch, and
+  Richard Mott.
+\newblock {Multiple reference genomes and transcriptomes for Arabidopsis
+  thaliana.}
+\newblock {\em Nature}, 477(7365):419--23, September 2011.
+
 \bibitem{Gatchel2005}
 Jennifer~R Gatchel and Huda~Y Zoghbi.
 \newblock {Diseases of unstable repeat expansion: mechanisms and common
@@ -493,6 +660,14 @@ Kristin~M Gehrking, J~Michael Andresen, Lisa Duvick, John Lough, Huda~Y Zoghbi,
 \newblock {Partial loss of Tip60 slows mid-stage neurodegeneration in a
   spinocerebellar ataxia type 1 (SCA1) mouse model.}
 \newblock {\em Human molecular genetics}, 20(11):2204--12, June 2011.
+
+\bibitem{Gemayel2015}
+Rita Gemayel, Sreenivas Chavali, Ksenia Pougach, Matthieu Legendre, Bo~Zhu,
+  Steven Boeynaems, Elisa van~der Zande, Kris Gevaert, Frederic Rousseau, Joost
+  Schymkowitz, M~Madan Babu, and Kevin~J Verstrepen.
+\newblock {Variable Glutamine-Rich Repeats Modulate Transcription Factor
+  Activity.}
+\newblock {\em Molecular cell}, 59(4):615--27, August 2015.
 
 \bibitem{Gemayel2012}
 Rita Gemayel, Janice Cho, Steven Boeynaems, and Kevin~J Verstrepen.
@@ -533,6 +708,12 @@ Tali Gidalevitz, Ning Wang, Tanuja Deravaj, Jasmine Alexander-Floyd, and
   or toxicity in a C. elegans model for polyglutamine disease.}
 \newblock {\em BMC biology}, 11(1):100, January 2013.
 
+\bibitem{Gietz2006}
+R~Daniel Gietz and Robin~A Woods.
+\newblock {Yeast transformation by the LiAc/SS Carrier DNA/PEG method.}
+\newblock {\em Methods in molecular biology (Clifton, N.J.)}, 313:107--20,
+  January 2006.
+
 \bibitem{Gogarten2002}
 J~Peter Gogarten, W~Ford Doolittle, and Jeffrey~G Lawrence.
 \newblock {Prokaryotic evolution in light of gene transfer.}
@@ -558,6 +739,14 @@ Myron Gordon.
   INHERITANCE OF TWO KINDS OF MELANOPHORES}.
 \newblock {\em Genetics}, 12:253--283, 1927.
 
+\bibitem{Gould2006}
+Peter~D Gould, James C~W Locke, Camille Larue, Megan~M Southern, Seth~J Davis,
+  Shigeru Hanano, Richard Moyle, Raechel Milich, Joanna Putterill, Andrew~J
+  Millar, and Anthony Hall.
+\newblock {The molecular basis of temperature compensation in the Arabidopsis
+  circadian clock.}
+\newblock {\em The Plant cell}, 18(5):1177--87, May 2006.
+
 \bibitem{Gould1979}
 S.~J. Gould and R.~C. Lewontin.
 \newblock {The Spandrels of San Marco and the Panglossian Paradigm : A Critique
@@ -569,6 +758,12 @@ S.~J. Gould and R.~C. Lewontin.
 Stephen~J. Gould.
 \newblock {\em {The Structure of Evolutionary Theory}}.
 \newblock Belknap of Harvard UP, Cambridge, MA, 2002.
+
+\bibitem{Graf2009}
+Christian Graf, Marta Stankiewicz, G\"{u}nter Kramer, and Matthias~P Mayer.
+\newblock {Spatially and kinetically resolved changes in the conformational
+  dynamics of the Hsp90 chaperone machine.}
+\newblock {\em The EMBO journal}, 28(5):602--13, March 2009.
 
 \bibitem{Guilmatre2013}
 Audrey Guilmatre, Gareth Highnam, Christelle Borel, David Mittelman, and
@@ -587,6 +782,13 @@ Aditi Gupta and Christoph Adami.
 Melissa Gymrek, David Golan, Saharon Rosset, and Yaniv Erlich.
 \newblock {lobSTR: A short tandem repeat profiler for personal genomes.}
 \newblock {\em Genome research}, 22(6):1154--62, June 2012.
+
+\bibitem{Gymrek2015}
+Melissa Gymrek, Thomas Willems, Haoyang Zeng, Barak Markus, Mark~J Daly,
+  Alkes~L Price, Jonathan Pritchard, and Yaniv Erlich.
+\newblock {Abundant contribution of short tandem repeats to gene expression
+  variation in humans}.
+\newblock Technical report, April 2015.
 
 \bibitem{Haasl2013}
 Ryan~J Haasl and Bret~A Payseur.
@@ -622,6 +824,17 @@ Michael~J Harms and Joseph~W Thornton.
   receptor evolution.}
 \newblock {\em Nature}, 512(7513):203--7, August 2014.
 
+\bibitem{Hassin1994}
+Refael Hassin and Shlomi Rubinstein.
+\newblock {Approximations for the maximum acyclic subgraph problem}.
+\newblock {\em Information Processing Letters}, 51(3):133--140, August 1994.
+
+\bibitem{Hausmann1978}
+D.~Hausmann and B.~Korte.
+\newblock {K-greedy algorithms for independence systems}.
+\newblock {\em Zeitschrift f\"{u}r Operations Research}, 22(1):219--228,
+  December 1978.
+
 \bibitem{Hayes2013}
 Ben Hayes.
 \newblock {Overview of Statistical Methods for Genome-Wide Association Studies
@@ -633,6 +846,33 @@ Ben Hayes.
 Henry H~Q Heng.
 \newblock {Missing heritability and stochastic genome alterations.}
 \newblock {\em Nature reviews. Genetics}, 11(11):813, November 2010.
+
+\bibitem{Herbst1998}
+R~Herbst, K~Gast, and R~Seckler.
+\newblock {Folding of firefly (Photinus pyralis) luciferase: aggregation and
+  reactivation of unfolding intermediates.}
+\newblock {\em Biochemistry}, 37(18):6586--97, 1998.
+
+\bibitem{Herrero2012}
+Eva Herrero, Elsebeth Kolmos, Nora Bujdoso, Ye~Yuan, Mengmeng Wang, Markus~C
+  Berns, Heike Uhlworm, George Coupland, Reena Saini, Mariusz Jaskolski, Alex
+  Webb, Jorge Gon\c{c}alves, and Seth~J Davis.
+\newblock {EARLY FLOWERING4 recruitment of EARLY FLOWERING3 in the nucleus
+  sustains the Arabidopsis circadian clock.}
+\newblock {\em The Plant cell}, 24(2):428--43, February 2012.
+
+\bibitem{Hicks2001}
+K~A Hicks, T~M Albertson, and D~R Wagner.
+\newblock {EARLY FLOWERING3 encodes a novel protein that regulates circadian
+  clock function and flowering in Arabidopsis.}
+\newblock {\em The Plant cell}, 13(6):1281--92, June 2001.
+
+\bibitem{Hicks1996}
+K.~A. Hicks, A.~J. Millar, I.~A. Carre, D.~E. Somers, M.~Straume, D.~R.
+  Meeks-Wagner, and S.~A. Kay.
+\newblock {Conditional Circadian Dysfunction of the Arabidopsis early-flowering
+  3 Mutant}.
+\newblock {\em Science}, 274(5288):790--792, November 1996.
 
 \bibitem{Highnam2013}
 Gareth Highnam, Christopher Franck, Andy Martin, Calvin Stephens, Ashwin
@@ -669,6 +909,12 @@ John~P. Huelsenbeck, Rasmus Nielsen, and Jonathan~P. Bollback.
 \newblock {Stochastic Mapping of Morphological Characters}.
 \newblock {\em Systematic Biology}, 52(2):131--158, April 2003.
 
+\bibitem{Huq2002}
+Enamul Huq and Peter~H Quail.
+\newblock {PIF4, a phytochrome-interacting bHLH factor, functions as a negative
+  regulator of phytochrome B signaling in Arabidopsis.}
+\newblock {\em The EMBO journal}, 21(10):2441--50, May 2002.
+
 \bibitem{Hwang2011}
 Sohyun Hwang, Seung~Y Rhee, Edward~M Marcotte, and Insuk Lee.
 \newblock {Systematic prediction of gene function in Arabidopsis thaliana using
@@ -688,6 +934,13 @@ Sabrina I\~{n}igo, Adri\'{a}n~N Giraldez, Joanne Chory, and Pablo~D Cerd\'{a}n.
 \newblock {Proteasome-mediated turnover of Arabidopsis MED25 is coupled to the
   activation of FLOWERING LOCUS T transcription.}
 \newblock {\em Plant Physiology}, 160(3):1662--73, November 2012.
+
+\bibitem{Ibanez2015}
+Carla Iba\~{n}ez, Yvonne Poeschl, Tom Peterson, Julia Bellst\"{a}dt, Kathrin
+  Denk, Andreas Gogol-D\"{o}ring, Marcel Quint, and Carolin Delker.
+\newblock {Developmental plasticity of Arabidopsis thaliana accessions across
+  an ambient temperature range}.
+\newblock {\em bioRxiv}, page 017285, March 2015.
 
 \bibitem{Inanir2013}
 Ahmet Inanir, Sengul Tural, Serbulent Yigit, Goknur Kalkan, Gunseli~Sefika
@@ -715,6 +968,11 @@ Mariko Izumo, Takashi~R Sato, Martin Straume, and Carl~Hirschie Johnson.
   cultures.}
 \newblock {\em PLoS computational biology}, 2(10):e136, October 2006.
 
+\bibitem{Jacob1977}
+Francois Jacob.
+\newblock {Evolution and Tinkering}.
+\newblock {\em Science}, 196(4295):1161--1166, 1977.
+
 \bibitem{Jain1999}
 R~Jain, M~C Rivera, and J~a Lake.
 \newblock {Horizontal gene transfer among genomes: the complexity hypothesis.}
@@ -728,12 +986,25 @@ Ravi Jain, Maria~C Rivera, Jonathan~E Moore, and James~A Lake.
 \newblock {\em Molecular biology and evolution}, 20(10):1598--602, October
   2003.
 
+\bibitem{Jang2015}
+Kiyoung Jang, Hong {Gil Lee}, Su-Jin Jung, Nam-Chon Paek, and Pil {Joon Seo}.
+\newblock {The E3 Ubiquitin Ligase COP1 Regulates Thermosensory Flowering by
+  Triggering GI Degradation in Arabidopsis.}
+\newblock {\em Scientific reports}, 5:12071, January 2015.
+
 \bibitem{Jeong2015}
 Hyeonsoo Jeong, Samsun Sung, Taehyung Kwon, Minseok Seo, Kelsey
   Caetano-Anoll\'{e}s, Sang~Ho Choi, Seoae Cho, Arshan Nasir, and Heebal Kim.
 \newblock {HGTree: database of horizontally transferred genes determined by
   tree reconciliation.}
 \newblock {\em Nucleic acids research}, 44(D1):D610--619, November 2015.
+
+\bibitem{Jimenez-Gomez2011}
+Jose~M. Jimenez-Gomez, Jason~a. Corwin, Bindu Joseph, Julin~N. Maloof, and
+  Daniel~J. Kliebenstein.
+\newblock {Genomic Analysis of QTLs and Genes Altering Natural Variation in
+  Stochastic Noise}.
+\newblock {\em PLoS Genetics}, 7(9):e1002295, September 2011.
 
 \bibitem{Jimenez-Gomez2010}
 Jos\'{e}~M Jim\'{e}nez-G\'{o}mez, Andreah~D Wallace, and Julin~N Maloof.
@@ -751,16 +1022,35 @@ Wilhelm Johannsen.
 \newblock {\em {Elemente der exakten Erblichkeitslehre}}.
 \newblock G. Fisher, Jena, 1909.
 
+\bibitem{Johansson2014}
+Henrik Johansson, Harriet~J Jones, Julia Foreman, Joseph~R Hemsted, Kelly
+  Stewart, Ramon Grima, and Karen~J Halliday.
+\newblock {Arabidopsis cell expansion is controlled by a photothermal switch.}
+\newblock {\em Nature communications}, 5:4848, January 2014.
+
 \bibitem{Johnson2014}
 Christopher~M Johnson and Alan~D Grossman.
 \newblock {Identification of host genes that affect acquisition of an
   integrative and conjugative element in Bacillus subtilis.}
 \newblock {\em Molecular microbiology}, July 2014.
 
+\bibitem{Jousset2012}
+Alexandre Jousset.
+\newblock {Ecological and evolutive implications of bacterial defences against
+  predators.}
+\newblock {\em Environmental microbiology}, 14(8):1830--43, August 2012.
+
 \bibitem{Kahn1962}
 A~B Kahn.
 \newblock {Topological Sorting of Large Networks}.
 \newblock {\em Communications of the ACM}, 5(11):558--562, 1962.
+
+\bibitem{Kalir2001}
+S~Kalir, J~McClure, K~Pabbaraju, C~Southward, M~Ronen, S~Leibler, M~G Surette,
+  and U~Alon.
+\newblock {Ordering genes in a flagella pathway by analysis of expression
+  kinetics from living bacteria.}
+\newblock {\em Science (New York, N.Y.)}, 292(5524):2080--3, June 2001.
 
 \bibitem{Kanehisa2012}
 Minoru Kanehisa, Susumu Goto, Yoko Sato, Miho Furumichi, and Mao Tanabe.
@@ -795,6 +1085,12 @@ Nathan Keith, Abraham~E Tucker, Craig~E Jackson, Way Sung, Jos\'{e}~Ignacio
   Daphnia pulex.}
 \newblock {\em Genome research}, 26(1):60--9, January 2016.
 
+\bibitem{Khattak2014}
+Asif~Khan Khattak.
+\newblock {\em {Natural Variation in Arabidopsis thaliana Growth in Response to
+  Ambient Temperatures: PhD Thesis}}.
+\newblock Phd, University of East Anglia, 2014.
+
 \bibitem{Kidd2009}
 Brendan~N Kidd, Cameron~I Edgar, Krish~K Kumar, Elizabeth~A Aitken, Peer~M
   Schenk, John~M Manners, and Kemal Kazan.
@@ -808,12 +1104,33 @@ Woe-Yeon Kim, Karen~A Hicks, and David~E Somers.
   of circadian timing, hypocotyl length, and flowering time.}
 \newblock {\em Plant physiology}, 139(3):1557--69, 2005.
 
+\bibitem{Kleinboelting2012}
+Nils Kleinboelting, Gunnar Huep, Andreas Kloetgen, Prisca Viehoever, and Bernd
+  Weisshaar.
+\newblock {GABI-Kat SimpleSearch: new features of the Arabidopsis thaliana
+  T-DNA mutant database.}
+\newblock {\em Nucleic acids research}, 40(Database issue):D1211--5, January
+  2012.
+
 \bibitem{Klose2012}
 Cornelia Klose, Claudia B\"{u}che, Aurora Pi\~{n}as Fernandez, Eberhard
   Sch\"{a}fer, Eva Zwick, and Thomas Kretsch.
 \newblock {The mediator complex subunit PFT1 interferes with COP1 and HY5 in
   the regulation of Arabidopsis light signaling.}
 \newblock {\em Plant physiology}, 160(1):289--307, September 2012.
+
+\bibitem{Knuth1973}
+Donald~E. Knuth.
+\newblock {\em {The Art of Computer Programming, Vol. 1: Fundamental
+  Algorithms}}.
+\newblock Addison-Wesley, Reading, Mass., 1973.
+
+\bibitem{Koini2009}
+Maria~A Koini, Liz Alvey, Trudie Allen, Ceinwen~A Tilley, Nicholas~P Harberd,
+  Garry~C Whitelam, and Keara~A Franklin.
+\newblock {High temperature-mediated adaptations in plant architecture require
+  the bHLH transcription factor PIF4.}
+\newblock {\em Current biology : CB}, 19(5):408--13, March 2009.
 
 \bibitem{Kolmos2011}
 Elsebeth Kolmos, Eva Herrero, Nora Bujdoso, Andrew~J Millar, R\'{e}ka T\'{o}th,
@@ -882,6 +1199,13 @@ Mohit Kumar and Victor Sourjik.
   coli.}
 \newblock {\em Molecular microbiology}, 84(4):736--47, May 2012.
 
+\bibitem{Kumar2012a}
+S.~Vinod Kumar, Doris Lucyshyn, Katja~E. Jaeger, Enriqueta Al\'{o}s, Elizabeth
+  Alvey, Nicholas~P. Harberd, and Philip~A. Wigge.
+\newblock {Transcription factor PIF4 controls the thermosensory activation of
+  flowering}.
+\newblock {\em Nature}, 484(7393):242--245, March 2012.
+
 \bibitem{Kuo2009}
 Chih-Horng Kuo and Howard Ochman.
 \newblock {Deletional bias across the three domains of life.}
@@ -910,11 +1234,35 @@ Gregory~I Lang and Andrew~W Murray.
   Saccharomyces cerevisiae.}
 \newblock {\em Genetics}, 178(1):67--82, January 2008.
 
+\bibitem{Lee2014}
+Hyo-Jun Lee, Jae-Hoon Jung, Lucas {Cort\'{e}s Llorca}, Sang-Gyu Kim, Sangmin
+  Lee, Ian~T Baldwin, and Chung-Mo Park.
+\newblock {FCA mediates thermal adaptation of stem growth by attenuating auxin
+  action in Arabidopsis.}
+\newblock {\em Nature communications}, 5:5473, January 2014.
+
+\bibitem{Lee2007}
+Jeong~Hwan Lee, Seong~Jeon Yoo, Soo~Hyun Park, Ildoo Hwang, Jong~Seob Lee, and
+  Ji~Hoon Ahn.
+\newblock {Role of SVP in the control of flowering time by ambient temperature
+  in Arabidopsis.}
+\newblock {\em Genes \& development}, 21(4):397--402, February 2007.
+
 \bibitem{Legendre2007}
 Matthieu Legendre, Nathalie Pochet, Theodore Pak, and Kevin~J Verstrepen.
 \newblock {Sequence-based estimation of minisatellite and microsatellite repeat
   variability.}
 \newblock {\em Genome Research}, 17(12):1787--96, December 2007.
+
+\bibitem{Leivar2011}
+Pablo Leivar and Peter~H Quail.
+\newblock {PIFs: pivotal components in a cellular signaling hub.}
+\newblock {\em Trends in plant science}, 16(1):19--28, January 2011.
+
+\bibitem{Lempe2013}
+Janne Lempe, Jennifer Lachowiec, Alessandra~M Sullivan, and Christine Queitsch.
+\newblock {Molecular mechanisms of robustness in plants.}
+\newblock {\em Current opinion in plant biology}, 16(1):62--9, February 2013.
 
 \bibitem{Lerat2005}
 Emmanuelle Lerat, Vincent Daubin, Howard Ochman, and Nancy~A Moran.
@@ -946,6 +1294,18 @@ R~C Lewontin.
 \newblock {Annotation: the analysis of variance and the analysis of causes.}
 \newblock {\em American journal of human genetics}, 26(3):400--11, May 1974.
 
+\bibitem{Li2013}
+Heng Li.
+\newblock {Aligning sequence reads, clone sequences and assembly contigs with
+  BWA-MEM}.
+\newblock page~3, March 2013.
+
+\bibitem{Li2009}
+Heng Li and Richard Durbin.
+\newblock {Fast and accurate short read alignment with Burrows-Wheeler
+  transform.}
+\newblock {\em Bioinformatics (Oxford, England)}, 25(14):1754--60, July 2009.
+
 \bibitem{Li2012}
 Hongwei Li, Jing Liu, Keliang Wu, and Yuan Chen.
 \newblock {Insight into role of selection in the evolution of polyglutamine
@@ -962,6 +1322,11 @@ Charlotte Lindqvist, Liisa Laakkonen, and Victor~A Albert.
 \newblock {Polyglutamine variation in a flowering time protein correlates with
   island age in a Hawaiian plant radiation.}
 \newblock {\em BMC evolutionary biology}, 7(1):105, January 2007.
+
+\bibitem{Liu2015}
+Junzhong Liu, Lili Feng, Jianming Li, and Zuhua He.
+\newblock {Genetic and epigenetic control of plant heat responses}.
+\newblock {\em Frontiers in Plant Science}, 06, April 2015.
 
 \bibitem{Liu2001}
 X~L Liu, M~F Covington, C~Fankhauser, J~Chory, and D~R Wagner.
@@ -981,6 +1346,26 @@ K~J Livak and T~D Schmittgen.
   quantitative PCR and the 2(-Delta Delta C(T)) Method.}
 \newblock {\em Methods (San Diego, Calif.)}, 25(4):402--8, December 2001.
 
+\bibitem{Lorenzo2016}
+Christian~D Lorenzo, Maximiliano Sanchez-Lamas, Mariana~S Antonietti, and
+  Pablo~D Cerd\'{a}n.
+\newblock {Emerging Hubs in Plant Light and Temperature Signaling.}
+\newblock {\em Photochemistry and photobiology}, 92(1):3--13, January 2016.
+
+\bibitem{Lorrain2008}
+S\'{e}verine Lorrain, Trudie Allen, Paula~D Duek, Garry~C Whitelam, and
+  Christian Fankhauser.
+\newblock {Phytochrome-mediated inhibition of shade avoidance involves
+  degradation of growth-promoting bHLH transcription factors.}
+\newblock {\em The Plant journal : for cell and molecular biology},
+  53(2):312--23, January 2008.
+
+\bibitem{Lu2015}
+Xiaomeng Lu and Regina~M Murphy.
+\newblock {Asparagine Repeat Peptides: Aggregation Kinetics and Comparison with
+  Glutamine Repeats.}
+\newblock {\em Biochemistry}, 54(31):4784--94, August 2015.
+
 \bibitem{Ludwig2004}
 Wolfgang Ludwig, Oliver Strunk, Ralf Westram, Lothar Richter, Harald Meier,
   Yadhukumar, Arno Buchner, Tina Lai, Susanne Steppi, Gangolf Jobb, Wolfram
@@ -991,6 +1376,12 @@ Wolfgang Ludwig, Oliver Strunk, Ralf Westram, Lothar Richter, Harald Meier,
   Lenke, Thomas Ludwig, Arndt Bode, and Karl-Heinz Schleifer.
 \newblock {ARB: a software environment for sequence data.}
 \newblock {\em Nucleic acids research}, 32(4):1363--71, January 2004.
+
+\bibitem{Luo2014}
+Qian Luo, Hong-Li Lian, Sheng-Bo He, Ling Li, Kun-Peng Jia, and Hong-Quan Yang.
+\newblock {COP1 and phyB Physically Interact with PIL1 to Regulate Its
+  Stability and Photomorphogenic Development in Arabidopsis.}
+\newblock {\em The Plant cell}, 26(6):2441--2456, June 2014.
 
 \bibitem{Lynch2010}
 Michael Lynch.
@@ -1086,6 +1477,12 @@ Todd~P Michael, Sohyun Park, Tae-Sung Kim, Jim Booth, Amanda Byer, Qi~Sun,
   in the Neurospora crassa circadian clock.}
 \newblock {\em PloS one}, 2(8):e795, January 2007.
 
+\bibitem{Minin2008}
+Vladimir~N Minin and Marc~A Suchard.
+\newblock {Counting labeled transitions in continuous-time Markov models of
+  evolution.}
+\newblock {\em Journal of mathematical biology}, 56(3):391--412, March 2008.
+
 \bibitem{Mira2001}
 Alex Mira, Howard Ochman, and Nancy~A. Moran.
 \newblock {Deletional bias and the evolution of bacterial genomes}.
@@ -1103,7 +1500,7 @@ David Mittelman, Kristen Sykoudis, Megan Hersh, Yunfu Lin, and John~H Wilson.
 \newblock {Hsp90 modulates CAG repeat instability in human cells.}
 \newblock {\em Cell stress \& chaperones}, 15(5):753--9, September 2010.
 
-\bibitem{Mizuno2014}
+\bibitem{Mizuno2014a}
 Takeshi Mizuno, Miki Kitayama, Haruka Oka, Mayuka Tsubouchi, Chieko Takayama,
   Yuji Nomoto, and Takafumi Yamashino.
 \newblock {The EC night-time repressor plays a crucial role in modulating
@@ -1111,6 +1508,26 @@ Takeshi Mizuno, Miki Kitayama, Haruka Oka, Mayuka Tsubouchi, Chieko Takayama,
   both warm-night and night-time-light signals in a synergistic manner in
   Arabidopsis thaliana.}
 \newblock {\em Plant \& cell physiology}, 55(12):2139--51, December 2014.
+
+\bibitem{Mizuno2015}
+Takeshi Mizuno, Miki Kitayama, Chieko Takayama, and Takafumi Yamashino.
+\newblock {Insight into a Physiological Role for the EC Night-Time Repressor in
+  the Arabidopsis Circadian Clock.}
+\newblock {\em Plant \& cell physiology}, 56(9):1738--47, September 2015.
+
+\bibitem{Mizuno2014}
+Takeshi Mizuno, Yuji Nomoto, Haruka Oka, Miki Kitayama, Aya Takeuchi, Mayuka
+  Tsubouchi, and Takafumi Yamashino.
+\newblock {Ambient temperature signal feeds into the circadian clock
+  transcriptional circuitry through the EC night-time repressor in Arabidopsis
+  thaliana.}
+\newblock {\em Plant \& cell physiology}, 55(5):958--76, May 2014.
+
+\bibitem{Mockli2004}
+Natalie M\"{o}ckli and Daniel Auerbach.
+\newblock {Quantitative $\beta$-galactosidase assay suitable for
+  high-throughput applications in the yeast two-hybrid system}.
+\newblock {\em BioTechniques}, 36(5):872--876, 2004.
 
 \bibitem{Molla2009}
 Michael Molla, Arthur Delcher, Shamil Sunyaev, Charles Cantor, and Simon Kasif.
@@ -1191,12 +1608,27 @@ Ronald~M Nelson, Mats~E Pettersson, and \"{O}rjan Carlborg.
   genetics.}
 \newblock {\em Trends in genetics : TIG}, 29(12):669--76, December 2013.
 
+\bibitem{Nieto2014}
+Cristina Nieto, Vadir L\'{o}pez-Salmer\'{o}n, Jean-Michel Davi\`{e}re, and
+  Salom\'{e} Prat.
+\newblock {ELF3-PIF4 Interaction Regulates Plant Growth Independently of the
+  Evening Complex}.
+\newblock {\em Current Biology}, 25(2):187--193, December 2014.
+
 \bibitem{Nijbroek1995}
 G.~Nijbroek, S.~Sood, I.~McIntosh, C.~A. Francomano, E.~Bull, L.~Pereira,
   F.~Ramirez, R.~E. Pyeritz, and H.~C. Dietz.
 \newblock {Fifteen novel FBN1 mutations causing Marfan syndrome detected by
   heteroduplex analysis of genomic amplicons}.
 \newblock {\em American Journal of Human Genetics}, 57(1):8--21, 1995.
+
+\bibitem{Nomoto2012}
+Yuji Nomoto, Yuichi Nomoto, Saori Kubozono, Miki Miyachi, Takafumi Yamashino,
+  Norihito Nakamichi, and Takeshi Mizuno.
+\newblock {A circadian clock- and PIF4-mediated double coincidence mechanism is
+  implicated in the thermosensitive photoperiodic control of plant
+  architectures in Arabidopsis thaliana.}
+\newblock {\em Plant \& cell physiology}, 53(11):1965--73, November 2012.
 
 \bibitem{Nordborg2005}
 Magnus Nordborg, Tina~T Hu, Yoko Ishino, Jinal Jhaveri, Christopher Toomajian,
@@ -1213,6 +1645,13 @@ Reuben~W Nowell, Sarah Green, Bridget~E Laue, and Paul~M Sharp.
 \newblock {The extent of genome flux and its role in the differentiation of
   bacterial lineages.}
 \newblock {\em Genome biology and evolution}, 6(6):1514--29, January 2014.
+
+\bibitem{Nozue2007}
+Kazunari Nozue, Michael~F Covington, Paula~D Duek, S\'{e}verine Lorrain,
+  Christian Fankhauser, Stacey~L Harmer, and Julin~N Maloof.
+\newblock {Rhythmic growth explained by coincidence between internal and
+  external cues.}
+\newblock {\em Nature}, 448(7151):358--61, July 2007.
 
 \bibitem{Nusinow2011}
 Dmitri~A Nusinow, Anne Helfer, Elizabeth~E Hamilton, Jasmine~J King, Takato
@@ -1304,6 +1743,13 @@ C.~Pal, B.~Papp, and M.~J. Lercher.
 \newblock {Horizontal gene transfer depends on gene content of the host}.
 \newblock {\em Bioinformatics}, 21(Suppl 2):ii222--ii223, October 2005.
 
+\bibitem{Panaretou1998}
+B~Panaretou, C~Prodromou, S~M Roe, R~O'Brien, J~E Ladbury, P~W Piper, and L~H
+  Pearl.
+\newblock {ATP binding and hydrolysis are essential to the function of the
+  Hsp90 molecular chaperone in vivo.}
+\newblock {\em The EMBO journal}, 17(16):4829--36, August 1998.
+
 \bibitem{Paradis2004}
 E.~Paradis, J.~Claude, and K.~Strimmer.
 \newblock {APE: Analyses of Phylogenetics and Evolution in R language}.
@@ -1345,6 +1791,12 @@ Erez Persi and David Horn.
   characteristics of biological functions and a universal correlate of
   macroevolution.}
 \newblock {\em PLoS computational biology}, 9(11):e1003346, November 2013.
+
+\bibitem{Pfaffl2001}
+M~W Pfaffl.
+\newblock {A new mathematical model for relative quantification in real-time
+  RT-PCR.}
+\newblock {\em Nucleic acids research}, 29(9):e45, May 2001.
 
 \bibitem{Phillips1998}
 Patrick~C. Phillips.
@@ -1419,6 +1871,11 @@ J~K Pritchard, M~Stephens, and P~Donnelly.
 \newblock {Inference of population structure using multilocus genotype data.}
 \newblock {\em Genetics}, 155(2):945--59, June 2000.
 
+\bibitem{Proveniers2013}
+Marcel C~G Proveniers and Martijn van Zanten.
+\newblock {High temperature acclimation through PIF4 signaling.}
+\newblock {\em Trends in plant science}, 18(2):59--64, February 2013.
+
 \bibitem{Puigbo2014}
 Pere Puigb\`{o}, Alexander~E Lobkovsky, David~M Kristensen, Yuri~I Wolf, and
   Eugene~V Koonin.
@@ -1436,6 +1893,12 @@ Christine Queitsch, Keisha~D Carlson, and Santhosh Girirajan.
 Christine Queitsch, Todd~a Sangster, and Susan Lindquist.
 \newblock {Hsp90 as a capacitor of phenotypic variation.}
 \newblock {\em Nature}, 417(6889):618--24, June 2002.
+
+\bibitem{Quint2016}
+Marcel Quint, Carolin Delker, Keara~A. Franklin, Philip~A. Wigge, Karen~J.
+  Halliday, and Martijn van Zanten.
+\newblock {Molecular and genetic control of plant thermomorphogenesis}.
+\newblock {\em Nature Plants}, 2(1):15190, January 2016.
 
 \bibitem{RCoreTeam2016}
 {R Core Team}.
@@ -1455,10 +1918,25 @@ Anja Raschke, Carla Iba\~{n}ez, Kristian~Karsten Ullrich, Muhammad~Usman Anwer,
   transcriptionally modulating PIF4-dependent auxin response genes.}
 \newblock {\em BMC plant biology}, 15(1):197, January 2015.
 
+\bibitem{Ravenhall2015}
+Matt Ravenhall, Nives \v{S}kunca, Florent Lassalle, and Christophe Dessimoz.
+\newblock {Inferring Horizontal Gene Transfer}.
+\newblock {\em PLOS Computational Biology}, 11(5):e1004095, May 2015.
+
+\bibitem{Richter2011}
+Klaus Richter and Johannes Buchner.
+\newblock {Closing in on the Hsp90 chaperone-client relationship.}
+\newblock {\em Structure (London, England : 1993)}, 19(4):445--6, April 2011.
+
 \bibitem{Robinson2014}
 Matthew~R Robinson, Naomi~R Wray, and Peter~M Visscher.
 \newblock {Explaining additional genetic variation in complex traits.}
 \newblock {\em Trends in genetics : TIG}, 30(4):124--132, April 2014.
+
+\bibitem{Rohl2013}
+Alina R\"{o}hl, Julia Rohrberg, and Johannes Buchner.
+\newblock {The chaperone Hsp90: changing partners for demanding clients.}
+\newblock {\em Trends in biochemical sciences}, null(null), March 2013.
 
 \bibitem{Rohlfs2010}
 Rori~V Rohlfs, Willie~J Swanson, and Bruce~S Weir.
@@ -1481,6 +1959,20 @@ Mario~G Rosso, Yong Li, Nicolai Strizhov, Bernd Reiss, Koen Dekker, and Bernd
 \newblock {An Arabidopsis thaliana T-DNA mutagenized population (GABI-Kat) for
   flanking sequence tag-based reverse genetics.}
 \newblock {\em Plant molecular biology}, 53(1-2):247--59, September 2003.
+
+\bibitem{Rowan2015}
+Beth~A Rowan, Vipul Patel, Detlef Weigel, and Korbinian Schneeberger.
+\newblock {Rapid and inexpensive whole-genome genotyping-by-sequencing for
+  crossover localization and fine-scale genetic mapping.}
+\newblock {\em G3 (Bethesda, Md.)}, 5(3):385--98, March 2015.
+
+\bibitem{Rubinsztein1997}
+D.~C. Rubinsztein, J.~Leggo, M.~Chiano, A.~Dodge, G.~Norbury, E.~Rosser, and
+  D.~Craufurd.
+\newblock {Genotypes at the GluR6 kainate receptor locus are associated with
+  variation in the age of onset of Huntington disease}.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  94(8):3872--3876, April 1997.
 
 \bibitem{Rutherford1998}
 S~L Rutherford and S~Lindquist.
@@ -1515,11 +2007,26 @@ Todd~a Sangster, Neeraj Salathia, Hana~N Lee, Etsuko Watanabe, Kurt
 \newblock {\em Proceedings of the National Academy of Sciences of the United
   States of America}, 105(8):2969--74, February 2008.
 
+\bibitem{Sangster2008a}
+Todd~a Sangster, Neeraj Salathia, Soledad Undurraga, Ron Milo, Kurt
+  Schellenberg, Susan Lindquist, and Christine Queitsch.
+\newblock {HSP90 affects the expression of genetic variation and developmental
+  stability in quantitative traits.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 105(8):2963--8, February 2008.
+
 \bibitem{Sato2010}
 Takeshi Sato, Shun Minagawa, Erika Kojima, Naoki Okamoto, and Hitoshi Nakamoto.
 \newblock {HtpG, the prokaryotic homologue of Hsp90, stabilizes a phycobilisome
   protein in the cyanobacterium Synechococcus elongatus PCC 7942.}
 \newblock {\em Molecular microbiology}, 76(3):576--89, May 2010.
+
+\bibitem{Sawa2011}
+Mariko Sawa and Steve~A Kay.
+\newblock {GIGANTEA directly activates Flowering Locus T in Arabidopsis
+  thaliana.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 108(28):11698--703, July 2011.
 
 \bibitem{Sawaya2013}
 Sterling Sawaya, Andrew Bagshaw, Emmanuel Buschiazzo, Pankaj Kumar, Shantanu
@@ -1571,12 +2078,27 @@ Ludger Sch\"{o}ls, Peter Bauer, Thorsten Schmidt, Thorsten Schulte, and Olaf
   and pathogenesis.}
 \newblock {\em Lancet neurology}, 3(5):291--304, May 2004.
 
+\bibitem{Schroder1993}
+H~Schr\"{o}der, T~Langer, F~U Hartl, and B~Bukau.
+\newblock {DnaK, DnaJ and GrpE form a cellular chaperone machinery capable of
+  repairing heat-induced protein damage.}
+\newblock {\em the The European Molecular Biology Organization Journal},
+  12(11):4137--4144, 1993.
+
 \bibitem{SchulzzurWiesch2010}
 Pia {Schulz zur Wiesch}, Jan Engelst\"{a}dter, and Sebastian Bonhoeffer.
 \newblock {Compensation of fitness costs and reversibility of antibiotic
   resistance mutations.}
 \newblock {\em Antimicrobial agents and chemotherapy}, 54(5):2085--95, May
   2010.
+
+\bibitem{Seaton2015}
+Daniel~D Seaton, Robert~W Smith, Young~Hun Song, Dana~R MacGregor, Kelly
+  Stewart, Gavin Steel, Julia Foreman, Steven Penfield, Takato Imaizumi,
+  Andrew~J Millar, and Karen~J Halliday.
+\newblock {Linked circadian outputs control elongation growth and flowering in
+  response to photoperiod and temperature.}
+\newblock {\em Molecular systems biology}, 11(1):776, January 2015.
 
 \bibitem{Seki1998}
 Motoaki Seki, Piero Carninci, Yoko Nishiyama, Yoshihide Hayashizaki, and Kazuo
@@ -1600,6 +2122,13 @@ Paul Shannon, Andrew Markiel, Owen Ozier, Nitin~S Baliga, Jonathan~T Wang,
 \newblock {Cytoscape: a software environment for integrated models of
   biomolecular interaction networks.}
 \newblock {\em Genome research}, 13(11):2498--504, November 2003.
+
+\bibitem{Sharma1999}
+Deepak Sharma, Sunita Sharma, Santosh Pasha, and Samir~K Brahmachari.
+\newblock {Peptide models for inherited neurodegenerative disorders:
+  conformation and aggregation properties of long polyglutamine peptides with
+  and without interruptions}.
+\newblock {\em FEBS Letters}, 456(1):181--185, July 1999.
 
 \bibitem{Shindo2005}
 Chikako Shindo, Maria~Jose Aranzana, Clare Lister, Catherine Baxter, Colin
@@ -1646,6 +2175,12 @@ Jill~A Sohm, Eric~A Webb, and Douglas~G Capone.
 \newblock {Emerging patterns of marine nitrogen fixation.}
 \newblock {\em Nature reviews. Microbiology}, 9(7):499--508, July 2011.
 
+\bibitem{Song2013}
+Young~Hun Song, Shogo Ito, and Takato Imaizumi.
+\newblock {Flowering time regulation: photoperiod- and temperature-sensing in
+  leaves}.
+\newblock {\em Trends in Plant Science}, 18(10):575--583, October 2013.
+
 \bibitem{Sorek2007}
 Rotem Sorek, Yiwen Zhu, Christopher~J Creevey, M~Pilar Francino, Peer Bork, and
   Edward~M Rubin.
@@ -1676,6 +2211,14 @@ Dorothee Staiger and John W~S Brown.
   development, and stress responses.}
 \newblock {\em The Plant cell}, 25(10):3640--56, October 2013.
 
+\bibitem{Stavang2009}
+Jon~A Stavang, Javier Gallego-Bartolom\'{e}, Mar\'{\i}a~D G\'{o}mez, Shigeo
+  Yoshida, Tadao Asami, Jorunn~E Olsen, Jos\'{e}~L Garc\'{\i}a-Mart\'{\i}nez,
+  David Alabad\'{\i}, and Miguel~A Bl\'{a}zquez.
+\newblock {Hormonal regulation of temperature-induced growth in Arabidopsis.}
+\newblock {\em The Plant journal : for cell and molecular biology},
+  60(4):589--601, November 2009.
+
 \bibitem{Stechmann2004}
 A~Stechmann and T~Cavalier-Smith.
 \newblock {Evolutionary origins of Hsp90 chaperones and a deep paralogy in
@@ -1700,6 +2243,20 @@ K~Stott, J~M Blackburn, P~J Butler, and M~Perutz.
 \newblock {\em Proceedings of the National Academy of Sciences of the United
   States of America}, 92(14):6509--13, July 1995.
 
+\bibitem{Strasser2009}
+B\'{a}rbara Strasser, Mariano~J Alvarez, Andrea Califano, and Pablo~D
+  Cerd\'{a}n.
+\newblock {A complementary role for ELF3 and TFL1 in the regulation of
+  flowering time by ambient temperature.}
+\newblock {\em The Plant journal : for cell and molecular biology},
+  58(4):629--40, May 2009.
+
+\bibitem{Street2011}
+Timothy~O Street, Laura~A Lavery, and David~A Agard.
+\newblock {Substrate binding drives large-scale conformational changes in the
+  Hsp90 molecular chaperone.}
+\newblock {\em Molecular cell}, 42(1):96--105, April 2011.
+
 \bibitem{Sturtevant1920}
 A.~H. Sturtevant.
 \newblock {GENETIC STUDIES ON DROSOPHILA SIMULANS. I. INTRODUCTION. HYBRIDS
@@ -1711,6 +2268,12 @@ S~Subramanian, RK~Mishra, and L~Singh.
 \newblock {Genome-wide analysis of microsatellite repeats in humans: their
   abundance and density in specific genomic regions.}
 \newblock {\em Genome Biology}, 4(2):R13, January 2003.
+
+\bibitem{Sun2013}
+Jiaqiang Sun, Linlin Qi, Yanan Li, Qingzhe Zhai, and Chuanyou Li.
+\newblock {PIF4 and PIF5 transcription factors link blue light and auxin to
+  regulate the phototropic response in Arabidopsis.}
+\newblock {\em The Plant cell}, 25(6):2102--14, June 2013.
 
 \bibitem{Sundaravelpandian2013}
 Kalaipandian Sundaravelpandian, Nulu Naga~Prafulla Chandrika, and Wolfgang
@@ -1734,6 +2297,13 @@ G.R. Sutherland, E.~Kremer, M.~Lynch, M.~Pritchard, S.~Yu, R.I. Richards, and
   questions?}
 \newblock {\em The Lancet}, 338(8762):289--292, August 1991.
 
+\bibitem{Szabo1994}
+A~Szabo, T~Langer, H~Schr\"{o}der, J~Flanagan, B~Bukau, and F~U Hartl.
+\newblock {The ATP hydrolysis-dependent reaction cycle of the Escherichia coli
+  Hsp70 system DnaK, DnaJ, and GrpE.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 91(22):10345--9, 1994.
+
 \bibitem{Szamecz2014}
 B\'{e}la Szamecz, G\'{a}bor Boross, Dorottya Kalapis, K\'{a}roly Kov\'{a}cs,
   Gergely Fekete, Zolt\'{a}n Farkas, Vikt\'{o}ria L\'{a}z\'{a}r, M\'{o}nika
@@ -1749,6 +2319,13 @@ Mikko Taipale, Daniel~F Jarosz, and Susan Lindquist.
 \newblock {\em Nature reviews. Molecular cell biology}, 11(7):515--28, July
   2010.
 
+\bibitem{Taipale2012}
+Mikko Taipale, Irina Krykbaeva, Martina Koeva, Can Kayatekin, Kenneth~D
+  Westover, Georgios~I Karras, and Susan Lindquist.
+\newblock {Quantitative analysis of HSP90-client interactions reveals
+  principles of substrate recognition.}
+\newblock {\em Cell}, 150(5):987--1001, August 2012.
+
 \bibitem{Tajima2007}
 Takeomi Tajima, Atsushi Oda, Mayu Nakagawa, Hiroshi Kamada, and Tsuyoshi
   Mizoguchi.
@@ -1762,11 +2339,34 @@ Mao Tanabe and Minoru Kanehisa.
 \newblock {\em Current protocols in bioinformatics / editoral board, Andreas D.
   Baxevanis ... [et al.]}, Chapter 1:Unit1.12, July 2012.
 
+\bibitem{Thines2014}
+B.~C. Thines, Y.~Youn, M.~I. Duarte, and F.~G. Harmon.
+\newblock {The time of day effects of warm temperature on flowering time
+  involve PIF4 and PIF5}.
+\newblock {\em Journal of Experimental Botany}, 65(4):1141--1151, February
+  2014.
+
+\bibitem{Thines2010}
+Bryan Thines and Frank~G Harmon.
+\newblock {Ambient temperature response establishes ELF3 as a required
+  component of the core Arabidopsis circadian clock.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 107(7):3257--62, February 2010.
+
 \bibitem{Treangen2011}
 Todd~J Treangen and Eduardo P~C Rocha.
 \newblock {Horizontal transfer, not duplication, drives the expansion of
   protein families in prokaryotes.}
 \newblock {\em PLoS Genetics}, 7(1):e1001284, January 2011.
+
+\bibitem{Tropf2016}
+Felix~C Tropf, Renske~M Verweij, Peter~J van~der Most, Gert Stulp, Andrew
+  Bakshi, Daniel~A Briley, Matthew Robinson, Anastasia Numan, Tonu Esko, Andres
+  Metspalu, Sarah~E. Medland, Nicholas~G. Martin, Harold Snieder, S~Hong Lee,
+  and Melinda~C Mills.
+\newblock {Mega-analysis of 31,396 individuals from 6 countries uncovers strong
+  gene-environment interaction for human fertility}.
+\newblock {\em bioRxiv}, page 049163, April 2016.
 
 \bibitem{Undurraga2012}
 Soledad~Francisca Undurraga, Maximilian~Oliver Press, Matthieu Legendre, Nora
@@ -1776,6 +2376,13 @@ Soledad~Francisca Undurraga, Maximilian~Oliver Press, Matthieu Legendre, Nora
   Arabidopsis thaliana gene ELF3.}
 \newblock {\em Proceedings of the National Academy of Sciences of the United
   States of America}, 109(47):19363--7, November 2012.
+
+\bibitem{Uversky2009}
+Vladimir~N Uversky.
+\newblock {Intrinsically disordered proteins and their environment: effects of
+  strong denaturants, temperature, pH, counter ions, membranes, binding
+  partners, osmolytes, and macromolecular crowding.}
+\newblock {\em The protein journal}, 28(7-8):305--25, October 2009.
 
 \bibitem{VandeWarrenburg2002}
 B.P.C. van~de Warrenburg, R.J. Sinke, C.C. Verschuuren-Bemelmans, H.~Scheffer,
@@ -1848,6 +2455,14 @@ Peggy~I Wang, Sohyun Hwang, Rodney~P Kincaid, Christopher~S Sullivan, Insuk
   associations for unannotated gene sets via proximity in a gene network}.
 \newblock {\em Genome Biology}, 13(12):R125, 2012.
 
+\bibitem{Wei2011}
+Yan Wei, Xiaolin Wang, Jingfang Liu, Ilya Nememan, Amoolya~H Singh, Howie
+  Weiss, and Bruce~R Levin.
+\newblock {The population dynamics of bacteria in physically structured
+  habitats and the adaptive virtue of random motility.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 108(10):4047--52, March 2011.
+
 \bibitem{Weinreich2006}
 Daniel~M Weinreich, Nigel~F Delaney, Mark~A Depristo, and Daniel~L Hartl.
 \newblock {Darwinian evolution can follow only very few mutational paths to
@@ -1859,6 +2474,17 @@ Daniel~M Weinreich, Yinghong Lan, C~Scott Wylie, and Robert~B Heckendorn.
 \newblock {Should evolutionary geneticists worry about higher-order epistasis?}
 \newblock {\em Current opinion in genetics \& development}, 23(6):700--7,
   December 2013.
+
+\bibitem{Weinreich2005}
+Daniel~M. Weinreich, Richard~A. Watson, and Lin Chao.
+\newblock {PERSPECTIVE: SIGN EPISTASIS AND GENETIC COSTRAINT ON EVOLUTIONARY
+  TRAJECTORIES}.
+\newblock {\em Evolution}, 59(6):1165--1174, June 2005.
+
+\bibitem{Wigge2013}
+Philip~A Wigge.
+\newblock {Ambient temperature signalling in plants.}
+\newblock {\em Current opinion in plant biology}, 16(5):661--6, October 2013.
 
 \bibitem{Willems2014}
 T.~F. Willems, M.~Gymrek, G.~Highnam, D.~Mittelman, and Y.~Erlich.
@@ -1987,6 +2613,12 @@ J.~C. Young.
 \newblock {Hsp90: a specialized but essential protein-folding tool}.
 \newblock {\em The Journal of Cell Biology}, 154(2):267--274, July 2001.
 
+\bibitem{Young2000}
+J~C Young and F~U Hartl.
+\newblock {Polypeptide release by Hsp90 involves ATP hydrolysis and is enhanced
+  by the co-chaperone p23.}
+\newblock {\em The EMBO journal}, 19(21):5930--40, November 2000.
+
 \bibitem{Yu2005}
 Fuli Yu, Pardis~C Sabeti, Paul Hardenbol, Qing Fu, Ben Fry, Xiuhua Lu,
   Sy~Ghose, Richard Vega, Ag~Perez, Shiran Pasternak, Suzanne~M Leal, Thomas~D
@@ -2026,6 +2658,13 @@ Ying Zhang, Changming Liu, Huiping Peng, Jianzhi Zhang, and Quanlin Feng.
 \newblock {IL1 receptor antagonist gene IL1-RN variable number of tandem
   repeats polymorphism and cancer risk: a literature review and meta-analysis.}
 \newblock {\em PloS one}, 7(9):e46017, January 2012.
+
+\bibitem{Zhao2004}
+Li~Zhao, Miki Nakazawa, Tomoyuki Takase, Katsushi Manabe, Masatomo Kobayashi,
+  Motoaki Seki, Kazuo Shinozaki, and Minami Matsui.
+\newblock {Overexpression of LSH1, a member of an uncharacterised gene family,
+  causes enhanced light regulation of seedling development}.
+\newblock {\em The Plant Journal}, 37(5):694--706, March 2004.
 
 \bibitem{Zhao2005}
 Rongmin Zhao, Mike Davey, Ya-Chieh Hsu, Pia Kaplanek, Amy Tong, Ainslie~B
