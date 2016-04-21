@@ -1,14 +1,14 @@
 \addvspace {5\p@ }
 \addvspace {5\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces ELF3-TR variation has nonlinear phenotypic effects.}}{29}{figure.caption.10}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces \emph {ELF3-TR} variation has nonlinear phenotypic effects.}}{29}{figure.caption.10}
 \contentsline {figure}{\numberline {2.2}{\ignorespaces ELF3-TR variation modulates the precision of the circadian clock.}}{32}{figure.caption.11}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces The phenotypic effects of ELF3-TR variation are strongly background-dependent. }}{34}{figure.caption.12}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces The phenotypic effects of ELF3-TR variation are strongly background-dependent.}}{34}{figure.caption.12}
 \contentsline {figure}{\numberline {2.4}{\ignorespaces Inconsistent haploinsufficiency of Col x Ws $\mathrm {F_{1}s.}$ }}{37}{figure.caption.13}
 \addvspace {5\p@ }
 \contentsline {figure}{\numberline {3.1}{\ignorespaces \emph {PFT1} STR alleles differ in their ability to rescue a \emph {pft1} loss-of-function mutant for flowering phenotypes. }}{47}{figure.caption.14}
 \contentsline {figure}{\numberline {3.2}{\ignorespaces \emph {PFT1} STR alleles differ in their ability to rescue a \emph {pft1} loss-of-function mutant for petiole length in long days. }}{49}{figure.caption.15}
 \contentsline {figure}{\numberline {3.3}{\ignorespaces \emph {PFT1} STR alleles differ in their ability to rescue a \emph {pft1} loss-of-function mutant for early seedling phenotypes.}}{51}{figure.caption.16}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Distribution of \emph {PFT1} STR allele performance across all phenotypes, relative to wild-type and \emph {pft1-2} mutants.}}{53}{figure.caption.17}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Distribution of \emph {PFT1} STR allele performance across all phenotypes, relative to wild-type and \emph {pft1-2} mutants.}}{52}{figure.caption.17}
 \addvspace {5\p@ }
 \contentsline {figure}{\numberline {4.1}{\ignorespaces Examples of STRs mediating genetic incompatibilities.}}{65}{figure.caption.18}
 \contentsline {figure}{\numberline {4.2}{\ignorespaces A locus with higher mutation rates allows genetic modification of unfavorable genotypes at interacting loci.}}{67}{figure.caption.19}
@@ -69,19 +69,19 @@
 \contentsline {figure}{\numberline {E.1}{\ignorespaces Expression analysis of \emph {PIF4} and \emph {AtHB2} depends on temperature, genetic background, and ELF3 functionality.}}{282}{figure.caption.87}
 \contentsline {figure}{\numberline {E.2}{\ignorespaces Regulation of adult thermoresponsive traits by ELF3 and FCA is independent of PIF4 and modulated by genetic background.}}{283}{figure.caption.88}
 \addvspace {5\p@ }
-\contentsline {figure}{\numberline {F.1}{\ignorespaces Phylogenetic clustering of bacterial hsp90 paralogs.}}{304}{figure.caption.105}
-\contentsline {figure}{\numberline {F.2}{\ignorespaces Co-evolutionary gain and loss rates of all \emph {hsp90A}- associated flagellar genes.}}{305}{figure.caption.106}
-\contentsline {figure}{\numberline {F.3}{\ignorespaces Co-evolutionary gain and loss rates of all \emph {hsp90A}- associated secretion genes.}}{306}{figure.caption.107}
-\contentsline {figure}{\numberline {F.4}{\ignorespaces Box plots of the rates of gain and loss of all \emph {hsp90A}- associated secretion genes.}}{307}{figure.caption.108}
-\contentsline {figure}{\numberline {F.5}{\ignorespaces The htpG(E34A) mutant strain shows decreased motility/chemotaxis. }}{308}{figure.caption.109}
-\contentsline {figure}{\numberline {F.6}{\ignorespaces HtpG interactions with FliN and CheA are dependent on the DnaJ/CbpA/DnaK chaperone system.}}{309}{figure.caption.110}
+\contentsline {figure}{\numberline {F.1}{\ignorespaces Phylogenetic clustering of bacterial hsp90 paralogs.}}{305}{figure.caption.105}
+\contentsline {figure}{\numberline {F.2}{\ignorespaces Co-evolutionary gain and loss rates of all \emph {hsp90A}- associated flagellar genes.}}{306}{figure.caption.106}
+\contentsline {figure}{\numberline {F.3}{\ignorespaces Co-evolutionary gain and loss rates of all \emph {hsp90A}- associated secretion genes.}}{307}{figure.caption.107}
+\contentsline {figure}{\numberline {F.4}{\ignorespaces Box plots of the rates of gain and loss of all \emph {hsp90A}- associated secretion genes.}}{308}{figure.caption.108}
+\contentsline {figure}{\numberline {F.5}{\ignorespaces The \emph {htpG(E34A)} mutant strain shows decreased motility/chemotaxis. }}{309}{figure.caption.109}
+\contentsline {figure}{\numberline {F.6}{\ignorespaces HtpG interactions with FliN and CheA are dependent on the DnaJ/CbpA/DnaK chaperone system.}}{310}{figure.caption.110}
 \addvspace {5\p@ }
-\contentsline {figure}{\numberline {G.1}{\ignorespaces Gene losses outnumber gene gains.}}{324}{figure.caption.121}
-\contentsline {figure}{\numberline {G.2}{\ignorespaces Comparison of evolution of real genes with genes with simulated evolution under various models. }}{325}{figure.caption.122}
-\contentsline {figure}{\numberline {G.3}{\ignorespaces Some regions of the parameter space are underpowered to detect PGCEs.}}{327}{figure.caption.123}
-\contentsline {figure}{\numberline {G.4}{\ignorespaces A global network of directional dependencies between prokaryotic genes (PGCEs)}}{328}{figure.caption.124}
-\contentsline {figure}{\numberline {G.5}{\ignorespaces Topological characteristics of the PGCE network.}}{329}{figure.caption.125}
-\contentsline {figure}{\numberline {G.6}{\ignorespaces A network of evolutionary dependencies between functional pathways.}}{330}{figure.caption.126}
-\contentsline {figure}{\numberline {G.7}{\ignorespaces Differences in gain counts do not explain differential sorting of genes in different functional groups.}}{331}{figure.caption.127}
-\contentsline {figure}{\numberline {G.8}{\ignorespaces Phylogenetic depth of gene gains in bacteria decreases with rank in the topological sort.}}{332}{figure.caption.128}
-\contentsline {figure}{\numberline {G.9}{\ignorespaces Performance of models predicting the acquisition of genes between clades.}}{333}{figure.caption.129}
+\contentsline {figure}{\numberline {G.1}{\ignorespaces Gene losses outnumber gene gains.}}{325}{figure.caption.121}
+\contentsline {figure}{\numberline {G.2}{\ignorespaces Comparison of evolution of real genes with genes with simulated evolution under various models. }}{326}{figure.caption.122}
+\contentsline {figure}{\numberline {G.3}{\ignorespaces Some regions of the parameter space are underpowered to detect PGCEs.}}{328}{figure.caption.123}
+\contentsline {figure}{\numberline {G.4}{\ignorespaces A global network of directional dependencies between prokaryotic genes (PGCEs)}}{329}{figure.caption.124}
+\contentsline {figure}{\numberline {G.5}{\ignorespaces Topological characteristics of the PGCE network.}}{330}{figure.caption.125}
+\contentsline {figure}{\numberline {G.6}{\ignorespaces A network of evolutionary dependencies between functional pathways.}}{331}{figure.caption.126}
+\contentsline {figure}{\numberline {G.7}{\ignorespaces Differences in gain counts do not explain differential sorting of genes in different functional groups.}}{332}{figure.caption.127}
+\contentsline {figure}{\numberline {G.8}{\ignorespaces Phylogenetic depth of gene gains in bacteria decreases with rank in the topological sort.}}{333}{figure.caption.128}
+\contentsline {figure}{\numberline {G.9}{\ignorespaces Performance of models predicting the acquisition of genes between clades.}}{334}{figure.caption.129}

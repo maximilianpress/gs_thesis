@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2011.7.3)  20 APR 2016 19:31
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2011.7.3)  20 APR 2016 22:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1015,8 +1015,8 @@ ntifies Functions and
  []
 
 [2]
-Overfull \hbox (0.34769pt too wide) detected at line 163
- \EU1/HoeflerText(0)/m/n/12 240
+Overfull \hbox (0.22757pt too wide) detected at line 166
+ \EU1/HoeflerText(0)/m/n/12 260
  []
 
 [3])
@@ -1036,6 +1036,11 @@ ssociated
 Overfull \hbox (10.11748pt too wide) in paragraph at lines 49--49
  [][] [][]\EU1/HoeflerText(0)/m/n/12 Circadian parameters estimated for differe
 nt TR alleles in \EU1/HoeflerText(0)/m/it/12 elf3-4 CCR2::Luc 
+ []
+
+
+Overfull \hbox (0.34769pt too wide) detected at line 50
+ \EU1/HoeflerText(0)/m/n/12 240
  []
 
 
@@ -1061,18 +1066,18 @@ es between prokaryotic genes
 \openout6 = `main.lof'.
 
  [8] (./main.lot
+Overfull \hbox (0.22757pt too wide) detected at line 24
+ \EU1/HoeflerText(0)/m/n/12 260
+ []
+
+
 Overfull \hbox (4.94228pt too wide) in paragraph at lines 27--27
  [][] [][]\EU1/HoeflerText(0)/m/n/12 Regression analysis of hypocotyl elongatio
 n temperature response among 
  []
 
 
-Overfull \hbox (0.22757pt too wide) detected at line 30
- \EU1/HoeflerText(0)/m/n/12 290
- []
-
-
-Overfull \hbox (0.22757pt too wide) detected at line 31
+Overfull \hbox (0.22757pt too wide) detected at line 29
  \EU1/HoeflerText(0)/m/n/12 290
  []
 
@@ -1121,26 +1126,7 @@ LaTeX Warning: Command \nobreakspace invalid in math mode on input line 341.
 <<2>>
 [20
 
-]
-Overfull \hbox (0.36298pt too wide) in paragraph at lines 366--368
-\EU1/HoeflerText(0)/m/n/12 typic shifts. To determine the phenotypic impact of 
-naturally occurring polyQ variation
- []
-
-[21]
-
-LaTeX Warning: Reference `tab:app1fig1' on page 22 undefined on input line 375.
-
-
-
-LaTeX Warning: Reference `tab:app1fig1' on page 22 undefined on input line 375.
-
-
-
-LaTeX Warning: Reference `tab:app1tab2,tab:app1tab3' on page 22 undefined on in
-put line 375.
-
-
+] [21]
 Underfull \vbox (badness 5696) has occurred while \output is active []
 
  [22]
@@ -1151,15 +1137,14 @@ LaTeX Font Info:    Font shape `EU1/AndaleMono(0)/m/n' will be
 (Font)              scaled to size 10.03711pt on input line 382.
 
 [24]
-Invalid UTF-8 byte or sequence at line 385 replaced by U+FFFD.
- [25]
-Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
-pping=tex-text;!
- [26] [27]
+Overfull \hbox (0.84718pt too wide) in paragraph at lines 384--385
+\EU1/HoeflerText(0)/m/n/12 ($[]$) were used as a light source during this analy
+sis. During the first 24
+ []
+
+[25] [26] [27]
 File: undurraga2012_figures/MainText/Figure1Q.png Graphic file (type QTm)
  <use  "undurraga2012_figures/MainText/Figure1Q.png" >
-Invalid UTF-8 byte or sequence at line 398 replaced by U+FFFD.
-
 
 Package caption Warning: \captionsetup{type*=...} or \captionof
 (caption)                outside box or environment on input line 398.
@@ -1169,18 +1154,6 @@ See the caption package documentation for explanation.
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 398.
 See the caption package documentation for explanation.
-
-Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
-pping=tex-text;!
-
-LaTeX Warning: Reference `tab:app1tab2,tab:app1tab3' on page 28 undefined on in
-put line 398.
-
-Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
-pping=tex-text;!
-
-LaTeX Warning: Reference `tab:app1tab2,tab:app1tab3' on page 28 undefined on in
-put line 398.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1192,98 +1165,28 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [30]
 File: undurraga2012_figures/MainText/Figure2Q.png Graphic file (type QTm)
 
-<use  "undurraga2012_figures/MainText/Figure2Q.png" >
-
-LaTeX Warning: Reference `fig:chap1fig2' on page 31 undefined on input line 413
-.
-
-
-LaTeX Warning: Reference `fig:chap1fig2' on page 31 undefined on input line 413
-.
-
-
-Package caption Warning: \label before \caption on input line 421.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `fig:chap2fig3' on page 31 undefined on input line 416
-.
-
-
-Package caption Warning: \label before \caption on input line 421.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `fig:chap2fig3' on page 31 undefined on input line 417
-.
-
-
-Package caption Warning: \label before \caption on input line 421.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `fig:chap2fig3' on page 31 undefined on input line 417
-.
-
-
-Package caption Warning: \label before \caption on input line 421.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `fig:chap2fig3' on page 31 undefined on input line 418
-.
-
-
-Package caption Warning: \label before \caption on input line 421.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `fig:chap2fig3' on page 31 undefined on input line 418
-.
-
-[31] [32]
+<use  "undurraga2012_figures/MainText/Figure2Q.png" > [31] [32]
 File: undurraga2012_figures/MainText/Figure3Q.png Graphic file (type QTm)
- <use  "undurraga2012_figures/MainText/Figure3Q.png" >
-Invalid UTF-8 byte or sequence at line 426 replaced by U+FFFD.
 
+<use  "undurraga2012_figures/MainText/Figure3Q.png" >
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 426.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `fig:chap2fig1' on page 33 undefined on input line 426
-.
-
-
-LaTeX Warning: Reference `fig:chap2fig1' on page 33 undefined on input line 426
-.
-
-Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
-pping=tex-text;!
-
-LaTeX Warning: Reference `fig:chap2fig1' on page 33 undefined on input line 426
-.
-
-
-LaTeX Warning: Reference `fig:chap2fig1' on page 33 undefined on input line 426
-.
-
-Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
-pping=tex-text;!
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [33]
 [34]
-Underfull \vbox (badness 1460) has occurred while \output is active []
+Underfull \vbox (badness 1442) has occurred while \output is active []
 
  [35]
 File: oldbad_vs_newboring_f1data.pdf Graphic file (type QTm)
 
 <use  "oldbad_vs_newboring_f1data.pdf" >
 
-LaTeX Warning: Float too large for page by 20.98846pt on input line 439.
+LaTeX Warning: Float too large for page by 20.98846pt on input line 438.
 
 
 LaTeX Warning: Citation `Duennwald2006' on page 36 undefined on input line 444.
@@ -1293,30 +1196,20 @@ LaTeX Warning: Citation `Duennwald2006' on page 36 undefined on input line 444.
 <<3>>
 [39
 
-]
-Missing character: There is no ^^96 in font Hoefler Text/AAT:mapping=tex-text;m
-apping=tex-text;!
- [40]
+] [40]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [41]
-[42]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [43]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [44]
+[42] [43] [44]
 Invalid UTF-8 byte or sequence at line 491 replaced by U+FFFD.
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
-
-[45]
+ [45]
 File: pft1_resubmit_2014/pft1_fig1_FT_061914-01.pdf Graphic file (type QTm)
- <use  "pft1_resubmit_2014/pft1_fig1_FT_061914-01.pdf" > [46] [47]
+ <use  "pft1_resubmit_2014/pft1_fig1_FT_061914-01.pdf" >
+[46] [47]
 File: pft1_resubmit_2014/pft1_fig2_112613.pdf Graphic file (type QTm)
-
-<use  "pft1_resubmit_2014/pft1_fig2_112613.pdf" >
+ <use  "pft1_resubmit_2014/pft1_fig2_112613.pdf" >
 Overfull \hbox (0.4682pt too wide) in paragraph at lines 512--513
 \EU1/HoeflerText(0)/m/n/12 We next assessed quantitative phenotypes in early se
 edling development, some of which
@@ -1332,15 +1225,12 @@ re equiv-
  []
 
 File: pft1_resubmit_2014/pft1_fig4_052814-01.pdf Graphic file (type QTm)
-<use  "pft1_resubmit_2014/pft1_fig4_052814-01.pdf" > [50] [51]
+<use  "pft1_resubmit_2014/pft1_fig4_052814-01.pdf" >
 Invalid UTF-8 byte or sequence at line 531 replaced by U+FFFD.
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
- [52] [53]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [54]
-[55] [56]
+ [50] [51] [52] [53]
+[54] [55] [56]
 <<4>>
 [57
 
@@ -1348,9 +1238,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [58]
-Overfull \hbox (0.10239pt too wide) in paragraph at lines 563--565
-\EU1/HoeflerText(0)/m/n/12 a consequence of dramatically expanded STR alleles [
-[], [], []]. Many of these disease-
+Overfull \hbox (3.01619pt too wide) in paragraph at lines 563--565
+\EU1/HoeflerText(0)/m/n/12 disease-associated STR expansions behave as dominant
+ gain-of-function mutations [[]].
  []
 
 
@@ -1360,19 +1250,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [60]
-[61] [62]
+[61] [62] [63]
 File: 060414_tig_fig1_marked-01.png Graphic file (type QTm)
- <use  "060414_tig_fig1_marked-01.png" > [63] [64] [65]
+ <use  "060414_tig_fig1_marked-01.png" > [64] [65]
 File: tig_figs/repeatmumodel_051214.pdf Graphic file (type QTm)
 
-<use  "tig_figs/repeatmumodel_051214.pdf" >
-
-LaTeX Warning: Citation `Weinreich2005' on page 66 undefined on input line 609.
-
-
-[66] [67]
+<use  "tig_figs/repeatmumodel_051214.pdf" > [66] [67]
 File: tig_figs/logsd_varscore_011814.pdf Graphic file (type QTm)
- <use  "tig_figs/logsd_varscore_011814.pdf" >
+
+<use  "tig_figs/logsd_varscore_011814.pdf" >
 Overfull \hbox (8.4099pt too wide) in paragraph at lines 623--624
 []\EU1/HoeflerText(0)/m/n/12 In general, VARscore was well correlated with obse
 rved variation across STRs (r=0.68,
@@ -1385,7 +1271,11 @@ racters in \EU1/HoeflerText(0)/bx/n/12 A. thaliana\EU1/HoeflerText(0)/bx/it/12
 . 
  []
 
-[70] [71] [72]
+[70]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [71]
+[72]
 <<5>>
 [73
 
@@ -1618,18 +1508,6 @@ File: htpg/fig_4_022713.png Graphic file (type QTm)
 File: htpg/fig_5_032713.png Graphic file (type QTm)
 
 <use  "htpg/fig_5_032713.png" >
-
-LaTeX Warning: Citation `Rohl2013' on page 142 undefined on input line 1123.
-
-
-LaTeX Warning: Citation `Buchner2010' on page 142 undefined on input line 1123.
-
-
-
-LaTeX Warning: Citation `Chevance2008' on page 142 undefined on input line 1124
-.
-
-
 Overfull \hbox (2.06828pt too wide) in paragraph at lines 1123--1125
 \EU1/HoeflerText(0)/m/n/12 We observed a strong interaction of HtpG(E34A) with 
 the chemoreceptor kinase CheA.
@@ -1653,60 +1531,11 @@ iated genes.
 
 [144]
 
-LaTeX Warning: Citation `Buchner2010' on page 145 undefined on input line 1138.
-
-
-
-LaTeX Warning: Citation `Richter2011' on page 145 undefined on input line 1138.
-
-
-
 LaTeX Warning: Citation `Southworth' on page 145 undefined on input line 1138.
-
-
-LaTeX Warning: Citation `Rohl2013' on page 145 undefined on input line 1138.
-
-
-LaTeX Warning: Citation `Brocchieri2005' on page 145 undefined on input line 11
-38.
-
-
-LaTeX Warning: Citation `Fernandez2011' on page 145 undefined on input line 113
-8.
 
 
 LaTeX Warning: Citation `Dartigalonge1998' on page 145 undefined on input line 
 1139.
-
-
-LaTeX Warning: Citation `Buchner2010' on page 145 undefined on input line 1141.
-
-
-
-LaTeX Warning: Citation `Desvaux2006' on page 145 undefined on input line 1142.
-
-
-
-LaTeX Warning: Citation `Abby2012' on page 145 undefined on input line 1142.
-
-
-LaTeX Warning: Citation `Fraser1999' on page 145 undefined on input line 1142.
-
-
-LaTeX Warning: Citation `Wei2011' on page 145 undefined on input line 1142.
-
-
-LaTeX Warning: Citation `Wei2011' on page 145 undefined on input line 1142.
-
-
-LaTeX Warning: Citation `Jousset2012' on page 145 undefined on input line 1142.
-
-
-
-Overfull \hbox (0.52983pt too wide) in paragraph at lines 1136--1145
-\EU1/HoeflerText(0)/m/n/12 gues that Hsp90A is well-integrated with other chape
-rone systems. Our putative clients
- []
 
 [145]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2104,6 +1933,10 @@ Overfull \vbox (19.39377pt too high) has occurred while \output is active []
 [260] [261] [262] [263] [264] [265] [266] [267]
 <<D>>
 
+LaTeX Warning: Reference `tab:app4tab3' on page 268 undefined on input line 214
+4.
+
+
 LaTeX Warning: Reference `chap5fig2' on page 268 undefined on input line 2155.
 
 
@@ -2156,14 +1989,6 @@ File: elf3temp_pgen_sub/FigS1.png Graphic file (type QTm)
 <use  "elf3temp_pgen_sub/FigS1.png" >
 File: elf3temp_pgen_sub/FigS2.png Graphic file (type QTm)
  <use  "elf3temp_pgen_sub/FigS2.png" >
-
-LaTeX Warning: Reference `tab:app6tab4, tab:app6tab5' on page 282 undefined on 
-input line 2247.
-
-
-LaTeX Warning: Reference `tab:app6tab4, tab:app6tab5' on page 282 undefined on 
-input line 2247.
-
 [282
 
 ] [283] [284] [285] [286] [287] [288] [289] [290] [291] [292] [293]
@@ -2174,145 +1999,120 @@ Overfull \hbox (2.30922pt too wide) in paragraph at lines 2601--2627
 
 [296] [297] [298]
 <<F>>
-
-LaTeX Warning: Reference `tab:chap7fig2' on page 299 undefined on input line 26
-57.
-
 [299
 
 ] [300] [301]
 
-LaTeX Warning: Reference `chap7tab1' on page 302 undefined on input line 2667.
+LaTeX Warning: Reference `chap7tab1' on page 302 undefined on input line 2668.
 
+[302]
 File: htpg/fig_s1_020713.png Graphic file (type QTm)
-<use  "htpg/fig_s1_020713.png" > [302] [303]
+ <use  "htpg/fig_s1_020713.png" > [303] [304]
 Overfull \vbox (8.80249pt too high) has occurred while \output is active []
 
 
-[304]
+[305]
 File: htpg/fig_s2.png Graphic file (type QTm)
  <use  "htpg/fig_s2.png" >
 File: htpg/fig_s3.png Graphic file (type QTm)
- <use  "htpg/fig_s3.png" > [305]
+ <use  "htpg/fig_s3.png" > [306]
 File: htpg/fig_s4.png Graphic file (type QTm)
 
-<use  "htpg/fig_s4.png" > [306]
+<use  "htpg/fig_s4.png" > [307]
 File: htpg/fig_s5.png Graphic file (type QTm)
- <use  "htpg/fig_s5.png" > [307]
+ <use  "htpg/fig_s5.png" > [308]
 File: htpg/fig_s6.png Graphic file (type QTm)
 
 <use  "htpg/fig_s6.png" >
-Underfull \hbox (badness 4479) in paragraph at lines 2709--2709
+Underfull \hbox (badness 4479) in paragraph at lines 2708--2708
 []\EU1/HoeflerText(0)/m/n/12 Figure F.6: |HtpG interactions with FliN and CheA 
 are dependent on the
  []
 
-[308]
+[309]
 Overfull \vbox (10.26498pt too high) has occurred while \output is active []
 
 
-[309]
-Overfull \hbox (18.23064pt too wide) in paragraph at lines 2718--2738
+[310]
+Overfull \hbox (18.23064pt too wide) in paragraph at lines 2717--2737
 [][] 
  []
 
-[310] [311]
-Overfull \hbox (19.01103pt too wide) in paragraph at lines 2808--2826
+[311] [312]
+Overfull \hbox (19.01103pt too wide) in paragraph at lines 2807--2825
 [][] 
  []
 
-[312] [313]
+[313] [314]
 <<G>>
+[315
 
-LaTeX Warning: Reference `fig:hgtfig5,fig:app8fig9' on page 314 undefined on in
-put line 2849.
-
-[314
-
-] [315] [316] [317] [318] [319] [320] [321] [322] [323]
+] [316] [317] [318] [319] [320] [321] [322] [323] [324]
 File: HGT_REVISION_2016/figures/gainvsloss_022016_figs1.png Graphic file (type 
 QTm)
 
 <use  "HGT_REVISION_2016/figures/gainvsloss_022016_figs1.png" >
 File: HGT_REVISION_2016/figures/hgt_figs2_022016.pdf Graphic file (type QTm)
 
-<use  "HGT_REVISION_2016/figures/hgt_figs2_022016.pdf" > [324]
+<use  "HGT_REVISION_2016/figures/hgt_figs2_022016.pdf" > [325]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 2946.
+(caption)                particular \caption on input line 2945.
 See the caption package documentation for explanation.
 
-[325] [326]
+[326] [327]
 File: HGT_REVISION_2016/figures/figure_s3_092215-01.pdf Graphic file (type QTm)
 
  <use  "HGT_REVISION_2016/figures/figure_s3_092215-01.pdf" >
-[327]
+[328]
 File: HGT_REVISION_2016/figures/figs4_092215-01.pdf Graphic file (type QTm)
- <use  "HGT_REVISION_2016/figures/figs4_092215-01.pdf" > [328]
+ <use  "HGT_REVISION_2016/figures/figs4_092215-01.pdf" > [329]
 File: HGT_REVISION_2016/figures/figs5_040116.pdf Graphic file (type QTm)
 
-<use  "HGT_REVISION_2016/figures/figs5_040116.pdf" > [329]
+<use  "HGT_REVISION_2016/figures/figs5_040116.pdf" > [330]
 File: HGT_REVISION_2016/figures/figs6_092315.pdf Graphic file (type QTm)
 
-<use  "HGT_REVISION_2016/figures/figs6_092315.pdf" > [330]
+<use  "HGT_REVISION_2016/figures/figs6_092315.pdf" > [331]
 File: HGT_REVISION_2016/figures/figs7_020916.pdf Graphic file (type QTm)
 
 <use  "HGT_REVISION_2016/figures/figs7_020916.pdf" >
-
-LaTeX Warning: Reference `tab:chap8tab1' on page 331 undefined on input line 29
-85.
-
-
-LaTeX Warning: Reference `tab:chap8tab1' on page 331 undefined on input line 29
-85.
-
-
 Overfull \vbox (10.54935pt too high) has occurred while \output is active []
 
 
-[331]
+[332]
 File: HGT_REVISION_2016/figures/figs8_092215.pdf Graphic file (type QTm)
  <use  "HGT_REVISION_2016/figures/figs8_092215.pdf" >
 File: HGT_REVISION_2016/figures/figs9_013016.pdf Graphic file (type QTm)
 
-<use  "HGT_REVISION_2016/figures/figs9_013016.pdf" >
-
-LaTeX Warning: Reference `fig:chap8fig5' on page 332 undefined on input line 30
-01.
-
-
-LaTeX Warning: Reference `fig:chap8fig5' on page 332 undefined on input line 30
-01.
-
-[332]
+<use  "HGT_REVISION_2016/figures/figs9_013016.pdf" > [333]
 Overfull \vbox (5.68918pt too high) has occurred while \output is active []
 
 
-[333]
-Underfull \hbox (badness 10000) in paragraph at lines 3012--3041
+[334]
+Underfull \hbox (badness 10000) in paragraph at lines 3011--3040
 [][]
  []
 
-[334]
+[335]
 
 Package caption Warning: The caption type was already set to `figure'
-(caption)                 on input line 3060.
+(caption)                 on input line 3059.
 See the caption package documentation for explanation.
 
-[335] [336] [337] [338] [339]
-Overfull \hbox (13.91214pt too wide) in paragraph at lines 3224--3235
+[336] [337] [338] [339] [340]
+Overfull \hbox (13.91214pt too wide) in paragraph at lines 3223--3234
 [][] 
  []
 
-[340] [341] [342]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3286.
- [343
+[341] [342] [343]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3285.
+ [344
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 3286.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 3285.
  (./main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 3286.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 3286.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 3285.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 3285.
 
 
 LaTeX Warning: There were undefined references.
@@ -2320,15 +2120,15 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 3286.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 3285.
  ) 
 Here is how much of TeX's memory you used:
- 18652 strings out of 494150
- 306819 string characters out of 3152950
- 481557 words of memory out of 3000000
- 21564 multiletter control sequences out of 15000+200000
+ 18643 strings out of 494150
+ 306649 string characters out of 3152950
+ 481654 words of memory out of 3000000
+ 21555 multiletter control sequences out of 15000+200000
  8916 words of font info for 66 fonts, out of 3000000 for 9000
  1018 hyphenation exceptions out of 8191
  53i,15n,92p,3216b,499s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on main.pdf (363 pages).
+Output written on main.pdf (364 pages).
