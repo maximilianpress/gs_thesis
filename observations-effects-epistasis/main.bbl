@@ -432,6 +432,12 @@ Gabor Csardi and Tamas Nepusz.
 \newblock {The igraph Software Package for Complex Network Research}.
 \newblock {\em InterJournal}, Complex Sy, 2006.
 
+\bibitem{Dartigalongue1998}
+C~Dartigalongue and S~Raina.
+\newblock {A new heat-shock gene, ppiD, encodes a peptidyl-prolyl isomerase
+  required for folding of outer membrane proteins in Escherichia coli.}
+\newblock {\em The EMBO journal}, 17(14):3968--80, July 1998.
+
 \bibitem{Davis2009}
 B.~H. Davis, A.~F.Y. Poon, and M.~C. Whitlock.
 \newblock {Compensatory mutations are repeatable and clustered within
@@ -483,6 +489,13 @@ Paula~D Duek and Christian Fankhauser.
 \newblock {bHLH class transcription factors take centre stage in phytochrome
   signalling.}
 \newblock {\em Trends in plant science}, 10(2):51--4, February 2005.
+
+\bibitem{Duennwald2006}
+Martin~L Duennwald, Smitha Jagadish, Paul~J Muchowski, and Susan Lindquist.
+\newblock {Flanking sequences profoundly alter polyglutamine toxicity in
+  yeast.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 103(29):11045--50, July 2006.
 
 \bibitem{Duitama2014}
 J.~Duitama, A.~Zablotskaya, R.~Gemayel, A.~Jansen, S.~Belet, J.~R. Vermeesch,
@@ -552,6 +565,26 @@ D.~Escher, M.~Bodmer-Glavas, A.~Barberis, and W.~Schaffner.
 \newblock {Conservation of Glutamine-Rich Transactivation Function between
   Yeast and Humans}.
 \newblock {\em Molecular and Cellular Biology}, 20(8):2774--2782, April 2000.
+
+\bibitem{ExAc2015}
+{Exome Aggregation Consortium}, Monkol Lek, Konrad Karczewski, Eric Minikel,
+  Kaitlin Samocha, Eric Banks, Timothy Fennell, Anne O'Donnell-Luria, James
+  Ware, Andrew Hill, Beryl Cummings, Taru Tukiainen, Daniel Birnbaum, Jack
+  Kosmicki, Laramie Duncan, Karol Estrada, Fengmei Zhao, James Zou, Emma
+  Pierce-Hoffman, David Cooper, Mark DePristo, Ron Do, Jason Flannick, Menachem
+  Fromer, Laura Gauthier, Jackie Goldstein, Namrata Gupta, Daniel Howrigan,
+  Adam Kiezun, Mitja Kurki, Ami~Levy Moonshine, Pradeep Natarajan, Lorena
+  Orozco, Gina Peloso, Ryan Poplin, Manuel Rivas, Valentin Ruano-Rubio, Douglas
+  Ruderfer, Khalid Shakir, Peter Stenson, Christine Stevens, Brett Thomas,
+  Grace Tiao, Maria Tusie-Luna, Ben Weisburd, Hong-Hee Won, Dongmei Yu, David
+  Altshuler, Diego Ardissino, Michael Boehnke, John Danesh, Elosua Roberto,
+  Jose Florez, Stacey Gabriel, Gad Getz, Christina Hultman, Sekar Kathiresan,
+  Markku Laakso, Steven McCarroll, Mark McCarthy, Dermot McGovern, Ruth
+  McPherson, Benjamin Neale, Aarno Palotie, Shaun Purcell, Danish Saleheen,
+  Jeremiah Scharf, Pamela Sklar, Sullivan Patrick, Jaakko Tuomilehto, Hugh
+  Watkins, James Wilson, Mark Daly, and Daniel MacArthur.
+\newblock {Analysis of protein-coding genetic variation in 60,706 humans}.
+\newblock Technical report, October 2015.
 
 \bibitem{Faux2005}
 Noel~G Faux, Stephen~P Bottomley, Arthur~M Lesk, James~A Irving, John~R
@@ -1298,7 +1331,7 @@ R~C Lewontin.
 Heng Li.
 \newblock {Aligning sequence reads, clone sequences and assembly contigs with
   BWA-MEM}.
-\newblock page~3, March 2013.
+\newblock {\em ArXiv}, page~3, March 2013.
 
 \bibitem{Li2009}
 Heng Li and Richard Durbin.
@@ -1601,6 +1634,18 @@ Ra\'{u}l Munoz, Pablo Yarza, Wolfgang Ludwig, Jean Euz\'{e}by, Rudolf Amann,
   Rossell\'{o}-M\'{o}ra.
 \newblock {Release LTPs104 of the All-Species Living Tree.}
 \newblock {\em Systematic and applied microbiology}, 34(3):169--70, May 2011.
+
+\bibitem{Narasimhan2016}
+V.~M. Narasimhan, K.~A. Hunt, D.~Mason, C.~L. Baker, K.~J. Karczewski, M.~R.
+  Barnes, A.~H. Barnett, C.~Bates, S.~Bellary, N.~A. Bockett, K.~Giorda, C.~J.
+  Griffiths, H.~Hemingway, Z.~Jia, M.~A. Kelly, H.~A. Khawaja, M.~Lek,
+  S.~McCarthy, R.~McEachan, A.~ODonnell-Luria, K.~Paigen, C.~A. Parisinos,
+  E.~Sheridan, L.~Southgate, L.~Tee, M.~Thomas, Y.~Xue, M.~Schnall-Levin, P.~M.
+  Petkov, C.~Tyler-Smith, E.~R. Maher, R.~C. Trembath, D.~G. MacArthur,
+  J.~Wright, R.~Durbin, and D.~A. van Heel.
+\newblock {Health and population effects of rare gene knockouts in adult humans
+  with related parents}.
+\newblock {\em Science}, 352(6284):474--477, March 2016.
 
 \bibitem{Nelson2013}
 Ronald~M Nelson, Mats~E Pettersson, and \"{O}rjan Carlborg.
@@ -2197,6 +2242,12 @@ Shannon~M. Soucy, Jinling Huang, and Johann~Peter Gogarten.
 Megan~M Southern and Andrew~J Millar.
 \newblock {Circadian genetics in the model higher plant, Arabidopsis thaliana.}
 \newblock {\em Methods in enzymology}, 393:23--35, January 2005.
+
+\bibitem{Southworth2008}
+Daniel~R Southworth and David~A Agard.
+\newblock {Species-dependent ensembles of conserved conformational states
+  define the Hsp90 chaperone ATPase cycle.}
+\newblock {\em Molecular cell}, 32(5):631--40, December 2008.
 
 \bibitem{Specchia2010}
 Valeria Specchia, Lucia Piacentini, Patrizia Tritto, Laura Fanti, Rosalba

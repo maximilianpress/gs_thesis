@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2011.7.3)  20 APR 2016 22:07
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2011.7.3)  21 APR 2016 17:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1015,7 +1015,7 @@ ntifies Functions and
  []
 
 [2]
-Overfull \hbox (0.22757pt too wide) detected at line 166
+Overfull \hbox (0.22757pt too wide) detected at line 165
  \EU1/HoeflerText(0)/m/n/12 260
  []
 
@@ -1033,14 +1033,14 @@ ssociated
  []
 
 
-Overfull \hbox (10.11748pt too wide) in paragraph at lines 49--49
- [][] [][]\EU1/HoeflerText(0)/m/n/12 Circadian parameters estimated for differe
-nt TR alleles in \EU1/HoeflerText(0)/m/it/12 elf3-4 CCR2::Luc 
+Overfull \hbox (0.34769pt too wide) detected at line 49
+ \EU1/HoeflerText(0)/m/n/12 240
  []
 
 
-Overfull \hbox (0.34769pt too wide) detected at line 50
- \EU1/HoeflerText(0)/m/n/12 240
+Overfull \hbox (10.11748pt too wide) in paragraph at lines 49--49
+ [][] [][]\EU1/HoeflerText(0)/m/n/12 Circadian parameters estimated for differe
+nt TR alleles in \EU1/HoeflerText(0)/m/it/12 elf3-4 CCR2::Luc 
  []
 
 
@@ -1049,7 +1049,12 @@ Overfull \hbox (2.4016pt too wide) in paragraph at lines 50--50
  effects in the elf3-200 back- 
  []
 
-[6] [7]
+[6]
+Overfull \hbox (0.22757pt too wide) detected at line 70
+ \EU1/HoeflerText(0)/m/n/12 290
+ []
+
+[7]
 Overfull \hbox (43.17114pt too wide) in paragraph at lines 77--77
  [][] [][]\EU1/HoeflerText(0)/m/n/12 HtpG interactions with FliN and CheA are d
 ependent on the DnaJ/CbpA/DnaK 
@@ -1066,25 +1071,20 @@ es between prokaryotic genes
 \openout6 = `main.lof'.
 
  [8] (./main.lot
-Overfull \hbox (0.22757pt too wide) detected at line 24
- \EU1/HoeflerText(0)/m/n/12 260
- []
-
-
-Overfull \hbox (4.94228pt too wide) in paragraph at lines 27--27
+Overfull \hbox (4.94228pt too wide) in paragraph at lines 31--31
  [][] [][]\EU1/HoeflerText(0)/m/n/12 Regression analysis of hypocotyl elongatio
 n temperature response among 
- []
-
-
-Overfull \hbox (0.22757pt too wide) detected at line 29
- \EU1/HoeflerText(0)/m/n/12 290
  []
 
 [9
 
 ]
-Overfull \hbox (2.74965pt too wide) in paragraph at lines 42--42
+Overfull \hbox (0.56375pt too wide) detected at line 37
+ \EU1/HoeflerText(0)/m/n/12 300
+ []
+
+
+Overfull \hbox (2.74965pt too wide) in paragraph at lines 46--46
  [][] [][]\EU1/HoeflerText(0)/m/n/12 Acceptor photobleaching FRET interactions 
 of chemotaxis components 
  []
@@ -1188,10 +1188,6 @@ File: oldbad_vs_newboring_f1data.pdf Graphic file (type QTm)
 
 LaTeX Warning: Float too large for page by 20.98846pt on input line 438.
 
-
-LaTeX Warning: Citation `Duennwald2006' on page 36 undefined on input line 444.
-
-
 [36] [37] [38]
 <<3>>
 [39
@@ -1200,16 +1196,23 @@ LaTeX Warning: Citation `Duennwald2006' on page 36 undefined on input line 444.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [41]
-[42] [43] [44]
+[42]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [43]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [44]
 Invalid UTF-8 byte or sequence at line 491 replaced by U+FFFD.
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
- [45]
+
+[45]
 File: pft1_resubmit_2014/pft1_fig1_FT_061914-01.pdf Graphic file (type QTm)
- <use  "pft1_resubmit_2014/pft1_fig1_FT_061914-01.pdf" >
-[46] [47]
+ <use  "pft1_resubmit_2014/pft1_fig1_FT_061914-01.pdf" > [46] [47]
 File: pft1_resubmit_2014/pft1_fig2_112613.pdf Graphic file (type QTm)
- <use  "pft1_resubmit_2014/pft1_fig2_112613.pdf" >
+
+<use  "pft1_resubmit_2014/pft1_fig2_112613.pdf" >
 Overfull \hbox (0.4682pt too wide) in paragraph at lines 512--513
 \EU1/HoeflerText(0)/m/n/12 We next assessed quantitative phenotypes in early se
 edling development, some of which
@@ -1225,12 +1228,15 @@ re equiv-
  []
 
 File: pft1_resubmit_2014/pft1_fig4_052814-01.pdf Graphic file (type QTm)
-<use  "pft1_resubmit_2014/pft1_fig4_052814-01.pdf" >
+<use  "pft1_resubmit_2014/pft1_fig4_052814-01.pdf" > [50] [51]
 Invalid UTF-8 byte or sequence at line 531 replaced by U+FFFD.
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
- [50] [51] [52] [53]
-[54] [55] [56]
+ [52] [53]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [54]
+[55] [56]
 <<4>>
 [57
 
@@ -1238,7 +1244,7 @@ pping=tex-text;!
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [58]
-Overfull \hbox (3.01619pt too wide) in paragraph at lines 563--565
+Overfull \hbox (2.58424pt too wide) in paragraph at lines 562--564
 \EU1/HoeflerText(0)/m/n/12 disease-associated STR expansions behave as dominant
  gain-of-function mutations [[]].
  []
@@ -1259,13 +1265,13 @@ File: tig_figs/repeatmumodel_051214.pdf Graphic file (type QTm)
 File: tig_figs/logsd_varscore_011814.pdf Graphic file (type QTm)
 
 <use  "tig_figs/logsd_varscore_011814.pdf" >
-Overfull \hbox (8.4099pt too wide) in paragraph at lines 623--624
+Overfull \hbox (8.4099pt too wide) in paragraph at lines 622--623
 []\EU1/HoeflerText(0)/m/n/12 In general, VARscore was well correlated with obse
 rved variation across STRs (r=0.68,
  []
 
 [68] [69]
-Overfull \hbox (2.49403pt too wide) in paragraph at lines 625--625
+Overfull \hbox (2.49403pt too wide) in paragraph at lines 624--624
 []\EU1/HoeflerText(0)/bx/it/12 Association of STR variation with phenotypic cha
 racters in \EU1/HoeflerText(0)/bx/n/12 A. thaliana\EU1/HoeflerText(0)/bx/it/12 
 . 
@@ -1287,83 +1293,80 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [75]
 
-LaTeX Warning: Reference `tab:app4tab1' on page 76 undefined on input line 656.
+LaTeX Warning: Reference `tab:app4tab1' on page 76 undefined on input line 655.
 
 
 
-LaTeX Warning: Reference `tab:app4tab1' on page 76 undefined on input line 656.
+LaTeX Warning: Reference `tab:app4tab1' on page 76 undefined on input line 655.
 
 
 
-LaTeX Warning: Reference `tab:app4tab1' on page 76 undefined on input line 659.
+LaTeX Warning: Reference `tab:app4tab1' on page 76 undefined on input line 658.
 
 
 
-LaTeX Warning: Reference `tab:app4tab3' on page 76 undefined on input line 659.
+LaTeX Warning: Reference `tab:app4tab3' on page 76 undefined on input line 658.
 
 
 [76]
 
-LaTeX Warning: Reference `tab:app4tab1' on page 77 undefined on input line 665.
+LaTeX Warning: Reference `tab:app4tab1' on page 77 undefined on input line 664.
 
 
 [77]
 
-LaTeX Warning: Reference `tab:app4tab1' on page 78 undefined on input line 668.
+LaTeX Warning: Reference `tab:app4tab1' on page 78 undefined on input line 667.
 
 
 
-LaTeX Warning: Reference `tab:app4tab2' on page 78 undefined on input line 668.
+LaTeX Warning: Reference `tab:app4tab2' on page 78 undefined on input line 667.
 
 
 
-LaTeX Warning: Reference `tab:app4tab1' on page 78 undefined on input line 671.
+LaTeX Warning: Reference `tab:app4tab1' on page 78 undefined on input line 670.
 
 
 
-LaTeX Warning: Reference `tab:app4tab1' on page 78 undefined on input line 674.
+LaTeX Warning: Reference `tab:app4tab1' on page 78 undefined on input line 673.
 
 
 [78]
 File: elf3_epi/elf3_fig1_121615.pdf Graphic file (type QTm)
- <use  "elf3_epi/elf3_fig1_121615.pdf" > [79] [80]
-
-LaTeX Warning: Reference `tab:app5tab3' on page 81 undefined on input line 690.
-
-
-[81]
+ <use  "elf3_epi/elf3_fig1_121615.pdf" > [79] [80] [81]
 File: elf3_epi/elf3_fig2_qtl_121615.pdf Graphic file (type QTm)
- <use  "elf3_epi/elf3_fig2_qtl_121615.pdf" >
+
+<use  "elf3_epi/elf3_fig2_qtl_121615.pdf" >
 Underfull \vbox (badness 2073) has occurred while \output is active []
 
  [82]
-
-LaTeX Warning: Reference `tab:app5tab4' on page 83 undefined on input line 706.
-
-
 File: elf3_epi/lsh9_elf3_fig3_030316.pdf Graphic file (type QTm)
+
 <use  "elf3_epi/lsh9_elf3_fig3_030316.pdf" >
 
-LaTeX Warning: Float too large for page by 26.7082pt on input line 717.
+LaTeX Warning: Float too large for page by 26.7082pt on input line 716.
 
 [83] [84]
-File: elf3_epi/figure_y2helf4phyb_fig4_030316-01.pdf Graphic file (type QTm)
- <use  "elf3_epi/figure_y2helf4phyb_fig4_030316-01.pdf" > [85]
+File: elf3_epi/figure_y2helf4phyb_fig4_030316-01.png Graphic file (type QTm)
+ <use  "elf3_epi/figure_y2helf4phyb_fig4_030316-01.png" > [85]
 [86]
-Overfull \hbox (5.20903pt too wide) in paragraph at lines 732--733
+Overfull \hbox (5.20903pt too wide) in paragraph at lines 731--732
 []\EU1/HoeflerText(0)/m/n/12 Collectively, these data suggest that the ELF3-pol
 yQ’s effect on ELF3 protein-protein
  []
 
 File: elf3_epi/elf3_fig5_y2hscreen-01.pdf Graphic file (type QTm)
-<use  "elf3_epi/elf3_fig5_y2hscreen-01.pdf" > [87] [88] [89] [90] [91] [92]
-Underfull \vbox (badness 2269) has occurred while \output is active []
+<use  "elf3_epi/elf3_fig5_y2hscreen-01.pdf" > [87] [88]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [93]
-[94]
+ [89]
+[90]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [91]
+[92] [93] [94]
 <<6>>
 LaTeX Font Info:    Font shape `EU1/AndaleMono(0)/m/n' will be
-(Font)              scaled to size 8.36426pt on input line 785.
+(Font)              scaled to size 8.36426pt on input line 784.
 [95
 
 ] [96]
@@ -1371,13 +1374,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [97]
 [98]
-Overfull \hbox (8.90028pt too wide) in paragraph at lines 812--813
+Overfull \hbox (8.90028pt too wide) in paragraph at lines 811--812
 \EU1/HoeflerText(0)/m/n/12 Many recent studies noted the involvement of ELF3 in
  temperature-dependent hypocotyl
  []
 
 
-Overfull \hbox (5.52003pt too wide) in paragraph at lines 812--813
+Overfull \hbox (5.52003pt too wide) in paragraph at lines 811--812
 \EU1/HoeflerText(0)/m/n/12 We previously showed that ELF3 polyQ variation has p
 leiotropic background-dependent
  []
@@ -1391,7 +1394,7 @@ File: elf3temp_pgen_sub/Fig1.png Graphic file (type QTm)
 <use  "elf3temp_pgen_sub/Fig1.png" >
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 822.
+(caption)                particular \caption on input line 821.
 See the caption package documentation for explanation.
 
 
@@ -1402,7 +1405,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: elf3temp_pgen_sub/Fig2.png Graphic file (type QTm)
  <use  "elf3temp_pgen_sub/Fig2.png" >
 
-LaTeX Warning: Float too large for page by 3.245pt on input line 838.
+LaTeX Warning: Float too large for page by 3.245pt on input line 837.
 
 [103] [104] [105]
 File: elf3temp_pgen_sub/Fig3.png Graphic file (type QTm)
@@ -1411,10 +1414,10 @@ File: elf3temp_pgen_sub/Fig4.png Graphic file (type QTm)
 
 <use  "elf3temp_pgen_sub/Fig4.png" >
 
-LaTeX Warning: Float too large for page by 0.5616pt on input line 862.
+LaTeX Warning: Float too large for page by 0.5616pt on input line 861.
 
 
-Overfull \hbox (6.2413pt too wide) in paragraph at lines 866--867
+Overfull \hbox (6.2413pt too wide) in paragraph at lines 865--866
 []\EU1/HoeflerText(0)/m/n/12 Overall, the strong photoperiod-dependence of PIF4
 -related thermoresponsive flow-
  []
@@ -1424,7 +1427,7 @@ File: elf3temp_pgen_sub/Fig5.png Graphic file (type QTm)
  <use  "elf3temp_pgen_sub/Fig5.png" >
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 878.
+(caption)                particular \caption on input line 877.
 See the caption package documentation for explanation.
 
 
@@ -1446,14 +1449,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [118
 
 ] [119] [120] [121] [122] [123]
-Overfull \hbox (1.56903pt too wide) in paragraph at lines 950--951
+Overfull \hbox (1.56903pt too wide) in paragraph at lines 949--950
 \EU1/HoeflerText(0)/m/n/12 We selected 10 genes at random from the \EU1/Hoefler
 Text(0)/m/it/12 hsp90A\EU1/HoeflerText(0)/m/n/12 -associated set and used the B
 ayesTraits
  []
 
 
-Overfull \hbox (5.18161pt too wide) in paragraph at lines 952--953
+Overfull \hbox (5.18161pt too wide) in paragraph at lines 951--952
 \EU1/HoeflerText(0)/m/n/12 To provide an accurate description of the co-evoluti
 onary dynamics of \EU1/HoeflerText(0)/m/it/12 hsp90A\EU1/HoeflerText(0)/m/n/12 
 -associated
@@ -1467,7 +1470,7 @@ Underfull \vbox (badness 1762) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [127]
-Overfull \hbox (5.83272pt too wide) in paragraph at lines 992--993
+Overfull \hbox (5.83272pt too wide) in paragraph at lines 991--992
 \EU1/HoeflerText(0)/m/n/12 FRET measurements by acceptor photobleaching were pe
 rformed on a custom-modified
  []
@@ -1475,7 +1478,7 @@ rformed on a custom-modified
 [128] [129]
 File: htpg/fig_1_020513.png Graphic file (type QTm)
  <use  "htpg/fig_1_020513.png" >
-Overfull \hbox (22.68135pt too wide) in paragraph at lines 1014--1038
+Overfull \hbox (22.68135pt too wide) in paragraph at lines 1013--1037
  [] 
  []
 
@@ -1487,7 +1490,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: htpg/fig_2_020813.png Graphic file (type QTm)
  <use  "htpg/fig_2_020813.png" >
 
-LaTeX Warning: Float too large for page by 3.25772pt on input line 1049.
+LaTeX Warning: Float too large for page by 3.25772pt on input line 1048.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1496,7 +1499,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [134] [135]
 File: htpg/fig_3_022713.png Graphic file (type QTm)
  <use  "htpg/fig_3_022713.png" >
-Underfull \hbox (badness 1028) in paragraph at lines 1093--1093
+Underfull \hbox (badness 1028) in paragraph at lines 1092--1092
 []\EU1/HoeflerText(0)/m/n/12 Figure 7.3: |The distribution of the Putative Clie
 nt Index, PCI, among \EU1/HoeflerText(0)/m/it/12 hsp90A\EU1/HoeflerText(0)/m/n/
 12 -
@@ -1508,7 +1511,7 @@ File: htpg/fig_4_022713.png Graphic file (type QTm)
 File: htpg/fig_5_032713.png Graphic file (type QTm)
 
 <use  "htpg/fig_5_032713.png" >
-Overfull \hbox (2.06828pt too wide) in paragraph at lines 1123--1125
+Overfull \hbox (2.06828pt too wide) in paragraph at lines 1122--1124
 \EU1/HoeflerText(0)/m/n/12 We observed a strong interaction of HtpG(E34A) with 
 the chemoreceptor kinase CheA.
  []
@@ -1516,28 +1519,20 @@ the chemoreceptor kinase CheA.
 [142] [143]
 File: htpg/fig_6_022713.png Graphic file (type QTm)
  <use  "htpg/fig_6_022713.png" >
-Overfull \hbox (12.18428pt too wide) in paragraph at lines 1134--1135
+Overfull \hbox (12.18428pt too wide) in paragraph at lines 1133--1134
 []\EU1/HoeflerText(0)/m/n/12 We also tested whether the co-evolutionary depende
 ncy between \EU1/HoeflerText(0)/m/it/12 hsp90A \EU1/HoeflerText(0)/m/n/12 and m
 ultiple-
  []
 
 
-Overfull \hbox (6.41277pt too wide) in paragraph at lines 1134--1135
+Overfull \hbox (6.41277pt too wide) in paragraph at lines 1133--1134
 \EU1/HoeflerText(0)/m/n/12 habitat preferences was unidirectional, as we observ
 ed for some \EU1/HoeflerText(0)/m/it/12 hsp90A\EU1/HoeflerText(0)/m/n/12 -assoc
 iated genes.
  []
 
-[144]
-
-LaTeX Warning: Citation `Southworth' on page 145 undefined on input line 1138.
-
-
-LaTeX Warning: Citation `Dartigalonge1998' on page 145 undefined on input line 
-1139.
-
-[145]
+[144] [145]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [146]
@@ -1547,6 +1542,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [148] [149]
 <<8>>
 
+Underfull \hbox (badness 10000) in paragraph at lines 1157--1157
+[][]$[][][][] [] [] [] [][][][][][][] [] [][][] [] [][][][][][][] [] [][][][][]
+ [] [][][][] [] [][] [] [][] [] [][][][][][][][][]$[] \EU1/HoeflerText(0)/m/n/1
+0 or []$[][][][] [] [] [] [][][][][][] [] [][][][][] [] [][][] []
+ []
+
+
 Overfull \hbox (0.28954pt too wide) in paragraph at lines 1159--1160
 \EU1/HoeflerText(0)/m/n/12 Evolutionary innovation must occur in the context of
  some genomic background, which
@@ -1554,7 +1556,13 @@ Overfull \hbox (0.28954pt too wide) in paragraph at lines 1159--1160
 
 [150
 
-] [151]
+]
+Overfull \hbox (0.55984pt too wide) in paragraph at lines 1162--1165
+\EU1/HoeflerText(0)/m/n/12 tion. That is, a given adaptation is more likely to 
+repeat in closely related organisms than
+ []
+
+[151]
 Underfull \vbox (badness 2884) has occurred while \output is active []
 
  [152]
@@ -1615,12 +1623,8 @@ ervices for high-performance
 [175
 
 ]
-
-LaTeX Warning: Reference `fig:chap9fig1B' on page 176 undefined on input line 1
-341.
-
-File: elf3_epi/musim_041716_both.pdf Graphic file (type QTm)
-<use  "elf3_epi/musim_041716_both.pdf" > [176] [177]
+File: elf3_epi/musim_041716_both-01.png Graphic file (type QTm)
+ <use  "elf3_epi/musim_041716_both-01.png" > [176] [177]
 File: elf3_epi/elf3_hsp90_interxn_011816-01.pdf Graphic file (type QTm)
 
 <use  "elf3_epi/elf3_hsp90_interxn_011816-01.pdf" >
@@ -1631,16 +1635,12 @@ nalysis of the \EU1/HoeflerText(0)/m/it/12 ELF3 \EU1/HoeflerText(0)/m/n/12 STR,
  []
 
 [178] [179] [180] [181]
-File: HGT_REVISION_2016/failhgt.pdf Graphic file (type QTm)
- <use  "HGT_REVISION_2016/failhgt.pdf" >
+File: HGT_REVISION_2016/failhgt-01.png Graphic file (type QTm)
+ <use  "HGT_REVISION_2016/failhgt-01.png" >
 Underfull \vbox (badness 2205) has occurred while \output is active []
 
  [182]
-[183] [184]
-
-LaTeX Warning: Citation `' on page 185 undefined on input line 1394.
-
-[185] [186] (./main.bbl [187] [188
+[183] [184] [185] [186] (./main.bbl [187] [188
 
 ]
 Underfull \hbox (badness 2698) in paragraph at lines 121--125
@@ -1667,149 +1667,155 @@ U1/HoeflerText(0)/m/it/12 The Plant Journal\EU1/HoeflerText(0)/m/n/12 ,
  []
 
 [193] [194] [195] [196]
-Underfull \hbox (badness 10000) in paragraph at lines 574--578
+Underfull \hbox (badness 2653) in paragraph at lines 570--588
+[]\EU1/HoeflerText(0)/m/n/12 Exome Aggregation Consortium, Monkol Lek, Konrad K
+arczewski, Eric
+ []
+
+[197]
+Underfull \hbox (badness 10000) in paragraph at lines 607--611
 []\EU1/HoeflerText(0)/m/n/12 Joseph Felsenstein.  \EU1/HoeflerText(0)/m/it/12 T
 heoretical Evolutionary Genetics\EU1/HoeflerText(0)/m/n/12 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 574--578
+Underfull \hbox (badness 10000) in paragraph at lines 607--611
 \EU1/HoeflerText(0)/m/n/12 http://evolution.gs.washington.edu/pgbook/pgbook.pdf
 , Seattle, WA, USA,
  []
 
 
-Underfull \hbox (badness 1577) in paragraph at lines 591--596
+Underfull \hbox (badness 1577) in paragraph at lines 624--629
 []\EU1/HoeflerText(0)/m/n/12 R. A. Fisher.  XV.—The Correlation between Relat
 ives on the Supposi-
  []
 
-[197] [198]
-Underfull \hbox (badness 10000) in paragraph at lines 737--741
+[198] [199]
+Underfull \hbox (badness 10000) in paragraph at lines 770--774
 \EU1/HoeflerText(0)/m/n/12 PLATYPOECILUS; THE INHERITANCE OF TWO KINDS OF
  []
 
-[199]
-Underfull \hbox (badness 1735) in paragraph at lines 782--785
+[200]
+Underfull \hbox (badness 1735) in paragraph at lines 815--818
 \EU1/HoeflerText(0)/m/n/12 A short tandem repeat profiler for personal genomes.
   \EU1/HoeflerText(0)/m/it/12 Genome research\EU1/HoeflerText(0)/m/n/12 ,
  []
 
-[200]
-Underfull \hbox (badness 1755) in paragraph at lines 816--820
+
+Underfull \hbox (badness 1755) in paragraph at lines 849--853
 \EU1/HoeflerText(0)/m/n/12 susceptibility and candidates for ’missing heritab
 ility’.  \EU1/HoeflerText(0)/m/it/12 Trends in genetics\EU1/HoeflerText(0)/m/
 n/12 ,
  []
 
-[201]
-Underfull \hbox (badness 1184) in paragraph at lines 925--931
+[201] [202]
+Underfull \hbox (badness 1184) in paragraph at lines 958--964
 []\EU1/HoeflerText(0)/m/n/12 Sabrina Iñigo, Mariano J Alvarez, Bárbara Strass
 er, Andrea Califano, and
  []
 
-[202]
-Underfull \hbox (badness 2302) in paragraph at lines 933--937
+
+Underfull \hbox (badness 2302) in paragraph at lines 966--970
 []\EU1/HoeflerText(0)/m/n/12 Sabrina Iñigo, Adrián N Giraldez, Joanne Chory, 
 and Pablo D Cerdán.
  []
 
-
-Underfull \hbox (badness 2837) in paragraph at lines 960--964
+[203]
+Underfull \hbox (badness 2837) in paragraph at lines 993--997
 \EU1/HoeflerText(0)/m/n/12 by horizontal gene transfers across prokaryotic line
 ages.  \EU1/HoeflerText(0)/m/it/12 PLoS genetics\EU1/HoeflerText(0)/m/n/12 ,
  []
 
-[203] [204]
-Underfull \hbox (badness 3343) in paragraph at lines 1063--1066
+[204]
+Underfull \hbox (badness 3343) in paragraph at lines 1096--1099
 []\EU1/HoeflerText(0)/m/n/12 Mansour Karimi, Dirk Inzé, and Ann Depicker.  GAT
 EWAY vectors
  []
 
-[205]
-Underfull \hbox (badness 2980) in paragraph at lines 1156--1160
+[205] [206]
+Underfull \hbox (badness 2980) in paragraph at lines 1189--1193
 []\EU1/HoeflerText(0)/m/n/12 Igor Kovalchuk, Olga Kovalchuk, Véronique Kalck, 
 Vitaly Boyko, Jody
  []
 
-[206]
-Underfull \hbox (badness 4096) in paragraph at lines 1215--1218
+[207]
+Underfull \hbox (badness 4096) in paragraph at lines 1248--1251
 []\EU1/HoeflerText(0)/m/n/12 Jennifer Lachowiec, Tzitziki Lemus, Elhanan Borens
 tein, and Christine
  []
 
-[207]
-Underfull \hbox (badness 2165) in paragraph at lines 1263--1266
+
+Underfull \hbox (badness 2165) in paragraph at lines 1296--1299
 []\EU1/HoeflerText(0)/m/n/12 Janne Lempe, Jennifer Lachowiec, Alessandra M Sull
 ivan, and Christine
  []
 
-[208] [209] [210] [211] [212] [213]
-Underfull \hbox (badness 1314) in paragraph at lines 1650--1655
+[208] [209] [210] [211] [212] [213] [214]
+Underfull \hbox (badness 1314) in paragraph at lines 1695--1700
 []\EU1/HoeflerText(0)/m/n/12 Kazunari Nozue, Michael F Covington, Paula D Duek,
  Séverine Lorrain,
  []
 
 
-Underfull \hbox (badness 1158) in paragraph at lines 1650--1655
+Underfull \hbox (badness 1158) in paragraph at lines 1695--1700
 \EU1/HoeflerText(0)/m/n/12 Christian Fankhauser, Stacey L Harmer, and Julin N M
 aloof.  Rhythmic
  []
 
-[214] [215] [216]
-Underfull \hbox (badness 2698) in paragraph at lines 1831--1839
+[215] [216] [217]
+Underfull \hbox (badness 2698) in paragraph at lines 1876--1884
 \EU1/HoeflerText(0)/m/n/12 Collombat, Maria Brigida Lioi, Jozef Gecz, Matilde V
 aleria Ursini, and
  []
 
 
-Underfull \hbox (badness 1924) in paragraph at lines 1863--1868
+Underfull \hbox (badness 1924) in paragraph at lines 1908--1913
 []\EU1/HoeflerText(0)/m/n/12 Maximilian O Press, Hui Li, Nicole Creanza, Günte
 r Kramer, Christine
  []
 
 
-Underfull \hbox (badness 4084) in paragraph at lines 1863--1868
+Underfull \hbox (badness 4084) in paragraph at lines 1908--1913
 \EU1/HoeflerText(0)/m/n/12 Queitsch, Victor Sourjik, and Elhanan Borenstein.  G
 enome-scale co-
  []
 
-[217]
-Underfull \hbox (badness 10000) in paragraph at lines 1909--1911
+[218]
+Underfull \hbox (badness 10000) in paragraph at lines 1954--1956
 []\EU1/HoeflerText(0)/m/n/12 A Rambaut and AJ Drummond.  Tracer v1.5, Available
  from
  []
 
-[218] [219] [220]
-Underfull \hbox (badness 3635) in paragraph at lines 2111--2118
+[219] [220] [221]
+Underfull \hbox (badness 3635) in paragraph at lines 2156--2163
 \EU1/HoeflerText(0)/m/n/12 Masami Muramatsu, Yoshihide Hayashizaki, Jun Kawai, 
 Piero Carninci,
  []
 
-[221] [222]
-Underfull \hbox (badness 3460) in paragraph at lines 2202--2207
+[222] [223]
+Underfull \hbox (badness 3460) in paragraph at lines 2253--2258
 []\EU1/HoeflerText(0)/m/n/12 Valeria Specchia, Lucia Piacentini, Patrizia Tritt
 o, Laura Fanti, Rosalba
  []
 
-[223]
-Overfull \hbox (1.0838pt too wide) in paragraph at lines 2261--2265
+[224]
+Overfull \hbox (1.0838pt too wide) in paragraph at lines 2312--2316
 \EU1/HoeflerText(0)/m/n/12 INTRODUCTION. HYBRIDS WITH DROSOPHILA MELANOGASTER.
  []
 
-[224] [225]
-Overfull \hbox (0.52277pt too wide) in paragraph at lines 2412--2417
+[225] [226]
+Overfull \hbox (0.52277pt too wide) in paragraph at lines 2463--2468
 \EU1/HoeflerText(0)/m/n/12 Kevin J Verstrepen.  Unstable tandem repeats in prom
 oters confer transcriptional
  []
 
-[226] [227]
-Underfull \hbox (badness 3758) in paragraph at lines 2553--2562
+[227] [228]
+Underfull \hbox (badness 3758) in paragraph at lines 2604--2613
 []\EU1/HoeflerText(0)/m/n/12 Jian Yang, Andrew Bakshi, Zhihong Zhu, Gibran Hema
 ni, Anna A E
  []
 
-[228] [229] [230]) [231]
+[229] [230] [231]) [232]
 <<A>>
 File: undurraga2012_figures/SupplText/SuppFig1.png Graphic file (type QTm)
 <use  "undurraga2012_figures/SupplText/SuppFig1.png" >
@@ -1819,16 +1825,16 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `tab:app1tab2,tab:app1tab3,tab:app1tab4' on page 232 u
+LaTeX Warning: Reference `tab:app1tab2,tab:app1tab3,tab:app1tab4' on page 233 u
 ndefined on input line 1430.
 
 
-LaTeX Warning: Reference `tab:app1tab2,tab:app1tab3,tab:app1tab4' on page 232 u
+LaTeX Warning: Reference `tab:app1tab2,tab:app1tab3,tab:app1tab4' on page 233 u
 ndefined on input line 1430.
 
-[232
+[233
 
-] [233]
+] [234]
 File: undurraga2012_figures/SupplText/SuppFig2.png Graphic file (type QTm)
  <use  "undurraga2012_figures/SupplText/SuppFig2.png" >
 
@@ -1839,7 +1845,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 1440.
 See the caption package documentation for explanation.
 
-[234] [235]
+[235] [236]
 File: undurraga2012_figures/SupplText/S3.png Graphic file (type QTm)
  <use  "undurraga2012_figures/SupplText/S3.png" >
 
@@ -1847,7 +1853,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 1451.
 See the caption package documentation for explanation.
 
-[236] [237]
+[237] [238]
 File: undurraga2012_figures/SupplText/S4.png Graphic file (type QTm)
  <use  "undurraga2012_figures/SupplText/S4.png" >
 
@@ -1871,7 +1877,7 @@ Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
 Missing character: There is no � in font Hoefler Text/AAT:mapping=tex-text;ma
 pping=tex-text;!
-[238] [239] [240]
+[239] [240] [241]
 File: undurraga2012_figures/SupplText/S6.png Graphic file (type QTm)
  <use  "undurraga2012_figures/SupplText/S6.png" >
 File: f2_batches_badvsgood_111915.pdf Graphic file (type QTm)
@@ -1886,7 +1892,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1478--1479
 
  []
 
-[241] [242] [243]
+[242] [243] [244]
 
 Package caption Warning: The caption type was already set to `figure'
 (caption)                 on input line 1499.
@@ -1897,9 +1903,9 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 1499.
 See the caption package documentation for explanation.
 
-[244
+[245
 
-] [245] [246] [247
+] [246] [247] [248
 
 ]
 Overfull \hbox (46.43199pt too wide) in paragraph at lines 1806--1825
@@ -1911,7 +1917,7 @@ Overfull \hbox (18.68079pt too wide) in paragraph at lines 1827--1850
 [][] 
  []
 
-[248] [249] [250] [251] [252] [253]
+[249] [250] [251] [252] [253] [254]
 <<B>>
 File: pft1_resubmit_2014/pft1_figs1-01.png Graphic file (type QTm)
 <use  "pft1_resubmit_2014/pft1_figs1-01.png" >
@@ -1919,30 +1925,30 @@ Overfull \hbox (15.50996pt too wide) in paragraph at lines 1882--1905
 [][] 
  []
 
-[254
+[255
 
 
-] [255] [256] [257] [258]
+] [256] [257] [258] [259]
 <<C>>
-[259
+[260
 
 ]
 Overfull \vbox (19.39377pt too high) has occurred while \output is active []
 
 
-[260] [261] [262] [263] [264] [265] [266] [267]
+[261] [262] [263] [264] [265] [266] [267] [268]
 <<D>>
 
-LaTeX Warning: Reference `tab:app4tab3' on page 268 undefined on input line 214
+LaTeX Warning: Reference `tab:app4tab3' on page 269 undefined on input line 214
 4.
 
 
-LaTeX Warning: Reference `chap5fig2' on page 268 undefined on input line 2155.
+LaTeX Warning: Reference `chap5fig2' on page 269 undefined on input line 2155.
 
 
-LaTeX Warning: Reference `chap5fig2' on page 268 undefined on input line 2155.
+LaTeX Warning: Reference `chap5fig2' on page 269 undefined on input line 2155.
 
-[268
+[269
 
 ]
 Underfull \hbox (badness 1796) in paragraph at lines 2158--2160
@@ -1950,169 +1956,170 @@ Underfull \hbox (badness 1796) in paragraph at lines 2158--2160
  pGBKT7-ELF3-
  []
 
-[269]
+[270]
 File: elf3_epi/colwsf2_intercross_schematic_022416-01.pdf Graphic file (type QT
 m)
- <use  "elf3_epi/colwsf2_intercross_schematic_022416-01.pdf" > [270]
+ <use  "elf3_epi/colwsf2_intercross_schematic_022416-01.pdf" > [271]
 File: elf3_epi/ws_strains_venndiag_010714-01.pdf Graphic file (type QTm)
 
-<use  "elf3_epi/ws_strains_venndiag_010714-01.pdf" > [271]
+<use  "elf3_epi/ws_strains_venndiag_010714-01.pdf" > [272]
 File: elf3_epi/elf3_figs3_genoimage.pdf Graphic file (type QTm)
 
-<use  "elf3_epi/elf3_figs3_genoimage.pdf" > [272]
+<use  "elf3_epi/elf3_figs3_genoimage.pdf" > [273]
 File: elf3_epi/stwo_qtl_022815.pdf Graphic file (type QTm)
 
-<use  "elf3_epi/stwo_qtl_022815.pdf" > [273]
-File: elf3_epi/elf3_interactionplots_031715.pdf Graphic file (type QTm)
+<use  "elf3_epi/stwo_qtl_022815.pdf" > [274]
+File: elf3_epi/elf3_interactionplots_031715-01.png Graphic file (type QTm)
 
-<use  "elf3_epi/elf3_interactionplots_031715.pdf" > [274]
+<use  "elf3_epi/elf3_interactionplots_031715-01.png" > [275]
 File: elf3_epi/elf3_figs6_candidates-01.pdf Graphic file (type QTm)
 
-<use  "elf3_epi/elf3_figs6_candidates-01.pdf" > [275]
+<use  "elf3_epi/elf3_figs6_candidates-01.pdf" > [276]
 File: elf3_epi/elf3_figsA_121515-01.pdf Graphic file (type QTm)
 
-<use  "elf3_epi/elf3_figsA_121515-01.pdf" > [276]
+<use  "elf3_epi/elf3_figsA_121515-01.pdf" > [277]
 File: elf3_epi/elf3_figself3expr_lsh9_022516-01.pdf Graphic file (type QTm)
 
-<use  "elf3_epi/elf3_figself3expr_lsh9_022516-01.pdf" > [277]
+<use  "elf3_epi/elf3_figself3expr_lsh9_022516-01.pdf" > [278]
 File: elf3_epi/elf3_supp_emptyy2h_121015-01.pdf Graphic file (type QTm)
 
-<use  "elf3_epi/elf3_supp_emptyy2h_121015-01.pdf" > [278]
+<use  "elf3_epi/elf3_supp_emptyy2h_121015-01.pdf" > [279]
 File: elf3_epi/elf3_figsZZZ_pif4fail_121415-01.pdf Graphic file (type QTm)
 
-<use  "elf3_epi/elf3_figsZZZ_pif4fail_121415-01.pdf" > [279]
+<use  "elf3_epi/elf3_figsZZZ_pif4fail_121415-01.pdf" > [280]
 File: elf3_epi/lacz_assay_results_22hr_012216.pdf Graphic file (type QTm)
 
-<use  "elf3_epi/lacz_assay_results_22hr_012216.pdf" > [280] [281]
+<use  "elf3_epi/lacz_assay_results_22hr_012216.pdf" > [281] [282] [283]
+[284] [285] [286] [287] [288]
 <<E>>
 File: elf3temp_pgen_sub/FigS1.png Graphic file (type QTm)
 <use  "elf3temp_pgen_sub/FigS1.png" >
 File: elf3temp_pgen_sub/FigS2.png Graphic file (type QTm)
  <use  "elf3temp_pgen_sub/FigS2.png" >
-[282
+[289
 
-] [283] [284] [285] [286] [287] [288] [289] [290] [291] [292] [293]
-[294] [295]
-Overfull \hbox (2.30922pt too wide) in paragraph at lines 2601--2627
+] [290] [291] [292] [293] [294] [295] [296] [297] [298] [299] [300]
+[301] [302]
+Overfull \hbox (2.30922pt too wide) in paragraph at lines 2823--2849
 [][] 
  []
 
-[296] [297] [298]
+[303] [304] [305]
 <<F>>
-[299
+[306
 
-] [300] [301]
+] [307] [308]
 
-LaTeX Warning: Reference `chap7tab1' on page 302 undefined on input line 2668.
+LaTeX Warning: Reference `chap7tab1' on page 309 undefined on input line 2890.
 
-[302]
+[309]
 File: htpg/fig_s1_020713.png Graphic file (type QTm)
- <use  "htpg/fig_s1_020713.png" > [303] [304]
+ <use  "htpg/fig_s1_020713.png" > [310] [311]
 Overfull \vbox (8.80249pt too high) has occurred while \output is active []
 
 
-[305]
+[312]
 File: htpg/fig_s2.png Graphic file (type QTm)
  <use  "htpg/fig_s2.png" >
 File: htpg/fig_s3.png Graphic file (type QTm)
- <use  "htpg/fig_s3.png" > [306]
+ <use  "htpg/fig_s3.png" > [313]
 File: htpg/fig_s4.png Graphic file (type QTm)
 
-<use  "htpg/fig_s4.png" > [307]
+<use  "htpg/fig_s4.png" > [314]
 File: htpg/fig_s5.png Graphic file (type QTm)
- <use  "htpg/fig_s5.png" > [308]
+ <use  "htpg/fig_s5.png" > [315]
 File: htpg/fig_s6.png Graphic file (type QTm)
 
 <use  "htpg/fig_s6.png" >
-Underfull \hbox (badness 4479) in paragraph at lines 2708--2708
+Underfull \hbox (badness 4479) in paragraph at lines 2930--2930
 []\EU1/HoeflerText(0)/m/n/12 Figure F.6: |HtpG interactions with FliN and CheA 
 are dependent on the
  []
 
-[309]
+[316]
 Overfull \vbox (10.26498pt too high) has occurred while \output is active []
 
 
-[310]
-Overfull \hbox (18.23064pt too wide) in paragraph at lines 2717--2737
+[317]
+Overfull \hbox (18.23064pt too wide) in paragraph at lines 2939--2959
 [][] 
  []
 
-[311] [312]
-Overfull \hbox (19.01103pt too wide) in paragraph at lines 2807--2825
+[318] [319]
+Overfull \hbox (19.01103pt too wide) in paragraph at lines 3029--3047
 [][] 
  []
 
-[313] [314]
+[320] [321]
 <<G>>
-[315
+[322
 
-] [316] [317] [318] [319] [320] [321] [322] [323] [324]
-File: HGT_REVISION_2016/figures/gainvsloss_022016_figs1.png Graphic file (type 
-QTm)
+] [323] [324] [325] [326] [327] [328] [329] [330] [331]
+File: HGT_REVISION_2016/figures/gainvsloss_022016.png Graphic file (type QTm)
 
-<use  "HGT_REVISION_2016/figures/gainvsloss_022016_figs1.png" >
-File: HGT_REVISION_2016/figures/hgt_figs2_022016.pdf Graphic file (type QTm)
+<use  "HGT_REVISION_2016/figures/gainvsloss_022016.png" >
+File: HGT_REVISION_2016/figures/hgt_figs2_022016-01.png Graphic file (type QTm)
 
-<use  "HGT_REVISION_2016/figures/hgt_figs2_022016.pdf" > [325]
+
+<use  "HGT_REVISION_2016/figures/hgt_figs2_022016-01.png" > [332]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 2945.
+(caption)                particular \caption on input line 3167.
 See the caption package documentation for explanation.
 
-[326] [327]
+[333] [334]
 File: HGT_REVISION_2016/figures/figure_s3_092215-01.pdf Graphic file (type QTm)
 
  <use  "HGT_REVISION_2016/figures/figure_s3_092215-01.pdf" >
-[328]
+[335]
 File: HGT_REVISION_2016/figures/figs4_092215-01.pdf Graphic file (type QTm)
- <use  "HGT_REVISION_2016/figures/figs4_092215-01.pdf" > [329]
-File: HGT_REVISION_2016/figures/figs5_040116.pdf Graphic file (type QTm)
+ <use  "HGT_REVISION_2016/figures/figs4_092215-01.pdf" > [336]
+File: HGT_REVISION_2016/figures/figs5_092215-01.png Graphic file (type QTm)
 
-<use  "HGT_REVISION_2016/figures/figs5_040116.pdf" > [330]
+<use  "HGT_REVISION_2016/figures/figs5_092215-01.png" > [337]
 File: HGT_REVISION_2016/figures/figs6_092315.pdf Graphic file (type QTm)
 
-<use  "HGT_REVISION_2016/figures/figs6_092315.pdf" > [331]
+<use  "HGT_REVISION_2016/figures/figs6_092315.pdf" > [338]
 File: HGT_REVISION_2016/figures/figs7_020916.pdf Graphic file (type QTm)
 
 <use  "HGT_REVISION_2016/figures/figs7_020916.pdf" >
 Overfull \vbox (10.54935pt too high) has occurred while \output is active []
 
 
-[332]
+[339]
 File: HGT_REVISION_2016/figures/figs8_092215.pdf Graphic file (type QTm)
  <use  "HGT_REVISION_2016/figures/figs8_092215.pdf" >
 File: HGT_REVISION_2016/figures/figs9_013016.pdf Graphic file (type QTm)
 
-<use  "HGT_REVISION_2016/figures/figs9_013016.pdf" > [333]
+<use  "HGT_REVISION_2016/figures/figs9_013016.pdf" > [340]
 Overfull \vbox (5.68918pt too high) has occurred while \output is active []
 
 
-[334]
-Underfull \hbox (badness 10000) in paragraph at lines 3011--3040
+[341]
+Underfull \hbox (badness 10000) in paragraph at lines 3233--3262
 [][]
  []
 
-[335]
+[342]
 
 Package caption Warning: The caption type was already set to `figure'
-(caption)                 on input line 3059.
+(caption)                 on input line 3281.
 See the caption package documentation for explanation.
 
-[336] [337] [338] [339] [340]
-Overfull \hbox (13.91214pt too wide) in paragraph at lines 3223--3234
+[343] [344] [345] [346] [347]
+Overfull \hbox (13.91214pt too wide) in paragraph at lines 3445--3456
 [][] 
  []
 
-[341] [342] [343]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3285.
- [344
+[348] [349] [350]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3507.
+ [351
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 3285.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 3507.
  (./main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 3285.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 3285.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 3507.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 3507.
 
 
 LaTeX Warning: There were undefined references.
@@ -2120,15 +2127,15 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 3285.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 3507.
  ) 
 Here is how much of TeX's memory you used:
- 18643 strings out of 494150
- 306649 string characters out of 3152950
- 481654 words of memory out of 3000000
- 21555 multiletter control sequences out of 15000+200000
+ 18645 strings out of 494150
+ 306708 string characters out of 3152950
+ 505439 words of memory out of 3000000
+ 21557 multiletter control sequences out of 15000+200000
  8916 words of font info for 66 fonts, out of 3000000 for 9000
  1018 hyphenation exceptions out of 8191
  53i,15n,92p,3216b,499s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on main.pdf (364 pages).
+Output written on main.pdf (371 pages).

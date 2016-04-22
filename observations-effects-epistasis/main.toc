@@ -36,18 +36,18 @@
 \contentsline {section}{\numberline {3.3}Methods}{42}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}Cloning}{42}{subsection.3.3.1}
 \contentsline {subsection}{\numberline {3.3.2}Expression analysis}{43}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Plant Materials and Growth Conditions}{43}{subsection.3.3.3}
-\contentsline {subsection}{\numberline {3.3.4}Statistical analysis}{44}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.3}Plant Materials and Growth Conditions}{44}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Statistical analysis}{45}{subsection.3.3.4}
 \contentsline {subsection}{\numberline {3.3.5}Sequence Analysis}{45}{subsection.3.3.5}
 \contentsline {section}{\numberline {3.4}Results}{45}{section.3.4}
 \contentsline {subsection}{\numberline {3.4.1}Natural variation of \emph {PFT1} STR}{45}{subsection.3.4.1}
 \contentsline {subsection}{\numberline {3.4.2}The \emph {PFT1} STR length is essential for wild-type flowering and shade avoidance}{46}{subsection.3.4.2}
 \contentsline {subsection}{\numberline {3.4.3}\emph {PFT1} STR alleles fail to rescue early seedling phenotypes}{48}{subsection.3.4.3}
 \contentsline {subsection}{\numberline {3.4.4}Summarizing \emph {PFT1} STR function across all tested phenotypes}{50}{subsection.3.4.4}
-\contentsline {section}{\numberline {3.5}Discussion}{50}{section.3.5}
-\contentsline {subsection}{\numberline {3.5.1}The \emph {PFT1} STR is required for PFT1 function in adult traits}{53}{subsection.3.5.1}
+\contentsline {section}{\numberline {3.5}Discussion}{52}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}The \emph {PFT1} STR is required for PFT1 function in adult traits}{52}{subsection.3.5.1}
 \contentsline {subsection}{\numberline {3.5.2}pft1-2 mutants are late-flowering in LD but not SD}{54}{subsection.3.5.2}
-\contentsline {subsection}{\numberline {3.5.3}Incomplete complementation of germination and hypocotyl length by the PFT1 constructs}{54}{subsection.3.5.3}
+\contentsline {subsection}{\numberline {3.5.3}Incomplete complementation of germination and hypocotyl length by the PFT1 constructs}{55}{subsection.3.5.3}
 \contentsline {subsection}{\numberline {3.5.4}Implications for STR and PFT1 biology}{55}{subsection.3.5.4}
 \contentsline {chapter}{\numberline {\@textofChapter \ 4:}Short tandem repeats and quantitative genetics}{57}{chapter.4}
 \contentsline {section}{\numberline {4.1}Abstract}{57}{section.4.1}
@@ -76,10 +76,10 @@
 \contentsline {subsection}{\numberline {5.4.3}ELF3-polyQ variation's effect on known protein interactions}{85}{subsection.5.4.3}
 \contentsline {subsection}{\numberline {5.4.4}Y2H screen for new interactors}{87}{subsection.5.4.4}
 \contentsline {subsection}{\numberline {5.4.5}Subtle variation in ELF3 affinity for other proteins mediated by polyQ variation}{89}{subsection.5.4.5}
-\contentsline {section}{\numberline {5.5}Discussion}{89}{section.5.5}
+\contentsline {section}{\numberline {5.5}Discussion}{90}{section.5.5}
 \contentsline {subsection}{\numberline {5.5.1}Potential genetic interactors of \emph {ELF3}}{90}{subsection.5.5.1}
-\contentsline {subsection}{\numberline {5.5.2}The ELF3-polyQ and physical protein interactions}{90}{subsection.5.5.2}
-\contentsline {subsection}{\numberline {5.5.3}ELF3 as a robustness gene}{91}{subsection.5.5.3}
+\contentsline {subsection}{\numberline {5.5.2}The ELF3-polyQ and physical protein interactions}{91}{subsection.5.5.2}
+\contentsline {subsection}{\numberline {5.5.3}ELF3 as a robustness gene}{92}{subsection.5.5.3}
 \contentsline {subsection}{\numberline {5.5.4}General implications for polyQ variation}{92}{subsection.5.5.4}
 \contentsline {subsection}{\numberline {5.5.5}General implications for functional STR variation}{93}{subsection.5.5.5}
 \contentsline {section}{\numberline {5.6}Acknowledgments}{94}{section.5.6}
@@ -158,43 +158,43 @@
 \contentsline {section}{\numberline {9.2}Gene gain, gene loss, and whole-genome evolutionary trajectories}{180}{section.9.2}
 \contentsline {section}{\numberline {9.3}Some final observations}{184}{section.9.3}
 \contentsline {chapter}{\@textofBIB }{188}{chapter*.50}
-\contentsline {chapter}{\numberline {\@textofAppendix \ A:}Supporting Chapter 2}{232}{appendix.A}
-\contentsline {section}{\numberline {A.1}Supporting Figures}{232}{section.A.1}
-\contentsline {section}{\numberline {A.2}Supporting Tables}{241}{section.A.2}
-\contentsline {chapter}{\numberline {\@textofAppendix \ B:}Supporting Chapter 3}{254}{appendix.B}
-\contentsline {chapter}{\numberline {\@textofAppendix \ C:}Supporting Chapter 4}{259}{appendix.C}
-\contentsline {section}{\numberline {C.1}Supporting Tables}{260}{section.C.1}
-\contentsline {chapter}{\numberline {\@textofAppendix \ D:}Supporting Chapter 5}{268}{appendix.D}
-\contentsline {section}{\numberline {D.1}Supporting Text}{268}{section.D.1}
-\contentsline {subsection}{\numberline {D.1.1}Resequencing data processing}{268}{subsection.D.1.1}
-\contentsline {subsection}{\numberline {D.1.2}QTL analysis}{269}{subsection.D.1.2}
-\contentsline {subsection}{\numberline {D.1.3}Y2H screen}{269}{subsection.D.1.3}
-\contentsline {section}{\numberline {D.2}Supporting Figures}{271}{section.D.2}
-\contentsline {section}{\numberline {D.3}Supporting Tables}{281}{section.D.3}
-\contentsline {chapter}{\numberline {\@textofAppendix \ E:}Supporting Chapter 6}{282}{appendix.E}
-\contentsline {section}{\numberline {E.1}Supporting Figures}{282}{section.E.1}
-\contentsline {section}{\numberline {E.2}Supporting Tables}{284}{section.E.2}
-\contentsline {chapter}{\numberline {\@textofAppendix \ F:}Supporting Chapter 7}{299}{appendix.F}
-\contentsline {section}{\numberline {F.1}Supporting Text}{299}{section.F.1}
-\contentsline {subsection}{\numberline {F.1.1}Hsp90 paralog distribution}{299}{subsection.F.1.1}
-\contentsline {subsection}{\numberline {F.1.2}Consistency of BayesTraits runs }{299}{subsection.F.1.2}
-\contentsline {subsection}{\numberline {F.1.3}Robustness of co-evolutionary associations to choice of phylogeny}{301}{subsection.F.1.3}
-\contentsline {subsection}{\numberline {F.1.4}Effect of alternate hsp90 paralogs on co-evolution}{302}{subsection.F.1.4}
-\contentsline {section}{\numberline {F.2}Supporting Figures}{305}{section.F.2}
-\contentsline {section}{\numberline {F.3}Supporting Tables}{311}{section.F.3}
-\contentsline {chapter}{\numberline {\@textofAppendix \ G:}Supporting Chapter 8}{315}{appendix.G}
-\contentsline {section}{\numberline {G.1}Supporting Text}{315}{section.G.1}
-\contentsline {subsection}{\numberline {G.1.1}Inference of gains and presence of genes on branches of the tree.}{315}{subsection.G.1.1}
-\contentsline {subsection}{\numberline {G.1.2}Gain/loss ratio analysis.}{316}{subsection.G.1.2}
-\contentsline {subsection}{\numberline {G.1.3}Simulation of gene gain/loss evolution.}{317}{subsection.G.1.3}
-\contentsline {subsection}{\numberline {G.1.4}Robustness of gain events inference to analytic method.}{318}{subsection.G.1.4}
-\contentsline {subsection}{\numberline {G.1.5}Power of the PGCE detection method.}{320}{subsection.G.1.5}
-\contentsline {subsection}{\numberline {G.1.6}Processing and analysis of the PGCE network.}{321}{subsection.G.1.6}
-\contentsline {subsection}{\numberline {G.1.7}Dependencies among pathways.}{322}{subsection.G.1.7}
-\contentsline {subsection}{\numberline {G.1.8}Algorithms.}{322}{subsection.G.1.8}
-\contentsline {paragraph}{Feedback arc set (FAS) identification algorithm}{322}{section*.117}
-\contentsline {paragraph}{Transitive reduction of a DAG algorithm \cite {Hsu1975}.}{323}{section*.118}
-\contentsline {paragraph}{Topological sort with grouping algorithm}{323}{section*.119}
-\contentsline {subsection}{\numberline {G.1.9}gainLoss program parameters}{324}{subsection.G.1.9}
-\contentsline {section}{\numberline {G.2}Supporting Figures}{325}{section.G.2}
-\contentsline {section}{\numberline {G.3}Supporting Tables}{335}{section.G.3}
+\contentsline {chapter}{\numberline {\@textofAppendix \ A:}Supporting Chapter 2}{233}{appendix.A}
+\contentsline {section}{\numberline {A.1}Supporting Figures}{233}{section.A.1}
+\contentsline {section}{\numberline {A.2}Supporting Tables}{242}{section.A.2}
+\contentsline {chapter}{\numberline {\@textofAppendix \ B:}Supporting Chapter 3}{255}{appendix.B}
+\contentsline {chapter}{\numberline {\@textofAppendix \ C:}Supporting Chapter 4}{260}{appendix.C}
+\contentsline {section}{\numberline {C.1}Supporting Tables}{261}{section.C.1}
+\contentsline {chapter}{\numberline {\@textofAppendix \ D:}Supporting Chapter 5}{269}{appendix.D}
+\contentsline {section}{\numberline {D.1}Supporting Text}{269}{section.D.1}
+\contentsline {subsection}{\numberline {D.1.1}Resequencing data processing}{269}{subsection.D.1.1}
+\contentsline {subsection}{\numberline {D.1.2}QTL analysis}{270}{subsection.D.1.2}
+\contentsline {subsection}{\numberline {D.1.3}Y2H screen}{270}{subsection.D.1.3}
+\contentsline {section}{\numberline {D.2}Supporting Figures}{272}{section.D.2}
+\contentsline {section}{\numberline {D.3}Supporting Tables}{282}{section.D.3}
+\contentsline {chapter}{\numberline {\@textofAppendix \ E:}Supporting Chapter 6}{289}{appendix.E}
+\contentsline {section}{\numberline {E.1}Supporting Figures}{289}{section.E.1}
+\contentsline {section}{\numberline {E.2}Supporting Tables}{291}{section.E.2}
+\contentsline {chapter}{\numberline {\@textofAppendix \ F:}Supporting Chapter 7}{306}{appendix.F}
+\contentsline {section}{\numberline {F.1}Supporting Text}{306}{section.F.1}
+\contentsline {subsection}{\numberline {F.1.1}Hsp90 paralog distribution}{306}{subsection.F.1.1}
+\contentsline {subsection}{\numberline {F.1.2}Consistency of BayesTraits runs }{306}{subsection.F.1.2}
+\contentsline {subsection}{\numberline {F.1.3}Robustness of co-evolutionary associations to choice of phylogeny}{308}{subsection.F.1.3}
+\contentsline {subsection}{\numberline {F.1.4}Effect of alternate hsp90 paralogs on co-evolution}{309}{subsection.F.1.4}
+\contentsline {section}{\numberline {F.2}Supporting Figures}{312}{section.F.2}
+\contentsline {section}{\numberline {F.3}Supporting Tables}{318}{section.F.3}
+\contentsline {chapter}{\numberline {\@textofAppendix \ G:}Supporting Chapter 8}{322}{appendix.G}
+\contentsline {section}{\numberline {G.1}Supporting Text}{322}{section.G.1}
+\contentsline {subsection}{\numberline {G.1.1}Inference of gains and presence of genes on branches of the tree.}{322}{subsection.G.1.1}
+\contentsline {subsection}{\numberline {G.1.2}Gain/loss ratio analysis.}{323}{subsection.G.1.2}
+\contentsline {subsection}{\numberline {G.1.3}Simulation of gene gain/loss evolution.}{324}{subsection.G.1.3}
+\contentsline {subsection}{\numberline {G.1.4}Robustness of gain events inference to analytic method.}{325}{subsection.G.1.4}
+\contentsline {subsection}{\numberline {G.1.5}Power of the PGCE detection method.}{327}{subsection.G.1.5}
+\contentsline {subsection}{\numberline {G.1.6}Processing and analysis of the PGCE network.}{328}{subsection.G.1.6}
+\contentsline {subsection}{\numberline {G.1.7}Dependencies among pathways.}{329}{subsection.G.1.7}
+\contentsline {subsection}{\numberline {G.1.8}Algorithms.}{329}{subsection.G.1.8}
+\contentsline {paragraph}{Feedback arc set (FAS) identification algorithm}{329}{section*.124}
+\contentsline {paragraph}{Transitive reduction of a DAG algorithm \cite {Hsu1975}.}{330}{section*.125}
+\contentsline {paragraph}{Topological sort with grouping algorithm}{330}{section*.126}
+\contentsline {subsection}{\numberline {G.1.9}gainLoss program parameters}{331}{subsection.G.1.9}
+\contentsline {section}{\numberline {G.2}Supporting Figures}{332}{section.G.2}
+\contentsline {section}{\numberline {G.3}Supporting Tables}{342}{section.G.3}
