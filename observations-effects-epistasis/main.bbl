@@ -1123,6 +1123,12 @@ Nathan Keith, Abraham~E Tucker, Craig~E Jackson, Way Sung, Jos\'{e}~Ignacio
   Daphnia pulex.}
 \newblock {\em Genome research}, 26(1):60--9, January 2016.
 
+\bibitem{Kentner2009}
+David Kentner and Victor Sourjik.
+\newblock {Dynamic map of protein interactions in the Escherichia coli
+  chemotaxis pathway}.
+\newblock {\em Molecular Systems Biology}, 5(238):238, 2009.
+
 \bibitem{Khattak2014}
 Asif~Khan Khattak.
 \newblock {\em {Natural Variation in Arabidopsis thaliana Growth in Response to
@@ -1668,6 +1674,10 @@ V.~M. Narasimhan, K.~A. Hunt, D.~Mason, C.~L. Baker, K.~J. Karczewski, M.~R.
 \newblock {Health and population effects of rare gene knockouts in adult humans
   with related parents}.
 \newblock {\em Science}, 352(6284):474--477, March 2016.
+
+\bibitem{Ncbi}
+Ncbi.
+\newblock http://www.ncbi.nlm.nih.gov/genomes/lproks.cgi.
 
 \bibitem{Nelson2013}
 Ronald~M Nelson, Mats~E Pettersson, and \"{O}rjan Carlborg.
