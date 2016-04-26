@@ -129,6 +129,11 @@ David~S Battisti and Rosamond~L Naylor.
   seasonal heat.}
 \newblock {\em Science (New York, N.Y.)}, 323(5911):240--4, January 2009.
 
+\bibitem{Beadle1945}
+G.~W. Beadle.
+\newblock {Biochemical Genetics.}
+\newblock {\em Chemical Reviews}, 37(1):15--96, August 1945.
+
 \bibitem{Beerenwinkel2007}
 Niko Beerenwinkel, Lior Pachter, and Bernd Sturmfels.
 \newblock {EPISTASIS AND SHAPES OF FITNESS LANDSCAPES}.
@@ -1137,6 +1142,11 @@ Woe-Yeon Kim, Karen~A Hicks, and David~E Somers.
   of circadian timing, hypocotyl length, and flowering time.}
 \newblock {\em Plant physiology}, 139(3):1557--69, 2005.
 
+\bibitem{Kimura1985}
+Motoo Kimura.
+\newblock {The role of compensatory neutral mutations in molecular evolution}.
+\newblock {\em Journal of Genetics}, 64(1):7--19, July 1985.
+
 \bibitem{Kleinboelting2012}
 Nils Kleinboelting, Gunnar Huep, Andreas Kloetgen, Prisca Viehoever, and Bernd
   Weisshaar.
@@ -1172,6 +1182,12 @@ Elsebeth Kolmos, Eva Herrero, Nora Bujdoso, Andrew~J Millar, R\'{e}ka T\'{o}th,
   Action on the Circadian Clock Is Modulated by Phytochrome Signals in
   Arabidopsis}.
 \newblock {\em The Plant Cell Online}, 23(9):3230--3246, 2011.
+
+\bibitem{Kondrashov2003}
+Alexey~S Kondrashov.
+\newblock {Direct estimates of human per nucleotide mutation rates at 20 loci
+  causing Mendelian diseases.}
+\newblock {\em Human mutation}, 21(1):12--27, January 2003.
 
 \bibitem{Koonin2015}
 Eugene~V Koonin.
@@ -1260,6 +1276,12 @@ J.~Laidlaw, Y.~Gelfand, K.-W. Ng, H.~R. Garner, R.~Ranganathan, G.~Benson, and
   J.~W. Fondon.
 \newblock {Elevated Basal Slippage Mutation Rates among the Canidae}.
 \newblock {\em Journal of Heredity}, 98(5):452--460, July 2007.
+
+\bibitem{Lander1989}
+E.~S. Lander and D.~Botstein.
+\newblock {Mapping Mendelian Factors Underlying Quantitative Traits Using RFLP
+  Linkage Maps}.
+\newblock {\em Genetics}, 121(1):185--199, January 1989.
 
 \bibitem{Lang2008}
 Gregory~I Lang and Andrew~W Murray.
@@ -1652,6 +1674,31 @@ Ronald~M Nelson, Mats~E Pettersson, and \"{O}rjan Carlborg.
 \newblock {A century after Fisher: time for a new paradigm in quantitative
   genetics.}
 \newblock {\em Trends in genetics : TIG}, 29(12):669--76, December 2013.
+
+\bibitem{Ng2014}
+Maggie C~Y Ng, Daniel Shriner, Brian~H Chen, Jiang Li, Wei-Min Chen, Xiuqing
+  Guo, Jiankang Liu, Suzette~J Bielinski, Lisa~R Yanek, Michael~A Nalls, Mary~E
+  Comeau, Laura~J Rasmussen-Torvik, Richard~A Jensen, Daniel~S Evans, Yan~V
+  Sun, Ping An, Sanjay~R Patel, Yingchang Lu, Jirong Long, Loren~L Armstrong,
+  Lynne Wagenknecht, Lingyao Yang, Beverly~M Snively, Nicholette~D Palmer,
+  Poorva Mudgal, Carl~D Langefeld, Keith~L Keene, Barry~I Freedman, Josyf~C
+  Mychaleckyj, Uma Nayak, Leslie~J Raffel, Mark~O Goodarzi, Y-D~Ida Chen,
+  Herman~A Taylor, Adolfo Correa, Mario Sims, David Couper, James~S Pankow,
+  Eric Boerwinkle, Adebowale Adeyemo, Ayo Doumatey, Guanjie Chen, Rasika~A
+  Mathias, Dhananjay Vaidya, Andrew~B Singleton, Alan~B Zonderman, Robert~P
+  Igo, John~R Sedor, Edmond~K Kabagambe, David~S Siscovick, Barbara McKnight,
+  Kenneth Rice, Yongmei Liu, Wen-Chi Hsueh, Wei Zhao, Lawrence~F Bielak, Aldi
+  Kraja, Michael~A Province, Erwin~P Bottinger, Omri Gottesman, Qiuyin Cai, Wei
+  Zheng, William~J Blot, William~L Lowe, Jennifer~A Pacheco, Dana~C Crawford,
+  Elin Grundberg, Stephen~S Rich, M~Geoffrey Hayes, Xiao-Ou Shu, Ruth J~F Loos,
+  Ingrid~B Borecki, Patricia~A Peyser, Steven~R Cummings, Bruce~M Psaty, Myriam
+  Fornage, Sudha~K Iyengar, Michele~K Evans, Diane~M Becker, W~H~Linda Kao,
+  James~G Wilson, Jerome~I Rotter, Mich\`{e}le~M Sale, Simin Liu, Charles~N
+  Rotimi, and Donald~W Bowden.
+\newblock {Meta-analysis of genome-wide association studies in African
+  Americans provides insights into the genetic architecture of type 2
+  diabetes.}
+\newblock {\em PLoS genetics}, 10(8):e1004517, August 2014.
 
 \bibitem{Nieto2014}
 Cristina Nieto, Vadir L\'{o}pez-Salmer\'{o}n, Jean-Michel Davi\`{e}re, and
@@ -2505,6 +2552,12 @@ Peggy~I Wang, Sohyun Hwang, Rodney~P Kincaid, Christopher~S Sullivan, Insuk
 \newblock {RIDDLE: Reflective diffusion and local extension reveal functional
   associations for unannotated gene sets via proximity in a gene network}.
 \newblock {\em Genome Biology}, 13(12):R125, 2012.
+
+\bibitem{Wang2013}
+Yi~Wang, James Lu, Jin Yu, Richard~A Gibbs, and Fuli Yu.
+\newblock {An integrative variant analysis pipeline for accurate
+  genotype/haplotype inference in population NGS data.}
+\newblock {\em Genome research}, 23(5):833--42, May 2013.
 
 \bibitem{Wei2011}
 Yan Wei, Xiaolin Wang, Jingfang Liu, Ilya Nememan, Amoolya~H Singh, Howie
