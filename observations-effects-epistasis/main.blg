@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: plain.bst
+Reallocated field_info (elt_size=4) to 14798 items from 5000.
+Database file #1: all.bib
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Warning--empty institution in Gymrek2015
+Warning--empty institution in Yang2016
+You've used 426 entries,
+            2118 wiz_defined-function locations,
+            3105 strings with 104542 characters,
+and the built_in function-call counts, 185969 in all, are:
+= -- 17264
+> -- 13266
+< -- 10
++ -- 5246
+- -- 4820
+* -- 17531
+:= -- 32237
+add.period$ -- 1276
+call.type$ -- 426
+change.case$ -- 3682
+chr.to.int$ -- 0
+cite$ -- 428
+duplicate$ -- 4789
+empty$ -- 11049
+format.name$ -- 4820
+if$ -- 35823
+int.to.chr$ -- 0
+int.to.str$ -- 426
+missing$ -- 426
+newline$ -- 2130
+num.names$ -- 854
+pop$ -- 2936
+preamble$ -- 1
+purify$ -- 3261
+quote$ -- 0
+skip$ -- 3230
+stack$ -- 0
+substring$ -- 11093
+swap$ -- 549
+text.length$ -- 10
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1690
+warning$ -- 2
+while$ -- 1592
+width$ -- 429
+write$ -- 4673
+(There were 2 warnings)
